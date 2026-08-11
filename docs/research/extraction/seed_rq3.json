@@ -1,0 +1,129 @@
+{
+  "topic": "measuring AI literacy evaluation outcomes",
+  "category": "ai-literacy-construct",
+  "category_name": "AI Literacy Constructs & Models",
+  "title_candidates": [
+    "Measuring Ai Literacy Evaluation Outcomes: What the Research Says",
+    "Measuring Ai Literacy Evaluation Outcomes in Production: Lessons from the Literature",
+    "Measuring Ai Literacy Evaluation Outcomes, Explained for Engineers",
+    "The State of Measuring Ai Literacy Evaluation Outcomes (2026)"
+  ],
+  "angle": "Evidence-based guide to measuring ai literacy evaluation outcomes \u2014 synthesize the 10 most relevant papers into practical guidance for the AI-literacy implementation and evaluation guides.",
+  "outline": [
+    {
+      "section": "Why this matters now",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "The core concepts, in plain English",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "What the research says (with paper evidence)",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "Common pitfalls and misconceptions",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "Hands-on: a minimal working example",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "Production considerations (cost, scale, ops)",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    },
+    {
+      "section": "Where the field is heading",
+      "notes": "Cover for topic: measuring AI literacy evaluation outcomes"
+    }
+  ],
+  "key_papers": [
+    {
+      "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+      "date": "2026-07",
+      "url": "https://arxiv.org/abs/2607.14301v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "review",
+      "score": 10
+    },
+    {
+      "title": "Can LLMs Understand What We Cannot Say? Measuring Multilevel Alignment Through Abortion Stigma Across Cognitive, Interpersonal, and Structural Levels",
+      "date": "2025-12",
+      "url": "https://arxiv.org/abs/2512.13142v4",
+      "category": "ai-literacy-construct",
+      "subcategory": "application",
+      "score": 10
+    },
+    {
+      "title": "AISCliteracy: Assessing Artificial Intelligence and Cybersecurity Literacy Levels and Learning Needs of Students",
+      "date": "2025-06",
+      "url": "https://arxiv.org/abs/2506.23321v1",
+      "category": "k12-education",
+      "subcategory": "application",
+      "score": 10
+    },
+    {
+      "title": "Students' Reliance on AI in Higher Education: Identifying Contributing Factors",
+      "date": "2025-06",
+      "url": "https://arxiv.org/abs/2506.13845v1",
+      "category": "higher-education",
+      "subcategory": "method",
+      "score": 10
+    },
+    {
+      "title": "Counterfactual LLM-based Framework for Measuring Rhetorical Style",
+      "date": "2025-12",
+      "url": "https://arxiv.org/abs/2512.19908v1",
+      "category": "adoption-behavior",
+      "subcategory": "method",
+      "score": 10
+    },
+    {
+      "title": "AI Literacy for All: Adjustable Interdisciplinary Socio-technical Curriculum",
+      "date": "2024-09",
+      "url": "https://arxiv.org/abs/2409.10552v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "method",
+      "score": 9.5
+    },
+    {
+      "title": "Generative AI in Computer Science Education: Accelerating Python Learning with ChatGPT",
+      "date": "2025-05",
+      "url": "https://arxiv.org/abs/2505.20329v1",
+      "category": "workforce-upskilling",
+      "subcategory": "systems",
+      "score": 9
+    },
+    {
+      "title": "From G-Factor to A-Factor: Establishing a Psychometric Framework for AI Literacy",
+      "date": "2025-03",
+      "url": "https://arxiv.org/abs/2503.16517v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "theory",
+      "score": 7
+    },
+    {
+      "title": "AI &amp; Data Competencies: Scaffolding holistic AI literacy in Higher Education",
+      "date": "2025-10",
+      "url": "https://arxiv.org/abs/2510.24783v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "method",
+      "score": 7
+    },
+    {
+      "title": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education",
+      "date": "2026-04",
+      "url": "https://arxiv.org/abs/2606.00038v5",
+      "category": "ai-literacy-construct",
+      "subcategory": "systems",
+      "score": 7
+    }
+  ],
+  "open_questions": [
+    "What does the newest paper on measuring AI literacy evaluation outcomes get wrong?",
+    "Which claims are backed by benchmarks vs. anecdote?",
+    "What would a production engineer still struggle with?"
+  ]
+}

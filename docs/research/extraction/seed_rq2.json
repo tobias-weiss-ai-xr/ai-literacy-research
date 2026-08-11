@@ -1,0 +1,129 @@
+{
+  "topic": "implementing AI literacy programs in organizations",
+  "category": "ai-literacy-construct",
+  "category_name": "AI Literacy Constructs & Models",
+  "title_candidates": [
+    "Implementing Ai Literacy Programs In Organizations: What the Research Says",
+    "Implementing Ai Literacy Programs In Organizations in Production: Lessons from the Literature",
+    "Implementing Ai Literacy Programs In Organizations, Explained for Engineers",
+    "The State of Implementing Ai Literacy Programs In Organizations (2026)"
+  ],
+  "angle": "Evidence-based guide to implementing ai literacy programs in organizations \u2014 synthesize the 10 most relevant papers into practical guidance for the AI-literacy implementation and evaluation guides.",
+  "outline": [
+    {
+      "section": "Why this matters now",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "The core concepts, in plain English",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "What the research says (with paper evidence)",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "Common pitfalls and misconceptions",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "Hands-on: a minimal working example",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "Production considerations (cost, scale, ops)",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    },
+    {
+      "section": "Where the field is heading",
+      "notes": "Cover for topic: implementing AI literacy programs in organizations"
+    }
+  ],
+  "key_papers": [
+    {
+      "title": "Thematic Working Group 5 -- Artificial Intelligence (AI) literacy for teaching and learning: design and implementation",
+      "date": "2026-01",
+      "url": "https://arxiv.org/abs/2601.08380v1",
+      "category": "ai-literacy-pedagogy",
+      "subcategory": "method",
+      "score": 10
+    },
+    {
+      "title": "Bridging AI Innovation and Healthcare Needs: Lessons Learned from Incorporating Modern NLP at The BC Cancer Registry",
+      "date": "2025-07",
+      "url": "https://arxiv.org/abs/2508.09991v2",
+      "category": "org-implementation",
+      "subcategory": "application",
+      "score": 10
+    },
+    {
+      "title": "Developing Implementation Capacity of Organizations and Systems to Support Effective Uses of Family Literacy Programs",
+      "date": "",
+      "url": "https://doi.org/10.4324/9780203841495.ch29",
+      "category": "org-implementation",
+      "subcategory": "application",
+      "score": 9.5
+    },
+    {
+      "title": "Generative AI Literacy: A Comprehensive Framework for Literacy and Responsible Use",
+      "date": "2025-04",
+      "url": "https://arxiv.org/abs/2504.19038v2",
+      "category": "ai-literacy-construct",
+      "subcategory": "method",
+      "score": 7
+    },
+    {
+      "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+      "date": "2026-06",
+      "url": "https://arxiv.org/abs/2606.28749v2",
+      "category": "ai-literacy-construct",
+      "subcategory": "method",
+      "score": 7
+    },
+    {
+      "title": "What Does It Take to Research with AI? A Rapid Review of Competencies to Train LLM-Literate Researchers",
+      "date": "2026-07",
+      "url": "https://arxiv.org/abs/2607.16083v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "review",
+      "score": 7
+    },
+    {
+      "title": "WIP: Software Engineering Competencies in the Age of AI",
+      "date": "2026-07",
+      "url": "https://arxiv.org/abs/2607.12259v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "systems",
+      "score": 7
+    },
+    {
+      "title": "Beyond the Hype: Critical Analysis of Student Motivations and Ethical Boundaries in Educational AI Use in Higher Education",
+      "date": "2025-11",
+      "url": "https://arxiv.org/abs/2511.11369v2",
+      "category": "ai-literacy-construct",
+      "subcategory": "mechanism",
+      "score": 7
+    },
+    {
+      "title": "A Conceptual Exploration of Generative AI-Induced Cognitive Dissonance and its Emergence in University-Level Academic Writing",
+      "date": "2025-02",
+      "url": "https://arxiv.org/abs/2502.05698v1",
+      "category": "ai-literacy-construct",
+      "subcategory": "theory",
+      "score": 7
+    },
+    {
+      "title": "AI Literacy, Safety Awareness, and STEM Career Aspirations of Australian Secondary Students: Evaluating the Impact of Workshop Interventions",
+      "date": "2026-01",
+      "url": "https://arxiv.org/abs/2601.22486v1",
+      "category": "ai-literacy-pedagogy",
+      "subcategory": "systems",
+      "score": 7
+    }
+  ],
+  "open_questions": [
+    "What does the newest paper on implementing AI literacy programs in organizations get wrong?",
+    "Which claims are backed by benchmarks vs. anecdote?",
+    "What would a production engineer still struggle with?"
+  ]
+}

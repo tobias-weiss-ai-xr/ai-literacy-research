@@ -1,0 +1,8279 @@
+{
+ "categories": [
+  {
+   "id": "ai-literacy-construct",
+   "name": "AI Literacy Constructs & Models",
+   "color": "#58a6ff",
+   "count": 117,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 28
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 15
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 19
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 11
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 1
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 20
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 1
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 22
+    }
+   ],
+   "trajectory": {
+    "2019": 2,
+    "2021": 1,
+    "2022": 1,
+    "2023": 2,
+    "2024": 10,
+    "2025": 39,
+    "2026": 51
+   },
+   "momentum": {
+    "id": "ai-literacy-construct",
+    "name": "AI Literacy Constructs & Models",
+    "total": 117,
+    "recent": 68,
+    "prior": 29,
+    "growth_pct": 134.5,
+    "recent_share": 0.581,
+    "papers_per_month": 5.7,
+    "score": 192.6
+   }
+  },
+  {
+   "id": "ai-literacy-pedagogy",
+   "name": "AI Literacy Pedagogy",
+   "color": "#3fb950",
+   "count": 107,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 4
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 11
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 24
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 28
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 3
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 24
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 3
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 10
+    }
+   ],
+   "trajectory": {
+    "2010": 1,
+    "2018": 1,
+    "2023": 4,
+    "2024": 10,
+    "2025": 39,
+    "2026": 48
+   },
+   "momentum": {
+    "id": "ai-literacy-pedagogy",
+    "name": "AI Literacy Pedagogy",
+    "total": 107,
+    "recent": 68,
+    "prior": 23,
+    "growth_pct": 195.7,
+    "recent_share": 0.636,
+    "papers_per_month": 5.7,
+    "score": 259.3
+   }
+  },
+  {
+   "id": "learning-design",
+   "name": "Learning Design & Curriculum",
+   "color": "#d29922",
+   "count": 35,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 1
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 4
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 6
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 4
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 10
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 9
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 1
+    }
+   ],
+   "trajectory": {
+    "2022": 2,
+    "2023": 1,
+    "2024": 6,
+    "2025": 7,
+    "2026": 16
+   },
+   "momentum": {
+    "id": "learning-design",
+    "name": "Learning Design & Curriculum",
+    "total": 35,
+    "recent": 17,
+    "prior": 8,
+    "growth_pct": 112.5,
+    "recent_share": 0.486,
+    "papers_per_month": 1.4,
+    "score": 161.1
+   }
+  },
+  {
+   "id": "assessment",
+   "name": "Assessment & Measurement",
+   "color": "#f0883e",
+   "count": 45,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 0
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 2
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 26
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 5
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 2
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 10
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 0
+    }
+   ],
+   "trajectory": {
+    "2013": 2,
+    "2015": 1,
+    "2020": 1,
+    "2022": 2,
+    "2023": 4,
+    "2024": 6,
+    "2025": 13,
+    "2026": 11
+   },
+   "momentum": {
+    "id": "assessment",
+    "name": "Assessment & Measurement",
+    "total": 45,
+    "recent": 13,
+    "prior": 12,
+    "growth_pct": 8.3,
+    "recent_share": 0.289,
+    "papers_per_month": 1.1,
+    "score": 37.2
+   }
+  },
+  {
+   "id": "workforce-upskilling",
+   "name": "Workforce Upskilling",
+   "color": "#db6d8a",
+   "count": 98,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 3
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 5
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 22
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 30
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 26
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 1
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 11
+    }
+   ],
+   "trajectory": {
+    "2022": 2,
+    "2023": 4,
+    "2024": 10,
+    "2025": 39,
+    "2026": 32
+   },
+   "momentum": {
+    "id": "workforce-upskilling",
+    "name": "Workforce Upskilling",
+    "total": 98,
+    "recent": 53,
+    "prior": 24,
+    "growth_pct": 120.8,
+    "recent_share": 0.541,
+    "papers_per_month": 4.4,
+    "score": 174.9
+   }
+  },
+  {
+   "id": "org-implementation",
+   "name": "Org Implementation & Change",
+   "color": "#7ee787",
+   "count": 55,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 2
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 8
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 5
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 30
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 2
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 6
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 2
+    }
+   ],
+   "trajectory": {
+    "2022": 1,
+    "2023": 3,
+    "2024": 7,
+    "2025": 22,
+    "2026": 15
+   },
+   "momentum": {
+    "id": "org-implementation",
+    "name": "Org Implementation & Change",
+    "total": 55,
+    "recent": 25,
+    "prior": 14,
+    "growth_pct": 78.6,
+    "recent_share": 0.455,
+    "papers_per_month": 2.1,
+    "score": 124.1
+   }
+  },
+  {
+   "id": "sme-training",
+   "name": "SME Training & Adoption",
+   "color": "#a5d6ff",
+   "count": 18,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 0
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 0
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 0
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 14
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 1
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 2
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 1
+    }
+   ],
+   "trajectory": {
+    "2022": 1,
+    "2023": 2,
+    "2024": 2,
+    "2025": 11,
+    "2026": 1
+   },
+   "momentum": {
+    "id": "sme-training",
+    "name": "SME Training & Adoption",
+    "total": 18,
+    "recent": 4,
+    "prior": 9,
+    "growth_pct": -55.6,
+    "recent_share": 0.222,
+    "papers_per_month": 0.3,
+    "score": -33.4
+   }
+  },
+  {
+   "id": "compliance",
+   "name": "Compliance & AI Act",
+   "color": "#79c0ff",
+   "count": 96,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 11
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 9
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 10
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 44
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 3
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 15
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 4
+    }
+   ],
+   "trajectory": {
+    "2013": 1,
+    "2018": 1,
+    "2022": 4,
+    "2023": 6,
+    "2024": 20,
+    "2025": 25,
+    "2026": 29
+   },
+   "momentum": {
+    "id": "compliance",
+    "name": "Compliance & AI Act",
+    "total": 96,
+    "recent": 39,
+    "prior": 26,
+    "growth_pct": 50.0,
+    "recent_share": 0.406,
+    "papers_per_month": 3.2,
+    "score": 90.6
+   }
+  },
+  {
+   "id": "k12-education",
+   "name": "K-12 Education",
+   "color": "#ffa657",
+   "count": 36,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 1
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 2
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 7
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 12
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 2
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 11
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 1
+    }
+   ],
+   "trajectory": {
+    "2007": 1,
+    "2022": 2,
+    "2023": 2,
+    "2024": 8,
+    "2025": 13,
+    "2026": 8
+   },
+   "momentum": {
+    "id": "k12-education",
+    "name": "K-12 Education",
+    "total": 36,
+    "recent": 16,
+    "prior": 7,
+    "growth_pct": 128.6,
+    "recent_share": 0.444,
+    "papers_per_month": 1.3,
+    "score": 173.0
+   }
+  },
+  {
+   "id": "higher-education",
+   "name": "Higher Education",
+   "color": "#ff7b72",
+   "count": 64,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 2
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 4
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 14
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 20
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 1
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 17
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 2
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 4
+    }
+   ],
+   "trajectory": {
+    "2023": 1,
+    "2024": 16,
+    "2025": 24,
+    "2026": 22
+   },
+   "momentum": {
+    "id": "higher-education",
+    "name": "Higher Education",
+    "total": 64,
+    "recent": 32,
+    "prior": 22,
+    "growth_pct": 45.5,
+    "recent_share": 0.5,
+    "papers_per_month": 2.7,
+    "score": 95.5
+   }
+  },
+  {
+   "id": "professional-education",
+   "name": "Professional & Executive Ed",
+   "color": "#d2a8ff",
+   "count": 11,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 0
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 0
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 0
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 11
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 0
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 0
+    }
+   ],
+   "trajectory": {
+    "2018": 5,
+    "2022": 1,
+    "2023": 2,
+    "2024": 1,
+    "2025": 1,
+    "2026": 1
+   },
+   "momentum": {
+    "id": "professional-education",
+    "name": "Professional & Executive Ed",
+    "total": 11,
+    "recent": 1,
+    "prior": 2,
+    "growth_pct": -50.0,
+    "recent_share": 0.091,
+    "papers_per_month": 0.1,
+    "score": -40.9
+   }
+  },
+  {
+   "id": "teacher-ai-literacy",
+   "name": "Teacher AI Literacy",
+   "color": "#79c0ff",
+   "count": 55,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 4
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 1
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 21
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 8
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 4
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 13
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 3
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 1
+    }
+   ],
+   "trajectory": {
+    "2023": 6,
+    "2024": 11,
+    "2025": 19,
+    "2026": 17
+   },
+   "momentum": {
+    "id": "teacher-ai-literacy",
+    "name": "Teacher AI Literacy",
+    "total": 55,
+    "recent": 28,
+    "prior": 13,
+    "growth_pct": 115.4,
+    "recent_share": 0.509,
+    "papers_per_month": 2.3,
+    "score": 166.3
+   }
+  },
+  {
+   "id": "critical-ai-literacy",
+   "name": "Critical & Ethical AI Literacy",
+   "color": "#56d4dd",
+   "count": 90,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 17
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 4
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 18
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 17
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 4
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 23
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 2
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 5
+    }
+   ],
+   "trajectory": {
+    "2022": 2,
+    "2023": 5,
+    "2024": 15,
+    "2025": 43,
+    "2026": 25
+   },
+   "momentum": {
+    "id": "critical-ai-literacy",
+    "name": "Critical & Ethical AI Literacy",
+    "total": 90,
+    "recent": 45,
+    "prior": 32,
+    "growth_pct": 40.6,
+    "recent_share": 0.5,
+    "papers_per_month": 3.8,
+    "score": 90.6
+   }
+  },
+  {
+   "id": "generative-ai-skills",
+   "name": "Generative AI Skills",
+   "color": "#b392f0",
+   "count": 153,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 10
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 17
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 41
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 25
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 3
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 41
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 8
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 8
+    }
+   ],
+   "trajectory": {
+    "2022": 3,
+    "2023": 28,
+    "2024": 34,
+    "2025": 50,
+    "2026": 38
+   },
+   "momentum": {
+    "id": "generative-ai-skills",
+    "name": "Generative AI Skills",
+    "total": 153,
+    "recent": 51,
+    "prior": 49,
+    "growth_pct": 4.1,
+    "recent_share": 0.333,
+    "papers_per_month": 4.2,
+    "score": 37.4
+   }
+  },
+  {
+   "id": "attitudes-trust",
+   "name": "Attitudes, Trust & Acceptance",
+   "color": "#ffc680",
+   "count": 166,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 10
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 41
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 28
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 26
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 2
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 46
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 2
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 11
+    }
+   ],
+   "trajectory": {
+    "2022": 14,
+    "2023": 24,
+    "2024": 23,
+    "2025": 48,
+    "2026": 51
+   },
+   "momentum": {
+    "id": "attitudes-trust",
+    "name": "Attitudes, Trust & Acceptance",
+    "total": 166,
+    "recent": 70,
+    "prior": 40,
+    "growth_pct": 75.0,
+    "recent_share": 0.422,
+    "papers_per_month": 5.8,
+    "score": 117.2
+   }
+  },
+  {
+   "id": "adoption-behavior",
+   "name": "Adoption Behavior & Engagement",
+   "color": "#85e89d",
+   "count": 86,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 7
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 8
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 7
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 32
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 23
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 6
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 3
+    }
+   ],
+   "trajectory": {
+    "2019": 1,
+    "2022": 2,
+    "2023": 5,
+    "2024": 12,
+    "2025": 35,
+    "2026": 28
+   },
+   "momentum": {
+    "id": "adoption-behavior",
+    "name": "Adoption Behavior & Engagement",
+    "total": 86,
+    "recent": 51,
+    "prior": 17,
+    "growth_pct": 200.0,
+    "recent_share": 0.593,
+    "papers_per_month": 4.2,
+    "score": 259.3
+   }
+  },
+  {
+   "id": "program-evaluation",
+   "name": "Program Evaluation & Outcomes",
+   "color": "#f778ba",
+   "count": 19,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 0
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 0
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 8
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 1
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 0
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 10
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 0
+    }
+   ],
+   "trajectory": {
+    "1984": 1,
+    "1991": 1,
+    "1998": 1,
+    "2001": 1,
+    "2002": 1,
+    "2005": 1,
+    "2017": 1,
+    "2018": 2,
+    "2019": 1,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 1,
+    "2025": 1,
+    "2026": 2
+   },
+   "momentum": {
+    "id": "program-evaluation",
+    "name": "Program Evaluation & Outcomes",
+    "total": 19,
+    "recent": 2,
+    "prior": 2,
+    "growth_pct": 0.0,
+    "recent_share": 0.105,
+    "papers_per_month": 0.2,
+    "score": 10.5
+   }
+  },
+  {
+   "id": "roi-measurement",
+   "name": "ROI & Business Impact",
+   "color": "#68a4ff",
+   "count": 74,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 4
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 11
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 12
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 25
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 2
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 8
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 10
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 2
+    }
+   ],
+   "trajectory": {
+    "2003": 1,
+    "2012": 4,
+    "2022": 2,
+    "2023": 5,
+    "2024": 12,
+    "2025": 24,
+    "2026": 26
+   },
+   "momentum": {
+    "id": "roi-measurement",
+    "name": "ROI & Business Impact",
+    "total": 74,
+    "recent": 40,
+    "prior": 13,
+    "growth_pct": 207.7,
+    "recent_share": 0.541,
+    "papers_per_month": 3.3,
+    "score": 261.8
+   }
+  },
+  {
+   "id": "tooling",
+   "name": "Tools, Platforms & AI Tutors",
+   "color": "#ffdf5d",
+   "count": 78,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 3
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 7
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 9
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 27
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 2
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 23
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 5
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 2
+    }
+   ],
+   "trajectory": {
+    "2022": 2,
+    "2023": 12,
+    "2024": 21,
+    "2025": 19,
+    "2026": 24
+   },
+   "momentum": {
+    "id": "tooling",
+    "name": "Tools, Platforms & AI Tutors",
+    "total": 78,
+    "recent": 33,
+    "prior": 18,
+    "growth_pct": 83.3,
+    "recent_share": 0.423,
+    "papers_per_month": 2.8,
+    "score": 125.6
+   }
+  },
+  {
+   "id": "lifelong-learning",
+   "name": "Lifelong & Self-Directed Learning",
+   "color": "#a371f7",
+   "count": 8,
+   "subcategories": [
+    {
+     "id": "theory",
+     "name": "Theory",
+     "count": 8
+    },
+    {
+     "id": "mechanism",
+     "name": "Mechanism",
+     "count": 0
+    },
+    {
+     "id": "method",
+     "name": "Method",
+     "count": 0
+    },
+    {
+     "id": "application",
+     "name": "Application",
+     "count": 0
+    },
+    {
+     "id": "development",
+     "name": "Development",
+     "count": 0
+    },
+    {
+     "id": "systems",
+     "name": "Systems & Technology",
+     "count": 0
+    },
+    {
+     "id": "evaluation",
+     "name": "Evaluation & Benchmarks",
+     "count": 0
+    },
+    {
+     "id": "review",
+     "name": "Reviews & Surveys",
+     "count": 0
+    }
+   ],
+   "trajectory": {
+    "2011": 1,
+    "2015": 1,
+    "2018": 2,
+    "2024": 1,
+    "2025": 2,
+    "2026": 1
+   },
+   "momentum": {
+    "id": "lifelong-learning",
+    "name": "Lifelong & Self-Directed Learning",
+    "total": 8,
+    "recent": 2,
+    "prior": 1,
+    "growth_pct": 100.0,
+    "recent_share": 0.25,
+    "papers_per_month": 0.2,
+    "score": 125.0
+   }
+  }
+ ],
+ "subcategories": [
+  {
+   "id": "theory",
+   "name": "Theory",
+   "count": 115
+  },
+  {
+   "id": "mechanism",
+   "name": "Mechanism",
+   "count": 149
+  },
+  {
+   "id": "method",
+   "name": "Method",
+   "count": 277
+  },
+  {
+   "id": "application",
+   "name": "Application",
+   "count": 370
+  },
+  {
+   "id": "development",
+   "name": "Development",
+   "count": 40
+  },
+  {
+   "id": "systems",
+   "name": "Systems & Technology",
+   "count": 309
+  },
+  {
+   "id": "evaluation",
+   "name": "Evaluation & Benchmarks",
+   "count": 63
+  },
+  {
+   "id": "review",
+   "name": "Reviews & Surveys",
+   "count": 88
+  }
+ ],
+ "timeline": [
+  [
+   "1984-01",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "1991-01",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "1998-01",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2001-01",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2002-05",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2003-01",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2005-01",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2007-04",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2010-01",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2011-03",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2012-06",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2012-06",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2012-06",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2012-06",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2013-01",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2013-07",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2013-07",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2015-01",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2015-01",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2017-01",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2018-01",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2018-01",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2018-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2018-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2018-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2018-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2018-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2018-01",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2018-06",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2018-06",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2018-06",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2019-02",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2019-06",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2019-08",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2019-11",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2020-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2021-03",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2021-06",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2022-01",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2022-01",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2022-01",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2022-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2022-01",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2022-01",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2022-02",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2022-03",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2022-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2022-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2022-04",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2022-05",
+   "assessment",
+   "mechanism"
+  ],
+  [
+   "2022-05",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2022-05",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2022-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2022-06",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2022-06",
+   "workforce-upskilling",
+   "mechanism"
+  ],
+  [
+   "2022-07",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2022-07",
+   "compliance",
+   "method"
+  ],
+  [
+   "2022-07",
+   "org-implementation",
+   "development"
+  ],
+  [
+   "2022-07",
+   "sme-training",
+   "systems"
+  ],
+  [
+   "2022-07",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2022-08",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2022-08",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2022-09",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2022-09",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2022-09",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2022-10",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2022-10",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2022-10",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2022-10",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2022-11",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2022-11",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2022-11",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2022-11",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2022-12",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2022-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2022-12",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2022-12",
+   "compliance",
+   "method"
+  ],
+  [
+   "2022-12",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2022-12",
+   "k12-education",
+   "development"
+  ],
+  [
+   "2022-12",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2023-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2023-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2023-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2023-01",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2023-01",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2023-01",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-01",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2023-01",
+   "tooling",
+   "development"
+  ],
+  [
+   "2023-01",
+   "tooling",
+   "evaluation"
+  ],
+  [
+   "2023-02",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2023-02",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2023-02",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2023-02",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2023-02",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2023-03",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-03",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2023-03",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2023-03",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2023-03",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-03",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-03",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2023-03",
+   "tooling",
+   "application"
+  ],
+  [
+   "2023-03",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2023-04",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2023-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-04",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2023-04",
+   "critical-ai-literacy",
+   "mechanism"
+  ],
+  [
+   "2023-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2023-04",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-04",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2023-04",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2023-05",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2023-05",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2023-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2023-05",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2023-05",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2023-05",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2023-05",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2023-05",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2023-05",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2023-05",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2023-05",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2023-05",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2023-05",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2023-05",
+   "teacher-ai-literacy",
+   "review"
+  ],
+  [
+   "2023-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2023-06",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2023-06",
+   "compliance",
+   "development"
+  ],
+  [
+   "2023-06",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2023-06",
+   "teacher-ai-literacy",
+   "development"
+  ],
+  [
+   "2023-06",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2023-06",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2023-07",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2023-07",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2023-07",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2023-07",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2023-07",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-07",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-07",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2023-07",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2023-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-07",
+   "teacher-ai-literacy",
+   "development"
+  ],
+  [
+   "2023-07",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2023-07",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2023-08",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2023-08",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2023-08",
+   "assessment",
+   "application"
+  ],
+  [
+   "2023-08",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2023-08",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2023-08",
+   "generative-ai-skills",
+   "development"
+  ],
+  [
+   "2023-08",
+   "k12-education",
+   "review"
+  ],
+  [
+   "2023-08",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2023-08",
+   "sme-training",
+   "review"
+  ],
+  [
+   "2023-09",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2023-09",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "org-implementation",
+   "method"
+  ],
+  [
+   "2023-09",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2023-09",
+   "tooling",
+   "application"
+  ],
+  [
+   "2023-10",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2023-10",
+   "attitudes-trust",
+   "evaluation"
+  ],
+  [
+   "2023-10",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "org-implementation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2023-10",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2023-10",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2023-11",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2023-11",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2023-11",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "compliance",
+   "application"
+  ],
+  [
+   "2023-11",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2023-11",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "tooling",
+   "application"
+  ],
+  [
+   "2023-11",
+   "tooling",
+   "application"
+  ],
+  [
+   "2023-11",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2023-12",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2023-12",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2023-12",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2023-12",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2023-12",
+   "tooling",
+   "method"
+  ],
+  [
+   "2023-12",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2024-01",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2024-01",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2024-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2024-01",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-01",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2024-01",
+   "generative-ai-skills",
+   "development"
+  ],
+  [
+   "2024-01",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2024-01",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-01",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-01",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2024-01",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2024-01",
+   "k12-education",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "tooling",
+   "evaluation"
+  ],
+  [
+   "2024-01",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-02",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-02",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2024-02",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2024-02",
+   "roi-measurement",
+   "review"
+  ],
+  [
+   "2024-02",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-03",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2024-03",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2024-03",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "learning-design",
+   "application"
+  ],
+  [
+   "2024-03",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2024-03",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-03",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2024-04",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2024-04",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2024-04",
+   "attitudes-trust",
+   "development"
+  ],
+  [
+   "2024-04",
+   "compliance",
+   "development"
+  ],
+  [
+   "2024-04",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2024-04",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2024-04",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2024-04",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2024-04",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-04",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-04",
+   "tooling",
+   "method"
+  ],
+  [
+   "2024-04",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2024-05",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "assessment",
+   "application"
+  ],
+  [
+   "2024-05",
+   "attitudes-trust",
+   "development"
+  ],
+  [
+   "2024-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-05",
+   "compliance",
+   "development"
+  ],
+  [
+   "2024-05",
+   "compliance",
+   "method"
+  ],
+  [
+   "2024-05",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-05",
+   "critical-ai-literacy",
+   "review"
+  ],
+  [
+   "2024-05",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2024-05",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2024-05",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2024-05",
+   "org-implementation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "org-implementation",
+   "review"
+  ],
+  [
+   "2024-05",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2024-05",
+   "sme-training",
+   "development"
+  ],
+  [
+   "2024-05",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-05",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-05",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-05",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2024-06",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2024-06",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "ai-literacy-pedagogy",
+   "evaluation"
+  ],
+  [
+   "2024-06",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2024-06",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-06",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "critical-ai-literacy",
+   "evaluation"
+  ],
+  [
+   "2024-06",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2024-06",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-06",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-06",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2024-06",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning-design",
+   "application"
+  ],
+  [
+   "2024-06",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2024-06",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2024-06",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-06",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-06",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-07",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2024-07",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2024-07",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2024-07",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2024-07",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2024-07",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2024-07",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "assessment",
+   "method"
+  ],
+  [
+   "2024-07",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-07",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-07",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-07",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2024-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "higher-education",
+   "evaluation"
+  ],
+  [
+   "2024-07",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2024-07",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2024-07",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "roi-measurement",
+   "development"
+  ],
+  [
+   "2024-07",
+   "teacher-ai-literacy",
+   "development"
+  ],
+  [
+   "2024-07",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-07",
+   "tooling",
+   "evaluation"
+  ],
+  [
+   "2024-07",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2024-08",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2024-08",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-08",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-08",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-08",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-08",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2024-08",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2024-08",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-08",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "learning-design",
+   "review"
+  ],
+  [
+   "2024-08",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2024-08",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2024-09",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2024-09",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2024-09",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "assessment",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2024-09",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-09",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-09",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2024-09",
+   "tooling",
+   "review"
+  ],
+  [
+   "2024-09",
+   "tooling",
+   "review"
+  ],
+  [
+   "2024-10",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-10",
+   "compliance",
+   "method"
+  ],
+  [
+   "2024-10",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "critical-ai-literacy",
+   "development"
+  ],
+  [
+   "2024-10",
+   "critical-ai-literacy",
+   "review"
+  ],
+  [
+   "2024-10",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-10",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2024-10",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2024-10",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "teacher-ai-literacy",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2024-10",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2024-11",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-11",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-11",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2024-11",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2024-11",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2024-11",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2024-11",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2024-11",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2024-11",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-11",
+   "tooling",
+   "application"
+  ],
+  [
+   "2024-11",
+   "tooling",
+   "development"
+  ],
+  [
+   "2024-11",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "workforce-upskilling",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2024-12",
+   "ai-literacy-construct",
+   "development"
+  ],
+  [
+   "2024-12",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2024-12",
+   "ai-literacy-pedagogy",
+   "development"
+  ],
+  [
+   "2024-12",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2024-12",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2024-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "compliance",
+   "application"
+  ],
+  [
+   "2024-12",
+   "compliance",
+   "method"
+  ],
+  [
+   "2024-12",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2024-12",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2024-12",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "teacher-ai-literacy",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-01",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-01",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-01",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-01",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-01",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-01",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-01",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-01",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2025-01",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2025-01",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-01",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2025-01",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2025-01",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "org-implementation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2025-01",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-01",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-01",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2025-01",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2025-02",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2025-02",
+   "ai-literacy-pedagogy",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "assessment",
+   "application"
+  ],
+  [
+   "2025-02",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-02",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-02",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-02",
+   "compliance",
+   "method"
+  ],
+  [
+   "2025-02",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-02",
+   "critical-ai-literacy",
+   "mechanism"
+  ],
+  [
+   "2025-02",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-02",
+   "critical-ai-literacy",
+   "review"
+  ],
+  [
+   "2025-02",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "learning-design",
+   "mechanism"
+  ],
+  [
+   "2025-02",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-02",
+   "tooling",
+   "evaluation"
+  ],
+  [
+   "2025-02",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-03",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-03",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-03",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2025-03",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-03",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-03",
+   "critical-ai-literacy",
+   "evaluation"
+  ],
+  [
+   "2025-03",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-03",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2025-03",
+   "higher-education",
+   "development"
+  ],
+  [
+   "2025-03",
+   "learning-design",
+   "application"
+  ],
+  [
+   "2025-03",
+   "org-implementation",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "program-evaluation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2025-03",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-03",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-03",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-03",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-03",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-03",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-04",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-04",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-04",
+   "compliance",
+   "review"
+  ],
+  [
+   "2025-04",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-04",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-04",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-04",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-04",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "higher-education",
+   "evaluation"
+  ],
+  [
+   "2025-04",
+   "higher-education",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "learning-design",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "teacher-ai-literacy",
+   "evaluation"
+  ],
+  [
+   "2025-04",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-04",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "evaluation"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-05",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2025-05",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-05",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-05",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-05",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-05",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-05",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-05",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-05",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "higher-education",
+   "review"
+  ],
+  [
+   "2025-05",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "k12-education",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-05",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-05",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-05",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2025-05",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-05",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-05",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-05",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-06",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-06",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-06",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2025-06",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "critical-ai-literacy",
+   "development"
+  ],
+  [
+   "2025-06",
+   "critical-ai-literacy",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-06",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-06",
+   "critical-ai-literacy",
+   "review"
+  ],
+  [
+   "2025-06",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-06",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-06",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-06",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2025-06",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2025-06",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-06",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-06",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-06",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2025-06",
+   "teacher-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-06",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-06",
+   "workforce-upskilling",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-07",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-07",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2025-07",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-07",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2025-07",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-07",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-07",
+   "compliance",
+   "method"
+  ],
+  [
+   "2025-07",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-07",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-07",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-07",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-07",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2025-07",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2025-07",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-07",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-07",
+   "org-implementation",
+   "review"
+  ],
+  [
+   "2025-07",
+   "roi-measurement",
+   "evaluation"
+  ],
+  [
+   "2025-07",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-07",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-07",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2025-07",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-08",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2025-08",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "development"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-08",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-08",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-08",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-08",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-08",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-08",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-08",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2025-08",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2025-08",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2025-08",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-08",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-08",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "roi-measurement",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-08",
+   "teacher-ai-literacy",
+   "development"
+  ],
+  [
+   "2025-08",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-08",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-08",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-08",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-09",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "adoption-behavior",
+   "review"
+  ],
+  [
+   "2025-09",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "assessment",
+   "method"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-09",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-09",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-09",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2025-09",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-09",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-09",
+   "roi-measurement",
+   "review"
+  ],
+  [
+   "2025-09",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-09",
+   "teacher-ai-literacy",
+   "evaluation"
+  ],
+  [
+   "2025-09",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "workforce-upskilling",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-10",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-10",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-10",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-construct",
+   "evaluation"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-10",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-10",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2025-10",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-10",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2025-10",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-10",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "compliance",
+   "method"
+  ],
+  [
+   "2025-10",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-10",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-10",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-10",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-10",
+   "higher-education",
+   "review"
+  ],
+  [
+   "2025-10",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "development"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-10",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2025-10",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-10",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-10",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-10",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-10",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-10",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2025-10",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "development"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-11",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2025-11",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2025-11",
+   "higher-education",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "higher-education",
+   "review"
+  ],
+  [
+   "2025-11",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "higher-education",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2025-11",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-11",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2025-11",
+   "sme-training",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-11",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2025-11",
+   "workforce-upskilling",
+   "evaluation"
+  ],
+  [
+   "2025-11",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "review"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "review"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "assessment",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2025-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "compliance",
+   "application"
+  ],
+  [
+   "2025-12",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2025-12",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2025-12",
+   "k12-education",
+   "development"
+  ],
+  [
+   "2025-12",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2025-12",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "tooling",
+   "application"
+  ],
+  [
+   "2025-12",
+   "tooling",
+   "method"
+  ],
+  [
+   "2025-12",
+   "tooling",
+   "method"
+  ],
+  [
+   "2025-12",
+   "tooling",
+   "method"
+  ],
+  [
+   "2025-12",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-01",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-01",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-01",
+   "adoption-behavior",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "ai-literacy-pedagogy",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-01",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-01",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-01",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-01",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-01",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-01",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-01",
+   "compliance",
+   "review"
+  ],
+  [
+   "2026-01",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-01",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "higher-education",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2026-01",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2026-01",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-01",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "professional-education",
+   "application"
+  ],
+  [
+   "2026-01",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "review"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-02",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-pedagogy",
+   "development"
+  ],
+  [
+   "2026-02",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "review"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-02",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-02",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-02",
+   "compliance",
+   "review"
+  ],
+  [
+   "2026-02",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "critical-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "generative-ai-skills",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-02",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2026-02",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2026-02",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "k12-education",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2026-02",
+   "learning-design",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-02",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2026-02",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-02",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-02",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-02",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2026-02",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-03",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-03",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "assessment",
+   "application"
+  ],
+  [
+   "2026-03",
+   "assessment",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-03",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-03",
+   "compliance",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "compliance",
+   "method"
+  ],
+  [
+   "2026-03",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "critical-ai-literacy",
+   "development"
+  ],
+  [
+   "2026-03",
+   "critical-ai-literacy",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "critical-ai-literacy",
+   "review"
+  ],
+  [
+   "2026-03",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2026-03",
+   "generative-ai-skills",
+   "development"
+  ],
+  [
+   "2026-03",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-03",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "k12-education",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "learning-design",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-03",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "org-implementation",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "development"
+  ],
+  [
+   "2026-03",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "method"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-03",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2026-04",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-04",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-04",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-04",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "compliance",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2026-04",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2026-04",
+   "generative-ai-skills",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "higher-education",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "k12-education",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-04",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-04",
+   "org-implementation",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-04",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-04",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-04",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "teacher-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-04",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-04",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-04",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-04",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-04",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "ai-literacy-pedagogy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "assessment",
+   "application"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-05",
+   "compliance",
+   "review"
+  ],
+  [
+   "2026-05",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-05",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2026-05",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-05",
+   "higher-education",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning-design",
+   "application"
+  ],
+  [
+   "2026-05",
+   "learning-design",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "lifelong-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2026-05",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "sme-training",
+   "application"
+  ],
+  [
+   "2026-05",
+   "teacher-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-05",
+   "teacher-ai-literacy",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "teacher-ai-literacy",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "method"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-05",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-05",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-05",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-05",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "ai-literacy-pedagogy",
+   "review"
+  ],
+  [
+   "2026-06",
+   "assessment",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-06",
+   "compliance",
+   "application"
+  ],
+  [
+   "2026-06",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-06",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "generative-ai-skills",
+   "application"
+  ],
+  [
+   "2026-06",
+   "generative-ai-skills",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-06",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-06",
+   "higher-education",
+   "review"
+  ],
+  [
+   "2026-06",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2026-06",
+   "learning-design",
+   "development"
+  ],
+  [
+   "2026-06",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "program-evaluation",
+   "application"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "mechanism"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "method"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "roi-measurement",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "teacher-ai-literacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "teacher-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "tooling",
+   "application"
+  ],
+  [
+   "2026-06",
+   "tooling",
+   "method"
+  ],
+  [
+   "2026-06",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-06",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-06",
+   "workforce-upskilling",
+   "method"
+  ],
+  [
+   "2026-06",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-07",
+   "adoption-behavior",
+   "application"
+  ],
+  [
+   "2026-07",
+   "adoption-behavior",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "adoption-behavior",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "review"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-construct",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-pedagogy",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-pedagogy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "ai-literacy-pedagogy",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-07",
+   "attitudes-trust",
+   "application"
+  ],
+  [
+   "2026-07",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "attitudes-trust",
+   "method"
+  ],
+  [
+   "2026-07",
+   "attitudes-trust",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "compliance",
+   "method"
+  ],
+  [
+   "2026-07",
+   "compliance",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "critical-ai-literacy",
+   "application"
+  ],
+  [
+   "2026-07",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "critical-ai-literacy",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "generative-ai-skills",
+   "method"
+  ],
+  [
+   "2026-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-07",
+   "higher-education",
+   "application"
+  ],
+  [
+   "2026-07",
+   "higher-education",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "learning-design",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-07",
+   "org-implementation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "program-evaluation",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-07",
+   "tooling",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-07",
+   "workforce-upskilling",
+   "application"
+  ],
+  [
+   "2026-07",
+   "workforce-upskilling",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "adoption-behavior",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ai-literacy-construct",
+   "method"
+  ],
+  [
+   "2026-08",
+   "ai-literacy-construct",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "ai-literacy-pedagogy",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "assessment",
+   "method"
+  ],
+  [
+   "2026-08",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "attitudes-trust",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "critical-ai-literacy",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "generative-ai-skills",
+   "review"
+  ],
+  [
+   "2026-08",
+   "generative-ai-skills",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "k12-education",
+   "application"
+  ],
+  [
+   "2026-08",
+   "org-implementation",
+   "application"
+  ],
+  [
+   "2026-08",
+   "roi-measurement",
+   "application"
+  ],
+  [
+   "2026-08",
+   "tooling",
+   "method"
+  ]
+ ],
+ "venues": [
+  {
+   "name": "Advances in Computational Intelligence and Robotics",
+   "papers": 13
+  },
+  {
+   "name": "CoRR",
+   "papers": 7
+  },
+  {
+   "name": "Return on Investment in Training and Performance Improvement Programs",
+   "papers": 6
+  },
+  {
+   "name": "Reskilling and Upskilling in the Age of AI",
+   "papers": 5
+  },
+  {
+   "name": "Comput. Educ. Artif. Intell.",
+   "papers": 4
+  },
+  {
+   "name": "The Executive Guide to Artificial Intelligence",
+   "papers": 4
+  },
+  {
+   "name": "Bridging Human and Machine: Future Education with Intelligence",
+   "papers": 3
+  },
+  {
+   "name": "Gamifying AI in Higher Education",
+   "papers": 3
+  },
+  {
+   "name": "Evaluation and Program Planning",
+   "papers": 3
+  },
+  {
+   "name": "SSRN Electronic Journal",
+   "papers": 3
+  },
+  {
+   "name": "SIGCSE",
+   "papers": 3
+  },
+  {
+   "name": "Critical Literacy in an AI World",
+   "papers": 3
+  },
+  {
+   "name": "Springer Texts in Education",
+   "papers": 2
+  },
+  {
+   "name": "Korean Association for Literacy",
+   "papers": 2
+  },
+  {
+   "name": "Proceedings of the 2025 AERA Annual Meeting",
+   "papers": 2
+  }
+ ],
+ "source_breakdown": {
+  "arxiv": 1095,
+  "doi": 282,
+  "other": 34
+ },
+ "keyword_bursts": [
+  {
+   "keyword": "continuum",
+   "recent": 6,
+   "total": 6,
+   "burst_score": 2.14,
+   "recent_share": 0.0091
+  },
+  {
+   "keyword": "micro-learning",
+   "recent": 1,
+   "total": 1,
+   "burst_score": 2.14,
+   "recent_share": 0.0015
+  },
+  {
+   "keyword": "agentic",
+   "recent": 36,
+   "total": 41,
+   "burst_score": 1.88,
+   "recent_share": 0.0547
+  },
+  {
+   "keyword": "ai competence",
+   "recent": 6,
+   "total": 7,
+   "burst_score": 1.84,
+   "recent_share": 0.0091
+  },
+  {
+   "keyword": "avoidance",
+   "recent": 3,
+   "total": 4,
+   "burst_score": 1.61,
+   "recent_share": 0.0046
+  },
+  {
+   "keyword": "pedagogy",
+   "recent": 31,
+   "total": 46,
+   "burst_score": 1.45,
+   "recent_share": 0.0471
+  },
+  {
+   "keyword": "agent",
+   "recent": 111,
+   "total": 168,
+   "burst_score": 1.42,
+   "recent_share": 0.1687
+  },
+  {
+   "keyword": "readiness",
+   "recent": 22,
+   "total": 34,
+   "burst_score": 1.39,
+   "recent_share": 0.0334
+  },
+  {
+   "keyword": "workshop",
+   "recent": 22,
+   "total": 35,
+   "burst_score": 1.35,
+   "recent_share": 0.0334
+  },
+  {
+   "keyword": "genai",
+   "recent": 63,
+   "total": 101,
+   "burst_score": 1.34,
+   "recent_share": 0.0957
+  },
+  {
+   "keyword": "barrier",
+   "recent": 26,
+   "total": 43,
+   "burst_score": 1.3,
+   "recent_share": 0.0395
+  },
+  {
+   "keyword": "self-directed",
+   "recent": 3,
+   "total": 5,
+   "burst_score": 1.29,
+   "recent_share": 0.0046
+  },
+  {
+   "keyword": "productivity",
+   "recent": 29,
+   "total": 49,
+   "burst_score": 1.27,
+   "recent_share": 0.0441
+  },
+  {
+   "keyword": "reskilling",
+   "recent": 11,
+   "total": 19,
+   "burst_score": 1.24,
+   "recent_share": 0.0167
+  },
+  {
+   "keyword": "tutor",
+   "recent": 43,
+   "total": 75,
+   "burst_score": 1.23,
+   "recent_share": 0.0653
+  }
+ ]
+}

@@ -71,7 +71,14 @@ quarterly, and the synthesis documents track the evidence as it grows.
 
 | Phase | What | Deliverable | Exit criterion |
 |-------|------|-------------|----------------|
-| **0 — Corpus** (done) | 20-category AI-literacy corpus, pipeline, CI | this repo | validate passes; saturation ≥ 95% |
+| **0 — Corpus** (done*)| 20-category AI-literacy corpus, pipeline, CI | this repo | validate passes; saturation ≥ 95% |
+
+*Seed: 1,411 papers via arXiv + CrossRef/DBLP/EuropePMC (2026-08-11). OpenAlex
+bulk fetch (primary source, best education-journal coverage) pending — the
+OpenAlex API was rate-limiting the shared IP during seeding; run
+`scripts/fetch/fetch_openalex_bulk.py --per-category 120 --months 60` once
+it recovers, then re-run the pipeline. The weekly CI discovery job keeps the
+arXiv side fresh automatically.
 | **1 — Mapping** (next) | Cell-level map of the 6 target categories; 25–40 papers shortlisted per RQ | `docs/research/mapping_review.md` | shortlist table complete |
 | **2 — Extraction** | Full-text reading of ~80–120 priority studies (capped per RQ) | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
 | **3 — Synthesis A: Implementation Guide** | RQ1+RQ2: construct model + decision framework + implementation playbook | **Guide 1** (`docs/research/guide_implementation.md`) | expert review (2 readers) |

@@ -81,7 +81,7 @@ the weekly CI discovery job keeps the arXiv side fresh automatically.
 | **1 — Mapping** (done) | Cell-level map of the 6 target categories; 25–40 papers shortlisted per RQ | `docs/research/mapping_review.md` | shortlist table complete |
 | **2 — Extraction** (in progress) | Abstract screening done: 72/150 included, refilled to 25/RQ (`docs/research/extraction/screening_report.md`); evidence tables `rq1-5.md` created, 17 key studies pre-extracted; 109 rows await full-text extraction | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
 | **3 — Synthesis A: Implementation Guide** (draft v1) | RQ1+RQ2: construct model (continuum × 3 axes) + implementation conditions framework + 10-step playbook + risks | **Guide 1** (`docs/research/guide_implementation.md`) | expert review (2 readers) |
-| **4 — Synthesis B: Evaluation Guide** | RQ3+RQ4+RQ5: measurement + Kirkpatrick-style framework + business-case design | **Guide 2** (`docs/research/guide_evaluation.md`) | expert review |
+| **4 — Synthesis B: Evaluation Guide** (draft v1) | RQ3+RQ4+RQ5: 10 instruments catalogued, outcome evidence table, Art. 4 evidence chain, business-case designs (task-based quasi-experiment + SME-minimum) | **Guide 2** (`docs/research/guide_evaluation.md`) | expert review |
 | **5 — Instrument spec** | Task-oriented AI-literacy assessment (occupation-aligned, levels 1–4) informed by RQ3 | `docs/research/assessment_spec.md` | pilot in ALaaS cohort |
 | **6 — Publication & transfer** | Articles, newsletter, ALaaS offer redesign, platform integration | 6+ pieces + offer changes | published & live |
 | **Ongoing — Refresh** | Quarterly corpus update + gap re-measurement + guide updates | updated artifacts | CI green |

@@ -11,6 +11,7 @@
 | [`research/extraction/final_shortlists.json`](research/extraction/final_shortlists.json) | Machine-readable final shortlists (125 papers, 25/RQ) |
 | [`research/extraction/rq1.md`](research/extraction/rq1.md) … `rq5.md` | Phase 2b: evidence tables (116/125 extracted; `tools/extract_rows.py`) |
 | [`research/guide_implementation.md`](research/guide_implementation.md) | **Guide 1 (draft v1): implementation playbook** (RQ1+RQ2 synthesis) |
+| [`research/guide_evaluation.md`](research/guide_evaluation.md) | **Guide 2 (draft v1): evaluation framework** (RQ3+RQ4+RQ5 synthesis) |
 | [`research/taxonomy.md`](research/taxonomy.md) | The 20×8 taxonomy definition |
 | [`research/literature_review.md`](research/literature_review.md) | Synthesis of the corpus |
 | [`research/ai_literacy_trends_2026.md`](research/ai_literacy_trends_2026.md) | Trend analysis for the research program |

@@ -1,0 +1,1266 @@
+{
+ "generated": "2026-08-12",
+ "target_per_rq": 25,
+ "final": {
+  "RQ1": [
+   {
+    "title": "A Conceptual Exploration of Generative AI-Induced Cognitive Dissonance and its Emergence in University-Level Academic Writing",
+    "date": "2025-02",
+    "url": "https://arxiv.org/abs/2502.05698v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "GenAI cognitive dissonance in academic writing — construct evidence"
+   },
+   {
+    "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
+    "date": "2026-08",
+    "url": "https://arxiv.org/abs/2608.01705v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Integrative developmental dialectical framework for teacher education"
+   },
+   {
+    "title": "Artificial Intelligence Literacy in Counselor Education: The Developmental AI Literacy Framework",
+    "date": "",
+    "url": "https://doi.org/10.31234/osf.io/6gcv4_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "DALF developmental framework counselor education"
+   },
+   {
+    "title": "AI-Mediated Relational Competence in Medical Education: A Construct Rationale and Curriculum Maturity Framework (Preprint)",
+    "date": "",
+    "url": "https://doi.org/10.2196/preprints.105459",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Construct rationale + curriculum maturity framework (preprint)"
+   },
+   {
+    "title": "Fostering Transversal Skills Through Open Schooling Supported by the CARE-KNOW-DO Pedagogical Model and the UNESCO AI Competencies Framework",
+    "date": "2025-03",
+    "url": "https://doi.org/10.1007/s40593-025-00458-w",
+    "category": "assessment",
+    "subcategory": "theory",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "CARE-KNOW-DO + UNESCO framework empirical validation, underserved communities"
+   },
+   {
+    "title": "From G-Factor to A-Factor: Establishing a Psychometric Framework for AI Literacy",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.16517v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Psychometric AI literacy framework, 517 participants, 3 studies"
+   },
+   {
+    "title": "Strategic Integration of AI Chatbots in Physics Teacher Preparation: A TPACK-SWOT Analysis of Pedagogical, Epistemic, and Cybersecurity Dimensions",
+    "date": "2025-07",
+    "url": "https://arxiv.org/abs/2507.14860v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "TPACK-SWOT teacher preparation study"
+   },
+   {
+    "title": "A framework for AI ethics literacy: development, validation, and its role in fostering students’ self-rated learning competence",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1038/s41598-025-21977-5",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "AI ethics literacy framework development + validation"
+   },
+   {
+    "title": "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures",
+    "date": "2026-01",
+    "url": "https://arxiv.org/abs/2601.06101v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Self-report vs objective AI literacy measures comparison"
+   },
+   {
+    "title": "Development and Validation of a Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale for Higher Education",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.20220v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "FALCON-AI faculty scale development/validation"
+   },
+   {
+    "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.14807v2",
+    "category": "ai-literacy-construct",
+    "subcategory": "mechanism",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "LLM fallacy — misattribution mechanism, construct-relevant"
+   },
+   {
+    "title": "UNESCO's AI Competency Framework",
+    "date": "2024-09",
+    "url": "https://doi.org/10.4018/979-8-3693-0884-4.ch004",
+    "category": "assessment",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "UNESCO AI competency framework (context)"
+   },
+   {
+    "title": "School librarians developing AI literacy for an AI-driven future: leveraging the AI Citizenship Framework with scope and sequence",
+    "date": "2024-11",
+    "url": "https://doi.org/10.1108/lhtn-10-2024-0186",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI Citizenship Framework scope+sequence"
+   },
+   {
+    "title": "From AI Intuition to AI Literacy: A Dual Framework for K-12 Education",
+    "date": "",
+    "url": "https://doi.org/10.35542/osf.io/6uhj2_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Dual framework K-12 AI intuition → literacy"
+   },
+   {
+    "title": "From AI Literacy to AI Fluency: A Developmental Framework for Higher Education",
+    "date": "",
+    "url": "https://doi.org/10.2139/ssrn.7014818",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "AI literacy → AI fluency developmental framework HE"
+   },
+   {
+    "title": "Towards Rhetorical AI Literacy. Presenting a Conceptual Framework",
+    "date": "2025-01",
+    "url": "https://doi.org/10.4000/14yaw",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Rhetorical AI literacy conceptual framework"
+   },
+   {
+    "title": "Preparing K–12 Students With AI Literacy: Proposed Framework, Progression, and Task Design Principles",
+    "date": "2025-11",
+    "url": "https://doi.org/10.64634/46jn1p41",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "K-12 framework + learning progression + task design principles"
+   },
+   {
+    "title": "From Understanding to Creation: A Prerequisite-Free AI Literacy Course with Technical Depth Across Majors",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2604.09634v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "mechanism",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "UNIV 182 prerequisite-free AI literacy course"
+   },
+   {
+    "title": "Democratizing Generative AI for Sustainable Competitive Advantage",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2605.27398v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "GenAI competitive advantage — firm-level literacy construct"
+   },
+   {
+    "title": "Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction,A Case Study of the Compound Line Graph",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2606.09598v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Technological isomorphism elementary math case study"
+   },
+   {
+    "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2607.00211v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Epistemic AI literacy co-programming study"
+   },
+   {
+    "title": "Uncovering Students' Mental Models of Generative Artificial Intelligence",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.11692v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Student mental models of GenAI"
+   },
+   {
+    "title": "Assistant, Parrot, or Colonizing Loudspeaker? ChatGPT Metaphors for Developing Critical AI Literacies",
+    "date": "2024-01",
+    "url": "https://arxiv.org/abs/2401.08711v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "ChatGPT metaphors for critical AI literacies"
+   },
+   {
+    "title": "AI Thinking: A framework for rethinking artificial intelligence in practice",
+    "date": "2024-08",
+    "url": "https://arxiv.org/abs/2409.12922v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "AI Thinking framework (practice)"
+   },
+   {
+    "title": "AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use",
+    "date": "",
+    "url": "https://doi.org/10.31234/osf.io/nkdyp_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "AI Mindset framework empirically tested"
+   }
+  ],
+  "RQ2": [
+   {
+    "title": "From AI Literacy to AI Use: Evidence from a Multi-Organization Upskilling Program",
+    "date": "2026-01",
+    "url": "https://doi.org/10.24251/hicss.2026.518",
+    "category": "org-implementation",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Multi-organization upskilling program, UTAUT — ★ implementation evidence"
+   },
+   {
+    "title": "EMPOWERING MSMEs THROUGH CANVA AI AND CHATGPT-BASED PROMOTIONAL CONTENT CREATION TRAINING",
+    "date": "2026-06",
+    "url": "https://doi.org/10.36441/kewirausahaan.v9i1.3851",
+    "category": "sme-training",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "MSME Canva AI + ChatGPT training case report"
+   },
+   {
+    "title": "Preparing High School Teachers to Integrate AI Methods into STEM Classrooms",
+    "date": "2022-06",
+    "url": "https://doi.org/10.1609/aaai.v36i11.21557",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "HS teacher AI Methods PD experience report"
+   },
+   {
+    "title": "From Exposure to Adoption: Generative AI in European Workplaces",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.18849v3",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "tier": "B",
+    "verdict": "include",
+    "reason": "GenAI adoption 35 European countries, task content"
+   },
+   {
+    "title": "AI Adoption and Workplace Training",
+    "date": "2024-01",
+    "url": "https://doi.org/10.2139/ssrn.4990293",
+    "category": "sme-training",
+    "subcategory": "method",
+    "tier": "B",
+    "verdict": "include",
+    "reason": "AI Adoption and Workplace Training (panel econometrics)"
+   },
+   {
+    "title": "Co-Designing an AI Literacy Curriculum for Elementary Education Using Design Thinking",
+    "date": "2025-01",
+    "url": "https://doi.org/10.59668/2223.22436",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Co-designing AI literacy curriculum elementary (design thinking)"
+   },
+   {
+    "title": "A Study on the Visual Convergence Design Curriculum Using Generative AI -Focus on AI Information Design Course-",
+    "date": "2025-02",
+    "url": "https://doi.org/10.35280/kotpm.2025.28.1.18",
+    "category": "learning-design",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Visual convergence design curriculum with GenAI (KR)"
+   },
+   {
+    "title": "Applying AI Tools to Develop a Curriculum Based on Expected Learning Outcomes and Personalize Learning Program for Students at the University of Languages and International Studies",
+    "date": "2025-02",
+    "url": "https://doi.org/10.12973/eu-jer.14.2.415",
+    "category": "sme-training",
+    "subcategory": "systems",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Vietnam curriculum labor-market aligned"
+   },
+   {
+    "title": "Assessment of Digital Capabilities by 9 Countries in the Alliance for Healthy Cities Using AI: Cross-Sectional Analysis",
+    "date": "2025-02",
+    "url": "https://doi.org/10.2196/62935",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Digital capabilities 9 countries cross-sectional (health cities)"
+   },
+   {
+    "title": "Generative AI Adoption and Higher Order Skills",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.09212v2",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "tier": "B",
+    "verdict": "include",
+    "reason": "GenAI adoption + higher-order skills (job postings)"
+   },
+   {
+    "title": "Bridging the AI skills gap",
+    "date": "2025-04",
+    "url": "https://doi.org/10.1787/66d0702e-en",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Bridging the AI skills gap (UK upskilling study)"
+   },
+   {
+    "title": "Artificial Intelligence in HR: Examining the Use of AI in Recruitment, Performance Evaluation, and Employee Development Including Ethical Considerations",
+    "date": "2025-05",
+    "url": "https://doi.org/10.63075/6dbnrj69",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI in HR: recruitment, performance, employee development"
+   },
+   {
+    "title": "AN EVALUATION OF THE LONG-TERM EFFECTS OF AI-INTEGRATED TRAINING ON WORKFORCE: UPSKILLING AND TECHNOLOGICAL PREPAREDNESS IN THE IT SECTOR",
+    "date": "2025-06",
+    "url": "https://doi.org/10.36713/epra22398",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Long-term effects of AI-integrated training (IT sector)"
+   },
+   {
+    "title": "Artificial Intelligence Adoption and Business Decision-Making of Small and Medium Scale Enterprises in Delta State",
+    "date": "2025-07",
+    "url": "https://doi.org/10.35629/5252-0707136147",
+    "category": "sme-training",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "SME AI adoption + decision-making (Nigeria survey)"
+   },
+   {
+    "title": "The human side of AI adoption: exploring technostress, training and employee well-being in manufacturing SMEs",
+    "date": "2025-09",
+    "url": "https://doi.org/10.1108/jmtm-02-2025-0120",
+    "category": "sme-training",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Technostress, training, well-being in manufacturing SMEs — ★ conditions"
+   },
+   {
+    "title": "AI Governance for Workforce Development: A Conceptual Framework for Reskilling and Upskilling",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1109/ntci67886.2025.11308347",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "AI governance for workforce development (reskilling conceptual)"
+   },
+   {
+    "title": "Enterprise AI Upskilling at Scale: Strategic Workforce Transformation in the Age of Generative AI",
+    "date": "2025-10",
+    "url": "https://doi.org/10.70175/hclreview.2020.26.4.4",
+    "category": "workforce-upskilling",
+    "subcategory": "review",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Enterprise AI upskilling at scale (Citigroup 175k) — ★ practitioner"
+   },
+   {
+    "title": "Design of an Intelligence-Based Artificial Intelligence (AI) Literacy Curriculum for Primary Schools",
+    "date": "2026-01",
+    "url": "https://doi.org/10.4018/979-8-3373-0756-5.ch004",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Intelligence-based AI literacy curriculum primary schools"
+   },
+   {
+    "title": "Sustainable AI Literacy in Higher Education Through Awareness, Ethics, and Curriculum Design",
+    "date": "2026-02",
+    "url": "https://doi.org/10.4018/979-8-3373-4908-4.ch019",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Sustainable AI literacy HE (awareness, ethics, curriculum)"
+   },
+   {
+    "title": "Before Professional AI Fluency: Basic AI Literacy as the Pre-PAF Foundation",
+    "date": "2026-06",
+    "url": "https://doi.org/10.5281/zenodo.20754528",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Basic AI literacy as pre-PAF foundation (business education)"
+   },
+   {
+    "title": "Curriculum Design Principles for AI Literacy in Junior Primary Education",
+    "date": "2026-06",
+    "url": "https://doi.org/10.4018/979-8-3373-4893-3.ch002",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Curriculum design principles junior primary"
+   },
+   {
+    "title": "Integrating AI ethics across the computing curriculum",
+    "date": "2022-08",
+    "url": "https://doi.org/10.4324/9780429329067-13",
+    "category": "learning-design",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI ethics across computing curriculum"
+   },
+   {
+    "title": "Developing a Curriculum for Ethical and Responsible AI: A University Course on Safety, Fairness, Privacy, and Ethics to Prepare Next Generation of AI Professionals",
+    "date": "2023-01",
+    "url": "https://doi.org/10.1007/978-981-99-1767-9_64",
+    "category": "learning-design",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Ethical AI university course (safety, fairness, privacy)"
+   },
+   {
+    "title": "AI Is Not a Wildcard: Challenges for Integrating AI into the Design Curriculum",
+    "date": "2023-04",
+    "url": "https://doi.org/10.1145/3587399.3587410",
+    "category": "learning-design",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI integration challenges design curriculum"
+   },
+   {
+    "title": "Getting Practical About the Future of Work a Framework for Upskilling and Reskilling Based on Trends Impacting the Oil and Gas Industry",
+    "date": "2023-10",
+    "url": "https://doi.org/10.2118/216540-ms",
+    "category": "workforce-upskilling",
+    "subcategory": "development",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Upskilling/reskilling framework oil & gas"
+   }
+  ],
+  "RQ3": [
+   {
+    "title": "A study on the Development and Validity verification of Measurement tool for AI literacy",
+    "date": "2024-04",
+    "url": "https://doi.org/10.37736/kjlr.2024.04.15.2.09",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Korean AI literacy measurement tool development/validation"
+   },
+   {
+    "title": "Teacher AI Literacy for Multilingual Learner Instruction: Scale Development and Initial Validity Evidence",
+    "date": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-9215817/v1",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Teacher AI literacy scale (multilingual learners)"
+   },
+   {
+    "title": "AI Literacy Assessment Instrument Dataset",
+    "date": "2026-02",
+    "url": "https://doi.org/10.17632/stcts7czxy",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "AI Literacy Assessment Instrument dataset (Scopus inventory)"
+   },
+   {
+    "title": "Evaluating AI Courses: A Valid and Reliable Instrument for Assessing Artificial-Intelligence Learning through Comparative Self-Assessment",
+    "date": "2023-09",
+    "url": "https://doi.org/10.3390/educsci13100978",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Instrument for AI courses via comparative self-assessment"
+   },
+   {
+    "title": "GLAT: The generative AI literacy assessment test.",
+    "date": "2025-01",
+    "url": "https://dblp.org/rec/journals/caeai/JinMGY25",
+    "category": "assessment",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "GLAT generative AI literacy assessment test"
+   },
+   {
+    "title": "Learning to Teach AI: Design and Validation of a Questionnaire on Artificial Intelligence Training for Teachers",
+    "date": "2025-01",
+    "url": "https://doi.org/10.12973/eu-jer.14.1.249",
+    "category": "program-evaluation",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "Questionnaire on AI training for teachers (validation)"
+   },
+   {
+    "title": "Standardized Assessment of Artificial Intelligence Literacy: Development and Validation of the Multidimensional AI Literacy Competency Scale (MAIL-CS)",
+    "date": "2025-09",
+    "url": "https://doi.org/10.6914/aiese.010305",
+    "category": "assessment",
+    "subcategory": "method",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "MAIL-CS multidimensional scale, N=850 split-sample — ★"
+   },
+   {
+    "title": "The EUIA scale for the introduction of AI in assessment to foster learners’ AI literacy",
+    "date": "2026-03",
+    "url": "https://doi.org/10.47408/jldhe.vi39.1664",
+    "category": "assessment",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "EUIA scale: AI use in assessment → literacy (case study)"
+   },
+   {
+    "title": "The Scale of Artificial Intelligence Literacy for all (SAIL4ALL): A Tool for Assessing Knowledge on Artificial Intelligence in All Adult Populations and Settings",
+    "date": "2024-04",
+    "url": "https://doi.org/10.31235/osf.io/bvyku",
+    "category": "assessment",
+    "subcategory": "systems",
+    "tier": "C",
+    "verdict": "include",
+    "reason": "SAIL4ALL adult AI literacy scale"
+   },
+   {
+    "title": "Development and Validation of a Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale for Higher Education",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.20220v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.14301v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures",
+    "date": "2026-01",
+    "url": "https://arxiv.org/abs/2601.06101v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Multinational validation of the Arabic version of the Artificial Intelligence Literacy Scale (AILS) in university students",
+    "date": "2024-09",
+    "url": "https://doi.org/10.1080/23311908.2024.2395637",
+    "category": "assessment",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Objective Measurement of AI Literacy: Development and Validation of the AI Competency Objective Scale (AICOS)",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.12921v2",
+    "category": "ai-literacy-construct",
+    "subcategory": "method",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Exploring the Construction of an Standard AI Literacy Framework for Middle School Student in the Era of GAI: Focusing on the Assessment of AI Application and Innovation",
+    "date": "2025-05",
+    "url": "https://doi.org/10.1109/icaie64856.2025.11158190",
+    "category": "ai-literacy-construct",
+    "subcategory": "mechanism",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "From G-Factor to A-Factor: Establishing a Psychometric Framework for AI Literacy",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.16517v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Navigating the Challenges of AI Literacy Assessment for Rural Educators in Western China: Towards an Automated Evaluation System",
+    "date": "2024-12",
+    "url": "https://doi.org/10.1145/3724504.3724587",
+    "category": "assessment",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Charting Competence: A Holistic Scale for Measuring Proficiency in Artificial Intelligence Literacy",
+    "date": "2024-07",
+    "url": "https://doi.org/10.1177/07356331241261206",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The Development and Validation of the Artificial Intelligence Literacy Scale for Chinese College Students (AILS-CCS)",
+    "date": "2024-01",
+    "url": "https://doi.org/10.1109/access.2024.3468378",
+    "category": "assessment",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "NAIL-G: a conceptual best-fit framework for nursing ai literacy and governance anchored in socio-technical safety science",
+    "date": "2026-04",
+    "url": "https://doi.org/10.1186/s12912-026-04555-6",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Artificial intelligence literacy in counselor education: The developmental AI literacy framework.",
+    "date": "2026-02",
+    "url": "https://doi.org/10.70013/rqoyboer",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI Literacy Assessment Revisited: A Task-Oriented Approach Aligned with Real-world Occupations",
+    "date": "2025-11",
+    "url": "https://arxiv.org/abs/2511.05475v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Dimensions of Artificial Intelligence Literacy: A Qualitative Synthesis of Contemporary Research Literature",
+    "date": "2025-10",
+    "url": "https://doi.org/10.18009/jcer.1648380",
+    "category": "assessment",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Artificial intelligence literacy education in primary schools: a review",
+    "date": "2025-04",
+    "url": "https://doi.org/10.1007/s10798-025-09979-w",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Artificial intelligence literacy: a proposed faceted taxonomy",
+    "date": "2024-07",
+    "url": "https://doi.org/10.1108/dlp-04-2024-0067",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   }
+  ],
+  "RQ4": [
+   {
+    "title": "PAPER 9: THE PRODUCTIVITY REVOLUTION - ECONOMIC ANALYSIS OF RRC-AI SYSTEM WRITING IMPLEMENTATION; 10-Paper Series on Compressed Communication & Cognitive Acceleration; Paper 9 of 10: Economic Impact & ROI Analysis",
+    "date": "2025-11",
+    "url": "https://doi.org/10.5281/zenodo.17554477",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "RRC-AI ROI analysis — practitioner cost-benefit; verify source quality"
+   },
+   {
+    "title": "Return on Investment in Training and Performance Improvement Programs",
+    "date": "2012-06",
+    "url": "https://doi.org/10.4324/9780080516257",
+    "category": "roi-measurement",
+    "subcategory": "evaluation",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "ROI in training & performance improvement (2012) — framework legacy"
+   },
+   {
+    "title": "Measuring the Return on Investment in Training and Performance Improvement",
+    "date": "2024-04",
+    "url": "https://doi.org/10.4324/9780367855727-1",
+    "category": "roi-measurement",
+    "subcategory": "evaluation",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Measuring ROI in training (2024) — framework legacy"
+   },
+   {
+    "title": "The impact of organizational adoption of Artificial Intelligence on employees' learning behavior",
+    "date": "2025-04",
+    "url": "https://doi.org/10.54254/2753-7102/2025.22340",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "Org AI adoption → employee learning behavior"
+   },
+   {
+    "title": "AI Adoption and Employee Outcomes: A Meta-Analysis of the Augmentation- Automation Mechanisms",
+    "date": "2025-07",
+    "url": "https://doi.org/10.5465/amproc.2025.10903abstract",
+    "category": "adoption-behavior",
+    "subcategory": "mechanism",
+    "tier": "A",
+    "verdict": "include",
+    "reason": "Meta-analysis augmentation-automation employee outcomes — ★"
+   },
+   {
+    "title": "Training for Obsolescence? The AI-Driven Education Trap",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2508.19625v2",
+    "category": "roi-measurement",
+    "subcategory": "theory",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Training for Obsolescence — ★ training-trap theory"
+   },
+   {
+    "title": "Generative AI in Computer Science Education: Accelerating Python Learning with ChatGPT",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.20329v1",
+    "category": "workforce-upskilling",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Employee Well-being in the Age of AI: Perceptions, Concerns, Behaviors, and Outcomes",
+    "date": "2024-12",
+    "url": "https://arxiv.org/abs/2412.04796v1",
+    "category": "workforce-upskilling",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "RAG-PRISM: A Personalized, Rapid, and Immersive Skill Mastery Framework with Adaptive Retrieval-Augmented Tutoring",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2509.00646v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Personality-Aware Course Recommender System Using Deep Learning for Technical and Vocational Education and Training",
+    "date": "2024-12",
+    "url": "https://doi.org/10.3390/info15120803",
+    "category": "program-evaluation",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathways in the LLM Era",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.06906v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction",
+    "date": "2025-12",
+    "url": "https://arxiv.org/abs/2512.18239v3",
+    "category": "adoption-behavior",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The Future of Food: How Artificial Intelligence is Transforming Food Manufacturing",
+    "date": "2025-11",
+    "url": "https://arxiv.org/abs/2511.15728v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Empa: An AI-Powered Virtual Mentor for Developing Global Collaboration Skills in HPC Education",
+    "date": "2025-11",
+    "url": "https://arxiv.org/abs/2511.17669v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Cultivating Multidisciplinary AI Workforce Development on iTiger GPU Cluster: Practices and Challenges",
+    "date": "2025-04",
+    "url": "https://arxiv.org/abs/2504.14786v3",
+    "category": "workforce-upskilling",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Personalized Education with Generative AI and Digital Twins: VR, RAG, and Zero-Shot Sentiment Analysis for Industry 4.0 Workforce Development",
+    "date": "2025-02",
+    "url": "https://arxiv.org/abs/2502.14080v1",
+    "category": "workforce-upskilling",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Contrasting Attitudes Towards Current and Future AI Applications for Computerised Interpretation of ECG: A Clinical Stakeholder Interview Study",
+    "date": "2024-10",
+    "url": "https://arxiv.org/abs/2410.16879v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Integration of AI Training in the Field of Higher Education in the Republic of Bulgaria: An Overview",
+    "date": "2024-09",
+    "url": "https://doi.org/10.3390/educsci14101063",
+    "category": "program-evaluation",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "How Novice Programmers Use and Experience ChatGPT when Solving Programming Exercises in an Introductory Course",
+    "date": "2024-07",
+    "url": "https://arxiv.org/abs/2407.20792v1",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI-Assisted X-ray Fracture Detection in Residency Training: Evaluation in Pediatric and Adult Trauma Patients",
+    "date": "2024-03",
+    "url": "https://doi.org/10.3390/diagnostics14060596",
+    "category": "program-evaluation",
+    "subcategory": "method",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Developing AI-powered Training Programs for Employee Upskilling and Reskilling",
+    "date": "2024-01",
+    "url": "https://doi.org/10.52783/jier.v4i2.903",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Effects of applying a multivariate training program on physical fitness and tactical performance in a team sport taught during physical education classes",
+    "date": "2023-11",
+    "url": "https://doi.org/10.3389/fspor.2023.1291342",
+    "category": "program-evaluation",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.14044v1",
+    "category": "workforce-upskilling",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The Impact of AI and Machine Learning on Recruitment, Performance Management and Employee Behavior Prediction",
+    "date": "2026-07",
+    "url": "https://doi.org/10.64388/irev10i1-1720100",
+    "category": "adoption-behavior",
+    "subcategory": "development",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The Rising Unsustainability of AI Graphics Cards Production",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2607.01258v1",
+    "category": "roi-measurement",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   }
+  ],
+  "RQ5": [
+   {
+    "title": "<b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence Playbook, </b><b>Guidance Crosswalk, and Executive </b><b>Poster</b>",
+    "date": "2026-08",
+    "url": "https://doi.org/10.6084/m9.figshare.33137024.v2",
+    "category": "compliance",
+    "subcategory": "development",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "Enterprise AI governance playbook + crosswalk (practitioner toolkit)"
+   },
+   {
+    "title": "EU AI Act: what could AI literacy mean for medical laboratories? – Opinion Paper on behalf of the Section Digital Competence and AI of the German Society for Clinical Chemistry and Laboratory Medicine (DGKL)",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1515/labmed-2025-0223",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "E",
+    "verdict": "include",
+    "reason": "EU AI Act literacy in medical laboratories (DGKL opinion) — ★ sector"
+   },
+   {
+    "title": "AI literacy in healthcare organisations: implementing article 4 of the EU AI Act with M-SHALF",
+    "date": "2026-06",
+    "url": "https://doi.org/10.1038/s44401-026-00104-0",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "M-SHALF healthcare AI literacy framework Art. 4 — ★★ directly on point"
+   },
+   {
+    "title": "Artificial Intelligence Legislation Literacy, Governance Readiness, and Adoption Intentions in Romanian Healthcare: A Cross-Sectional Study",
+    "date": "2026-06",
+    "url": "https://doi.org/10.3390/healthcare14131867",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI legislation literacy + governance readiness Romania healthcare survey — ★"
+   },
+   {
+    "title": "The EU AI Act: implications and compliance guidance for healthcare facilities",
+    "date": "2026-06",
+    "url": "https://doi.org/10.3389/fdgth.2026.1808373",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "EU AI Act compliance guidance healthcare facilities"
+   },
+   {
+    "title": "Article 4 AI Act: AI Literacy",
+    "date": "2025-01",
+    "url": "https://doi.org/10.2139/ssrn.5315986",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "Article 4 AI Act: AI Literacy — title on point, no abstract; needs full text"
+   },
+   {
+    "title": "AI Literacy for Legal AI Systems: A practical approach",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.18006v1",
+    "category": "org-implementation",
+    "subcategory": "application",
+    "tier": "D",
+    "verdict": "include",
+    "reason": "AI literacy for legal AI systems — practical approach"
+   },
+   {
+    "title": "Human-as-Conductor: A Practical AI Literacy Framework for Article 4 of the EU AI Act, with an Extension for Minors",
+    "date": "2026-07",
+    "url": "https://doi.org/10.5281/zenodo.20662495",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI Literacy Under the AI Act: Tracing the Evolution of a Weakened Norm",
+    "date": "2025-06",
+    "url": "https://doi.org/10.31219/osf.io/th7c8_v2",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI Literacy and Other Obligations for the Employer Stemming from the AI Act. Compliance Aspects",
+    "date": "2026-01",
+    "url": "https://doi.org/10.24818/eblj/2025/4/1.05",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "AI Act Evaluation Benchmark: An Open, Transparent, and Reproducible Evaluation Dataset for NLP and RAG Systems",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.09435v1",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Position: EU AI Act's Research Exemptions Can Break the Publication Norms of Major AI Conferences",
+    "date": "2025-06",
+    "url": "https://arxiv.org/abs/2506.03218v2",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The Dilemma of Uncertainty Estimation for General Purpose AI in the EU AI Act",
+    "date": "2024-08",
+    "url": "https://arxiv.org/abs/2408.11249v1",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Workforce Readiness and Article 4 AI Literacy Compliance: Obligations, Programme Design, and Sector-Specific Implementation",
+    "date": "",
+    "url": "https://doi.org/10.2139/ssrn.6852678",
+    "category": "org-implementation",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Da Literacia às Práticas Proibidas: Articulação entre os Artigos 4.º e 5.º do Regulamento da Inteligência Artificial, Heteronomia Decisória Invisível e Rastreabilidade Regulatória",
+    "date": "2026-07",
+    "url": "https://doi.org/10.5281/zenodo.21302954",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE",
+    "date": "2026-05",
+    "url": "https://arxiv.org/abs/2607.21608v1",
+    "category": "compliance",
+    "subcategory": "review",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.21854v1",
+    "category": "compliance",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Defining AI Models and AI Systems: A Framework to Resolve the Boundary Problem",
+    "date": "2026-02",
+    "url": "https://arxiv.org/abs/2603.10023v2",
+    "category": "compliance",
+    "subcategory": "review",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Responsible AI in Business",
+    "date": "2026-01",
+    "url": "https://arxiv.org/abs/2602.13244v1",
+    "category": "org-implementation",
+    "subcategory": "mechanism",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review",
+    "date": "2026-01",
+    "url": "https://arxiv.org/abs/2601.00990v3",
+    "category": "compliance",
+    "subcategory": "review",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Industrial AI Robustness Card for Time Series Models",
+    "date": "2025-12",
+    "url": "https://arxiv.org/abs/2512.11868v2",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "The notion of AI literacy in the context of employment",
+    "date": "2025-10",
+    "url": "https://doi.org/10.56461/rrsp2502_01",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Futurity as Infrastructure: A Techno-Philosophical Interpretation of the AI Lifecycle",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2508.15680v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Adapting to Regulation: The EU AI Act's Influence on AI Adoption in Dutch Banking",
+    "date": "2025-06",
+    "url": "https://www.utupub.fi/handle/10024/182458",
+    "category": "compliance",
+    "subcategory": "theory",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   },
+   {
+    "title": "Mapping Industry Practices to the EU AI Act's GPAI Code of Practice Safety and Security Measures",
+    "date": "2025-04",
+    "url": "https://arxiv.org/abs/2504.15181v2",
+    "category": "compliance",
+    "subcategory": "systems",
+    "tier": "?",
+    "verdict": "include",
+    "reason": "refill (targeted query)"
+   }
+  ]
+ }
+}

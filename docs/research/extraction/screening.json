@@ -1,0 +1,765 @@
+{
+ "note": "Verdicts assigned by abstract-level screening (LLM-assisted) against PROTOCOL.md criteria; tiers provisional until full-text review.",
+ "judgments": {
+  "RQ1": {
+   "1": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "GenAI cognitive dissonance in academic writing — construct evidence"
+   },
+   "2": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Integrative developmental dialectical framework for teacher education"
+   },
+   "3": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "DALF developmental framework counselor education"
+   },
+   "4": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Construct rationale + curriculum maturity framework (preprint)"
+   },
+   "5": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "CARE-KNOW-DO + UNESCO framework empirical validation, underserved communities"
+   },
+   "6": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Psychometric AI literacy framework, 517 participants, 3 studies"
+   },
+   "7": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "TPACK-SWOT teacher preparation study"
+   },
+   "8": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "AI ethics literacy framework development + validation"
+   },
+   "9": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Self-report vs objective AI literacy measures comparison"
+   },
+   "10": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "FALCON-AI faculty scale development/validation"
+   },
+   "11": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "LLM fallacy — misattribution mechanism, construct-relevant"
+   },
+   "12": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "UNESCO AI competency framework (context)"
+   },
+   "13": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI Citizenship Framework scope+sequence"
+   },
+   "14": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Dual framework K-12 AI intuition → literacy"
+   },
+   "15": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "AI literacy → AI fluency developmental framework HE"
+   },
+   "16": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Rhetorical AI literacy conceptual framework"
+   },
+   "17": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Peer-review report of an SLR — not a study"
+   },
+   "18": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "K-12 framework + learning progression + task design principles"
+   },
+   "19": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Peer-review report v2 — not a study"
+   },
+   "20": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "UNIV 182 prerequisite-free AI literacy course"
+   },
+   "21": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "GenAI competitive advantage — firm-level literacy construct"
+   },
+   "22": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "BenchJack agent benchmarks — not literacy measurement"
+   },
+   "23": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Technological isomorphism elementary math case study"
+   },
+   "24": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Epistemic AI literacy co-programming study"
+   },
+   "25": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Student mental models of GenAI"
+   },
+   "26": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Reading-literacy framework — not AI literacy"
+   },
+   "27": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Digital assessment practices Romania — no AI literacy focus"
+   },
+   "28": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "ChatGPT metaphors for critical AI literacies"
+   },
+   "29": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "AI Thinking framework (practice)"
+   },
+   "30": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "AI Mindset framework empirically tested"
+   }
+  },
+  "RQ2": {
+   "1": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Multi-organization upskilling program, UTAUT — ★ implementation evidence"
+   },
+   "2": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "MSME Canva AI + ChatGPT training case report"
+   },
+   "3": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "HS teacher AI Methods PD experience report"
+   },
+   "4": {
+    "verdict": "include",
+    "tier": "B",
+    "reason": "GenAI adoption 35 European countries, task content"
+   },
+   "5": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "LLMs for content creation — not AI literacy training"
+   },
+   "6": {
+    "verdict": "include",
+    "tier": "B",
+    "reason": "AI Adoption and Workplace Training (panel econometrics)"
+   },
+   "7": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Co-designing AI literacy curriculum elementary (design thinking)"
+   },
+   "8": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Poster only — no full text"
+   },
+   "9": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Visual convergence design curriculum with GenAI (KR)"
+   },
+   "10": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Vietnam curriculum labor-market aligned"
+   },
+   "11": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Digital capabilities 9 countries cross-sectional (health cities)"
+   },
+   "12": {
+    "verdict": "include",
+    "tier": "B",
+    "reason": "GenAI adoption + higher-order skills (job postings)"
+   },
+   "13": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Bridging the AI skills gap (UK upskilling study)"
+   },
+   "14": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI in HR: recruitment, performance, employee development"
+   },
+   "15": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "ChatGPT in CS education — AI as learning tool, not literacy program"
+   },
+   "16": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Long-term effects of AI-integrated training (IT sector)"
+   },
+   "17": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "SME AI adoption + decision-making (Nigeria survey)"
+   },
+   "18": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Technostress, training, well-being in manufacturing SMEs — ★ conditions"
+   },
+   "19": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "AI governance for workforce development (reskilling conceptual)"
+   },
+   "20": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Enterprise AI upskilling at scale (Citigroup 175k) — ★ practitioner"
+   },
+   "21": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Methodology proposal for comparative study — no findings"
+   },
+   "22": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Intelligence-based AI literacy curriculum primary schools"
+   },
+   "23": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Sustainable AI literacy HE (awareness, ethics, curriculum)"
+   },
+   "24": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Basic AI literacy as pre-PAF foundation (business education)"
+   },
+   "25": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Curriculum design principles junior primary"
+   },
+   "26": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI ethics across computing curriculum"
+   },
+   "27": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Ethical AI university course (safety, fairness, privacy)"
+   },
+   "28": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI integration challenges design curriculum"
+   },
+   "29": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Upskilling/reskilling framework oil & gas"
+   },
+   "30": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "MSME empowerment consumer satisfaction — AI incidental"
+   }
+  },
+  "RQ3": {
+   "1": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Physical literacy instrument — not AI"
+   },
+   "2": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Nutrition literacy instrument — not AI"
+   },
+   "3": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Nutrition literacy instrument — not AI"
+   },
+   "4": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Korean AI literacy measurement tool development/validation"
+   },
+   "5": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Teacher AI literacy scale (multilingual learners)"
+   },
+   "6": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Poster only"
+   },
+   "7": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "AI Literacy Assessment Instrument dataset (Scopus inventory)"
+   },
+   "8": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Literacy coach appraisal — not AI"
+   },
+   "9": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Generic validity methods paper"
+   },
+   "10": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Instrument for AI courses via comparative self-assessment"
+   },
+   "11": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Generic validity paper"
+   },
+   "12": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "e-Health literacy scale — not AI"
+   },
+   "13": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI-integrated scientific inquiry — not measurement of literacy"
+   },
+   "14": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Medication literacy — not AI"
+   },
+   "15": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "GLAT generative AI literacy assessment test"
+   },
+   "16": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "Questionnaire on AI training for teachers (validation)"
+   },
+   "17": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "OCCULT cyber LLM eval — not literacy"
+   },
+   "18": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "PAIRR peer+AI writing feedback — not literacy measurement"
+   },
+   "19": {
+    "verdict": "duplicate",
+    "tier": "",
+    "reason": "GLAT duplicate of #15 — keep 2025-06 version"
+   },
+   "20": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "MAIL-CS multidimensional scale, N=850 split-sample — ★"
+   },
+   "21": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "SVLAT visualization literacy — not AI"
+   },
+   "22": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "EUIA scale: AI use in assessment → literacy (case study)"
+   },
+   "23": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "1984 generic training evaluation guidance"
+   },
+   "24": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Nuclear training program evaluation (1991)"
+   },
+   "25": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "TBMCS training evaluation (2002)"
+   },
+   "26": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "IPDET development evaluation training (2005)"
+   },
+   "27": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "PAR teacher-researcher training (2018)"
+   },
+   "28": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Health training center CIPP evaluation (2019)"
+   },
+   "29": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Kirkpatrick flight attendant evaluation (2021) — framework background only"
+   },
+   "30": {
+    "verdict": "include",
+    "tier": "C",
+    "reason": "SAIL4ALL adult AI literacy scale"
+   }
+  },
+  "RQ4": {
+   "1": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI investment & executive demographics — no training component"
+   },
+   "2": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Phishing triage RCT — security tool"
+   },
+   "3": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "India startup natural experiment — adoption only"
+   },
+   "4": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Digital leadership — no training component"
+   },
+   "5": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "RRC-AI ROI analysis — practitioner cost-benefit; verify source quality"
+   },
+   "6": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Financial sentiment causal forest — unrelated"
+   },
+   "7": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI vs leader feedback — no training"
+   },
+   "8": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Macro-financial stress test — theory"
+   },
+   "9": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI diffusion LMICs — no training"
+   },
+   "10": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "LLM agent personas — no training"
+   },
+   "11": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "DeepSeek adoption FOMO — no training component"
+   },
+   "12": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI adoption & management decisions — no training"
+   },
+   "13": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Agentic economy theory"
+   },
+   "14": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "S&P 500 adoption — background context only"
+   },
+   "15": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "ROI in training & performance improvement (2012) — framework legacy"
+   },
+   "16": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Measuring ROI in training (2024) — framework legacy"
+   },
+   "17": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI feedback vs human — no training"
+   },
+   "18": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Compensation fairness — no training"
+   },
+   "19": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Audit firm AI performance Saudi — no training"
+   },
+   "20": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI-environment paradox — self-efficacy in AI learning tangential"
+   },
+   "21": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Proactivity coaching leadership — no training"
+   },
+   "22": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI on organisational behaviour — review, no training"
+   },
+   "23": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "Org AI adoption → employee learning behavior"
+   },
+   "24": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "NewsNet-SDF finance ML"
+   },
+   "25": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "US census adoption rates — background context"
+   },
+   "26": {
+    "verdict": "include",
+    "tier": "A",
+    "reason": "Meta-analysis augmentation-automation employee outcomes — ★"
+   },
+   "27": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "StaffPro LLM staffing agent"
+   },
+   "28": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Training for Obsolescence — ★ training-trap theory"
+   },
+   "29": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI and jobs review — background context"
+   },
+   "30": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Beliefs about Bots RCT — automation beliefs, no training"
+   }
+  },
+  "RQ5": {
+   "1": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Geo-political risk taxonomy — not literacy operationalization"
+   },
+   "2": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "Enterprise AI governance playbook + crosswalk (practitioner toolkit)"
+   },
+   "3": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Sustainable AI regulation"
+   },
+   "4": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "HH4AI human rights impact assessment — not literacy"
+   },
+   "5": {
+    "verdict": "include",
+    "tier": "E",
+    "reason": "EU AI Act literacy in medical laboratories (DGKL opinion) — ★ sector"
+   },
+   "6": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Position paper regulation vs innovation"
+   },
+   "7": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "M-SHALF healthcare AI literacy framework Art. 4 — ★★ directly on point"
+   },
+   "8": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Compute providers intermediary"
+   },
+   "9": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "XAI regulation — explainability, not literacy"
+   },
+   "10": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Policy cards runtime governance"
+   },
+   "11": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Ethical AI framework philosophy→practice"
+   },
+   "12": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Synthetic media MOOCs"
+   },
+   "13": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "RAD-AI architecture documentation"
+   },
+   "14": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Post-deployment accountability incidents"
+   },
+   "15": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "UGAF-ITS standards harmonization"
+   },
+   "16": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Agent security regulated finance"
+   },
+   "17": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI legislation literacy + governance readiness Romania healthcare survey — ★"
+   },
+   "18": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "AI Act vs MDR certification scope"
+   },
+   "19": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "EU digital regulation Guatemala"
+   },
+   "20": {
+    "verdict": "duplicate",
+    "tier": "",
+    "reason": "Early version of #26 — keep main article"
+   },
+   "21": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Proportionality in AI risk evaluations"
+   },
+   "22": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Smart city accountability gaps (Art. 22)"
+   },
+   "23": {
+    "verdict": "duplicate",
+    "tier": "",
+    "reason": "Supplementary file — dup of #26"
+   },
+   "24": {
+    "verdict": "duplicate",
+    "tier": "",
+    "reason": "Supplementary file — dup of #26"
+   },
+   "25": {
+    "verdict": "duplicate",
+    "tier": "",
+    "reason": "Table file — dup of #26"
+   },
+   "26": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "EU AI Act compliance guidance healthcare facilities"
+   },
+   "27": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "COMPL-AI technical benchmarking — not literacy"
+   },
+   "28": {
+    "verdict": "exclude",
+    "tier": "",
+    "reason": "Article 26 upstream governance gap"
+   },
+   "29": {
+    "verdict": "include",
+    "tier": "?",
+    "reason": "Article 4 AI Act: AI Literacy — title on point, no abstract; needs full text"
+   },
+   "30": {
+    "verdict": "include",
+    "tier": "D",
+    "reason": "AI literacy for legal AI systems — practical approach"
+   }
+  }
+ }
+}

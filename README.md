@@ -14,7 +14,7 @@ organizations and *how to measure* them.
 ## 🎯 Overview
 
 This repository is the evidence base for the AI-literacy research program:
-a corpus of 1,411 papers across 20 AI-literacy disciplines, analyzed with
+a corpus of 4,414 papers across 20 AI-literacy disciplines, analyzed with
 the same taxonomy → momentum → burst → gap pipeline as
 [business-development-research](https://github.com/tobias-weiss-ai-xr/business-development-research)
 and [graph-research](https://github.com/tobias-weiss-ai-xr/graph-research).
@@ -28,21 +28,21 @@ feeding the ALaaS offer, the content site and the learning platform.
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 1,411 |
+| **Papers Analyzed** | 4,414 |
 | **AI-Literacy Disciplines** | 20 |
 | **Time Span** | 1984-2026 |
 | **Research Aspects** | 8 |
 | **Taxonomy Cells** | 160 |
-| **Saturation** | 80.0% (128/160 cells) |
+| **Saturation** | 100.0% (160/160 cells) |
 
 ### Top Evidence Areas
 
-1. **Attitudes, Trust & Acceptance** — 166 papers
-2. **Generative AI Skills** — 153 papers
-3. **AI Literacy Constructs & Models** — 117 papers
-4. **AI Literacy Pedagogy** — 107 papers
-5. **Workforce Upskilling** — 98 papers
-6. **Compliance & AI Act** — 96 papers
+1. **Attitudes, Trust & Acceptance** — 331 papers
+2. **Generative AI Skills** — 308 papers
+3. **AI Literacy Constructs & Models** — 301 papers
+4. **Workforce Upskilling** — 277 papers
+5. **Adoption Behavior & Engagement** — 265 papers
+6. **Tools, Platforms & AI Tutors** — 254 papers
 
 ---
 
@@ -50,39 +50,39 @@ feeding the ALaaS offer, the content site and the learning platform.
 
 | Category | Papers |
 |----------|--------|
-| AI Literacy Constructs & Models | 117 |
-| AI Literacy Pedagogy | 107 |
-| Learning Design & Curriculum | 35 |
-| Assessment & Measurement | 45 |
-| Workforce Upskilling | 98 |
-| Org Implementation & Change | 55 |
-| SME Training & Adoption | 18 |
-| Compliance & AI Act | 96 |
-| K-12 Education | 36 |
-| Higher Education | 64 |
-| Professional & Executive Ed | 11 |
-| Teacher AI Literacy | 55 |
-| Critical & Ethical AI Literacy | 90 |
-| Generative AI Skills | 153 |
-| Attitudes, Trust & Acceptance | 166 |
-| Adoption Behavior & Engagement | 86 |
-| Program Evaluation & Outcomes | 19 |
-| ROI & Business Impact | 74 |
-| Tools, Platforms & AI Tutors | 78 |
-| Lifelong & Self-Directed Learning | 8 |
+| AI Literacy Constructs & Models | 301 |
+| AI Literacy Pedagogy | 238 |
+| Learning Design & Curriculum | 207 |
+| Assessment & Measurement | 152 |
+| Workforce Upskilling | 277 |
+| Org Implementation & Change | 227 |
+| SME Training & Adoption | 198 |
+| Compliance & AI Act | 237 |
+| K-12 Education | 159 |
+| Higher Education | 152 |
+| Professional & Executive Ed | 161 |
+| Teacher AI Literacy | 171 |
+| Critical & Ethical AI Literacy | 212 |
+| Generative AI Skills | 308 |
+| Attitudes, Trust & Acceptance | 331 |
+| Adoption Behavior & Engagement | 265 |
+| Program Evaluation & Outcomes | 177 |
+| ROI & Business Impact | 220 |
+| Tools, Platforms & AI Tutors | 254 |
+| Lifelong & Self-Directed Learning | 167 |
 
 ### Research Aspects (Subcategories)
 
 | Aspect | Papers |
 |--------|--------|
-| Theory | 115 |
-| Mechanism | 149 |
-| Method | 277 |
-| Application | 370 |
-| Development | 40 |
-| Systems & Technology | 309 |
-| Evaluation & Benchmarks | 63 |
-| Reviews & Surveys | 88 |
+| Theory | 423 |
+| Mechanism | 361 |
+| Method | 1095 |
+| Application | 992 |
+| Development | 158 |
+| Systems & Technology | 887 |
+| Evaluation & Benchmarks | 120 |
+| Reviews & Surveys | 378 |
 
 ---
 
@@ -90,10 +90,10 @@ feeding the ALaaS offer, the content site and the learning platform.
 
 1. **continuum** — 6 papers
 2. **micro-learning** — 1 papers
-3. **agentic** — 36 papers
+3. **agentic** — 48 papers
 4. **ai competence** — 6 papers
-5. **avoidance** — 3 papers
-6. **pedagogy** — 31 papers
+5. **small business** — 5 papers
+6. **article 4** — 6 papers
 
 ## 📈 Category Momentum (Last 12 Months)
 
@@ -101,12 +101,12 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 
 | Category | Total | Last 12m | Growth | 12-m share |
 |----------|------:|---------:|-------:|-----------:|
-| ROI & Business Impact | 74 | 40 | +207.7% | 54% |
-| AI Literacy Pedagogy | 107 | 68 | +195.7% | 64% |
-| Adoption Behavior & Engagement | 86 | 51 | +200.0% | 59% |
-| AI Literacy Constructs & Models | 117 | 68 | +134.5% | 58% |
-| Workforce Upskilling | 98 | 53 | +120.8% | 54% |
-| K-12 Education | 36 | 16 | +128.6% | 44% |
+| ROI & Business Impact | 220 | 130 | +140.7% | 59% |
+| Compliance & AI Act | 237 | 139 | +124.2% | 59% |
+| Adoption Behavior & Engagement | 265 | 123 | +55.7% | 46% |
+| Critical & Ethical AI Literacy | 212 | 100 | +29.9% | 47% |
+| Org Implementation & Change | 227 | 101 | +24.7% | 44% |
+| AI Literacy Pedagogy | 238 | 84 | +29.2% | 35% |
 
 ---
 
@@ -115,14 +115,14 @@ Ranked by output density × year-over-year growth — the strongest leading indi
 Cells with the fewest papers mark the white space this program targets
 (especially `*/development` and `*/evaluation`):
 
-- `ai-literacy-construct/evaluation` — 1 papers
-- `ai-literacy-construct/development` — 1 papers
-- `learning-design/theory` — 1 papers
-- `learning-design/review` — 1 papers
-- `workforce-upskilling/evaluation` — 1 papers
-- `sme-training/review` — 1 papers
-- `sme-training/development` — 1 papers
-- `k12-education/theory` — 1 papers
+- `higher-education/development` — 1 papers
+- `org-implementation/evaluation` — 1 papers
+- `lifelong-learning/evaluation` — 1 papers
+- `sme-training/evaluation` — 2 papers
+- `compliance/evaluation` — 2 papers
+- `k12-education/evaluation` — 2 papers
+- `attitudes-trust/evaluation` — 3 papers
+- `learning-design/evaluation` — 3 papers
 
 ---
 
@@ -216,7 +216,7 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 🙏 Acknowledgments
 
-This corpus synthesizes 1,411 papers across 1984-2026 to create the
+This corpus synthesizes 4,414 papers across 1984-2026 to create the
 evidence base for the AI-literacy implementation and evaluation research
 program — and ultimately for better AI-literacy programs everywhere.
 

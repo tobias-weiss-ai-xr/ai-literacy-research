@@ -1,42 +1,43 @@
 # AI-Literacy Paper Landscape Report
 
-**Generated:** 2026-08-11  
-**Corpus:** 504 papers (1984-2026) | 188 arXiv preprints · 316 journal/publisher records
+**Generated:** 2026-08-12  
+**Corpus:** 4,414 papers (1984-2026) | 1,125 arXiv preprints · 3,289 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| AI Literacy Constructs & Models | 118 | 39 | 52 | +33% | 29% |
-| AI Literacy Pedagogy | 107 | 39 | 48 | +23% | 29% |
-| Learning Design & Curriculum | 35 | 7 | 16 | +129% | 7% |
-| Assessment & Measurement | 34 | 10 | 7 | -30% | 3% |
-| Workforce Upskilling | 28 | 11 | 5 | -55% | 5% |
-| Compliance & AI Act | 26 | 4 | 5 | +25% | 3% |
-| Org Implementation & Change | 20 | 8 | 4 | -50% | 3% |
-| Attitudes, Trust & Acceptance | 20 | 4 | 8 | +100% | 4% |
-| Generative AI Skills | 19 | 8 | 11 | +38% | 5% |
-| Program Evaluation & Outcomes | 17 | 1 | 0 | -100% | 0% |
-| SME Training & Adoption | 10 | 8 | 1 | -88% | 1% |
-| Higher Education | 10 | 2 | 4 | +100% | 2% |
-| Professional & Executive Ed | 10 | 0 | 1 | +0% | 0% |
-| Adoption Behavior & Engagement | 10 | 3 | 2 | -33% | 1% |
-| Teacher AI Literacy | 9 | 2 | 5 | +150% | 2% |
-| K-12 Education | 8 | 2 | 1 | -50% | 0% |
-| Critical & Ethical AI Literacy | 8 | 3 | 5 | +67% | 3% |
-| Lifelong & Self-Directed Learning | 8 | 2 | 1 | -50% | 1% |
-| ROI & Business Impact | 7 | 0 | 0 | +0% | 0% |
+| Attitudes, Trust & Acceptance | 331 | 113 | 77 | -32% | 8% |
+| Generative AI Skills | 308 | 106 | 46 | -57% | 5% |
+| AI Literacy Constructs & Models | 301 | 108 | 65 | -40% | 7% |
+| Workforce Upskilling | 277 | 123 | 49 | -60% | 7% |
+| Adoption Behavior & Engagement | 265 | 110 | 67 | -39% | 8% |
+| Tools, Platforms & AI Tutors | 254 | 87 | 30 | -66% | 4% |
+| AI Literacy Pedagogy | 238 | 82 | 50 | -39% | 6% |
+| Compliance & AI Act | 237 | 80 | 108 | +35% | 9% |
+| Org Implementation & Change | 227 | 112 | 52 | -54% | 7% |
+| ROI & Business Impact | 220 | 83 | 88 | +6% | 9% |
+| Critical & Ethical AI Literacy | 212 | 104 | 49 | -53% | 7% |
+| Learning Design & Curriculum | 207 | 53 | 20 | -62% | 2% |
+| SME Training & Adoption | 198 | 96 | 31 | -68% | 4% |
+| Program Evaluation & Outcomes | 177 | 40 | 2 | -95% | 1% |
+| Teacher AI Literacy | 171 | 90 | 24 | -73% | 4% |
+| Lifelong & Self-Directed Learning | 167 | 63 | 17 | -73% | 2% |
+| Professional & Executive Ed | 161 | 36 | 3 | -92% | 1% |
+| K-12 Education | 159 | 55 | 15 | -73% | 2% |
+| Assessment & Measurement | 152 | 61 | 16 | -74% | 2% |
+| Higher Education | 152 | 67 | 32 | -52% | 4% |
 
 ## Research Aspects
 
-- **Theory** (theory): 58 papers (12%) #####
-- **Mechanism** (mechanism): 50 papers (10%) ####
-- **Method** (method): 119 papers (24%) ###########
-- **Application** (application): 136 papers (27%) #############
-- **Development** (development): 14 papers (3%) #
-- **Systems & Technology** (systems): 54 papers (11%) #####
-- **Evaluation & Benchmarks** (evaluation): 30 papers (6%) ##
-- **Reviews & Surveys** (review): 43 papers (9%) ####
+- **Theory** (theory): 423 papers (10%) ####
+- **Mechanism** (mechanism): 361 papers (8%) ####
+- **Method** (method): 1095 papers (25%) ############
+- **Application** (application): 992 papers (22%) ###########
+- **Development** (development): 158 papers (4%) #
+- **Systems & Technology** (systems): 887 papers (20%) ##########
+- **Evaluation & Benchmarks** (evaluation): 120 papers (3%) #
+- **Reviews & Surveys** (review): 378 papers (9%) ####
 
 ## Year Trend
 
@@ -59,82 +60,82 @@
 | 2018 | 11 |
 | 2019 | 4 |
 | 2020 | 1 |
-| 2021 | 2 |
-| 2022 | 8 |
-| 2023 | 15 |
-| 2024 | 46 |
-| 2025 | 153 |
-| 2026 | 176 |
+| 2021 | 19 |
+| 2022 | 188 |
+| 2023 | 445 |
+| 2024 | 1148 |
+| 2025 | 1669 |
+| 2026 | 841 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| continuum | 2 | 2 | 2.12× |
-| agentic | 13 | 15 | 1.84× |
-| transfer | 4 | 5 | 1.69× |
-| outcome | 21 | 27 | 1.65× |
-| workshop | 7 | 9 | 1.65× |
-| prompting | 12 | 16 | 1.59× |
-| ai competence | 3 | 4 | 1.59× |
-| course | 32 | 43 | 1.58× |
-| pedagogy | 23 | 32 | 1.52× |
-| agent | 22 | 31 | 1.5× |
-| trust | 15 | 22 | 1.44× |
-| critical thinking | 14 | 21 | 1.41× |
+| continuum | 6 | 6 | 2.99× |
+| agentic | 48 | 58 | 2.47× |
+| ai competence | 6 | 8 | 2.24× |
+| article 4 | 6 | 9 | 1.99× |
+| agent | 130 | 208 | 1.87× |
+| eu ai act | 46 | 81 | 1.7× |
+| productivity | 57 | 101 | 1.69× |
+| readiness | 48 | 85 | 1.69× |
+| compliance | 46 | 82 | 1.68× |
+| transfer | 17 | 31 | 1.64× |
+| workshop | 22 | 42 | 1.57× |
+| reliance | 43 | 84 | 1.53× |
 
 ## Venue Landscape (Top Publishers)
 
 | Venue | Papers |
 |-------|-------:|
-| Advances in Computational Intelligence and Robotics | 13 |
-| CoRR | 7 |
-| Return on Investment in Training and Performance Improvement Programs | 6 |
-| Reskilling and Upskilling in the Age of AI | 5 |
-| Comput. Educ. Artif. Intell. | 4 |
-| The Executive Guide to Artificial Intelligence | 4 |
-| Bridging Human and Machine: Future Education with Intelligence | 3 |
-| Gamifying AI in Higher Education | 3 |
-| Evaluation and Program Planning | 3 |
-| SSRN Electronic Journal | 3 |
+| SSRN Electronic Journal | 94 |
+| Education and Information Technologies | 58 |
+| Zenodo (CERN European Organization for Nuclear Research) | 58 |
+| Computers and Education Artificial Intelligence | 38 |
+| Frontiers in Education | 37 |
+| Education Sciences | 35 |
+| Advances in educational technologies and instructional design book series | 30 |
+| Lecture notes in computer science | 28 |
+| Frontiers in Psychology | 28 |
+| Advances in computational intelligence and robotics book series | 25 |
 
 ## Top Authors
 
 | Author | Papers |
 |--------|-------:|
-| Ruiwei Xiao | 6 |
-| Shahin Hossain | 6 |
-| Andrew Burgess | 5 |
-| Tawfiq Ammari | 3 |
-| Anuj Gupta | 3 |
-| Aditya Johri | 3 |
-| Yukyeong Song | 3 |
-| Sri Yash Tadimalla | 3 |
-| Astrid Carolus | 3 |
-| Arav Agarwal | 3 |
+| Davy Tsz Kit Ng | 20 |
+| Jac Ka Lok Leung | 12 |
+| Ruiwei Xiao | 11 |
+| Jiahong Su | 11 |
+| Matthew Nyaaba | 9 |
+| Binny Jose | 9 |
+| Satyadhar Joshi | 9 |
+| Thomas K. F. Chiu | 8 |
+| Ching Sing Chai | 8 |
+| Cecilia Ka Yuk Chan | 7 |
 
 ## Hottest Cells
 
-- `ai-literacy-construct/theory` — 28
-- `ai-literacy-pedagogy/application` — 28
-- `ai-literacy-pedagogy/method` — 24
-- `ai-literacy-pedagogy/systems` — 24
-- `assessment/method` — 24
-- `ai-literacy-construct/review` — 22
-- `ai-literacy-construct/systems` — 21
-- `org-implementation/application` — 20
-- `attitudes-trust/mechanism` — 20
-- `ai-literacy-construct/method` — 19
+- `tooling/systems` — 114
+- `attitudes-trust/method` — 90
+- `ai-literacy-pedagogy/method` — 87
+- `org-implementation/application` — 85
+- `compliance/application` — 79
+- `generative-ai-skills/systems` — 78
+- `generative-ai-skills/method` — 75
+- `workforce-upskilling/application` — 72
+- `attitudes-trust/systems` — 72
+- `ai-literacy-construct/method` — 68
 
 ## Thin Cells (White Space)
 
-- `ai-literacy-construct/evaluation` — 1
-- `ai-literacy-construct/development` — 1
-- `learning-design/theory` — 1
-- `learning-design/review` — 1
-- `ai-literacy-pedagogy/development` — 3
-- `ai-literacy-pedagogy/evaluation` — 3
-- `ai-literacy-pedagogy/theory` — 4
-- `learning-design/mechanism` — 4
-- `learning-design/application` — 4
-- `learning-design/method` — 6
+- `higher-education/development` — 1
+- `org-implementation/evaluation` — 1
+- `lifelong-learning/evaluation` — 1
+- `sme-training/evaluation` — 2
+- `compliance/evaluation` — 2
+- `k12-education/evaluation` — 2
+- `attitudes-trust/evaluation` — 3
+- `learning-design/evaluation` — 3
+- `professional-education/evaluation` — 3
+- `ai-literacy-construct/evaluation` — 4

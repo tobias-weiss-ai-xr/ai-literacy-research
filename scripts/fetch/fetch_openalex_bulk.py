@@ -30,26 +30,138 @@ MAILTO = os.environ.get("OPENALEX_MAILTO", "business@tobias-weiss.org")
 
 # One main search term per taxonomy category
 CATEGORY_TERMS = [
-    ('ai-literacy-construct', 'AI literacy framework'),
-    ('ai-literacy-pedagogy', 'AI literacy education'),
-    ('learning-design', 'AI curriculum design'),
-    ('assessment', 'AI literacy assessment'),
-    ('workforce-upskilling', 'AI upskilling workforce'),
-    ('org-implementation', 'AI literacy implementation organization'),
-    ('sme-training', 'AI training small and medium enterprises'),
-    ('compliance', 'EU AI Act literacy'),
-    ('k12-education', 'AI literacy school education'),
-    ('higher-education', 'AI literacy higher education'),
-    ('professional-education', 'professional development AI skills'),
-    ('teacher-ai-literacy', 'teacher AI literacy training'),
-    ('critical-ai-literacy', 'critical AI literacy ethics'),
-    ('generative-ai-skills', 'generative AI skills prompting'),
-    ('attitudes-trust', 'AI self-efficacy acceptance'),
-    ('adoption-behavior', 'AI adoption employee behavior'),
-    ('program-evaluation', 'training program evaluation AI'),
-    ('roi-measurement', 'AI training productivity firms'),
-    ('tooling', 'AI tutor learning platform'),
-    ('lifelong-learning', 'lifelong learning AI skills'),
+    # (category, [query variants]) — multiple search phrasings per category to tap
+    # different literatures (education, HRM/org studies, HCI, regulation, economics).
+    # Expanded 2026-08-12 after the saturation analysis: single queries had reached
+    # their cursor ceiling; variants reach disjoint paper sets that dedupe against
+    # the existing corpus. White-space categories (org-implementation,
+    # program-evaluation, roi-measurement, assessment, compliance) get the most.
+    ('ai-literacy-construct', [
+        'AI literacy framework',
+        'AI competency model',
+        'AI competence dimensions',
+        'artificial intelligence literacy construct',
+        'AI literacy conceptualization',
+    ]),
+    ('ai-literacy-pedagogy', [
+        'AI literacy education',
+        'teaching artificial intelligence competence',
+        'AI literacy instruction',
+        'learning AI literacy pedagogy',
+    ]),
+    ('learning-design', [
+        'AI curriculum design',
+        'AI literacy curriculum development',
+        'AI education course design',
+        'AI training curriculum',
+    ]),
+    ('assessment', [
+        'AI literacy assessment',
+        'AI competence measurement instrument',
+        'AI skills evaluation scale',
+        'AI readiness assessment',
+        'AI literacy test validation',
+    ]),
+    ('workforce-upskilling', [
+        'AI upskilling workforce',
+        'AI reskilling employees',
+        'workforce AI skills training',
+        'AI skilling program',
+    ]),
+    ('org-implementation', [
+        'AI literacy implementation organization',
+        'AI competence development organization',
+        'AI capability building enterprise',
+        'organizational AI training rollout',
+        'workforce AI adoption program',
+    ]),
+    ('sme-training', [
+        'AI training small and medium enterprises',
+        'SME AI adoption skills',
+        'AI literacy small business',
+        'AI training for SMEs',
+    ]),
+    ('compliance', [
+        'EU AI Act literacy',
+        'AI Act compliance training',
+        'AI regulation workforce skills',
+        'artificial intelligence act obligations',
+        'AI literacy regulatory requirement',
+    ]),
+    ('k12-education', [
+        'AI literacy school education',
+        'teaching AI in schools',
+        'AI education secondary school',
+        'AI literacy K-12 curriculum',
+    ]),
+    ('higher-education', [
+        'AI literacy higher education',
+        'AI competence university students',
+        'AI literacy college education',
+        'AI skills undergraduate',
+    ]),
+    ('professional-education', [
+        'professional development AI skills',
+        'AI continuing education professionals',
+        'AI training professional development',
+        'workplace AI professional learning',
+    ]),
+    ('teacher-ai-literacy', [
+        'teacher AI literacy training',
+        'teacher AI competence',
+        'educator AI readiness',
+        'pre-service teacher AI education',
+    ]),
+    ('critical-ai-literacy', [
+        'critical AI literacy ethics',
+        'AI critical thinking skills',
+        'critical evaluation AI outputs',
+        'AI ethics education literacy',
+    ]),
+    ('generative-ai-skills', [
+        'generative AI skills prompting',
+        'LLM prompting competence',
+        'generative AI literacy',
+        'prompt engineering skills',
+    ]),
+    ('attitudes-trust', [
+        'AI self-efficacy acceptance',
+        'attitudes toward artificial intelligence',
+        'AI trust adoption intention',
+        'AI anxiety acceptance',
+    ]),
+    ('adoption-behavior', [
+        'AI adoption employee behavior',
+        'employee AI usage intention',
+        'AI acceptance technology workplace',
+        'AI tool adoption workforce',
+    ]),
+    ('program-evaluation', [
+        'training program evaluation AI',
+        'AI training effectiveness evaluation',
+        'AI upskilling program outcomes',
+        'AI workforce training impact',
+        'AI education program evaluation',
+    ]),
+    ('roi-measurement', [
+        'AI training productivity firms',
+        'AI upskilling return on investment',
+        'AI training business performance',
+        'AI skills economic impact',
+        'AI training cost effectiveness',
+    ]),
+    ('tooling', [
+        'AI tutor learning platform',
+        'AI learning tool education',
+        'intelligent tutoring system',
+        'AI assistant training platform',
+    ]),
+    ('lifelong-learning', [
+        'lifelong learning AI skills',
+        'AI literacy lifelong learning',
+        'continuous learning AI workplace',
+        'adult education artificial intelligence',
+    ]),
 ]
 
 
@@ -194,9 +306,13 @@ def main():
     else:
         terms_list = CATEGORY_TERMS
 
-    for cat, terms in terms_list:
-        print(f"\n=== [{cat}] {terms} ===", flush=True)
-        entries = fetch_category(terms, args.months, args.per_category, args.sleep)
+    for cat, queries in terms_list:
+        if isinstance(queries, str):
+            queries = [queries]
+        print(f"\n=== [{cat}] {len(queries)} query variants ===", flush=True)
+        entries = []
+        for q in queries:
+            entries.extend(fetch_category(q, args.months, args.per_category, args.sleep))
         new = []
         for e in entries:
             m = ARXIV_ID_PATTERN.search(e["url"])

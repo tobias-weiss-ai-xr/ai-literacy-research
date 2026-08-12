@@ -1,34 +1,35 @@
 # Extraction Table — RQ4: What evidence links AI-literacy training to behavior change, productivity and firm performance?
 
-**Protocol:** PROTOCOL.md §3-4 · 25 papers per RQ · tiers provisional
-(abstract-level) until full-text review · one row per study · extend
-TBD columns during full-text extraction; drop rows that fail inclusion
+**Protocol:** PROTOCOL.md §3-4 · 25 papers · tiers provisional
+(abstract-level) until full-text review · rows filled by
+`tools/extract_rows.py` from fetched abstracts (arXiv API / CrossRef);
+TBD cells await full-text extraction; drop rows that fail inclusion
 criteria at full text (record reason in the last column).
 
 | Study ID | Title | Year | Tier | Setting | Population | Construct/Intervention | Measures | Outcomes | Limitations | Notes |
 |----------|-------|------|------|---------|------------|------------------------|----------|----------|-------------|-------|
-| RQ4-01 | PAPER 9: THE PRODUCTIVITY REVOLUTION - ECONOMIC ANALYSIS OF RRC-AI SYSTEM WRITIN | 2025 | E | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-02 | Return on Investment in Training and Performance Improvement Programs | 2012 | E | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-03 | Measuring the Return on Investment in Training and Performance Improvement | 2024 | E | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-04 | The impact of organizational adoption of Artificial Intelligence on employees' l | 2025 | D | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-05 | AI Adoption and Employee Outcomes: A Meta-Analysis of the Augmentation- Automati | 2025 | A | Workplace employees (meta-analysis) | Pooled studies | Augmentation vs automation mechanisms | Meta-analysis | TBD — abstract unavailable | Proceedings abstract | Confirm effect sizes at full text |
-| RQ4-06 | Training for Obsolescence? The AI-Driven Education Trap | 2025 | E | Education systems / policy | Educational planner model | Theoretical model + pre-registered pilot | Theory (model) | Over-investment in AI-teachable skills destined for obsolescence; policy caution | Theory tier E; pilot correlation | Guide 1 risk section — training trap |
-| RQ4-07 | Generative AI in Computer Science Education: Accelerating Python Learning with C | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-08 | Employee Well-being in the Age of AI: Perceptions, Concerns, Behaviors, and Outc | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-09 | RAG-PRISM: A Personalized, Rapid, and Immersive Skill Mastery Framework with Ada | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-10 | Personality-Aware Course Recommender System Using Deep Learning for Technical an | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-11 | The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathw | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-12 | Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and C | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-13 | The Future of Food: How Artificial Intelligence is Transforming Food Manufacturi | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-14 | Empa: An AI-Powered Virtual Mentor for Developing Global Collaboration Skills in | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-15 | Cultivating Multidisciplinary AI Workforce Development on iTiger GPU Cluster: Pr | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-16 | Personalized Education with Generative AI and Digital Twins: VR, RAG, and Zero-S | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-17 | Contrasting Attitudes Towards Current and Future AI Applications for Computerise | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-18 | Integration of AI Training in the Field of Higher Education in the Republic of B | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-19 | How Novice Programmers Use and Experience ChatGPT when Solving Programming Exerc | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-20 | AI-Assisted X-ray Fracture Detection in Residency Training: Evaluation in Pediat | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-21 | Developing AI-powered Training Programs for Employee Upskilling and Reskilling | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-22 | Effects of applying a multivariate training program on physical fitness and tact | 2023 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-23 | AI-accelerated End-to-End Framework for Rapid Professional Upskilling | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-24 | The Impact of AI and Machine Learning on Recruitment, Performance Management and | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ4-25 | The Rising Unsustainability of AI Graphics Cards Production | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| RQ4-01 | PAPER 9: THE PRODUCTIVITY REVOLUTION - ECONOMIC ANALYSIS OF RRC-AI SYSTEM WRITIN | 2025 | E | Organizations (RRC-AI) | Practitioners | RRC-AI System Writing implementation | Economic analysis | Per-practitioner training $12-25K → $150-300K productivity gains | Self-published series; verify source quality | Practitioner ROI model |
+| RQ4-02 | Return on Investment in Training and Performance Improvement Programs | 2012 | E | Organizations | Trainees | ROI methodology for training (Phillips-style) | Framework (2012 book) | ROI measurement approach for training programs | Not AI-specific | ★ framework legacy for Guide 2 |
+| RQ4-03 | Measuring the Return on Investment in Training and Performance Improvement | 2024 | E | Organizations | Trainees | ROI measurement in training | Framework (2024 book chapter) | ROI measurement approach | Not AI-specific | Framework legacy |
+| RQ4-04 | The impact of organizational adoption of Artificial Intelligence on employees' l | 2025 | D | Workplaces | N=303 employees | Org AI adoption → employee learning behavior | Survey + mediation analysis | Job insecurity and job crafting chain-mediate AI adoption → self-directed learning | Cross-sectional | ★ learning-behavior mechanism |
+| RQ4-05 | AI Adoption and Employee Outcomes: A Meta-Analysis of the Augmentation- Automati | 2025 | A | Workplace employees | Pooled studies | Augmentation vs automation mechanisms | Meta-analysis | TBD — abstract unavailable | Proceedings abstract | Confirm effect sizes at full text |
+| RQ4-06 | Training for Obsolescence? The AI-Driven Education Trap | 2025 | E | Education systems / policy | Educational planner model | Theoretical model + pre-registered pilot | Theory (model) | Over-investment in AI-teachable skills destined for obsolescence; policy caution | Theory tier E; pilot correlation | ★ Guide 1 risk section — training trap |
+| RQ4-07 | Generative AI in Computer Science Education: Accelerating Python Learning with C | 2025 | ? | Professional training course | N=86 adult learners | ChatGPT in self-paced Python module (16-week course) | Course evaluation | Python learning outcomes with GenAI integration | Single program | Training evidence |
+| RQ4-08 | Employee Well-being in the Age of AI: Perceptions, Concerns, Behaviors, and Outc | 2024 | ? | HR processes | Employees | AI in recruitment, performance, engagement | Survey/analysis | Well-being, job security, fairness, retention perceptions | — | Context |
+| RQ4-09 | RAG-PRISM: A Personalized, Rapid, and Immersive Skill Mastery Framework with Ada | 2025 | ? | 4IR workforce (older workers) | Workers | Adaptive retrieval skill-mastery framework | Framework | Rapid cost-effective upskilling; persistence | Framework | Tool |
+| RQ4-10 | Personality-Aware Course Recommender System Using Deep Learning for Technical an | 2024 | ? | TVET education | Students | Personality-aware deep-learning recommender | ML study | Learning outcomes, ROI, dropout reduction | — | Tool |
+| RQ4-11 | The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathw | 2026 | ? | Labor market (O*NET) | 35 skills / 263 tasks | SAFI index (4 LLMs, 1,052 model calls) | Benchmark | Skill automation feasibility; obsolescence mapping | Model-based | ★ skill-shift evidence |
+| RQ4-12 | Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and C | 2025 | ? | Collaborative learning | Students | Supportive vs contrarian AI personas (undisclosed teammate) | Experiment | Learner agency and group dynamics | Lab setting | Mechanism |
+| RQ4-13 | The Future of Food: How Artificial Intelligence is Transforming Food Manufacturi | 2025 | ? | Food manufacturing | Workforce | AI adoption review | Review | Skills gap between data scientists and domain experts | — | Context |
+| RQ4-14 | Empa: An AI-Powered Virtual Mentor for Developing Global Collaboration Skills in | 2025 | ? | HPC education | Students | AI-powered virtual mentor (intercultural collaboration) | Case study | Global collaboration skills | — | Tool |
+| RQ4-15 | Cultivating Multidisciplinary AI Workforce Development on iTiger GPU Cluster: Pr | 2025 | ? | University (iTiger GPU cluster) | Researchers/students | GPU cluster + computational support | Case study | Adoption broadening across disciplines | — | Infrastructure |
+| RQ4-16 | Personalized Education with Generative AI and Digital Twins: VR, RAG, and Zero-S | 2025 | ? | 4IR training (URM communities) | Workers | gAI-PT4I4 personalized tutor (VR, RAG) | Case study | Personalized experiential learning | — | Tool |
+| RQ4-17 | Contrasting Attitudes Towards Current and Future AI Applications for Computerise | 2024 | ? | Healthcare (UK) | Clinicians | ECG interpretation AI interviews | Qualitative interviews | Trust, explainability needs | — | Attitudes |
+| RQ4-18 | Integration of AI Training in the Field of Higher Education in the Republic of B | 2024 | ? | Bulgarian HEIs | 163 BA + 239 MA programs | AI training program availability evaluation | Survey | Program coverage in 4 professional fields | — | Landscape |
+| RQ4-19 | How Novice Programmers Use and Experience ChatGPT when Solving Programming Exerc | 2024 | ? | Introductory programming | Students | ChatGPT usage in exercises | Study | Use patterns; implications for assessment | — | Behavior |
+| RQ4-20 | AI-Assisted X-ray Fracture Detection in Residency Training: Evaluation in Pediat | 2024 | ? | Radiology residency | 4 residents / 200 radiographs | AI-assisted fracture detection program | Retrospective evaluation | Resident performance in pediatric + adult trauma | Retrospective | Training evaluation |
+| RQ4-21 | Developing AI-powered Training Programs for Employee Upskilling and Reskilling | 2024 | ? | Organizations | Employees | AI-powered training programs for upskilling/reskilling | Abstract unavailable | TBD | — | Verify via journal |
+| RQ4-22 | Upskilling or deskilling? Measurable role of an AI-supported training for radiol | 2025 | ? | Radiology residency | 8 residents / 150 CXRs | AI-supported training (no-AI vs on-demand vs integrated AI) | Within-subjects experiment | Diagnostic scoring performance; upskilling vs deskilling measurable effect | Small sample; single task | ★ strongest training-outcome design in RQ4 |
+| RQ4-23 | AI-accelerated End-to-End Framework for Rapid Professional Upskilling | 2026 | ? | Enterprise | Workers | 5-stage AI-accelerated upskilling framework | Framework | Time-to-close skills gap (3d 2014 → 36d 2018); production + learning efficiency | Industry validation pending | ★ framework |
+| RQ4-24 | The Impact of AI and Machine Learning on Recruitment, Performance Management and | 2026 | ? | Organizations | Employees | AI/ML in recruitment and performance management | Abstract unavailable | TBD | — | Verify via review journal |
+| RQ4-25 | The Impact of AI-driven Strategy on Salespeople Training and Performance | 2025 | ? | Pharmaceutical sales (Pakistan) | N=178 reps + managers | AI-driven training solutions (customized instructional methods) | SEM-PLS | AI-driven training improves salesperson training and performance | Single country/industry | ★ training→performance evidence |

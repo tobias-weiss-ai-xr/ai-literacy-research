@@ -970,14 +970,14 @@
     "reason": "refill (targeted query)"
    },
    {
-    "title": "Effects of applying a multivariate training program on physical fitness and tactical performance in a team sport taught during physical education classes",
-    "date": "2023-11",
-    "url": "https://doi.org/10.3389/fspor.2023.1291342",
+    "title": "Upskilling or deskilling? Measurable role of an AI-supported training for radiology residents: a lesson from the pandemic",
+    "date": "2025-01",
+    "url": "https://doi.org/10.1186/s13244-024-01893-4",
     "category": "program-evaluation",
-    "subcategory": "application",
+    "subcategory": "mechanism",
     "tier": "?",
     "verdict": "include",
-    "reason": "refill (targeted query)"
+    "reason": "refill (replacement)"
    },
    {
     "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
@@ -1000,14 +1000,14 @@
     "reason": "refill (targeted query)"
    },
    {
-    "title": "The Rising Unsustainability of AI Graphics Cards Production",
-    "date": "2026-06",
-    "url": "https://arxiv.org/abs/2607.01258v1",
-    "category": "roi-measurement",
-    "subcategory": "application",
+    "title": "The Impact of AI-driven Strategy on Salespeople Training and Performance",
+    "date": "2025-02",
+    "url": "https://doi.org/10.32479/irmm.17774",
+    "category": "program-evaluation",
+    "subcategory": "systems",
     "tier": "?",
     "verdict": "include",
-    "reason": "refill (targeted query)"
+    "reason": "refill (replacement)"
    }
   ],
   "RQ5": [

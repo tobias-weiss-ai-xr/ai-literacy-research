@@ -1,34 +1,35 @@
 # Extraction Table — RQ5: How do organizations operationalize EU AI Act Art. 4 literacy obligations in practice?
 
-**Protocol:** PROTOCOL.md §3-4 · 25 papers per RQ · tiers provisional
-(abstract-level) until full-text review · one row per study · extend
-TBD columns during full-text extraction; drop rows that fail inclusion
+**Protocol:** PROTOCOL.md §3-4 · 25 papers · tiers provisional
+(abstract-level) until full-text review · rows filled by
+`tools/extract_rows.py` from fetched abstracts (arXiv API / CrossRef);
+TBD cells await full-text extraction; drop rows that fail inclusion
 criteria at full text (record reason in the last column).
 
 | Study ID | Title | Year | Tier | Setting | Population | Construct/Intervention | Measures | Outcomes | Limitations | Notes |
 |----------|-------|------|------|---------|------------|------------------------|----------|----------|-------------|-------|
 | RQ5-01 | <b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence Pla | 2026 | E | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-02 | EU AI Act: what could AI literacy mean for medical laboratories? – Opinion Paper | 2025 | E | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-03 | AI literacy in healthcare organisations: implementing article 4 of the EU AI Act | 2026 | D | Healthcare organisations | Clinical/admin/technical roles | M-SHALF modular stratified framework | Framework + case | Literacy as governance infrastructure; role-specific knowledge needs | Framework proposal; tier D | ★ most concrete Art. 4 operationalization |
-| RQ5-04 | Artificial Intelligence Legislation Literacy, Governance Readiness, and Adoption | 2026 | D | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-05 | The EU AI Act: implications and compliance guidance for healthcare facilities | 2026 | D | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-06 | Article 4 AI Act: AI Literacy | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-07 | AI Literacy for Legal AI Systems: A practical approach | 2025 | D | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-08 | Human-as-Conductor: A Practical AI Literacy Framework for Article 4 of the EU AI | 2026 | ? | Organizations (Art. 4) | Users | HaC framework: user as conductor of interactive AI | Framework | Practical non-technical literacy framework for Art. 4 | Zenodo document; tier D | Fetch via Zenodo API |
-| RQ5-09 | AI Literacy Under the AI Act: Tracing the Evolution of a Weakened Norm | 2025 | ? | EU law/policy | Legislative text | Analysis of Art. 4 evolution (May 2023 → trilogue) | Legal analysis | Art. 4 pared down from comprehensive obligation; efficacy concerns | Tier E (legal analysis) | Use for compliance narrative |
+| RQ5-02 | EU AI Act: what could AI literacy mean for medical laboratories? – Opinion Paper | 2025 | E | Medical laboratories | Lab staff | Article 4 training-curriculum development guidance | Opinion paper (DGKL) | Interpretation of 'sufficient' AI literacy; curriculum help | Sector opinion | ★ sector operationalization |
+| RQ5-03 | AI literacy in healthcare organisations: implementing article 4 of the EU AI Act | 2026 | D | Healthcare organisations | Clinical/admin/technical roles | M-SHALF modular stratified framework | Framework + case | Literacy as governance infrastructure; role-specific knowledge needs | Framework proposal | ★★ most concrete Art. 4 operationalization |
+| RQ5-04 | Artificial Intelligence Legislation Literacy, Governance Readiness, and Adoption | 2026 | D | Romanian healthcare | N=109 professionals | 20-item AI Legislation Literacy measure + governance readiness | Multicenter cross-sectional survey | Confidence mediates legislation-literacy → adoption link; implementation phenotypes | Cross-sectional; small N | ★★ empirical Art. 4-adjacent evidence |
+| RQ5-05 | The EU AI Act: implications and compliance guidance for healthcare facilities | 2026 | D | Healthcare facilities | Deployers | Qualitative regulatory analysis (deployer obligations) | Regulatory analysis | Transition from legal theory to clinical compliance | Sector-specific | ★ compliance guidance |
+| RQ5-06 | Article 4 AI Act: AI Literacy | 2025 | ? | EU law | — | Art. 4 analysis (SSRN) | Legal analysis | TBD — abstract unavailable | — | SSRN working paper |
+| RQ5-07 | AI Literacy for Legal AI Systems: A practical approach | 2025 | D | Legal/judicial sector | Deployers and providers | AI literacy as compliance tool for legal AI systems | Practical approach | Literacy as legal requirement + ethical enabler | Sector-specific | Sector operationalization |
+| RQ5-08 | Human-as-Conductor: A Practical AI Literacy Framework for Article 4 of the EU AI | 2026 | ? | Organizations (Art. 4) | Users | HaC framework: user as conductor of interactive AI | Framework document | Practical non-technical literacy framework for Art. 4 | Zenodo document | Fetch via Zenodo API |
+| RQ5-09 | AI Literacy Under the AI Act: Tracing the Evolution of a Weakened Norm | 2025 | ? | EU law/policy | Legislative text | Analysis of Art. 4 evolution (May 2023 → trilogue) | Legal analysis | Art. 4 pared down from comprehensive obligation; efficacy concerns | Legal analysis tier E | ★ compliance narrative |
 | RQ5-10 | AI Literacy and Other Obligations for the Employer Stemming from the AI Act. Com | 2026 | ? | EU employers | Companies using AI | Employment-relations obligations analysis | Legal analysis | Obligations timeline; employment perspective | Tier E | Compliance checklist input |
-| RQ5-11 | AI Act Evaluation Benchmark: An Open, Transparent, and Reproducible Evaluation D | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-12 | Position: EU AI Act's Research Exemptions Can Break the Publication Norms of Maj | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-13 | The Dilemma of Uncertainty Estimation for General Purpose AI in the EU AI Act | 2024 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-14 | Workforce Readiness and Article 4 AI Literacy Compliance: Obligations, Programme | n.d. | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-15 | Da Literacia às Práticas Proibidas: Articulação entre os Artigos 4.º e 5.º do Re | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-16 | From Obligation to Specification: A Survey on Validating EU AI Act Requirements  | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-17 | Bounding the Black Box: A Statistical Certification Framework for AI Risk Regula | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-18 | Defining AI Models and AI Systems: A Framework to Resolve the Boundary Problem | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-19 | Responsible AI in Business | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| RQ5-11 | AI Act Evaluation Benchmark: An Open, Transparent, and Reproducible Evaluation D | 2026 | ? | NLP compliance evaluation | Organizations | Open evaluation dataset for AI Act compliance | Benchmark | Semi-automated compliance evaluation | Technical | Technical compliance |
+| RQ5-12 | Position: EU AI Act's Research Exemptions Can Break the Publication Norms of Maj | 2025 | ? | AI research | Researchers | Research-exemption analysis | Position paper | Obligations may break publication norms | Position | Context |
+| RQ5-13 | The Dilemma of Uncertainty Estimation for General Purpose AI in the EU AI Act | 2024 | ? | GPAI providers | Providers | Uncertainty estimation as compliance measure | Analysis | GPAI compliance solutions | Technical | Technical compliance |
+| RQ5-14 | Workforce Readiness and Article 4 AI Literacy Compliance: Obligations, Programme | n.d. | ? | Organizations | Staff | Art. 4 obligations + programme design analysis | Analysis | Workforce readiness gap: 46% of orgs (McKinsey 2025); Art. 26(2) interplay | — | ★★ directly on point |
+| RQ5-15 | Da Literacia às Práticas Proibidas: Articulação entre os Artigos 4.º e 5.º do Re | 2026 | ? | EU law (Portuguese) | — | Art. 4 × Art. 5 articulation analysis | Legal analysis | TBD (abstract unavailable) | Fetch error | Verify via source |
+| RQ5-16 | From Obligation to Specification: A Survey on Validating EU AI Act Requirements  | 2026 | ? | Requirements engineering | Organizations | LLM-based validation tools for AI Act requirements | Mixed-method exploratory | Translation of obligations into testable requirements | Exploratory | Technical |
+| RQ5-17 | Bounding the Black Box: A Statistical Certification Framework for AI Risk Regula | 2026 | ? | High-risk AI | — | Statistical certification framework | Theory | Quantitative 'acceptable risk' definition | Technical | Technical |
+| RQ5-18 | Defining AI Models and AI Systems: A Framework to Resolve the Boundary Problem | 2026 | ? | AI value chain | — | Model/system boundary framework (896 papers review) | Systematic review | Definitional lineages; provider/deployer obligations | Review | Context |
+| RQ5-19 | Responsible AI in Business | 2026 | ? | SMEs | SMEs | Responsible AI: 4 focal areas (compliant, comprehensible, sustainable, data-sovereign) | Framework | Legally compliant AI operations for SMEs | Framework | ★ SME governance |
 | RQ5-20 | Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound  | 2026 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-21 | Industrial AI Robustness Card for Time Series Models | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-22 | The notion of AI literacy in the context of employment | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-23 | Futurity as Infrastructure: A Techno-Philosophical Interpretation of the AI Life | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-24 | Adapting to Regulation: The EU AI Act's Influence on AI Adoption in Dutch Bankin | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
-| RQ5-25 | Mapping Industry Practices to the EU AI Act's GPAI Code of Practice Safety and S | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| RQ5-21 | Industrial AI Robustness Card for Time Series Models | 2025 | ? | Industrial time-series | Practitioners | IARC-TS robustness card protocol | Protocol | Drift/uncertainty/stress mapping to EU AI Act documentation | Protocol | Technical |
+| RQ5-22 | The notion of AI literacy in the context of employment | 2025 | ? | Employers | Workforce | AI literacy obligation analysis (employment perspective) | Analysis | Upskilling + reskilling as multifaceted requirement | — | ★★ employment literacy |
+| RQ5-23 | Futurity as Infrastructure: A Techno-Philosophical Interpretation of the AI Life | 2025 | ? | AI lifecycle | — | Techno-philosophical AI Act interpretation | Conceptual | Recursive value chains in data lifecycle | Conceptual | Context |
+| RQ5-24 | Adapting to Regulation: The EU AI Act's Influence on AI Adoption in Dutch Bankin | 2025 | ? | Dutch organizations | Organizations | EU AI Act influence on AI adoption | Thesis (utupub) | TBD — abstract unavailable | — | Verify via UTU Pub |
+| RQ5-25 | Mapping Industry Practices to the EU AI Act's GPAI Code of Practice Safety and S | 2025 | ? | GPAI providers | Leading AI companies | GPAI Code of Practice Safety/Security comparison | Report | Commitments II.1-II.16 vs industry practice | Report | Technical |

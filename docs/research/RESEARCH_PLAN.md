@@ -79,7 +79,7 @@ arXiv + CrossRef/DBLP/EuropePMC. Fine-grained OpenAlex refresh
 credits/day free budget (10 credits per page, resets at midnight UTC);
 the weekly CI discovery job keeps the arXiv side fresh automatically.
 | **1 — Mapping** (done) | Cell-level map of the 6 target categories; 25–40 papers shortlisted per RQ | `docs/research/mapping_review.md` | shortlist table complete |
-| **2 — Extraction** (in progress) | Abstract screening done: 72/150 included, 73 excluded, 5 dupes; refilled to 25/RQ (`docs/research/extraction/screening_report.md`); full-text reading of the 125 priority studies next | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
+| **2 — Extraction** (in progress) | Abstract screening done: 72/150 included, refilled to 25/RQ (`docs/research/extraction/screening_report.md`); evidence tables `rq1-5.md` created, 17 key studies pre-extracted; 109 rows await full-text extraction | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
 | **3 — Synthesis A: Implementation Guide** | RQ1+RQ2: construct model + decision framework + implementation playbook | **Guide 1** (`docs/research/guide_implementation.md`) | expert review (2 readers) |
 | **4 — Synthesis B: Evaluation Guide** | RQ3+RQ4+RQ5: measurement + Kirkpatrick-style framework + business-case design | **Guide 2** (`docs/research/guide_evaluation.md`) | expert review |
 | **5 — Instrument spec** | Task-oriented AI-literacy assessment (occupation-aligned, levels 1–4) informed by RQ3 | `docs/research/assessment_spec.md` | pilot in ALaaS cohort |

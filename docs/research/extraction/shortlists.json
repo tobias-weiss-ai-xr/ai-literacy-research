@@ -1,0 +1,2346 @@
+{
+ "generated": "2026-08-12",
+ "per_rq": 30,
+ "rqs": {
+  "RQ1": {
+   "question": "Which conceptualizations and stage models of AI literacy exist, and which have empirical support?",
+   "categories": [
+    "ai-literacy-construct",
+    "assessment"
+   ],
+   "aspect_boost": {
+    "theory": 2,
+    "review": 1.5,
+    "evaluation": 0.5
+   },
+   "terms": [
+    "conceptual",
+    "framework",
+    "stage",
+    "model",
+    "dimension",
+    "construct",
+    "competence",
+    "taxonomy",
+    "continuum"
+   ]
+  },
+  "RQ2": {
+   "question": "Which implementation strategies for organization-level AI-literacy programs are evidenced, and under which conditions do they work?",
+   "categories": [
+    "org-implementation",
+    "learning-design",
+    "workforce-upskilling",
+    "sme-training"
+   ],
+   "aspect_boost": {
+    "development": 3,
+    "method": 1.5,
+    "application": 1.2
+   },
+   "terms": [
+    "implement",
+    "program",
+    "workplace",
+    "training",
+    "upskilling",
+    "organization",
+    "course",
+    "curriculum",
+    "intervention",
+    "adoption"
+   ]
+  },
+  "RQ3": {
+   "question": "How is AI literacy measured — which instruments exist, with what validity — and which evaluation frameworks apply to programs?",
+   "categories": [
+    "assessment",
+    "program-evaluation"
+   ],
+   "aspect_boost": {
+    "evaluation": 3,
+    "method": 1.5,
+    "development": 1.5
+   },
+   "terms": [
+    "instrument",
+    "measure",
+    "assessment",
+    "scale",
+    "validity",
+    "reliability",
+    "test",
+    "evaluation",
+    "psychometric",
+    "questionnaire"
+   ]
+  },
+  "RQ4": {
+   "question": "What evidence links AI-literacy training to behavior change, productivity and firm performance?",
+   "categories": [
+    "roi-measurement",
+    "program-evaluation",
+    "adoption-behavior"
+   ],
+   "aspect_boost": {
+    "evaluation": 2,
+    "mechanism": 1.5,
+    "development": 1
+   },
+   "terms": [
+    "productivity",
+    "performance",
+    "roi",
+    "return",
+    "firm",
+    "panel",
+    "econometric",
+    "behavior",
+    "impact",
+    "outcome",
+    "adoption"
+   ]
+  },
+  "RQ5": {
+   "question": "How do organizations operationalize EU AI Act Art. 4 literacy obligations in practice?",
+   "categories": [
+    "compliance",
+    "org-implementation"
+   ],
+   "aspect_boost": {
+    "development": 3,
+    "application": 1.5,
+    "evaluation": 1
+   },
+   "terms": [
+    "eu ai act",
+    "article 4",
+    "compliance",
+    "regulation",
+    "literacy",
+    "obligation",
+    "governance",
+    "risk",
+    "ai act",
+    "policy"
+   ]
+  }
+ },
+ "stats": {
+  "RQ1": {
+   "categories": [
+    "ai-literacy-construct",
+    "assessment"
+   ],
+   "pool": 453,
+   "shortlisted": 30,
+   "cat_counts": {
+    "ai-literacy-construct": 26,
+    "assessment": 4
+   },
+   "aspect_counts": {
+    "theory": 13,
+    "review": 7,
+    "mechanism": 2,
+    "application": 4,
+    "systems": 3,
+    "method": 1
+   },
+   "latest": "2026-08"
+  },
+  "RQ2": {
+   "categories": [
+    "org-implementation",
+    "learning-design",
+    "workforce-upskilling",
+    "sme-training"
+   ],
+   "pool": 909,
+   "shortlisted": 30,
+   "cat_counts": {
+    "org-implementation": 5,
+    "sme-training": 6,
+    "learning-design": 11,
+    "workforce-upskilling": 8
+   },
+   "aspect_counts": {
+    "method": 13,
+    "development": 14,
+    "systems": 2,
+    "review": 1
+   },
+   "latest": "2026-06"
+  },
+  "RQ3": {
+   "categories": [
+    "assessment",
+    "program-evaluation"
+   ],
+   "pool": 329,
+   "shortlisted": 30,
+   "cat_counts": {
+    "assessment": 22,
+    "program-evaluation": 8
+   },
+   "aspect_counts": {
+    "evaluation": 20,
+    "method": 8,
+    "application": 1,
+    "systems": 1
+   },
+   "latest": "2026-07"
+  },
+  "RQ4": {
+   "categories": [
+    "roi-measurement",
+    "program-evaluation",
+    "adoption-behavior"
+   ],
+   "pool": 662,
+   "shortlisted": 30,
+   "cat_counts": {
+    "roi-measurement": 18,
+    "adoption-behavior": 12
+   },
+   "aspect_counts": {
+    "mechanism": 10,
+    "evaluation": 5,
+    "systems": 5,
+    "application": 1,
+    "method": 6,
+    "theory": 2,
+    "review": 1
+   },
+   "latest": "2026-07"
+  },
+  "RQ5": {
+   "categories": [
+    "compliance",
+    "org-implementation"
+   ],
+   "pool": 464,
+   "shortlisted": 30,
+   "cat_counts": {
+    "compliance": 28,
+    "org-implementation": 2
+   },
+   "aspect_counts": {
+    "development": 3,
+    "application": 27
+   },
+   "latest": "2026-08"
+  }
+ },
+ "shortlists": {
+  "RQ1": [
+   {
+    "title": "A Conceptual Exploration of Generative AI-Induced Cognitive Dissonance and its Emergence in University-Level Academic Writing",
+    "date": "2025-02",
+    "url": "https://arxiv.org/abs/2502.05698v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Carl Errol Seran",
+     "Myles Joshua Toledo Tan",
+     "Hezerul Abdul Karim"
+    ],
+    "abstract": "The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD). This work explores how GenAI serves as both a trigger and amplifier of CD, as students navigate ethical concerns, academic integrity, and self-efficacy in their writing practices. By synthesizing empirical evidence and theoretical insights, we introduce a hypothetical construct of GenAI-induced CD, illustrating the psychological tension between AI-driven efficiency and the principles of originality, effort, and intellectual ownership. We further discuss strategies to mitigate this dissonance, including reflective pedagogy, AI literacy programs, transparency in GenAI use, and discipline-specific task redesigns. These approaches reinforce critical engagement with AI, fostering a balanced perspective that integrates technological advancements while safeguarding human creativity and learning. Our findings contribute to ongoing discussions on AI in education, self-regulated learning, and ethical AI use, offering a conceptual framework for institutions to develop guidelines that align AI adoption with academic values.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
+    "date": "2026-08",
+    "url": "https://arxiv.org/abs/2608.01705v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Shahin Hossain",
+     "Sima Ahmadi",
+     "Leqi Li"
+    ],
+    "abstract": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We introduce the Responsible AI Literacy in Education (RAIL-Ed) framework, developed through a systematic review and qualitative framework analysis of 67 studies (2023-2025), grounded in critical, pragmatist, sociocultural, and human-centered traditions (Freire, Dewey, Vygotsky, Shneiderman). RAIL-Ed specifies six interdependent pillars: Technical Fluency, Critical Evaluation, Human-AI Collaboration, Contextual Awareness, Ethical Reasoning, and Empowered Agency, marked by three commitments. It is integrative: the absence of any pillar produces a characteristic pedagogical failure. It is developmental: a three-level rubric (Emerging, Competent, Advanced) specifies how each pillar matures across the K-12 teacher-preparation continuum. It is dialectical: the same generative affordance can deepen or displace learning depending on the literacy a teacher brings to it, making the cultivation of that literacy, not the adoption of the tool, the object of design. By treating ethics, equity, and agency as constitutive, RAIL-Ed offers a theoretically grounded basis for curriculum design, teacher education, and policy, aligned with the UNESCO AI Competency Framework for Teachers and the OECD/European Commission AILit Framework. The framework is conceptual, advancing falsifiable propositions for empirical validation.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Artificial Intelligence Literacy in Counselor Education: The Developmental AI Literacy Framework",
+    "date": "",
+    "url": "https://doi.org/10.31234/osf.io/6gcv4_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Leo Gonzalez"
+    ],
+    "abstract": "Artificial intelligence (AI) is transforming counselor education, yet frameworks for preparing counselors-in-training (CITs) to use AI remain limited. This article introduces the developmental AI literacy framework (DALF), a conceptual model integrating developmental theory, professional identity fo",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI-Mediated Relational Competence in Medical Education: A Construct Rationale and Curriculum Maturity Framework (Preprint)",
+    "date": "",
+    "url": "https://doi.org/10.2196/preprints.105459",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [
+     "Robert Joseph McGrath"
+    ],
+    "abstract": "UNSTRUCTURED\n                  Artificial intelligence (AI) is quickly becoming a foundational component of many clinical workflows.  New tools are continually evolving that enable a host of functionalities from ambient documentation to enhanced decision support, assistive diagnostic tools, risk pre",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Fostering Transversal Skills Through Open Schooling Supported by the CARE-KNOW-DO Pedagogical Model and the UNESCO AI Competencies Framework",
+    "date": "2025-03",
+    "url": "https://doi.org/10.1007/s40593-025-00458-w",
+    "category": "assessment",
+    "subcategory": "theory",
+    "authors": [
+     "Alexandra Okada",
+     "Tony Sherborne",
+     "Giorgos Panselinas"
+    ],
+    "abstract": "Abstract This study breaks new ground in educational theory by empirically validating how artificial intelligence (AI) competencies emerge through social learning ecosystems in underserved communities",
+    "tags": [],
+    "venue": "International Journal of Artificial Intelligence in Education"
+   },
+   {
+    "title": "From G-Factor to A-Factor: Establishing a Psychometric Framework for AI Literacy",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.16517v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Ning Li",
+     "Wenming Deng",
+     "Jiatan Chen"
+    ],
+    "abstract": "This research addresses the growing need to measure and understand AI literacy in the context of generative AI technologies. Through three sequential studies involving a total of 517 participants, we establish AI literacy as a coherent, measurable construct with significant implications for education, workforce development, and social equity. Study 1 (N=85) revealed a dominant latent factor - termed the \"A-factor\" - that accounts for 44.16% of variance across diverse AI interaction tasks. Study 2 (N=286) refined the measurement tool by examining four key dimensions of AI literacy: communication effectiveness, creative idea generation, content evaluation, and step-by-step collaboration, resulting in an 18-item assessment battery. Study 3 (N=146) validated this instrument in a controlled laboratory setting, demonstrating its predictive validity for real-world task performance. Results indicate that AI literacy significantly predicts performance on complex, language-based creative tasks but shows domain specificity in its predictive power. Additionally, regression analyses identified several significant predictors of AI literacy, including cognitive abilities (IQ), educational background, prior AI experience, and training history. The multidimensional nature of AI literacy and its distinct factor structure provide evidence that effective human-AI collaboration requires a combination of general and specialized abilities. These findings contribute to theoretical frameworks of human-AI collaboration while offering practical guidance for developing targeted educational interventions to promote equitable access to the benefits of generative AI technologies.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Strategic Integration of AI Chatbots in Physics Teacher Preparation: A TPACK-SWOT Analysis of Pedagogical, Epistemic, and Cybersecurity Dimensions",
+    "date": "2025-07",
+    "url": "https://arxiv.org/abs/2507.14860v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "N. Mohammadipour"
+    ],
+    "abstract": "This study investigates the strategic and epistemically responsible integration of AI-powered chatbots into physics teacher education by employing a TPACK-guided SWOT framework across three structured learning activities. Conducted within a university-level capstone course on innovative tools for physics instruction, the activities targeted key intersections of technological, pedagogical, and content knowledge (TPACK) through chatbot-assisted tasks: simplifying abstract physics concepts, constructing symbolic concept maps, and designing instructional scenarios. Drawing on participant reflections, classroom artifacts, and iterative feedback, the results highlight internal strengths such as enhanced information-seeking behavior, scaffolded pedagogical planning, and support for symbolic reasoning. At the same time, internal weaknesses emerged, including domain-specific inaccuracies, symbolic limitations (e.g., LaTeX misrendering), and risks of overreliance on AI outputs. External opportunities were found in promoting inclusive education, multilingual engagement, and expanded zones of proximal development (ZPD), while external threats included prompt injection risks, institutional access gaps, and cybersecurity vulnerabilities. By extending existing TPACK-based models with constructs such as AI literacy, prompt-crafting competence, and epistemic verification protocols, this research offers a theoretically grounded and practically actionable roadmap for embedding AI in STEM teacher preparation. The findings affirm that, when critically scaffolded, AI chatbots can support metacognitive reflection, ethical reasoning, and instructional innovation in physics education if implementation is paired with digital fluency training and institutional support.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "A framework for AI ethics literacy: development, validation, and its role in fostering students’ self-rated learning competence",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1038/s41598-025-21977-5",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Junfeng Yang",
+     "Wenyuan Xie",
+     "Jun Ni"
+    ],
+    "abstract": "This study investigates the relationship between AI ethics literacy and students' self-rated learning competence using AI by developing a comprehensive framework of AI ethics literacy comprising knowl",
+    "tags": [],
+    "venue": "Scientific Reports"
+   },
+   {
+    "title": "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures",
+    "date": "2026-01",
+    "url": "https://arxiv.org/abs/2601.06101v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Shan Zhang",
+     "Ruiwei Xiao",
+     "Anthony F. Botelho"
+    ],
+    "abstract": "The widespread adoption of Artificial Intelligence (AI) in K-12 education highlights the need for psychometrically-tested measures of teachers' AI literacy. Existing work has primarily relied on either self-report (SR) or objective-based (OB) assessments, with few studies aligning the two within a shared framework to compare perceived versus demonstrated competencies or examine how prior AI literacy experience shapes this relationship. This gap limits the scalability of learning analytics and the development of learner profile-driven instructional design. In this study, we developed and evaluated SR and OB measures of teacher AI literacy within the established framework of Concept, Use, Evaluate, and Ethics. Confirmatory factor analyses support construct validity with good reliability and acceptable fit. Results reveal a low correlation between SR and OB factors. Latent profile analysis identified six distinct profiles, including overestimation (SR &gt; OB), underestimation (SR &lt; OB), alignment (SR close to OB), and a unique low-SR/low-OB profile among teachers without AI literacy experience. Theoretically, this work extends existing AI literacy frameworks by validating SR and OB measures on shared dimensions. Practically, the instruments function as diagnostic tools for professional development, supporting AI-informed decisions (e.g., growth monitoring, needs profiling) and enabling scalable learning analytics interventions tailored to teacher subgroups.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Development and Validation of a Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale for Higher Education",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.20220v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Yukyeong Song",
+     "Hyunjoo Moon",
+     "Hyewon Yang"
+    ],
+    "abstract": "The integration of artificial intelligence (AI) in higher education underscores the growing importance of faculty AI literacy and competency across teaching, research, and service. Existing AI literacy instruments, however, primarily target the general public, students, or K-12 teachers, and therefore lack the role-embedded indicators and psychometric validation needed for scalable assessment among university faculty. Grounded in the Critical Tech-resilient Literacies (CTRL) framework, this study develops and validates the Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale as a concise and practically deployable tool for higher education contexts. Using a theory-driven development process, we generated an initial pool of 43 items mapped to three literacies (functional, evaluative, and ethical literacy) and situated them across four faculty work domains (general, teaching, research, service/administration), creating a 3 x 4 framework. Content validation was conducted through structured interviews with four subject-matter experts, supplemented by a GPT-based reviewer to triangulate ratings of clarity, relevance, and necessity, yielding refined 39 items for pilot testing. Pilot testing involved 269 valid responses, which were analyzed using confirmatory factor analysis (CFA). CFA evaluated the theoretically specified structure, followed by item reduction to minimize respondent burden while preserving content coverage. The final 23-item FALCON-AI demonstrated good model fit for the AI Literacy x Faculty Work measurement and strong reliability. This study presents a validated FALCON-AI scale with good reliability and validity, offering a refined practical instrument for assessing faculty AI in higher education.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.14807v2",
+    "category": "ai-literacy-construct",
+    "subcategory": "mechanism",
+    "authors": [
+     "Hyunwoo Kim",
+     "Harin Yu",
+     "Hanau Yi"
+    ],
+    "abstract": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between perceived and actual capability. We argue that the opacity, fluency, and low-friction interaction patterns of LLMs obscure the boundary between human and machine contribution, leading users to infer competence from outputs rather than from the processes that generate them. We situate the LLM fallacy within existing literature on automation bias, cognitive offloading, and human-AI collaboration, while distinguishing it as a form of attributional distortion specific to AI-mediated workflows. We propose a conceptual framework of its underlying mechanisms and a typology of manifestations across computational, linguistic, analytical, and creative domains. Finally, we examine implications for education, hiring, and AI literacy, and outline directions for empirical validation. We also provide a transparent account of human-AI collaborative methodology. This work establishes a foundation for understanding how generative AI systems not only augment cognitive performance but also reshape self-perception and perceived expertise.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "UNESCO's AI Competency Framework",
+    "date": "2024-09",
+    "url": "https://doi.org/10.4018/979-8-3693-0884-4.ch004",
+    "category": "assessment",
+    "subcategory": "theory",
+    "authors": [
+     "A. M. Mutawa",
+     "Sai Sruthi"
+    ],
+    "abstract": "The fast incorporation of artificial intelligence (AI) into many fields demand a thorough strategy toward AI literacy in education. UNESCO's AI competence framework offers a solid basis for arming tea",
+    "tags": [],
+    "venue": "Advances in educational technologies and instructional design book series"
+   },
+   {
+    "title": "School librarians developing AI literacy for an AI-driven future: leveraging the AI Citizenship Framework with scope and sequence",
+    "date": "2024-11",
+    "url": "https://doi.org/10.1108/lhtn-10-2024-0186",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Zakir Hossain"
+    ],
+    "abstract": "Purpose The purpose of this paper is to introduce the artificial intelligence (AI) Citizenship Framework, a model that equips teachers and school library professionals with the tools to develop AI lit",
+    "tags": [],
+    "venue": "Library Hi Tech News"
+   },
+   {
+    "title": "From AI Intuition to AI Literacy: A Dual Framework for K-12 Education",
+    "date": "",
+    "url": "https://doi.org/10.35542/osf.io/6uhj2_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Mehdi Lazar",
+     "Mathieu Beau"
+    ],
+    "abstract": "AI literacy has become a central framework for guiding the integration of artificial intelligence inK-12 education, emphasizing conceptual understanding, practical application, critical evaluation, andethical judgment. These competencies are essential for supporting informed and responsible use of A",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "From AI Literacy to AI Fluency: A Developmental Framework for Higher Education",
+    "date": "",
+    "url": "https://doi.org/10.2139/ssrn.7014818",
+    "category": "ai-literacy-construct",
+    "subcategory": "theory",
+    "authors": [
+     "Aeron Zentner"
+    ],
+    "abstract": "Generative artificial intelligence has moved rapidly into teaching, learning, research, and administrative work, yet the dominant institutional response has centered on AI literacy alone. This conceptual article argues that AI literacy, defined as understanding basic concepts, recognizing tools, per",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Towards Rhetorical AI Literacy. Presenting a Conceptual Framework",
+    "date": "2025-01",
+    "url": "https://doi.org/10.4000/14yaw",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "authors": [
+     "Markus Gottschling"
+    ],
+    "abstract": "This paper is conceptual in nature: it does not propose a fixed framework for a specific learning context; instead, it builds on research in classical and digital rhetoric, competence development, and",
+    "tags": [],
+    "venue": "Argumentation et analyse du discours"
+   },
+   {
+    "title": "Peer Review Report For: Systematic Literature Review (SLR) for the development of a Competence Framework on Entrepreneurship: The case of the EICAA-Competence Framework [version 1; peer review: 1 approved, 1 not approved]",
+    "date": "2025-08",
+    "url": "https://doi.org/10.21956/openreseurope.22073.r56742",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [],
+    "abstract": "",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Preparing K–12 Students With AI Literacy: Proposed Framework, Progression, and Task Design Principles",
+    "date": "2025-11",
+    "url": "https://doi.org/10.64634/46jn1p41",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [
+     "Srijita Chakraburty",
+     "Teresa Ober",
+     "Lei Liu"
+    ],
+    "abstract": "This paper presents a conceptual framework for AI literacy, a hypothesized learning progression, and assessment design principles for advancing AI literacy among K–12 learners. Recognizing the importa",
+    "tags": [],
+    "venue": "ETS Research Report Series"
+   },
+   {
+    "title": "Peer Review Report For: Systematic Literature Review (SLR) for the development of a Competence Framework on Entrepreneurship: The case of the EICAA-Competence Framework [version 2; peer review: 2 approved]",
+    "date": "2025-12",
+    "url": "https://doi.org/10.21956/openreseurope.23653.r65015",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [],
+    "abstract": "",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "From Understanding to Creation: A Prerequisite-Free AI Literacy Course with Technical Depth Across Majors",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2604.09634v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "mechanism",
+    "authors": [
+     "Amarda Shehu"
+    ],
+    "abstract": "Most AI literacy courses for non-technical undergraduates emphasize conceptual breadth over technical depth. This paper describes UNIV 182, a prerequisite-free course at George Mason University that teaches undergraduates across majors to understand, use, evaluate, and build AI systems. The course is organized around five mechanisms: (1) a unifying conceptual pipeline (problem definition, data, model selection, evaluation, reflection) traversed repeatedly at increasing sophistication; (2) concurrent integration of ethical reasoning with the technical progression; (3) AI Studios, structured in-class work sessions with documentation protocols and real-time critique; (4) a cumulative assessment portfolio in which each assignment builds competencies required by the next, culminating in a co-authored field experiment on chatbot reasoning and a final project in which teams build AI-enabled artifacts and defend them before external evaluators; and (5) a custom AI agent providing structured reinforcement outside class. The paper situates this design within a comparative taxonomy of cross-major AI literacy courses and pedagogical traditions. Instructor-coded analysis of student artifacts at four assessment stages documents a progression from descriptive, intuition-based reasoning to technically grounded design with integrated safeguards, reaching the Create level of Bloom's revised taxonomy. To support adoption, the paper identifies which mechanisms are separable, which require institutional infrastructure, and how the design adapts to settings ranging from general AI literacy to discipline-embedded offerings. The course is offered as a documented resource, demonstrating that technical depth and broad accessibility can coexist when scaffolding supports both.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Democratizing Generative AI for Sustainable Competitive Advantage",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2605.27398v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "authors": [
+     "Carlos J. Costa",
+     "Joao Tiago Aparício",
+     "Manuela Aparício"
+    ],
+    "abstract": "As generative artificial intelligence (GenAI) diffuses across industries and becomes broadly accessible, the locus of sustainable competitive advantage shifts from technology ownership toward the quality of employee-level adoption and use. This paper develops a cross-level conceptual framework linking firm-level GenAI investment and governance to individual-level AI democratization, defined as the extent to which employees meaningfully, responsibly, and effectively use GenAI in their daily work. We argue that individual-level AI democratization, grounded in three micro foundations (AI usefulness, ease of use, and AI literacy), mediates the relationship between organizational GenAI investments and sustainable competitive advantage. Drawing on the technology acceptance model, resource-based theory, and emerging empirical evidence on AI productivity effects, we advance six propositions linking perceived usefulness, ease of use, AI literacy, responsible use, and innovation outcomes to organizational transformation and sustained relative performance. The framework provides a measurement scaffold for empirical research and offers managerial guidance on treating GenAI as augmentation infrastructure rather than solely as automation. We conclude by outlining future research directions, including longitudinal and cross-cultural investigations of literacy, governance, and transformation dynamics.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+    "date": "2026-05",
+    "url": "https://arxiv.org/abs/2605.12673v1",
+    "category": "assessment",
+    "subcategory": "application",
+    "authors": [
+     "Hao Wang",
+     "Hanchen Li",
+     "Qiuyang Mang"
+    ],
+    "abstract": "Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without performing the intended task, emerges spontaneously in frontier models without overfitting. We argue that benchmarks must be secure by design. From past incidents of reward hacks, we derive a taxonomy of eight recurring flaw patterns and compile them into the Agent-Eval Checklist for benchmark designers. We condense the insights into BenchJack, an automated red-teaming system that drives coding agents to audit benchmarks and identify possible reward-hacking exploits in a clairvoyant manner. Moreover, we extend BenchJack to an iterative generative-adversarial pipeline that discovers new flaws and patches them iteratively to improve benchmark robustness. We apply BenchJack to 10 popular agent benchmarks spanning software engineering, web navigation, desktop computing, and terminal operations. BenchJack synthesizes reward-hacking exploits that achieve near-perfect scores on most of the benchmarks without solving a single task, surfacing 219 distinct flaws across the eight classes. Moreover, BenchJack's extended pipeline reduces the hackable-task ratio from near 100% to under 10% on four benchmarks without fatal design flaws, fully patching WebArena and OSWorld within three iterations. Our results show that evaluation pipelines have not internalized an adversarial mindset, and that proactive auditing could help close the security gap for the fast-paced benchmarking space.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction,A Case Study of the Compound Line Graph",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2606.09598v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "authors": [
+     "Li Li",
+     "Yu Cao"
+    ],
+    "abstract": "The deep integration of Artificial Intelligence (AI) into elementary mathematics education necessitates a conceptual tool capable of explaining students' cognitive transition from disciplinary knowledge to AI understanding. This study proposes a novel core concept, \"Awareness of Technological Isomorphism, \" defined as a student's metacognitive realization that their own mathematical cognitive operations (e.g., observing trends, inducing patterns, and making predictions) share an underlying logical structure with AI technical operations (e.g., pattern recognition and predictive modeling). This awareness, in turn, facilitates cognitive transfer from disciplinary mathematics to AI comprehension. Underpinned by transfer learning and metacognitive theories, this study clarifies the distinct essence of this concept from traditional \"computational thinking.\" We demonstrate the explanatory power of this framework in two ways: elucidating the mechanism of students' cognitive leap from mathematics to AI, and guiding instructors to identify \"isomorphic interfaces\" within disciplinary curricula. On this basis, a three-stage pedagogical pathway--spanning \"Perception, Comprehension, and Creation\"--is constructed alongside a corresponding evaluation rubric. This framework is empirically validated through a case study based on the \"Compound Line Graph\" lesson from a fifth-grade mathematics textbook in China, offering a highly replicable operational framework for the deep convergence of disciplinary instruction and AI literacy education.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2607.00211v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "authors": [
+     "Mengqian Wu"
+    ],
+    "abstract": "Epistemic thinking plays a central role in students' learning processes when applying generative artificial intelligence (GenAI), particularly in programming contexts where learners must construct queries, evaluate and validate AI-generated outputs, and regulate problem-solving strategies. This study introduces the conceptual framework of Epistemic AI Literacy (EAIL), reframing AI literacy as a process-oriented epistemic phenomenon that emerges through dynamic human-AI interactions across different domains. Drawing on the AIR (epistemic aims, ideals and reliable epistemic processes) framework, this study examines how epistemic aims and epistemic processes are enacted in GenAI-supported co-programming activities and explores scalable approaches for operationalizing these constructs in interaction data. Using a large dialogue dataset of human-AI co-programming, this study identifies observable dimensions of epistemic aims (i.e., mastery-oriented aims) and epistemic processes (i.e., outsourcing, explanation seeking, verification seeking, prompt monitoring, and epistemic justification). The results reveal a prevalent lack of EAIL, with 78.8% of student-GenAI interactions relying on non-mastery-oriented aims and less reliable epistemic strategies like outsourcing and verification-seeking. Conversely, only 11.1% of interactions showed high epistemic engagement, where mastery-oriented aims were coupled with advanced epistemic strategies like epistemic justification in a more reliable epistemic process.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Uncovering Students' Mental Models of Generative Artificial Intelligence",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.11692v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "method",
+    "authors": [
+     "Amrita Ganguly",
+     "Sai Sharanya Garika",
+     "Aditya Johri"
+    ],
+    "abstract": "In this paper we present a study of students' mental models of generative AI (GenAI). A student's mental model of GenAI influences not only how they perceive the technology's capabilities and limitations but also how they choose to integrate it into their academic work. Whether they view it as a collaborative partner, a shortcut to complete tasks, or something in between, depends on how they conceptualize its use. This study addresses the following questions: (I) What mental models do undergraduate students hold about GenAI? and (II) What aspects of conceptual knowledge - declarative, procedural, and conditional - are present in these mental models? Sixty-four concept maps were collected from students enrolled in a course on technology ethics. Students were asked to construct concept maps representing their understanding of GenAI use. The concept maps were analyzed using a structured codebook and the analysis revealed five categories of mental models: technical process based, educational tool based, transition model, consequence aware model, integrated model. Declarative knowledge was most dominant across maps, suggesting that students largely understood GenAI primarily at a surface level - knowing its names, tools, and applications but demonstrate limited procedural understanding of how it works and limited conditional knowledge about when and why it should or should not be used. By identifying students' mental models, we can improve students' AI literacy by designing curriculum and guidelines that improve cognition while ensuring responsible and ethical use.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "A framework of literacy development and how <scp>AI</scp> can transform theory and practice",
+    "date": "2023-06",
+    "url": "https://doi.org/10.1111/bjet.13342",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [
+     "John Sabatini",
+     "Arthur C. Graesser",
+     "John Hollander"
+    ],
+    "abstract": "Abstract We argue in this paper that there is currently no adequate theoretical framework or model that spans the twelve odd year trajectory from non‐reader to proficient reader, nor addresses fine‐gr",
+    "tags": [],
+    "venue": "British Journal of Educational Technology"
+   },
+   {
+    "title": "Digital Assessment: A Survey of Romanian Higher Education Teachers’ Practices and Needs",
+    "date": "2023-12",
+    "url": "https://doi.org/10.3390/educsci14010032",
+    "category": "assessment",
+    "subcategory": "review",
+    "authors": [
+     "Gabriela Grosseck",
+     "Ramona Bran",
+     "Laurențiu Gabriel Țîru"
+    ],
+    "abstract": "Within the European Commission’s Digital Education Action Plan (2021–2027) and the DigCompEdu framework, our research focuses on the competence area of teachers’ assessment practices and needs. We des",
+    "tags": [],
+    "venue": "Education Sciences"
+   },
+   {
+    "title": "Assistant, Parrot, or Colonizing Loudspeaker? ChatGPT Metaphors for Developing Critical AI Literacies",
+    "date": "2024-01",
+    "url": "https://arxiv.org/abs/2401.08711v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "systems",
+    "authors": [
+     "Anuj Gupta",
+     "Yasser Atef",
+     "Anna Mills"
+    ],
+    "abstract": "This study explores how discussing metaphors for AI can help build awareness of the frames that shape our understanding of AI systems, particularly large language models (LLMs) like ChatGPT. Given the pressing need to teach \"critical AI literacy\", discussion of metaphor provides an opportunity for inquiry and dialogue with space for nuance, playfulness, and critique. Using a collaborative autoethnographic methodology, we analyzed metaphors from a range of sources, and reflected on them individually according to seven questions, then met and discussed our interpretations. We then analyzed how our reflections contributed to the three kinds of literacies delineated in Selber's multiliteracies framework: functional, critical, and rhetorical. These allowed us to analyze questions of ethics, equity, and accessibility in relation to AI. We explored each metaphor along the dimension of whether or not it was promoting anthropomorphizing, and to what extent such metaphors imply that AI is sentient. Our findings highlight the role of metaphor reflection in fostering a nuanced understanding of AI, suggesting that our collaborative autoethnographic approach as well as the heuristic model of plotting AI metaphors on dimensions of anthropomorphism and multiliteracies, might be useful for educators and researchers in the pursuit of advancing critical AI literacy.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Thinking: A framework for rethinking artificial intelligence in practice",
+    "date": "2024-08",
+    "url": "https://arxiv.org/abs/2409.12922v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "application",
+    "authors": [
+     "Denis Newman-Griffis"
+    ],
+    "abstract": "Artificial intelligence is transforming the way we work with information across disciplines and practical contexts. A growing range of disciplines are now involved in studying, developing, and assessing the use of AI in practice, but these disciplines often employ conflicting understandings of what AI is and what is involved in its use. New, interdisciplinary approaches are needed to bridge competing conceptualisations of AI in practice and help shape the future of AI use. I propose a novel conceptual framework called AI Thinking, which models key decisions and considerations involved in AI use across disciplinary perspectives. The AI Thinking model addresses five practice-based competencies involved in applying AI in context: motivating AI use in information processes, formulating AI methods, assessing available tools and technologies, selecting appropriate data, and situating AI in the sociotechnical contexts it is used in. A hypothetical case study is provided to illustrate the application of AI Thinking in practice. This article situates AI Thinking in broader cross-disciplinary discourses of AI, including its connections to ongoing discussions around AI literacy and AI-driven innovation. AI Thinking can help to bridge divides between academic disciplines and diverse contexts of AI use, and to reshape the future of AI in practice.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use",
+    "date": "",
+    "url": "https://doi.org/10.31234/osf.io/nkdyp_v1",
+    "category": "ai-literacy-construct",
+    "subcategory": "review",
+    "authors": [
+     "Shuyan Feng",
+     "Martin J. Koch",
+     "Astrid Carolus"
+    ],
+    "abstract": "Artificial intelligence (AI) has emerged as a powerful tool in the educational sector. Researchexamining the factors that facilitate its practical application by teachers has increasedsubstantially. Although empirical studies highlight the importance of psychological factors inshaping engagement wit",
+    "tags": [],
+    "venue": ""
+   }
+  ],
+  "RQ2": [
+   {
+    "title": "From AI Literacy to AI Use: Evidence from a Multi-Organization Upskilling Program",
+    "date": "2026-01",
+    "url": "https://doi.org/10.24251/hicss.2026.518",
+    "category": "org-implementation",
+    "subcategory": "method",
+    "authors": [
+     "Christian Wimmer",
+     "Theresa Treffers",
+     "Isabell Welpe"
+    ],
+    "abstract": "As artificial intelligence (AI) becomes integral to organizational processes, employee adoption emerges as a key determinant of a successful implementation. This study draws on the Unified Theory of A",
+    "tags": [],
+    "venue": "Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences"
+   },
+   {
+    "title": "EMPOWERING MSMEs THROUGH CANVA AI AND CHATGPT-BASED PROMOTIONAL CONTENT CREATION TRAINING",
+    "date": "2026-06",
+    "url": "https://doi.org/10.36441/kewirausahaan.v9i1.3851",
+    "category": "sme-training",
+    "subcategory": "development",
+    "authors": [
+     "Muhamad Al Faruq Abdullah",
+     "Eriklex Donald",
+     "Sugih Rahmansyah"
+    ],
+    "abstract": "This community service program aimed to improve the digital marketing capacity of Micro, Small, and Medium Enterprise (MSME) owners through promotional content creation training using ChatGPT and Canv",
+    "tags": [],
+    "venue": "Jurnal Industri Kreatif dan Kewirausahaan"
+   },
+   {
+    "title": "Preparing High School Teachers to Integrate AI Methods into STEM Classrooms",
+    "date": "2022-06",
+    "url": "https://doi.org/10.1609/aaai.v36i11.21557",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Irene Lee",
+     "Beatriz Perret"
+    ],
+    "abstract": "In this experience report, we describe an Artificial Intelligence (AI) Methods in Data Science (DS) curriculum and professional development (PD) program designed to prepare high school teachers with A",
+    "tags": [],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "title": "From Exposure to Adoption: Generative AI in European Workplaces",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.18849v3",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "authors": [
+     "Golo Henseke"
+    ],
+    "abstract": "This study examines who adopts generative AI and whether early adoption has begun to reshape the task content of jobs across 35 European countries. Adoption ranges from under 3% to 25%. Occupational exposure strongly predicts uptake, but AI does not diffuse passively along exposure lines. At the worker level, skills, abstract task content, and employee organisational influence steepen the exposure-adoption gradient; at the country level, so do digitalisation and workplace training. A gender gap persists, concentrated in the most exposed occupations. A shift-share design finds no detectable effect of adoption on worker-reported task restructuring, consistent with an initial integration phase.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Prototyping the use of Large Language Models (LLMs) for adult learning content creation at scale",
+    "date": "2023-06",
+    "url": "https://arxiv.org/abs/2306.01815v1",
+    "category": "learning-design",
+    "subcategory": "method",
+    "authors": [
+     "Daniel Leiker",
+     "Sara Finnigan",
+     "Ashley Ricker Gyllen"
+    ],
+    "abstract": "As Large Language Models (LLMs) and other forms of Generative AI permeate various aspects of our lives, their application for learning and education has provided opportunities and challenges. This paper presents an investigation into the use of LLMs in asynchronous course creation, particularly within the context of adult learning, training and upskilling. We developed a course prototype leveraging an LLM, implementing a robust human-in-the-loop process to ensure the accuracy and clarity of the generated content. Our research questions focus on the feasibility of LLMs to produce high-quality adult learning content with reduced human involvement. Initial findings indicate that taking this approach can indeed facilitate faster content creation without compromising on accuracy or clarity, marking a promising advancement in the field of Generative AI for education. Despite some limitations, the study underscores the potential of LLMs to transform the landscape of learning and education, necessitating further research and nuanced discussions about their strategic and ethical use in learning design.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Adoption and Workplace Training",
+    "date": "2024-01",
+    "url": "https://doi.org/10.2139/ssrn.4990293",
+    "category": "sme-training",
+    "subcategory": "method",
+    "authors": [
+     "Samuel Muehlemann"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "SSRN Electronic Journal"
+   },
+   {
+    "title": "Co-Designing an AI Literacy Curriculum for Elementary Education Using Design Thinking",
+    "date": "2025-01",
+    "url": "https://doi.org/10.59668/2223.22436",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Rubaiyat Asif",
+     "Rabita Shahida",
+     "Deborah Cockerham"
+    ],
+    "abstract": "As artificial intelligence (AI) becomes integral to education, AI literacy is essential for preparing young learners to navigate and critically engage with AI technologies. However, existing AI literacy curricula for elementary education often lack guidelines, educator involvement, and practical les",
+    "tags": [],
+    "venue": "The Journal of Applied Instructional Design"
+   },
+   {
+    "title": "Demystifying AI: Toward a Misconception-Driven Curriculum for Teaching AI Literacy (Poster 48)",
+    "date": "2025-01",
+    "url": "https://doi.org/10.3102/2185074",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Lu Ding"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Proceedings of the 2025 AERA Annual Meeting"
+   },
+   {
+    "title": "A Study on the Visual Convergence Design Curriculum Using Generative AI -Focus on AI Information Design Course-",
+    "date": "2025-02",
+    "url": "https://doi.org/10.35280/kotpm.2025.28.1.18",
+    "category": "learning-design",
+    "subcategory": "method",
+    "authors": [
+     "Aeri Cheon"
+    ],
+    "abstract": "본 연구는 급변하는 기술 환경 속에서 생성형 AI 기술의 교육적 활용 가능성을 탐구하고, 시각디자인 교육 분야에서 이를 효과적으로 활용할 방안을 모색하고자 진행되었다. 특히 AI 정보디자인 교과목을 중심으로 기존 교육과정과의 차이점을 분석하고, 효과적인 교육 방안을 제시하는 것을 목적으로 한다. 연구 방법으로는 문헌조사, 설문조사, 도구 분석을 실시했다. ",
+    "tags": [],
+    "venue": "The Treatise on The Plastic Media"
+   },
+   {
+    "title": "Applying AI Tools to Develop a Curriculum Based on Expected Learning Outcomes and Personalize Learning Program for Students at the University of Languages and International Studies",
+    "date": "2025-02",
+    "url": "https://doi.org/10.12973/eu-jer.14.2.415",
+    "category": "sme-training",
+    "subcategory": "systems",
+    "authors": [
+     "Trang Thi Huyen Le",
+     "Van Ung Dang",
+     "Hoi Khanh Dang"
+    ],
+    "abstract": "The higher education system in Vietnam is undergoing a significant shift from training based on university capacity to training based on labor market demands. In a developing economy dominated by smal",
+    "tags": [],
+    "venue": "European Journal of Educational Research"
+   },
+   {
+    "title": "Assessment of Digital Capabilities by 9 Countries in the Alliance for Healthy Cities Using AI: Cross-Sectional Analysis",
+    "date": "2025-02",
+    "url": "https://doi.org/10.2196/62935",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "authors": [
+     "Hocheol Lee"
+    ],
+    "abstract": "Background: The Alma-Ata Declaration of 1978 initiated a global focus on universal health, supported by the World Health Organization (WHO) through healthy cities policies. The concept emerged at the ",
+    "tags": [],
+    "venue": "JMIR Formative Research"
+   },
+   {
+    "title": "Generative AI Adoption and Higher Order Skills",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.09212v2",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "authors": [
+     "Piyush Gulati",
+     "Arianna Marchetti",
+     "Phanish Puranam"
+    ],
+    "abstract": "We study how Generative AI (GenAI) adoption is reshaping work. While prior studies show that GenAI enhances role-level productivity and task composition, its influence on skills - the fundamental enablers of task execution, and the ultimate basis for employability - is less understood. Using job postings from 596 US public firms that recruited explicitly for GenAI skills (2022-2024), we analyze how GenAI adoption shifts the demand for workers' domain-specific as well as higher-order (domain-agnostic) skills. Our findings reveal that roles with higher demand for cognitive skills are also more likely to explicitly advertise GenAI tool requirements such as ChatGPT, Copilot, etc. Further, a difference-in-differences analysis shows that the demand for social skills within GenAI adopting roles decreases by 4.5 percent post-ChatGPT launch. As cognitive and social skills are both meta-skills - i.e., they support the acquisition of future task-specific skills - our results suggest that the adoption of GenAI may be altering the trajectories of feasible upskilling.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Bridging the AI skills gap",
+    "date": "2025-04",
+    "url": "https://doi.org/10.1787/66d0702e-en",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "authors": [
+     "OECD"
+    ],
+    "abstract": "Artificial intelligence (AI) is becoming increasingly important in the workplace, driving demand for both specialised AI professionals and workers with a more general understanding of AI. Upskilling a",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Artificial Intelligence in HR: Examining the Use of AI in Recruitment, Performance Evaluation, and Employee Development Including Ethical Considerations",
+    "date": "2025-05",
+    "url": "https://doi.org/10.63075/6dbnrj69",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "authors": [
+     "Saniya Ovais",
+     "Hareem Bano",
+     "Ifrah khalid"
+    ],
+    "abstract": "The adoption of Artificial Intelligence in Human Resource procedure is transforming the management of staffing, performance assessment, and facilitating professional development. With rising data conv",
+    "tags": [],
+    "venue": "Annual Methodological Archive Research Review"
+   },
+   {
+    "title": "Generative AI in Computer Science Education: Accelerating Python Learning with ChatGPT",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.20329v1",
+    "category": "workforce-upskilling",
+    "subcategory": "systems",
+    "authors": [
+     "Ian McCulloh",
+     "Pedro Rodriguez",
+     "Srivaths Kumar"
+    ],
+    "abstract": "The increasing demand for digital literacy and artificial intelligence (AI) fluency in the workforce has highlighted the need for scalable, efficient programming instruction. This study evaluates the effectiveness of integrating generative AI, specifically OpenAIs ChatGPT, into a self-paced Python programming module embedded within a sixteen-week professional training course on applied generative AI. A total of 86 adult learners with varying levels of programming experience completed asynchronous Python instruction in Weeks three and four, using ChatGPT to generate, interpret, and debug code. Python proficiency and general coding knowledge was assessed across 30 different assessments during the first 13 weeks of the course through timed, code-based evaluations. A mixed-design ANOVA revealed that learners without prior programming experience scored significantly lower than their peers on early assessments. However, following the completion of the accelerated Python instruction module, these group differences were no longer statistically significant,, indicating that the intervention effectively closed initial performance gaps and supported proficiency gains across all learner groups. These findings suggest that generative AI can support accelerated learning outcomes and reduce entry barriers for learners with no prior coding background. While ChatGPT effectively facilitated foundational skill acquisition, the study also highlights the importance of balancing AI assistance with opportunities for independent problem-solving. The results support the potential of AI-augmented instruction as a scalable model for reskilling in the digital economy.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AN EVALUATION OF THE LONG-TERM EFFECTS OF AI-INTEGRATED TRAINING ON WORKFORCE: UPSKILLING AND TECHNOLOGICAL PREPAREDNESS IN THE IT SECTOR",
+    "date": "2025-06",
+    "url": "https://doi.org/10.36713/epra22398",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "authors": [
+     "V Sadana",
+     "Daram Sowmya"
+    ],
+    "abstract": "Research has proven the fundamental role of AI-integrated training to retain advantageous positions within the fast-transforming IT industry. The rising use of AI tools produces an evidential void reg",
+    "tags": [],
+    "venue": "EPRA International Journal of Multidisciplinary Research (IJMR)"
+   },
+   {
+    "title": "Artificial Intelligence Adoption and Business Decision-Making of Small and Medium Scale Enterprises in Delta State",
+    "date": "2025-07",
+    "url": "https://doi.org/10.35629/5252-0707136147",
+    "category": "sme-training",
+    "subcategory": "development",
+    "authors": [
+     "Afokoghene Onome Michael",
+     "Ohre Fidelis Ohre Fidelis",
+     "Uduezue Elochukwu Jude"
+    ],
+    "abstract": "This study investigated the effect of artificial intelligence (AI) adoption on business decisionmaking in small and medium-scale enterprises (SMEs) in Delta State, Nigeria. The research aims to examin",
+    "tags": [],
+    "venue": "International Journal of Advances in Engineering and Management"
+   },
+   {
+    "title": "The human side of AI adoption: exploring technostress, training and employee well-being in manufacturing SMEs",
+    "date": "2025-09",
+    "url": "https://doi.org/10.1108/jmtm-02-2025-0120",
+    "category": "sme-training",
+    "subcategory": "method",
+    "authors": [
+     "Mingyue Fan",
+     "Sanam Soomro",
+     "Safia Soomro"
+    ],
+    "abstract": "Purpose This study aims to investigate the relationship between technical capability (TC), technostress (TS) and employee well-being (EWB) on artificial intelligence adoption (AIA) in manufacturing sm",
+    "tags": [],
+    "venue": "Journal of Manufacturing Technology Management"
+   },
+   {
+    "title": "AI Governance for Workforce Development: A Conceptual Framework for Reskilling and Upskilling",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1109/ntci67886.2025.11308347",
+    "category": "workforce-upskilling",
+    "subcategory": "method",
+    "authors": [
+     "El Hardouz Yasser",
+     "El Ouadi Abdelmajid"
+    ],
+    "abstract": "Reskilling and upskilling are essential to national digital strategies; however, the adoption of artificial intelligence introduces new risks, including bias, opacity, and the potential for data abuse",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Enterprise AI Upskilling at Scale: Strategic Workforce Transformation in the Age of Generative AI",
+    "date": "2025-10",
+    "url": "https://doi.org/10.70175/hclreview.2020.26.4.4",
+    "category": "workforce-upskilling",
+    "subcategory": "review",
+    "authors": [
+     "Jonathan H. Westover"
+    ],
+    "abstract": "Large-scale AI upskilling initiatives represent a critical organizational response to generative AI adoption across knowledge-intensive sectors. This article examines enterprise strategies for workforce AI capability development, analyzing Citigroup's 175,000-employee prompt engineering training pro",
+    "tags": [],
+    "venue": "Human Capital Leadership Review"
+   },
+   {
+    "title": "Exploring Artificial Intelligence and Culture: Methodology for a comparative study of AI's impact on norms, trust, and problem-solving across academic and business environments",
+    "date": "2025-10",
+    "url": "https://arxiv.org/abs/2510.11530v1",
+    "category": "org-implementation",
+    "subcategory": "method",
+    "authors": [
+     "Matthias Huemmer",
+     "Theophile Shyiramunda",
+     "Michelle J. Cummings-Koether"
+    ],
+    "abstract": "This paper proposes a rigorous framework to examine the two-way relationship between artificial intelligence (AI), human cognition, problem-solving, and cultural adaptation across academic and business settings. It addresses a key gap by asking how AI reshapes cognitive processes and organizational norms, and how cultural values and institutional contexts shape AI adoption, trust, and use over time. We employ a three-wave longitudinal design that tracks AI knowledge, perceived competence, trust trajectories, and cultural responses. Participants span academic institutions and diverse firms, enabling contextual comparison. A dynamic sample continuous, intermittent, and wave-specific respondents mirrors real organizational variability and strengthens ecological validity. Methodologically, the study integrates quantitative longitudinal modeling with qualitative thematic analysis to capture temporal, structural, and cultural patterns in AI uptake. We trace AI acculturation through phases of initial resistance, exploratory adoption, and cultural embedding, revealing distinctive trust curves and problem-solving strategies by context: academic environments tend to collaborative, deliberative integration; business environments prioritize performance, speed, and measurable outcomes. Framing adoption as bidirectional challenges deterministic views: AI both reflects and reconfigures norms, decision-making, and cognitive engagement. As the first comparative longitudinal study of its kind, this work advances methodological rigor and offers actionable foundations for human-centred, culturally responsive AI strategies-supporting evidence-based policies, training, and governance that align cognitive performance, organizational goals, and ethical commitments.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Design of an Intelligence-Based Artificial Intelligence (AI) Literacy Curriculum for Primary Schools",
+    "date": "2026-01",
+    "url": "https://doi.org/10.4018/979-8-3373-0756-5.ch004",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Iris Heung Yue Yim"
+    ],
+    "abstract": "This study proposes an intelligence-based Artificial Intelligence (AI) literacy curriculum tailored for primary education. Grounded in the theory of AI thinking and intelligence-based AI literacy primary education framework, this curriculum employs a generative AI approach, and integrates six compet",
+    "tags": [],
+    "venue": "Advances in Computational Intelligence and Robotics"
+   },
+   {
+    "title": "Sustainable AI Literacy in Higher Education Through Awareness, Ethics, and Curriculum Design",
+    "date": "2026-02",
+    "url": "https://doi.org/10.4018/979-8-3373-4908-4.ch019",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Nadine Jaafarawi",
+     "Rima Al Chaar"
+    ],
+    "abstract": "Artificial intelligence (AI) continues to reshape higher education, influencing how students learn and how educators design and deliver instruction. While its pedagogical and operational effects have been widely discussed, much less attention has been given to its environmental footprint. This chapt",
+    "tags": [],
+    "venue": "Advances in Computational Intelligence and Robotics"
+   },
+   {
+    "title": "Before Professional AI Fluency: Basic AI Literacy as the Pre-PAF Foundation",
+    "date": "2026-06",
+    "url": "https://doi.org/10.5281/zenodo.20754528",
+    "category": "org-implementation",
+    "subcategory": "development",
+    "authors": [
+     "Valeri Chukhlomin"
+    ],
+    "abstract": "The recently proposed two-curriculum framework for non-IT undergraduate business education assumes a foundational element that it intentionally omits from the business curriculum: Basic AI Literacy, i",
+    "tags": [],
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "title": "Curriculum Design Principles for AI Literacy in Junior Primary Education",
+    "date": "2026-06",
+    "url": "https://doi.org/10.4018/979-8-3373-4893-3.ch002",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "William Chakabwata"
+    ],
+    "abstract": "The chapter explores how Artificial Intelligence (AI), has become ubiquitous in our societies today. Although AI has been implemented at tertiary levels of learning there is a gap in many countries in terms of implementing it at primary school. The chapter explores how curriculum design that teaches",
+    "tags": [],
+    "venue": "Advances in Computational Intelligence and Robotics"
+   },
+   {
+    "title": "Integrating AI ethics across the computing curriculum",
+    "date": "2022-08",
+    "url": "https://doi.org/10.4324/9780429329067-13",
+    "category": "learning-design",
+    "subcategory": "method",
+    "authors": [
+     "Iris Howley",
+     "Darakhshan Mir",
+     "Evan M. Peck"
+    ],
+    "abstract": "As the impact of Artificial Intelligence on communities and society grows, so does the importance of training new generations of technologists to design AI with people’s needs and futures at the centr",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Developing a Curriculum for Ethical and Responsible AI: A University Course on Safety, Fairness, Privacy, and Ethics to Prepare Next Generation of AI Professionals",
+    "date": "2023-01",
+    "url": "https://doi.org/10.1007/978-981-99-1767-9_64",
+    "category": "learning-design",
+    "subcategory": "method",
+    "authors": [
+     "Ashraf Alam"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Lecture notes on data engineering and communications technologies"
+   },
+   {
+    "title": "AI Is Not a Wildcard: Challenges for Integrating AI into the Design Curriculum",
+    "date": "2023-04",
+    "url": "https://doi.org/10.1145/3587399.3587410",
+    "category": "learning-design",
+    "subcategory": "development",
+    "authors": [
+     "Rahel Flechtner",
+     "Aeneas Stankowski"
+    ],
+    "abstract": "AI technologies are becoming increasingly important for the design of human-computer interactions and user experiences. Through their specialized knowledge and creative problem-solving skills, designe",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Getting Practical About the Future of Work a Framework for Upskilling and Reskilling Based on Trends Impacting the Oil and Gas Industry",
+    "date": "2023-10",
+    "url": "https://doi.org/10.2118/216540-ms",
+    "category": "workforce-upskilling",
+    "subcategory": "development",
+    "authors": [
+     "Amal Saad",
+     "Alifiya Zohair"
+    ],
+    "abstract": "Abstract The FoW is a forecast of how work, workers, and workplaces will evolve in the upcoming years (SHRM, 2022). According to McKinsey, by 2030, up to 30 to 40 percent of all workers in developed c",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "MSME EMPOWERMENT AND DEVELOPMENT PROGRAM TO INCREASE CONSUMER SATISFACTION",
+    "date": "2023-11",
+    "url": "https://dx.doi.org/10.69965/sahwahita.v1i1.24",
+    "category": "sme-training",
+    "subcategory": "development",
+    "authors": [
+     "Mohamad Toha",
+     "Neng Julfa Habibah"
+    ],
+    "abstract": "The primary aim of this study is to examine the efficacy of an MSME empowerment and development initiative in enhancing consumer satisfaction at the Warung Nasi Hj establishment. Artificial intelligen",
+    "tags": [],
+    "venue": "Sahwahita."
+   }
+  ],
+  "RQ3": [
+   {
+    "title": "Validity and Reliability of Taekwondo Front Kick Physical Literacy Instrument",
+    "date": "2026-06",
+    "url": "https://doi.org/10.37134/jsspj.vol15.1.7.2026",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Nor Fazila Abd Malek"
+    ],
+    "abstract": "Physical literacy is a multidimensional construct encompassing physical competence, motivation, confidence, knowledge, and understanding, representing an individual’s integrated capacity to engage effectively and meaningfully in physical activity. Its assessment is essential in sport science and ath",
+    "tags": [],
+    "venue": "Jurnal Sains Sukan &amp; Pendidikan Jasmani"
+   },
+   {
+    "title": "Evaluation instrument of nutrition literacy on adults (EINLA) A validity and reliability study",
+    "date": "2015-01",
+    "url": "https://doi.org/10.15761/ifnm.1000114",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [],
+    "abstract": "",
+    "tags": [],
+    "venue": "Integrative Food, Nutrition and Metabolism"
+   },
+   {
+    "title": "Establishing Content Validity for the Nutrition Literacy Assessment Instrument",
+    "date": "2013-07",
+    "url": "https://doi.org/10.5888/pcd10.120267",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Heather Gibbs",
+     "Karen Chapman-Novakofski"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Preventing Chronic Disease"
+   },
+   {
+    "title": "A study on the Development and Validity verification of Measurement tool for AI literacy",
+    "date": "2024-04",
+    "url": "https://doi.org/10.37736/kjlr.2024.04.15.2.09",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "",
+     "Hyeonjeong Hwang",
+     "Yongsuk Hwang"
+    ],
+    "abstract": "Social demands for the education and competency empowerment of ‘AI literacy’ are required as AI has been developing. However, there has been little attention to evaluate the AI literacy of Domestic AI users. As a result, the purpose of this study is to develop a validity and reliability Scale of AI ",
+    "tags": [],
+    "venue": "Korean Association for Literacy"
+   },
+   {
+    "title": "Teacher AI Literacy for Multilingual Learner Instruction: Scale Development and Initial Validity Evidence",
+    "date": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-9215817/v1",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Showrav Chowdhury"
+    ],
+    "abstract": "Abstract\n                Higher education institutions require a methodologically sound measure of teachers’ ability to utilize GenAI in the classroom. Current measures focus on general competencies and fail to address the specific pedagogical requirements, instructional judgments and ethical consid",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Validity evidence for an AI-generated instrument measuring  perceived attributes of innovation for ChatGPT (Poster 38)",
+    "date": "2025-01",
+    "url": "https://doi.org/10.3102/ip.25.2191660",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Florian Buelt"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "AERA 2025"
+   },
+   {
+    "title": "AI Literacy Assessment Instrument Dataset",
+    "date": "2026-02",
+    "url": "https://doi.org/10.17632/stcts7czxy",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "CHEN HOE CHAN"
+    ],
+    "abstract": "Scopus database on AI Literacy Assessment Instrument excluded non-english article (filtered by Scopus) as of 31 October 2025.",
+    "tags": [],
+    "venue": "Open MIND"
+   },
+   {
+    "title": "Establishing Content Validity for a Literacy Coach Performance Appraisal Instrument",
+    "date": "2013-07",
+    "url": "https://doi.org/10.1080/19388071.2013.782379",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Mae Lane",
+     "Mary Robbins",
+     "Debra Price"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Literacy Research and Instruction"
+   },
+   {
+    "title": "Measurement Instrument Validity",
+    "date": "2022-01",
+    "url": "https://doi.org/10.62116/msj.2022.31.1.64",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Lynne M. Connelly"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "MEDSURG Nursing"
+   },
+   {
+    "title": "Evaluating AI Courses: A Valid and Reliable Instrument for Assessing Artificial-Intelligence Learning through Comparative Self-Assessment",
+    "date": "2023-09",
+    "url": "https://doi.org/10.3390/educsci13100978",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Matthias Carl Laupichler",
+     "Alexandra Aster",
+     "Jan-Ole Perschewski"
+    ],
+    "abstract": "A growing number of courses seek to increase the basic artificial-intelligence skills (“AI literacy”) of their participants. At this time, there is no valid and reliable measurement tool that can be u",
+    "tags": [],
+    "venue": "Education Sciences"
+   },
+   {
+    "title": "Understanding the Evidence: Validity of a Measurement Instrument",
+    "date": "2024-01",
+    "url": "https://doi.org/10.7257/2168-4626.2024.44.4.184",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Lorraine M. Novosel"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Urologic Nursing"
+   },
+   {
+    "title": "Validation of the Extended e-Health Literacy Scale: Structural validity, Construct validity and Measurement Invariance across Age, Gender, and Education",
+    "date": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-3976152/v1",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Gregor Petrič",
+     "Sara Atanasova"
+    ],
+    "abstract": "Abstract\n        Background\n Given the rapid proliferation and use of online health resources, many of which may be of dubious quality, there is an increasing need to develop e-health literacy skills among the population of internet users. E-health literacy encompasses the skills and abilities neede",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI-Integrated Scientific Inquiry: A Practice-Centered Vision for Science Education",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.21777v1",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "Arne Bewersdorff",
+     "Matias Rojas",
+     "Xiaoming Zhai"
+    ],
+    "abstract": "Artificial intelligence (AI) has become part of scientific inquiry. Scientists use AI to observe and measure phenomena, to identify patterns in data, and to build models. As AI moves into scientific inquiry, it gains relevance for science education: students should learn how AI is changing scientific practices, ideally by engaging in AI-integrated scientific inquiry themselves. How to design such instruction, grounded in authentic scientific practice rather than taught as a standalone topic, remains an open question. In our vision, which we describe in this article, AI is treated as a set of scientific instruments that students use within the scientific practices described by the Next Generation Science Standards. Each instrument is a genuine scientific tool, pedagogically bounded: its controls are simplified while its core scientific function is preserved. The approach has two aims: engaging students in authentic scientific inquiry, and building an understanding of how AI is used in science and where it can mislead (discipline-based AI literacy, DAIL). In the article, we focus on the investigative core of inquiry, namely observing, analyzing, and modeling, and describe one exemplary AI instrument for each: computer vision for observing, clustering for analyzing, and generative modeling for modeling. We argue that every AI instrument in science education should carry a distinct reflection point that prompts critical evaluation of the AI instrument itself. Finally, we describe how agentic AI, operating across the whole inquiry rather than a single practice, could be represented, arguing that students should first build a foundational understanding of scientific inquiry and AI instruments before relying on agentic AI.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "The Development and Psychometric Assessment of Medication Literacy Scale for Hypertensive Patients.",
+    "date": "2020-01",
+    "url": "https://dblp.org/rec/conf/biostec/ZhongLXDSDZ20",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "",
+     "",
+     ""
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "HEALTHINF"
+   },
+   {
+    "title": "GLAT: The generative AI literacy assessment test.",
+    "date": "2025-01",
+    "url": "https://dblp.org/rec/journals/caeai/JinMGY25",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "",
+     "",
+     ""
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Comput. Educ. Artif. Intell."
+   },
+   {
+    "title": "Learning to Teach AI: Design and Validation of a Questionnaire on Artificial Intelligence Training for Teachers",
+    "date": "2025-01",
+    "url": "https://doi.org/10.12973/eu-jer.14.1.249",
+    "category": "program-evaluation",
+    "subcategory": "method",
+    "authors": [
+     "Manuel Reina-Parrado",
+     "Pedro Román Graván",
+     "Carlos Hervás-Gómez"
+    ],
+    "abstract": "This study aims to design, produce, and validate an information collection instrument to evaluate the opinions of teachers at non-university educational levels on the quality of training in artificial",
+    "tags": [],
+    "venue": "European Journal of Educational Research"
+   },
+   {
+    "title": "OCCULT: Evaluating Large Language Models for Offensive Cyber Operation Capabilities",
+    "date": "2025-02",
+    "url": "https://arxiv.org/abs/2502.15797v1",
+    "category": "assessment",
+    "subcategory": "application",
+    "authors": [
+     "Michael Kouremetis",
+     "Marissa Dotter",
+     "Alex Byrne"
+    ],
+    "abstract": "The prospect of artificial intelligence (AI) competing in the adversarial landscape of cyber security has long been considered one of the most impactful, challenging, and potentially dangerous applications of AI. Here, we demonstrate a new approach to assessing AI's progress towards enabling and scaling real-world offensive cyber operations (OCO) tactics in use by modern threat actors. We detail OCCULT, a lightweight operational evaluation framework that allows cyber security experts to contribute to rigorous and repeatable measurement of the plausible cyber security risks associated with any given large language model (LLM) or AI employed for OCO. We also prototype and evaluate three very different OCO benchmarks for LLMs that demonstrate our approach and serve as examples for building benchmarks under the OCCULT framework. Finally, we provide preliminary evaluation results to demonstrate how this framework allows us to move beyond traditional all-or-nothing tests, such as those crafted from educational exercises like capture-the-flag environments, to contextualize our indicators and warnings in true cyber threat scenarios that present risks to modern infrastructure. We find that there has been significant recent advancement in the risks of AI being used to scale realistic cyber threats. For the first time, we find a model (DeepSeek-R1) is capable of correctly answering over 90% of challenging offensive cyber knowledge tests in our Threat Actor Competency Test for LLMs (TACTL) multiple-choice benchmarks. We also show how Meta's Llama and Mistral's Mixtral model families show marked performance improvements over earlier models against our benchmarks where LLMs act as offensive agents in MITRE's high-fidelity offensive and defensive cyber operations simulation environment, CyberLayer.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Peer and AI Review + Reflection (PAIRR): A human-centered approach to formative assessment",
+    "date": "2025-04",
+    "url": "https://doi.org/10.1016/j.compcom.2025.102921",
+    "category": "assessment",
+    "subcategory": "evaluation",
+    "authors": [
+     "Lisa Sperber",
+     "Marit MacArthur",
+     "Sophia Minnillo"
+    ],
+    "abstract": "• AI can offer useful writing feedback when used combined with peer review. • AI and peer responses were often similar and mutually reinforcing. • When AI and peer responses differed, the perspectives",
+    "tags": [],
+    "venue": "Computers & composition/Computers and composition"
+   },
+   {
+    "title": "GLAT: The generative AI literacy assessment test",
+    "date": "2025-06",
+    "url": "https://doi.org/10.1016/j.caeai.2025.100436",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "Yueqiao Jin",
+     "Roberto Martínez‐Maldonado",
+     "Dragan Gašević"
+    ],
+    "abstract": "The rapid integration of generative artificial intelligence (GenAI) technology into education requires precise measurement of GenAI literacy to ensure that learners and educators possess the skills to",
+    "tags": [],
+    "venue": "Computers and Education Artificial Intelligence"
+   },
+   {
+    "title": "Standardized Assessment of Artificial Intelligence Literacy: Development and Validation of the Multidimensional AI Literacy Competency Scale (MAIL-CS)",
+    "date": "2025-09",
+    "url": "https://doi.org/10.6914/aiese.010305",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "Qiang SUN"
+    ],
+    "abstract": "Generative AI’s rapid diffusion demands precise, up-to-date measures of AI literacy. This study develops and validates the Multidimensional AI Literacy Competency Scale (MAIL-CS), designed specifically for the GenAI era. Using a large sample of Chinese university students (N=850) and a split-sample ",
+    "tags": [],
+    "venue": "Artificial Intelligence Education Studies"
+   },
+   {
+    "title": "SVLAT: Scientific Visualization Literacy Assessment Test.",
+    "date": "2026-01",
+    "url": "https://dblp.org/rec/journals/corr/abs-2603-19000",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "",
+     "",
+     ""
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "CoRR"
+   },
+   {
+    "title": "The EUIA scale for the introduction of AI in assessment to foster learners’ AI literacy",
+    "date": "2026-03",
+    "url": "https://doi.org/10.47408/jldhe.vi39.1664",
+    "category": "assessment",
+    "subcategory": "method",
+    "authors": [
+     "Mari Cruz Garcia Vallejo"
+    ],
+    "abstract": "This case study introduces the Escala de Uso de la IA (EUIA; Scale of AI Use), a new framework designed to assess and promote AI literacy. The EUIA scale explicitly links AI usage levels with assessment design and ethical considerations, supporting the development of AI-specific competencies. The fr",
+    "tags": [],
+    "venue": "Journal of Learning Development in Higher Education"
+   },
+   {
+    "title": "Guidance for training program evaluation",
+    "date": "1984-01",
+    "url": "https://doi.org/10.2172/5186660",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [
+     "None None"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "A discrepancy-based methodology for nuclear training program evaluation",
+    "date": "1991-01",
+    "url": "https://doi.org/10.1016/0149-7189(91)90045-i",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [
+     "Jeffrey A. Cantor"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Evaluation and Program Planning"
+   },
+   {
+    "title": "Training Program Review: Theater Battle Management Core Systems (TBMCS) Training Program Evaluation",
+    "date": "2002-05",
+    "url": "https://doi.org/10.21236/ada402336",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [
+     "Marcie E. Zaharee"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "International Program in Development Evaluation Training (IPDET)",
+    "date": "2005-01",
+    "url": "https://doi.org/10.4135/9781412950558.n287",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [],
+    "abstract": "",
+    "tags": [],
+    "venue": "Encyclopedia of Evaluation"
+   },
+   {
+    "title": "Is Participatory Action Research an innovative pedagogical alternative for training teachers as researchers? The training plan and evaluation for normal schools",
+    "date": "2018-06",
+    "url": "https://doi.org/10.1016/j.evalprogplan.2018.03.007",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [
+     "Arely Anahy Paredes-Chi",
+     "María Teresa Castillo-Burguete"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Evaluation and Program Planning"
+   },
+   {
+    "title": "Program Evaluation of Pekanbaru Health Training Center Based on Context Evaluation",
+    "date": "2019-11",
+    "url": "https://doi.org/10.35940/ijrte.b1044.0982s919",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [],
+    "abstract": "Objective of the study was generally to find out and describe the effectiveness of the implementation of health training at the Pekanbarau Health Training Center. This research is evaluation researchbased on the CIPP evaluation model (Context, Input, Process, Product) with the object of research is ",
+    "tags": [],
+    "venue": "International Journal of Recent Technology and Engineering"
+   },
+   {
+    "title": "Flight Attendant Training Program Evaluation Based on Kirkpatrick Model",
+    "date": "2021-06",
+    "url": "https://doi.org/10.11594/nstp.2021.1040",
+    "category": "program-evaluation",
+    "subcategory": "evaluation",
+    "authors": [],
+    "abstract": "",
+    "tags": [],
+    "venue": "Nusantara Science and Technology Proceedings"
+   },
+   {
+    "title": "The Scale of Artificial Intelligence Literacy for all (SAIL4ALL): A Tool for Assessing Knowledge on Artificial Intelligence in All Adult Populations and Settings",
+    "date": "2024-04",
+    "url": "https://doi.org/10.31235/osf.io/bvyku",
+    "category": "assessment",
+    "subcategory": "systems",
+    "authors": [
+     "María T. Soto-Sanfiel",
+     "Ariadna Angulo-Brunet",
+     "Christoph Lutz"
+    ],
+    "abstract": "This study provides evidence of the psychometric quality of a new artificial intelligence (AI) literacy scale for comprehensive assessment of the concept across adult populations, regardless of the se",
+    "tags": [],
+    "venue": ""
+   }
+  ],
+  "RQ4": [
+   {
+    "title": "AI Investment and Firm Productivity: How Executive Demographics Drive Technology Adoption and Performance in Japanese Enterprises",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2508.03757v1",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Tatsuru Kikuchi"
+    ],
+    "abstract": "This paper investigates how executive demographics particularly age and gender influence artificial intelligence (AI) investment decisions and subsequent firm productivity using comprehensive data from over 500 Japanese enterprises spanning from 2018 to 2023. Our central research question addresses the role of executive characteristics in technology adoption, finding that CEO age and technical background significantly predict AI investment propensity. Employing these demographic characteristics as instrumental variables to address endogeneity concerns, we identify a statistically significant 2.4% increase in total factor productivity attributable to AI investment adoption. Our novel mechanism decomposition framework reveals that productivity gains operate through three distinct channels: cost reduction (40% of total effect), revenue enhancement (35%), and innovation acceleration (25%). The results demonstrate that younger executives (below 50 years) are 23% more likely to adopt AI technologies, while firm size significantly moderates this relationship. Aggregate projections suggest potential GDP impacts of 1.15 trillion JPY from widespread AI adoption across the Japanese economy. These findings provide crucial empirical guidance for understanding the human factors driving digital transformation and inform both corporate governance and public policy regarding AI investment incentives.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Randomized Controlled Trials for Phishing Triage Agent",
+    "date": "2025-11",
+    "url": "https://arxiv.org/abs/2511.13860v1",
+    "category": "adoption-behavior",
+    "subcategory": "evaluation",
+    "authors": [
+     "James Bono"
+    ],
+    "abstract": "Security operations centers (SOCs) face a persistent challenge: efficiently triaging a high volume of user-reported phishing emails while maintaining robust protection against threats. This paper presents the first randomized controlled trial (RCT) evaluating the impact of a domain-specific AI agent - the Microsoft Security Copilot Phishing Triage Agent - on analyst productivity and accuracy. Our results demonstrate that agent-augmented analysts achieved up to 6.5 times as many true positives per analyst minute and a 77% improvement in verdict accuracy compared to a control group. The agent's queue prioritization and verdict explanations were both significant drivers of efficiency. Behavioral analysis revealed that agent-augmented analysts reallocated their attention, spending 53% more time on malicious emails, and were not prone to rubber-stamping the agent's malicious verdicts. These findings offer actionable insights for SOC leaders considering AI adoption, including the potential for agents to fundamentally change the optimal allocation of SOC resources.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AIs Structural Impact on Indias Knowledge Intensive Startup Ecosystem: A Natural Experiment in Firm Efficiency and Design",
+    "date": "2025-07",
+    "url": "https://arxiv.org/abs/2507.19775v1",
+    "category": "roi-measurement",
+    "subcategory": "systems",
+    "authors": [
+     "Venkat Ram Reddy Ganuthula",
+     "Ramesh Kuruva"
+    ],
+    "abstract": "This study explores the structural and performance impacts of artificial intelligence (AI) adoption on Indias knowledge intensive startups, spanning information technology, financial technology, health technology, and educational technology, founded between 2016 and 2025. Using a natural experiment framework with the founding year as an exogenous treatment proxy, it examines firm size, revenue productivity, valuation efficiency, and capital utilization across pre AI and AI era cohorts. Findings reveal larger structures and lower efficiency in AI era firms, supported by a dataset of 914 cleaned firms. The study offers insights into AIs transformative role, suggesting that while AI era firms attract higher funding and achieve higher absolute valuations, their per employee productivity and efficiency ratios are lower, potentially indicating earlystage investments in technology that have yet to yield proportional returns. This informs global entrepreneurial strategies while highlighting the need for longitudinal research on sustainability.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Digital leadership’s impact: shaping innovative work behavior through the sequential mediation of AI intentions and career resilience using a dyadic approach",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1108/lodj-01-2025-0023",
+    "category": "adoption-behavior",
+    "subcategory": "mechanism",
+    "authors": [
+     "Qurat-ul-Ain Burhan",
+     "U. Fatima"
+    ],
+    "abstract": "Purpose Digital leadership is essential in navigating the complexities of modern organizations, driving technological adoption and fostering innovation. This study aims to examine how digital leadersh",
+    "tags": [],
+    "venue": "Leadership & Organization Development Journal"
+   },
+   {
+    "title": "PAPER 9: THE PRODUCTIVITY REVOLUTION - ECONOMIC ANALYSIS OF RRC-AI SYSTEM WRITING IMPLEMENTATION; 10-Paper Series on Compressed Communication & Cognitive Acceleration; Paper 9 of 10: Economic Impact & ROI Analysis",
+    "date": "2025-11",
+    "url": "https://doi.org/10.5281/zenodo.17554477",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Chalupka, Rafal"
+    ],
+    "abstract": "Rigorous economic analysis of RRC-AI System Writing implementation quantifying productivity gains, cost-benefit analysis, and organizational ROI. Per-practitioner: training $12-25K, achieves $150-300K",
+    "tags": [],
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "title": "Beyond the Numbers: Causal Effects of Financial Report Sentiment on Bank Profitability",
+    "date": "2026-02",
+    "url": "https://arxiv.org/abs/2602.17851v1",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Krishna Neupane",
+     "Prem Sapkota",
+     "Ujjwal Prajapati"
+    ],
+    "abstract": "This study establishes the causal effects of market sentiment on firm profitability, moving beyond traditional correlational analyses. It leverages a causal forest machine learning methodology to control for numerous confounding variables, enabling systematic analysis of heterogeneity and non-linearities often overlooked. A key innovation is the use of a pre-trained FinancialBERT to generate sentiment scores from quarterly reports, which are then treated as causal interventions impacting profitability dynamics like returns and volatilities. Utilizing a comprehensive dataset from NEPSE, NRB, and individual financial institutions, the research employs SHAP analysis to identify influential profit predictors. A two-pronged causal analysis further explores how sentiment's impact is conditioned by Loan Portfolio/Asset Composition and Balance Sheet Strength/Leverage. Average Treatment Effect analyses, combined with SHAP insights, reveal statistically significant causal associations between certain balance sheet and expense management variables and profitability. This advanced causal machine learning framework significantly extends existing literature, providing a more robust understanding of how financial sentiment truly impacts firm performance.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Shame or Anger? The Impact of Negative Performance Feedback Sources (AI Versus Leader) on Employees’ Job Crafting",
+    "date": "2026-02",
+    "url": "https://doi.org/10.3390/bs16020248",
+    "category": "adoption-behavior",
+    "subcategory": "mechanism",
+    "authors": [
+     "Ganli Liao",
+     "Xiaofeng Ren",
+     "Xinyi Zheng"
+    ],
+    "abstract": "With the growing adoption of artificial intelligence (AI) in organizational performance management, AI feedback has increasingly supplemented or replaced leader-delivered evaluations. While prior rese",
+    "tags": [],
+    "venue": "Behavioral Sciences"
+   },
+   {
+    "title": "Abundant Intelligence and Deficient Demand: A Macro-Financial Stress Test of Rapid AI Adoption",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.09209v1",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Xupeng Chen"
+    ],
+    "abstract": "We formalize a macro-financial stress test for rapid AI adoption. Rather than a productivity bust or existential risk, we identify a distribution-and-contract mismatch: AI-generated abundance coexists with demand deficiency because economic institutions are anchored to human cognitive scarcity. Three mechanisms formalize this channel. First, a displacement spiral with competing reinstatement effects: each firm's rational decision to substitute AI for labor reduces aggregate labor income, which reduces aggregate demand, accelerating further AI adoption. We derive conditions on the AI capability growth rate, diffusion speed, and reinstatement rate under which the net feedback is self-limiting versus explosive. Second, Ghost GDP: when AI-generated output substitutes for labor-generated output, monetary velocity declines monotonically in the labor share absent compensating transfers, creating a wedge between measured output and consumption-relevant income. Third, intermediation collapse: AI agents that reduce information frictions compress intermediary margins toward pure logistics costs, triggering repricing across SaaS, payments, consulting, insurance, and financial advisory. Because top-quintile earners drive 47--65\\% of U.S.\\ consumption and face the highest AI exposure, the transmission into private credit (\\$2.5 trillion globally) and mortgage markets (\\$13 trillion) is disproportionate. We derive eleven testable predictions with explicit falsification conditions. Calibrated simulations disciplined by FRED time series and BLS occupation-level data quantify conditions under which stable adjustment transitions to explosive crisis.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Diffusion to Low- and Middle Income Countries; A Blessing or a Curse?",
+    "date": "2024-05",
+    "url": "https://arxiv.org/abs/2405.20399v3",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Rafael Andersson Lipcsey"
+    ],
+    "abstract": "Rapid advances in AI have incited extensive inquiry into its effects on productivity and labor, potentially profound in both positive and negative ways. Often neglected, however, is comprehension of how AI technologies diffuse across and within economies. Developing nations, in particular, face substantial labor market impacts from either swift AI adoption or diminished competitiveness from sluggish diffusion. This paper examines the literature on technology diffusion and proposes a tripartite framework to elucidate AI diffusion pathways: global value chains, research collaboration, and inter-firm knowledge transfers. Employing these metrics, it evaluates AI diffusion in sixteen lower- and middle-income countries (LMICs) relative to four developed nations and assesses their dependency on the USA and China. Findings reveal a notable gap in AI diffusion between developed and developing economies, though this chasm is gradually closing. China emerges as a vital source of future diffusion via value chains, while the USA wields greater influence through research and knowledge transfers. Limitations include the exclusion of certain data sources and regions, and the absence of quantitative analysis on diffusion's relationship with technology intensity. Nonetheless, the research surfaces critical macro-level considerations about AI diffusion. It advocates mechanisms to redistribute AI-induced economic gains and bilateral agreements to complement international accords, thereby addressing the diverse needs and risks of economies entering an AI-dominated era. Future inquiries should explore the nexus between AI diffusion, technology intensity, and productivity; refine diffusion measurement methods; incorporate case studies and targeted policy recommendations; and delve deeper into LMIC-specific labor market outcomes.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Personas Evolved: Designing Ethical LLM-Based Conversational Agent Personalities",
+    "date": "2025-02",
+    "url": "https://arxiv.org/abs/2502.20513v1",
+    "category": "adoption-behavior",
+    "subcategory": "evaluation",
+    "authors": [
+     "Smit Desai",
+     "Mateusz Dubiel",
+     "Nima Zargham"
+    ],
+    "abstract": "The emergence of Large Language Models (LLMs) has revolutionized Conversational User Interfaces (CUIs), enabling more dynamic, context-aware, and human-like interactions across diverse domains, from social sciences to healthcare. However, the rapid adoption of LLM-based personas raises critical ethical and practical concerns, including bias, manipulation, and unforeseen social consequences. Unlike traditional CUIs, where personas are carefully designed with clear intent, LLM-based personas generate responses dynamically from vast datasets, making their behavior less predictable and harder to govern. This workshop aims to bridge the gap between CUI and broader AI communities by fostering a cross-disciplinary dialogue on the responsible design and evaluation of LLM-based personas. Bringing together researchers, designers, and practitioners, we will explore best practices, develop ethical guidelines, and promote frameworks that ensure transparency, inclusivity, and user-centered interactions. By addressing these challenges collaboratively, we seek to shape the future of LLM-driven CUIs in ways that align with societal values and expectations.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Bonus or burden? Exploring the interplay of FOMO and attitudes on DeepSeek adoption, managing information and firm performance in China",
+    "date": "2025-08",
+    "url": "https://doi.org/10.1108/jeim-03-2025-0228",
+    "category": "adoption-behavior",
+    "subcategory": "systems",
+    "authors": [
+     "Peggy M. L. Ng",
+     "Jason K. Y. Chan",
+     "Raymond Kwong"
+    ],
+    "abstract": "Purpose This study aims to understand the factors influencing the adoption of DeepSeek to seek and utilize information within the company, with a focus on its impact on managing and utilizing informat",
+    "tags": [],
+    "venue": "Journal of Enterprise Information Management"
+   },
+   {
+    "title": "Examining How Adoption of AI Affects Management DecisionMaking and Enterprise Performance",
+    "date": "2026-03",
+    "url": "https://doi.org/10.56975/jaafr.v4i3.505416",
+    "category": "roi-measurement",
+    "subcategory": "evaluation",
+    "authors": [
+     "M D Mahesh",
+     "Koramutla Sasidhar"
+    ],
+    "abstract": "In contemporary business settings, artificial intelligence (AI) has emerged as a game-changing technology that helps firms enhance decision-making, operational effectiveness, and overall corporate per",
+    "tags": [],
+    "venue": "JOURNAL OF ADVANCE AND FUTURE RESEARCH"
+   },
+   {
+    "title": "The Agentic Economy: Humans, AI Agents, Robots, and the Measurable Transition toward Distributed Economic Action",
+    "date": "2026-05",
+    "url": "https://arxiv.org/abs/2605.18935v1",
+    "category": "roi-measurement",
+    "subcategory": "systems",
+    "authors": [
+     "Davit Gondauri",
+     "Mikheil Batiashvili"
+    ],
+    "abstract": "This article develops the concept of the agentic economy and diagnoses its measurable preconditions: a transition in which economic action is increasingly distributed among humans, AI agents, industrial robots, executable protocols, compute infrastructures, and energy systems. The paper argues that classical categories such as labour, capital, firm, market, productivity, and trust remain necessary but incomplete when technologies prepare decisions, coordinate workflows, support tasks, verify transactions, and reshape responsibility. Methodologically, the study uses a conceptual-empirical quantitative diagnostic design rather than a causal econometric model. It relies on public institutional data on AI investment, AI adoption, robot installations and operational stock, data-centre electricity demand, and labour-market reallocation. The reported values are transformed through transparent indicators such as relative growth, CAGR, growth multipliers, stock-flow ratios, concentration ratios, and HHI. The results show that AI adoption is accelerating, AI investment signals broad capital allocation, industrial robots represent persistent cyber-physical action capacity, compute expansion increases data-centre electricity pressure, and labour projections are more consistent with task reallocation than labour disappearance. The article contributes an action-capacity framework linking model/software-agent capacity, robotic capacity, compute-energy coupling, protocolisation, auditable trust, and human sovereignty. It concludes that the agentic economy is not yet a completed global order, but its transition pressure is measurable enough to require a distinct economic vocabulary, reproducible diagnostics, and future sector-level measurement.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Adoption in S&amp;P 500 Firms",
+    "date": "2026-07",
+    "url": "https://arxiv.org/abs/2607.08920v1",
+    "category": "roi-measurement",
+    "subcategory": "application",
+    "authors": [
+     "Yang Yu",
+     "Martin Fleming",
+     "Lucy Hampton"
+    ],
+    "abstract": "The adoption of artificial intelligence (AI) by large enterprises is an important potential source of aggregate productivity improvement and labor market impact. We study AI adoption of S&amp;P 500 firms over the period 2016 to 2025, estimating adoption at the enterprise level. While generative AI tools are useful for personal and professional applications, our focus is on the deep integration of AI in the business processes of large enterprises which are bellwethers for firm adoption more broadly. We develop a novel measure to assess deep AI adoption (and distinguish it from AI hype) that is based on SEC 10-K filings, where laws and regulations ``prohibit companies from making materially false or misleading statements.\" In 2025, 11% of S&amp;P 500 enterprises had AI deeply integrated into their business processes, and a further 10% were using AI in the production of goods and delivery of services. AI adoption has more than quadrupled from 5% in 2022 with slowly accelerating adoption among non-technology firms but very aggressive adoption in the technology sector which accounts for two-thirds of deeply integrated enterprise adoption. Firm profitability shows a \"J-curve\" as firms move from no adoption to deep adoption, but we observe no differences in capex or productivity. Among technology firms, but not others, AI adoption is higher for firms with more employees and higher values of Tobin's q.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Return on Investment in Training and Performance Improvement Programs",
+    "date": "2012-06",
+    "url": "https://doi.org/10.4324/9780080516257",
+    "category": "roi-measurement",
+    "subcategory": "evaluation",
+    "authors": [
+     "Jack J. Phillips"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Measuring the Return on Investment in Training and Performance Improvement",
+    "date": "2024-04",
+    "url": "https://doi.org/10.4324/9780367855727-1",
+    "category": "roi-measurement",
+    "subcategory": "evaluation",
+    "authors": [
+     "Patricia Pulliam Phillips",
+     "Jack J. Phillips",
+     "Klaas Toes"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Return on Investment in Training and Performance Improvement Programs"
+   },
+   {
+    "title": "Ai Feedback vs. Human: Impact on Employee Behavior &amp; Performance",
+    "date": "2025-01",
+    "url": "https://doi.org/10.2139/ssrn.5217569",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "authors": [
+     "Muhammad Nurul Houqe",
+     "Mohammad Islam Biswas",
+     "Md. Shamim Talukder"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "SSRN Electronic Journal"
+   },
+   {
+    "title": "Compensation Fairness and Employee Task Performance: The Roles of Emotional Engagement, Emotional Intelligence, and AI Adoption",
+    "date": "2025-01",
+    "url": "https://doi.org/10.51847/ridrjfobeq",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "authors": [
+     "Ethan Walker",
+     "Madison Hill"
+    ],
+    "abstract": "The rapid advancement of artificial intelligence (AI) is significantly shaping employee behavior in modern enterprises. Enhancing employee engagement and performance has thus become a critical challen",
+    "tags": [],
+    "venue": "Annals of Organizational Culture Leadership and External Engagement Journal"
+   },
+   {
+    "title": "Investigating the Extent and Impact of AI Applications on Audit Firms Performance in Saudi Arabia",
+    "date": "2025-01",
+    "url": "https://doi.org/10.62754/joe.v3i8.5770",
+    "category": "roi-measurement",
+    "subcategory": "method",
+    "authors": [
+     "Mahdy S. Othman"
+    ],
+    "abstract": "This study investigates the extent and impact of AI applications on audit firm performance in Saudi Arabia, focusing on operational efficiency and audit quality in the context of Vision 2030's digital",
+    "tags": [],
+    "venue": "Journal of Ecohumanism"
+   },
+   {
+    "title": "The AI-environment paradox: Unraveling the impact of artificial intelligence (AI) adoption on pro-environmental behavior through work overload and self-efficacy in AI learning",
+    "date": "2025-03",
+    "url": "https://doi.org/10.1016/j.jenvman.2025.125102",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "authors": [
+     "Byung‐Jik Kim",
+     "Min‐Jik Kim"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "Journal of Environmental Management"
+   },
+   {
+    "title": "Fostering proactivity in the age of AI: exploring the interplay of job reflection and coaching leadership",
+    "date": "2025-04",
+    "url": "https://doi.org/10.1108/bjm-09-2024-0532",
+    "category": "adoption-behavior",
+    "subcategory": "theory",
+    "authors": [
+     "Jeeyoon Jeong",
+     "Insik Jeong"
+    ],
+    "abstract": "Purpose This study examines the impact of artificial intelligence (AI) adoption on employee proactive behavior in South Korean organizations. Drawing on social cognitive theory, we investigate the med",
+    "tags": [],
+    "venue": "Baltic Journal of Management"
+   },
+   {
+    "title": "The Transformative Impact of Artificial Intelligence (AI) on Organisational Behaviour (OB): A Study of Employee Engagement, Performance, and Ethical Implications",
+    "date": "2025-04",
+    "url": "https://doi.org/10.63332/joph.v5i4.1221",
+    "category": "adoption-behavior",
+    "subcategory": "systems",
+    "authors": [
+     "Karamath Ateeq",
+     "Nidhi Oswal",
+     "Adnan Jawabri"
+    ],
+    "abstract": "Artificial Intelligence (AI) is transforming organizational behavior by reshaping employee engagement, performance, and decision-making processes. This study examines AI’s impact on workplace dynamics",
+    "tags": [],
+    "venue": "Journal of Posthumanism"
+   },
+   {
+    "title": "The impact of organizational adoption of Artificial Intelligence on employees' learning behavior",
+    "date": "2025-04",
+    "url": "https://doi.org/10.54254/2753-7102/2025.22340",
+    "category": "adoption-behavior",
+    "subcategory": "method",
+    "authors": [
+     "Wentao Lan"
+    ],
+    "abstract": "With the continuous development of AI, artificial intelligence technology is gradually being introduced into workplaces. However, the impact of AI technology on employees and how employees respond to ",
+    "tags": [],
+    "venue": "Advances in Social Behavior Research"
+   },
+   {
+    "title": "NewsNet-SDF: Stochastic Discount Factor Estimation with Pretrained Language Model News Embeddings via Adversarial Networks",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.06864v1",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Shunyao Wang",
+     "Ming Cheng",
+     "Christina Dan Wang"
+    ],
+    "abstract": "Stochastic Discount Factor (SDF) models provide a unified framework for asset pricing and risk assessment, yet traditional formulations struggle to incorporate unstructured textual information. We introduce NewsNet-SDF, a novel deep learning framework that seamlessly integrates pretrained language model embeddings with financial time series through adversarial networks. Our multimodal architecture processes financial news using GTE-multilingual models, extracts temporal patterns from macroeconomic data via LSTM networks, and normalizes firm characteristics, fusing these heterogeneous information sources through an innovative adversarial training mechanism. Our dataset encompasses approximately 2.5 million news articles and 10,000 unique securities, addressing the computational challenges of processing and aligning text data with financial time series. Empirical evaluations on U.S. equity data (1980-2022) demonstrate NewsNet-SDF substantially outperforms alternatives with a Sharpe ratio of 2.80. The model shows a 471% improvement over CAPM, over 200% improvement versus traditional SDF implementations, and a 74% reduction in pricing errors compared to the Fama-French five-factor model. In comprehensive comparisons, our deep learning approach consistently outperforms traditional, modern, and other neural asset pricing models across all key metrics. Ablation studies confirm that text embeddings contribute significantly more to model performance than macroeconomic features, with news-derived principal components ranking among the most influential determinants of SDF dynamics. These results validate the effectiveness of our multimodal deep learning approach in integrating unstructured text with traditional financial data for more accurate asset pricing, providing new insights for digital intelligent decision-making in financial technology.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "The emerging AI 'revolution tranquille' in America",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.14721v1",
+    "category": "roi-measurement",
+    "subcategory": "method",
+    "authors": [
+     "Omar R. Malik"
+    ],
+    "abstract": "Using data from the U.S. Census Bureaus Business Trends and Outlook Survey (BTOS), I examine the adoption of AI among US firms at national, state, industry, and firm size levels. I find that adoption remains overall low (only around 7% of firms currently use AI), but is on a steady upward trajectory with a rising share of firms planning to implement AI. Adoption rates vary significantly across regions and sectors: some states are emerging as early adopters, while others lag, and knowledge-intensive industries (such as information technology and professional services) along with larger firms show higher openness to AI adoption compared to sectors like construction or small businesses. In general, these trends indicate that a quiet revolution in AI adoption is underway; a gradual but expanding diffusion of AI across the economy with important implications for future productivity and policy.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI Adoption and Employee Outcomes: A Meta-Analysis of the Augmentation- Automation Mechanisms",
+    "date": "2025-07",
+    "url": "https://doi.org/10.5465/amproc.2025.10903abstract",
+    "category": "adoption-behavior",
+    "subcategory": "mechanism",
+    "authors": [
+     "Jing Li",
+     "Chang-Jun Li",
+     "Diwan LI"
+    ],
+    "abstract": "The adoption of AI in the workplace has sparked significant debates regarding its impact on employee outcomes. While some studies highlight AI’s potential to enhance employee capabilities and lead to ",
+    "tags": [],
+    "venue": "Academy of Management Proceedings"
+   },
+   {
+    "title": "StaffPro: an LLM Agent for Joint Staffing and Profiling",
+    "date": "2025-07",
+    "url": "https://arxiv.org/abs/2507.21636v1",
+    "category": "roi-measurement",
+    "subcategory": "mechanism",
+    "authors": [
+     "Alessio Maritan"
+    ],
+    "abstract": "Large language model (LLM) agents integrate pre-trained LLMs with modular algorithmic components and have shown remarkable reasoning and decision-making abilities. In this work, we investigate their use for two tightly intertwined challenges in workforce management: staffing, i.e., the assignment and scheduling of tasks to workers, which may require team formation; and profiling, i.e., the continuous estimation of workers' skills, preferences, and other latent attributes from unstructured data. We cast these problems in a formal mathematical framework that links scheduling decisions to latent feature estimation, and we introduce StaffPro, an LLM agent that addresses staffing and profiling jointly. Differently from existing staffing solutions, StaffPro allows expressing optimization objectives using natural language, accepts textual task descriptions and provides high flexibility. StaffPro interacts directly with humans by establishing a continuous human-agent feedback loop, ensuring natural and intuitive use. By analyzing human feedback, our agent continuously estimates the latent features of workers, realizing life-long worker profiling and ensuring optimal staffing performance over time. A consulting firm simulation example demonstrates that StaffPro successfully estimates workers' attributes and generates high quality schedules. With its innovative design, StaffPro offers a robust, interpretable, and human-centric solution for automated personnel management.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Training for Obsolescence? The AI-Driven Education Trap",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2508.19625v2",
+    "category": "roi-measurement",
+    "subcategory": "theory",
+    "authors": [
+     "Andrew J. Peterson"
+    ],
+    "abstract": "Artificial intelligence is simultaneously transforming the production function of human capital in schools and the return to skills in the labor market. We develop a theoretical model to analyze the potential for misallocation when these two forces are considered in isolation. We study an educational planner who observes AI's immediate productivity benefits in teaching specific skills but fails to fully internalize the technology's future wage-suppressing effects on those same skills. Motivated by a pre-registered pilot study suggesting a positive correlation between a skill's \"teachability\" by AI and its vulnerability to automation, we show that this information friction leads to a systematic skill mismatch. The planner over-invests in skills destined for obsolescence, a distortion that increases monotonically with AI prevalence. Extensions demonstrate that this mismatch is exacerbated by the neglect of unpriced non-cognitive skills and by the endogenous over-adoption of educational technology. Our findings caution that policies promoting AI in education, if not paired with forward-looking labor market signals, may paradoxically undermine students' long-term human capital, such as by crowding out skills like persistence that are forged through intellectual struggle.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI and jobs. A review of theory, estimates, and evidence",
+    "date": "2025-09",
+    "url": "https://arxiv.org/abs/2509.15265v1",
+    "category": "roi-measurement",
+    "subcategory": "review",
+    "authors": [
+     "R. Maria del Rio-Chanona",
+     "Ekkehard Ernst",
+     "Rossana Merola"
+    ],
+    "abstract": "Generative AI is altering work processes, task composition, and organizational design, yet its effects on employment and the macroeconomy remain unresolved. In this review, we synthesize theory and empirical evidence at three levels. First, we trace the evolution from aggregate production frameworks to task- and expertise-based models. Second, we quantitatively review and compare (ex-ante) AI exposure measures of occupations from multiple studies and find convergence towards high-wage jobs. Third, we assemble ex-post evidence of AI's impact on employment from randomized controlled trials (RCTs), field experiments, and digital trace data (e.g., online labor platforms, software repositories), complemented by partial coverage of surveys. Across the reviewed studies, productivity gains are sizable but context-dependent: on the order of 20 to 60 percent in controlled RCTs, and 15 to 30 percent in field experiments. Novice workers tend to benefit more from LLMs in simple tasks. Across complex tasks, evidence is mixed on whether low or high-skilled workers benefit more. Digital trace data show substitution between humans and machines in writing and translation alongside rising demand for AI, with mild evidence of declining demand for novice workers. A more substantial decrease in demand for novice jobs across AI complementary work emerges from recent studies using surveys, platform payment records, or administrative data. Research gaps include the focus on simple tasks in experiments, the limited diversity of LLMs studied, and technology-centric AI exposure measures that overlook adoption dynamics and whether exposure translates into substitution, productivity gains, erode or increase expertise.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Beliefs about Bots: How Employers Plan for AI in White-Collar Work",
+    "date": "2025-10",
+    "url": "https://arxiv.org/abs/2510.21959v1",
+    "category": "roi-measurement",
+    "subcategory": "systems",
+    "authors": [
+     "Eduard Brüll",
+     "Samuel Mäurer",
+     "Davud Rostam-Afschar"
+    ],
+    "abstract": "We provide experimental evidence on how employers adjust expectations to automation risk in high-skill, white-collar work. Using a randomized information intervention among tax advisors in Germany, we show that firms systematically underestimate automatability. Information provision raises risk perceptions, especially for routine-intensive roles. Yet, it leaves short-run hiring plans unchanged. Instead, updated beliefs increase productivity and financial expectations with minor wage adjustments, implying within-firm inequality like limited rent-sharing. Employers also anticipate new tasks in legal tech, compliance, and AI interaction, and report higher training and adoption intentions.",
+    "tags": [],
+    "venue": ""
+   }
+  ],
+  "RQ5": [
+   {
+    "title": "Taxonomy to Regulation: A (Geo)Political Taxonomy for AI Risks and Regulatory Measures in the EU AI Act",
+    "date": "2024-04",
+    "url": "https://arxiv.org/abs/2404.11476v1",
+    "category": "compliance",
+    "subcategory": "development",
+    "authors": [
+     "Sinan Arda"
+    ],
+    "abstract": "Technological innovations have shown remarkable capabilities to benefit and harm society alike. AI constitutes a democratized sophisticated technology accessible to large parts of society, including malicious actors. This work proposes a taxonomy focusing on on (geo)political risks associated with AI. It identifies 12 risks in total divided into four categories: (1) Geopolitical Pressures, (2) Malicious Usage, (3) Environmental, Social, and Ethical Risks, and (4) Privacy and Trust Violations. Incorporating a regulatory side, this paper conducts a policy assessment of the EU AI Act. Adopted in March 2023, the landmark regulation has the potential to have a positive top-down impact concerning AI risk reduction but needs regulatory adjustments to mitigate risks more comprehensively. Regulatory exceptions for open-source models, excessively high parameters for the classification of GPAI models as a systemic risk, and the exclusion of systems designed exclusively for military purposes from the regulation's obligations leave room for future action.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "<b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence Playbook, </b><b>Guidance Crosswalk, and Executive </b><b>Poster</b>",
+    "date": "2026-08",
+    "url": "https://doi.org/10.6084/m9.figshare.33137024.v2",
+    "category": "compliance",
+    "subcategory": "development",
+    "authors": [
+     "Prashant Akhawat"
+    ],
+    "abstract": "This deposit provides a comprehensive three-part toolkit for implementing <b>enterprise AI governance</b> by integrating the <b>EU AI Act</b>, the <b>NIST AI Risk Management Framework (AI RMF)</b>, an",
+    "tags": [],
+    "venue": "Figshare"
+   },
+   {
+    "title": "Sustainable AI Regulation",
+    "date": "2023-06",
+    "url": "https://arxiv.org/abs/2306.00292v4",
+    "category": "compliance",
+    "subcategory": "development",
+    "authors": [
+     "Philipp Hacker"
+    ],
+    "abstract": "Current proposals for AI regulation, in the EU and beyond, aim to spur AI that is trustworthy (e.g., AI Act) and accountable (e.g., AI Liability) What is missing, however, is a robust regulatory discourse and roadmap to make AI, and technology more broadly, environmentally sustainable. This paper aims to take first steps to fill this gap. The ICT sector contributes up to 3.9 percent of global greenhouse gas (GHG) emissions-more than global air travel at 2.5 percent. The carbon footprint and water consumption of AI, especially large-scale generative models like GPT-4, raise significant sustainability concerns. The paper is the first to assess how current and proposed technology regulations, including EU environmental law, the General Data Protection Regulation (GDPR), and the AI Act, could be adjusted to better account for environmental sustainability. The GDPR, for instance, could be interpreted to limit certain individual rights like the right to erasure if these rights significantly conflict with broader sustainability goals. In a second step, the paper suggests a multi-faceted approach to achieve sustainable AI regulation. It advocates for transparency mechanisms, such as disclosing the GHG footprint of AI systems, as laid out in the proposed EU AI Act. However, sustainable AI regulation must go beyond mere transparency. The paper proposes a regulatory toolkit comprising co-regulation, sustainability-by-design principles, restrictions on training data, and consumption caps, including integration into the EU Emissions Trading Scheme. Finally, the paper argues that this regulatory toolkit could serve as a blueprint for regulating other high-emission technologies and infrastructures like blockchain, Metaverse applications, and data centers. The framework aims to cohesively address the crucial dual challenges of our era: digital transformation and climate change mitigation.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "HH4AI: A methodological Framework for AI Human Rights impact assessment under the EUAI ACT",
+    "date": "2025-03",
+    "url": "https://arxiv.org/abs/2503.18994v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Paolo Ceravolo",
+     "Ernesto Damiani",
+     "Maria Elisa D'Amico"
+    ],
+    "abstract": "This paper introduces the HH4AI Methodology, a structured approach to assessing the impact of AI systems on human rights, focusing on compliance with the EU AI Act and addressing technical, ethical, and regulatory challenges. The paper highlights AIs transformative nature, driven by autonomy, data, and goal-oriented design, and how the EU AI Act promotes transparency, accountability, and safety. A key challenge is defining and assessing \"high-risk\" AI systems across industries, complicated by the lack of universally accepted standards and AIs rapid evolution. To address these challenges, the paper explores the relevance of ISO/IEC and IEEE standards, focusing on risk management, data quality, bias mitigation, and governance. It proposes a Fundamental Rights Impact Assessment (FRIA) methodology, a gate-based framework designed to isolate and assess risks through phases including an AI system overview, a human rights checklist, an impact assessment, and a final output phase. A filtering mechanism tailors the assessment to the system's characteristics, targeting areas like accountability, AI literacy, data governance, and transparency. The paper illustrates the FRIA methodology through a fictional case study of an automated healthcare triage service. The structured approach enables systematic filtering, comprehensive risk assessment, and mitigation planning, effectively prioritizing critical risks and providing clear remediation strategies. This promotes better alignment with human rights principles and enhances regulatory compliance.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "EU AI Act: what could AI literacy mean for medical laboratories? – Opinion Paper on behalf of the Section Digital Competence and AI of the German Society for Clinical Chemistry and Laboratory Medicine (DGKL)",
+    "date": "2025-10",
+    "url": "https://doi.org/10.1515/labmed-2025-0223",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Jakob Adler",
+     "Felix Philipp Herrmann",
+     "Amei Ludwig"
+    ],
+    "abstract": "Abstract The EU AI Act came into force on August 1, 2024, and since February 2, 2025, employees must be sufficiently trained in the use of AI systems (Article 4 of the EU AI Act). But what does “suffi",
+    "tags": [],
+    "venue": "Journal of Laboratory Medicine"
+   },
+   {
+    "title": "Position Paper: If Innovation in AI Systematically Violates Fundamental Rights, Is It Innovation at All?",
+    "date": "2025-10",
+    "url": "https://arxiv.org/abs/2511.00027v1",
+    "category": "org-implementation",
+    "subcategory": "application",
+    "authors": [
+     "Josu Eguiluz Castañeira",
+     "Axel Brando",
+     "Migle Laukyte"
+    ],
+    "abstract": "Artificial intelligence (AI) now permeates critical infrastructures and decision-making systems where failures produce social, economic, and democratic harm. This position paper challenges the entrenched belief that regulation and innovation are opposites. As evidenced by analogies from aviation, pharmaceuticals, and welfare systems and recent cases of synthetic misinformation, bias and unaccountable decision-making, the absence of well-designed regulation has already created immeasurable damage. Regulation, when thoughtful and adaptive, is not a brake on innovation -- it is its foundation. The present position paper examines the EU AI Act as a model of risk-based, responsibility-driven regulation that addresses the Collingridge Dilemma: acting early enough to prevent harm, yet flexibly enough to sustain innovation. Its adaptive mechanisms -- regulatory sandboxes, small and medium enterprises (SMEs) support, real-world testing, fundamental rights impact assessment (FRIA) -- demonstrate how regulation can accelerate responsibly, rather than delay, technological progress. The position paper summarises how governance tools transform perceived burdens into tangible advantages: legal certainty, consumer trust, and ethical competitiveness. Ultimately, the paper reframes progress: innovation and regulation advance together. By embedding transparency, impact assessments, accountability, and AI literacy into design and deployment, the EU framework defines what responsible innovation truly means -- technological ambition disciplined by democratic values and fundamental rights.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "AI literacy in healthcare organisations: implementing article 4 of the EU AI Act with M-SHALF",
+    "date": "2026-06",
+    "url": "https://doi.org/10.1038/s44401-026-00104-0",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Sofia Palmieri",
+     "Jens Declerck",
+     "Sonia Priou"
+    ],
+    "abstract": "Abstract\n                  Article 4 of the EU AI Act mandates a ‘sufficient level of AI literacy’. We propose the Modular &amp; Stratified Healthcare AI Literacy Framework (M-SHALF) to address role-specific knowledge needs across clinical, administrative, and technical domains. Framing literacy as ",
+    "tags": [],
+    "venue": "npj Health Systems"
+   },
+   {
+    "title": "Governing Through the Cloud: The Intermediary Role of Compute Providers in AI Regulation",
+    "date": "2024-03",
+    "url": "https://arxiv.org/abs/2403.08501v2",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Lennart Heim",
+     "Tim Fist",
+     "Janet Egan"
+    ],
+    "abstract": "As jurisdictions around the world take their first steps toward regulating the most powerful AI systems, such as the EU AI Act and the US Executive Order 14110, there is a growing need for effective enforcement mechanisms that can verify compliance and respond to violations. We argue that compute providers should have legal obligations and ethical responsibilities associated with AI development and deployment, both to provide secure infrastructure and to serve as intermediaries for AI regulation. Compute providers can play an essential role in a regulatory ecosystem via four key capacities: as securers, safeguarding AI systems and critical infrastructure; as record keepers, enhancing visibility for policymakers; as verifiers of customer activities, ensuring oversight; and as enforcers, taking actions against rule violations. We analyze the technical feasibility of performing these functions in a targeted and privacy-conscious manner and present a range of technical instruments. In particular, we describe how non-confidential information, to which compute providers largely already have access, can provide two key governance-relevant properties of a computational workload: its type-e.g., large-scale training or inference-and the amount of compute it has consumed. Using AI Executive Order 14110 as a case study, we outline how the US is beginning to implement record keeping requirements for compute providers. We also explore how verification and enforcement roles could be added to establish a comprehensive AI compute oversight scheme. We argue that internationalization will be key to effective implementation, and highlight the critical challenge of balancing confidentiality and privacy with risk mitigation as the role of compute providers in AI regulation expands.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "The Bidirectional Relationship Between XAI and Regulation: Operationalizing XAI for the AI Act",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.20311v3",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Anton Hummel",
+     "Håkan Burden",
+     "Susanne Stenberg"
+    ],
+    "abstract": "The EU AI Act makes explainability urgent for high-risk AI systems, yet most XAI research focuses on technical metrics rather than regulatory compliance. Understanding how legal requirements reshape XAI method design is challenging: the AI Act regulates organizational relationships (providers, deployers) using legal terminology, specifies obligations without concrete technical requirements, and underrepresents end-users--the very stakeholders whose needs human-centered XAI addresses. As regulations emerge globally, human-centered XAI practitioners face both a challenge and an opportunity: regulations pull XAI research toward real-world deployment, while practitioners can actively shape how explainability enables compliance. This establishes a bidirectional relationship. Our contribution is threefold. First, we provide the first interdisciplinary analysis of XAI's role in the AI Act--conducted by a team comprising AI Act legal experts, ML engineers, and requirements engineers--on a real-world clinical decision support system. Second, we systematically align XAI stakeholder roles with AI Act legal responsibilities, revealing where explainability methods address regulatory requirements versus where additional measures are necessary. Third, we identify three key opportunities for human-centered XAI practitioners: actively defining their roles in regulatory implementation; making the user-to-affected-party relationship explicit where regulations address only provider-deployer obligations; and enabling compliance while building multi-level trust--from regulators to affected parties.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Policy Cards: Machine-Readable Runtime Governance for Autonomous AI Agents",
+    "date": "2025-10",
+    "url": "https://arxiv.org/abs/2510.24383v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Juraj Mavračić"
+    ],
+    "abstract": "Policy Cards are introduced as a machine-readable, deployment-layer standard for expressing operational, regulatory, and ethical constraints for AI agents. The Policy Card sits with the agent and enables it to follow required constraints at runtime. It tells the agent what it must and must not do. As such, it becomes an integral part of the deployed agent. Policy Cards extend existing transparency artifacts such as Model, Data, and System Cards by defining a normative layer that encodes allow/deny rules, obligations, evidentiary requirements, and crosswalk mappings to assurance frameworks including NIST AI RMF, ISO/IEC 42001, and the EU AI Act. Each Policy Card can be validated automatically, version-controlled, and linked to runtime enforcement or continuous-audit pipelines. The framework enables verifiable compliance for autonomous agents, forming a foundation for distributed assurance in multi-agent ecosystems. Policy Cards provide a practical mechanism for integrating high-level governance with hands-on engineering practice and enabling accountable autonomy at scale.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Building the ethical AI framework of the future: from philosophy to practice",
+    "date": "2026-02",
+    "url": "https://arxiv.org/abs/2603.06599v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Jasper Kyle Catapang"
+    ],
+    "abstract": "Artificial intelligence pipelines -- spanning data collection, model training, deployment, and post-deployment monitoring -- concentrate ethical risks that intensify with multimodal and agentic systems. Existing governance instruments, including the EU AI Act, the IEEE 7000 series, and the NIST AI Risk Management Framework, provide high-level guidance but often lack enforceable, end-to-end operational controls. This paper presents an ethics-by-design control architecture that embeds consequentialist, deontological, and virtue-ethical reasoning into stage-specific enforcement mechanisms across the AI lifecycle. The framework implements a triple-gate structure at each lifecycle stage: Metric gates (quantitative performance and safety thresholds), Governance gates (legal, rights, and procedural compliance), and Eco gates (carbon and water budgets and sustainability constraints). It specifies measurable trigger conditions, escalation paths, audit artefacts, and mappings to EU AI Act obligations and NIST RMF functions, enabling integration with existing MLOps and CI/CD pipelines. Illustrative examples from large language model pipelines demonstrate how gate-based controls can surface and constrain technical, social, and environmental risks prior to release and during runtime. The framework is accompanied by a preregistered evaluation protocol that defines ex ante success criteria and assessment procedures, enabling falsifiable evaluation of gate effectiveness. By translating normative commitments into enforceable and testable controls, the framework provides a practical basis for operational AI governance across organizational contexts, jurisdictions, and deployment scales.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Synthetic Media in Multilingual MOOCs: Deepfake Tutors, Pedagogical Effects, and Ethical-Policy Challenges",
+    "date": "2026-02",
+    "url": "https://arxiv.org/abs/2602.18457v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Alexandros Gazis",
+     "Erietta Chamalidou",
+     "Nikolaos Ntaoulas"
+    ],
+    "abstract": "In recent years, synthetic media from deepfake videos have emerged as a new interesting technology, whether that refers to cloned voices, multilingual translation models, or more recent applications of avatar tutors into higher education. As such, these technologies are rapidly becoming part of the multilingual distance learning model and, more recently, MOOCs worldwide. This article is a scoping review that focuses on recent international literature published between 2020 and 2025 to explore the usage of deepfake and synthetic media tools and methods in multilingual MOOC content and assess the influence of these technologies on social presence and participation. Similarly, we focus on ethical and political issues that are closely connected with the adaptation of these technologies, and upon analysing educational technology and policy documents, such as UNESCO's Guidelines and the EU AI Act, we pinpoint that the use of synthetic avatars and AI-generated videos can diminish production costs and assist multilingual learning. Evidently, concerns arise regarding authenticity, privacy, and the shifting nature of the teacher-learner relationship that are thoroughly discussed. As a result, the technical merit of this paper is the proposal of a policy framework that, in an effort to address these issues, focuses on transparency, responsible governance, and AI literacy. The goal is not to replace human instruction but to integrate synthetic media in ways that strengthen pedagogical design, safeguard rights, and ensure that multilingual MOOCs become more interesting and inclusive rather than more automated robotic processes and unequal",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "RAD-AI: Rethinking Architecture Documentation for AI-Augmented Ecosystems",
+    "date": "2026-03",
+    "url": "https://arxiv.org/abs/2603.28735v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Oliver Aleksander Larsen",
+     "Mahyar T. Moghaddam"
+    ],
+    "abstract": "AI-augmented ecosystems (interconnected systems where multiple AI components interact through shared data and infrastructure) are becoming the architectural norm for smart cities, autonomous fleets, and intelligent platforms. Yet the architecture documentation frameworks practitioners rely on, arc42 and the C4 model, were designed for deterministic software and cannot capture probabilistic behavior, data-dependent evolution, or dual ML/software lifecycles. This gap carries regulatory consequence: the EU AI Act (Regulation 2024/1689) mandates technical documentation through Annex IV that no existing framework provides structured support for, with enforcement for high-risk systems beginning August 2, 2026. We present RAD-AI, a backward-compatible extension framework that augments arc42 with eight AI-specific sections and C4 with three diagram extensions, complemented by a systematic EU AI Act Annex IV compliance mapping. A regulatory coverage assessment with six experienced software-architecture practitioners provides preliminary evidence that RAD-AI increases Annex IV addressability from approximately 36% to 93% (mean rating) and demonstrates substantial improvement over existing frameworks. Comparative analysis on two production AI platforms (Uber Michelangelo, Netflix Metaflow) captures eight additional AI-specific concerns missed by standard frameworks and demonstrates that documentation deficiencies are structural rather than domain-specific. An illustrative smart mobility ecosystem case study reveals ecosystem-level concerns, including cascading drift and differentiated compliance obligations, that are invisible under standard notation.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2605.16281v3",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Ummara Mumtaz",
+     "Rabi Noor",
+     "Summaya Mumtaz"
+    ],
+    "abstract": "Post-deployment accountability has become central to AI governance, yet little empirical evidence shows whether monitoring, incident reporting, and impact assessment obligations are visible when AI systems fail. This study analyzes real-world AI incidents from the AI Incident Database (2020-2026) and codes them against nine post-deployment provisions from the EU AI Act, the NIST AI Risk Management Framework, and the GDPR. The findings show substantial accountability gaps: 77.1% of incidents lack evidence of EU AI Act post-market monitoring, and 99.6% lack documented Data-Protection Impact Assessment evidence. Governance gaps are also systemic, with 9.8% of incidents simultaneously non-compliant under two or more regimes. Incidents detected through internal monitoring show much higher compliance than externally detected incidents (87.5% vs. 5.3% under the EU AI Act; 95.8% vs. 58.1% under NIST), suggesting that monitoring capacity is a key condition for effective post-deployment governance. Building on these findings, the paper proposes the Proactive AI Governance Compliance Framework (PAGCF), a four-phase lifecycle for pre-deployment assessment, continuous monitoring, incident preparedness, and cross-framework verification.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "UGAF-ITS: A Standards Harmonization Framework and Validation Tool for Multi-Framework AI Governance in Distributed Intelligent Transportation Systems",
+    "date": "2026-04",
+    "url": "https://arxiv.org/abs/2604.22789v2",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Talal Ashraf Butt",
+     "Muhammad Iqbal",
+     "Razi Iqbal"
+    ],
+    "abstract": "Organizations deploying AI-enabled Intelligent Transportation Systems face fragmented governance: ISO/IEC~42001 demands a certifiable management system, the EU AI Act imposes binding high-risk obligations from August~2026, and the NIST AI Risk Management Framework structures voluntary practice. This paper introduces UGAF-ITS, a standards harmonization framework that consolidates 154 source obligations from the three instruments into 12 unified controls across eight governance domains through a reproducible five-phase crosswalk methodology. A three-tier operating model allocates each control to the vehicle, edge, or cloud tier where enforcement and defensible evidence production are feasible. An evidence backbone of 20 versioned artifacts supports a single audit package across all three frameworks without duplicating content. We evaluate UGAF-ITS through an open-source governance engine applied to four architecturally distinct ITS deployment scenarios. The engine encodes the complete crosswalk catalog and executes eight compliance computations. Three-tier deployments achieve 91.7\\% average scoped framework coverage with 45.9\\% evidence reduction, complete bidirectional traceability, and 80\\% of artifacts serving all three frameworks simultaneously. Partial deployments contract predictably, with reduction holding between 25\\% and 50\\% across archetypes. The siloed baseline is enumerated document by document and computed by the tool at run time. These results establish structural properties of the harmonized catalog under architectural variation. They do not establish operational compliance readiness, which external assessment with practitioners has yet to test. The tool, scenarios, and all reported results are publicly available for independent replication.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Agent Security Meets Regulatory Reality -- A Practitioner Systematization of Autonomous-Agent Threats and Controls in Regulated Financial Systems",
+    "date": "2026-06",
+    "url": "https://arxiv.org/abs/2606.29142v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Krishna Mohan",
+     "Guda Nagavenkata Srinivasa"
+    ],
+    "abstract": "Large language model agents are entering regulated financial systems, yet the security literature characterizing their attack surface is almost entirely laboratory-based, and the practitioner guidance on regulated deployment is neither peer-reviewed nor connected to a formal threat model. We bridge the two from production experience. We map six established agentic threat categories namely prompt injection, identity and authorization, action auditability, tool abuse, data residency, and boundary policy enforcement onto the specific control obligations imposed by the US and the EU financial regulation (ECOA and Regulation B, the EU AI Act, GDPR Article 22, and FINRA's 2026 agent guidance), showing how legal accountability amplifies each threat relative to an unregulated deployment. We then document four architectural patterns from a production Know Your Customer deployment for a consumer credit product (A2A compliance choreography, grounded-RAG-for-audit, case-ID propagation, and an inference-boundary redaction proxy) that moved a multi-day manual process to same-day automated resolution for roughly four in five cases. Finally, we report three negative results, including two control failures surfaced only by internal audit and a population of legitimate applicants the automated pipeline cannot serve. Securing agents under regulation, we conclude, is less about novel attack classes than about making auditability, least-privilege authorization, and boundary policy enforcement real at production scale -- requirements current agent frameworks leave to the deploying engineer.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Artificial Intelligence Legislation Literacy, Governance Readiness, and Adoption Intentions in Romanian Healthcare: A Cross-Sectional Study",
+    "date": "2026-06",
+    "url": "https://doi.org/10.3390/healthcare14131867",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Alina Doina Tănase",
+     "Cristian Zaharia",
+     "Ştefania Dinu"
+    ],
+    "abstract": "BACKGROUND AND OBJECTIVES: As Romanian health systems deploy artificial intelligence (AI), uptake depends on navigating the EU AI Act, GDPR, the Medical Device Regulation (MDR), and national rules. We",
+    "tags": [],
+    "venue": "Healthcare"
+   },
+   {
+    "title": "EU AI Act (2024/1689) and EU MDR (2017/745): Breaking the Expensive Myth: Why AI-Powered Medical Devices Under EU MDR Don’t Need EU AI Act Certification – A Detailed Analysis of Regulatory Requirements and Compliance",
+    "date": "2025-02",
+    "url": "https://doi.org/10.70317/2025.02rw02",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Rudolf Wagner"
+    ],
+    "abstract": "The Growing Fear of Regulatory Overlap in AI-Driven Healthcare\nThe EU AI Act (Regulation (EU) 2024/1689) has ignited discussions across the healthcare industry, especially among manufacturers of AI-powered medical devices. A major concern is whether these devices, already scrutinized under the EU Me",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "EU Digital Regulation and Guatemala: AI, 5G, and Cybersecurity",
+    "date": "2025-08",
+    "url": "https://arxiv.org/abs/2508.08315v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Victor Lopez Juarez"
+    ],
+    "abstract": "The paper examines how EU rules in AI, 5G, and cybersecurity operate as transnational governance and shape policy in Guatemala. It outlines the AI Act's risk approach, the 5G Action Plan and Security Toolbox, and the cybersecurity regime built on ENISA, NIS2, the Cybersecurity Act, and the Cyber Resilience Act. It traces extraterritorial channels such as the Brussels effect, private standards, supply chain clauses, and data transfer controls. Guatemala specific impacts include SME compliance costs, procurement limits, environmental trade-offs in rollout, rights risks, and capacity gaps. The paper maps current national measures and proposes five guardrails: digital constitutionalism, green IT duties, third country impact assessment, standards co-design, and recognition of regulatory diversity.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "The EU AI Act: implications and compliance guidance for healthcare facilities.",
+    "date": "2026-01",
+    "url": "https://doi.org/10.48620/99252",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Fabio Dennstädt",
+     "Janna Hastings",
+     "Paul Windisch"
+    ],
+    "abstract": "Background The European Union AI Act [Regulation (EU) 2024/1689] establishes the first comprehensive legal framework for artificial intelligence. While AI offers transformative potential in healthcare",
+    "tags": [],
+    "venue": "Open Access CRIS of the University of Bern"
+   },
+   {
+    "title": "The science and practice of proportionality in AI risk evaluations",
+    "date": "2026-02",
+    "url": "https://arxiv.org/abs/2603.10017v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Carlos Mougan",
+     "Lauritz Morlock",
+     "Jair Aguirre"
+    ],
+    "abstract": "A global challenge in artificial intelligence (AI) regulation lies in achieving effective risk management without compromising innovation and technical progress. The European Union (EU) Artificial Intelligence Act represents the first regulatory attempt worldwide to navigate this tension in the form of a binding, risk-based framework. In August 2025, obligations for providers of general-purpose AI (GPAI) models under the EU AI Act entered into application. They require providers of the most advanced GPAI models to evaluate possible systemic risks stemming from their models. This raises the regulatory challenge of ensuring that the evaluations provide meaningful risk information without imposing excessive burden on providers. The principle of proportionality, a binding requirement under EU law, requires the regulator to calibrate its actions to their intended objectives. The application of proportionality to model evaluations for AI risk opens opportunities to develop scientific methods that operationalize such calibration within concrete evaluation practices.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Governing What the EU AI Act Excludes: Accountability for Autonomous AI Agents in Smart City Critical Infrastructure",
+    "date": "2026-05",
+    "url": "https://arxiv.org/abs/2605.01091v1",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Talal Ashraf Butt",
+     "Muhammad Iqbal",
+     "Razi Iqbal"
+    ],
+    "abstract": "When a traffic signal controller adjusts green phases and a grid manager curtails power on the same corridor, each system may comply with its own obligations. The resident who suffers the combined effect has no single authority to hold accountable and, under the EU AI Act, limited means to obtain an explanation. Annex III, point 2 excludes safety-component AI in critical infrastructure from Article 86 explanation rights and Article 27 fundamental-rights impact assessment. Provider and deployer duties under Articles 9-15 still apply, and residual pathways under the GDPR, NIS2, and tortious liability offer partial coverage. The Act's principal resident-facing accountability instruments are nonetheless narrowed for the autonomous infrastructure systems most likely to interact across agencies. The paper traces this accountability deficit through four residual pathways (GDPR Article 22, GDPR transparency obligations, tortious liability, and NIS2) and shows that each is structurally bounded by individual-controller, individual-decision scope. As a governance response, it presents AgentGov-SC, a three-layer architecture (Agent, Orchestration, City) specifying 25 governance measures with bidirectional traceability to the EU AI Act, ISO/IEC 42001, and the NIST AI Risk Management Framework. Five conflict resolution rules and an autonomy-calibrated activation model complete the design. A scenario analysis traces governance activation through a multi-agent corridor cascade involving three documented UAE smart-city systems, with a contrasting single-system scenario confirming proportional activation. The paper contributes a regulatory gap analysis and governance architecture for an increasingly important class of urban AI deployment that existing frameworks treat as bounded and isolated.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Supplementary file 1_The EU AI Act: implications and compliance guidance for healthcare facilities.docx",
+    "date": "2026-06",
+    "url": "https://figshare.com/articles/dataset/Supplementary_file_1_The_EU_AI_Act_implications_and_compliance_guidance_for_healthcare_facilities_docx/32632875",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Fabio Dennstädt",
+     "Janna Hastings (342774)",
+     "Paul Windisch"
+    ],
+    "abstract": "Background The European Union AI Act [Regulation (EU) 2024/1689] establishes the first comprehensive legal framework for artificial intelligence. While AI offers transformative potential in healthcare",
+    "tags": [],
+    "venue": "Figshare"
+   },
+   {
+    "title": "Supplementary file 2_The EU AI Act: implications and compliance guidance for healthcare facilities.docx",
+    "date": "2026-06",
+    "url": "https://figshare.com/articles/dataset/Supplementary_file_2_The_EU_AI_Act_implications_and_compliance_guidance_for_healthcare_facilities_docx/32632866",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Fabio Dennstädt",
+     "Janna Hastings (342774)",
+     "Paul Windisch"
+    ],
+    "abstract": "Background The European Union AI Act [Regulation (EU) 2024/1689] establishes the first comprehensive legal framework for artificial intelligence. While AI offers transformative potential in healthcare",
+    "tags": [],
+    "venue": "Figshare"
+   },
+   {
+    "title": "Table 1_The EU AI Act: implications and compliance guidance for healthcare facilities.docx",
+    "date": "2026-06",
+    "url": "https://figshare.com/articles/dataset/Table_1_The_EU_AI_Act_implications_and_compliance_guidance_for_healthcare_facilities_docx/32632869",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Fabio Dennstädt",
+     "Janna Hastings (342774)",
+     "Paul Windisch"
+    ],
+    "abstract": "Background The European Union AI Act [Regulation (EU) 2024/1689] establishes the first comprehensive legal framework for artificial intelligence. While AI offers transformative potential in healthcare",
+    "tags": [],
+    "venue": "Figshare"
+   },
+   {
+    "title": "The EU AI Act: implications and compliance guidance for healthcare facilities",
+    "date": "2026-06",
+    "url": "https://doi.org/10.3389/fdgth.2026.1808373",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Fabio Dennstädt",
+     "Janna Hastings",
+     "Paul Windisch"
+    ],
+    "abstract": "Background: The European Union AI Act [Regulation (EU) 2024/1689] establishes the first comprehensive legal framework for artificial intelligence. While AI offers transformative potential in healthcar",
+    "tags": [],
+    "venue": "Frontiers in Digital Health"
+   },
+   {
+    "title": "COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act",
+    "date": "2024-10",
+    "url": "https://arxiv.org/abs/2410.07959v2",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Philipp Guldimann",
+     "Alexander Spiridonov",
+     "Robin Staab"
+    ],
+    "abstract": "The EU's Artificial Intelligence Act (AI Act) is a significant step towards responsible AI development, but lacks clear technical interpretation, making it difficult to assess models' compliance. This work presents COMPL-AI, a comprehensive framework consisting of (i) the first technical interpretation of the EU AI Act, translating its broad regulatory requirements into measurable technical requirements, with the focus on large language models (LLMs), and (ii) an open-source Act-centered benchmarking suite, based on thorough surveying and implementation of state-of-the-art LLM benchmarks. By evaluating 12 prominent LLMs in the context of COMPL-AI, we reveal shortcomings in existing models and benchmarks, particularly in areas like robustness, safety, diversity, and fairness. This work highlights the need for a shift in focus towards these aspects, encouraging balanced development of LLMs and more comprehensive regulation-aligned benchmarks. Simultaneously, COMPL-AI for the first time demonstrates the possibilities and difficulties of bringing the Act's obligations to a more concrete, technical level. As such, our work can serve as a useful first step towards having actionable recommendations for model providers, and contributes to ongoing efforts of the EU to enable application of the Act, such as the drafting of the GPAI Code of Practice.",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Invisible Borrowers, Unpriced Risk: The Upstream AI Governance Gap under Article 26 of the EU AI Act",
+    "date": "",
+    "url": "https://doi.org/10.2139/ssrn.6313443",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Helen Lalthanpari"
+    ],
+    "abstract": "A systemic risk has entered the financial sector's AI infrastructure that no existing supervisory instrument is designed to detect. As multinational banks deploy GenAI credit-scoring systems classified \"High-Risk\" under EU AI Act Annex III, they are building on data architectures inherited from lega",
+    "tags": [],
+    "venue": ""
+   },
+   {
+    "title": "Article 4 AI Act: AI Literacy",
+    "date": "2025-01",
+    "url": "https://doi.org/10.2139/ssrn.5315986",
+    "category": "compliance",
+    "subcategory": "application",
+    "authors": [
+     "Tommaso Fia"
+    ],
+    "abstract": "",
+    "tags": [],
+    "venue": "SSRN Electronic Journal"
+   },
+   {
+    "title": "AI Literacy for Legal AI Systems: A practical approach",
+    "date": "2025-05",
+    "url": "https://arxiv.org/abs/2505.18006v1",
+    "category": "org-implementation",
+    "subcategory": "application",
+    "authors": [
+     "Gizem Gultekin-Varkonyi"
+    ],
+    "abstract": "Legal AI systems are increasingly being adopted by judicial and legal system deployers and providers worldwide to support a range of applications. While they offer potential benefits such as reducing bias, increasing efficiency, and improving accountability, they also pose significant risks, requiring a careful balance between opportunities, and legal and ethical development and deployment. AI literacy, as a legal requirement under the EU AI Act and a critical enabler of ethical AI for deployers and providers, could be a tool to achieve this. The article introduces the term \"legal AI systems\" and then analyzes the concept of AI literacy and the benefits and risks associated with these systems. This analysis is linked to a broader AI-L concept for organizations that deal with legal AI systems. The outcome of the article, a roadmap questionnaire as a practical tool for developers and providers to assess risks, benefits, and stakeholder concerns, could be useful in meeting societal and regulatory expectations for legal AI.",
+    "tags": [],
+    "venue": ""
+   }
+  ]
+ }
+}

@@ -6,6 +6,7 @@
 |----------|---------|
 | [`research/RESEARCH_PLAN.md`](research/RESEARCH_PLAN.md) | The research program: questions, method, phases, deliverables |
 | [`research/PROTOCOL.md`](research/PROTOCOL.md) | Systematic review protocol (inclusion, search, extraction, appraisal) |
+| [`research/mapping_review.md`](research/mapping_review.md) | Phase 1: cell-level map + per-RQ shortlists (build with `tools/build_shortlists.py`) |
 | [`research/taxonomy.md`](research/taxonomy.md) | The 20×8 taxonomy definition |
 | [`research/literature_review.md`](research/literature_review.md) | Synthesis of the corpus |
 | [`research/ai_literacy_trends_2026.md`](research/ai_literacy_trends_2026.md) | Trend analysis for the research program |
@@ -28,6 +29,7 @@
 ## Regenerating
 
 ```bash
+python3 tools/build_shortlists.py --papers 30   # mapping_review.md + shortlists.json
 python3 scripts/analysis/generate_analysis.py   # statistics.json + papers.json
 python3 scripts/visualize_statistics.py          # PNG charts
 python3 tools/trend_scanner.py --months 6        # trend report

@@ -1,47 +1,47 @@
 # AI-Literacy Research Trends (12-Month View)
 
-**Generated:** 2026-08-12  
-**Window:** since 2025-08 — 1477 of 4414 papers
+**Generated:** 2026-08-15  
+**Window:** since 2025-08 — 2919 of 5859 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| continuum | 6 | 6 | 3.0× |
-| micro-learning | 1 | 1 | 3.0× |
-| agentic | 48 | 58 | 2.5× |
-| ai competence | 6 | 8 | 2.2× |
-| small business | 5 | 7 | 2.1× |
-| article 4 | 6 | 9 | 2.0× |
-| agent | 130 | 208 | 1.9× |
-| productivity | 57 | 101 | 1.7× |
-| readiness | 48 | 85 | 1.7× |
-| eu ai act | 46 | 81 | 1.7× |
-| compliance | 46 | 82 | 1.7× |
-| workshop | 22 | 42 | 1.6× |
-| transfer | 17 | 31 | 1.6× |
-| framework | 331 | 654 | 1.5× |
-| trust | 98 | 198 | 1.5× |
+| continuum | 10 | 10 | 2.0× |
+| micro-learning | 1 | 1 | 2.0× |
+| agentic | 131 | 141 | 1.9× |
+| agent | 462 | 540 | 1.7× |
+| taxonomy | 96 | 116 | 1.7× |
+| transfer | 84 | 98 | 1.7× |
+| llm | 681 | 859 | 1.6× |
+| compliance | 142 | 178 | 1.6× |
+| eu ai act | 132 | 167 | 1.6× |
+| framework | 917 | 1241 | 1.5× |
+| large language model | 548 | 741 | 1.5× |
+| evaluation | 511 | 668 | 1.5× |
+| trust | 334 | 434 | 1.5× |
+| regulation | 166 | 225 | 1.5× |
+| prompting | 146 | 194 | 1.5× |
 
 ## 📈 Fastest-Growing Cells
 
 | Cell | Recent | Total | Recent Share |
 |------|--------|-------|--------------|
 | `org-implementation/evaluation` | 1 | 1 | 100% |
-| `higher-education/review` | 6 | 7 | 86% |
+| `higher-education/development` | 7 | 8 | 88% |
+| `attitudes-trust/evaluation` | 13 | 15 | 87% |
+| `higher-education/review` | 11 | 13 | 85% |
+| `compliance/systems` | 65 | 77 | 84% |
+| `compliance/application` | 127 | 155 | 82% |
+| `compliance/mechanism` | 39 | 48 | 81% |
+| `compliance/evaluation` | 4 | 5 | 80% |
+| `higher-education/mechanism` | 22 | 28 | 79% |
+| `teacher-ai-literacy/evaluation` | 7 | 9 | 78% |
+| `generative-ai-skills/development` | 16 | 21 | 76% |
 | `ai-literacy-construct/evaluation` | 3 | 4 | 75% |
-| `roi-measurement/application` | 49 | 68 | 72% |
-| `roi-measurement/systems` | 23 | 32 | 72% |
-| `compliance/systems` | 30 | 42 | 71% |
-| `teacher-ai-literacy/evaluation` | 4 | 6 | 67% |
-| `compliance/application` | 51 | 79 | 65% |
-| `critical-ai-literacy/systems` | 27 | 43 | 63% |
-| `roi-measurement/mechanism` | 13 | 21 | 62% |
-| `org-implementation/mechanism` | 6 | 10 | 60% |
-| `compliance/review` | 6 | 10 | 60% |
-| `adoption-behavior/systems` | 29 | 48 | 60% |
-| `compliance/mechanism` | 13 | 22 | 59% |
-| `adoption-behavior/mechanism` | 20 | 34 | 59% |
+| `learning-design/mechanism` | 27 | 36 | 75% |
+| `compliance/development` | 9 | 12 | 75% |
+| `critical-ai-literacy/mechanism` | 12 | 16 | 75% |
 
 ## What This Means for the ALaaS Research Program
 

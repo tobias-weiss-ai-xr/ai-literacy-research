@@ -213,6 +213,84 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ---
 
+## 📊 Corpus Statistics
+
+**9,653 papers** across **20 categories**.  
+Sources: **arXiv** 2,628 (27%) · **DOI** 6,875 (71%) · **Other** 150 (1%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
+
+### Top categories
+
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+| compliance | **755** | 0 | ████████████ |
+| generative-ai-skills | **734** | 0 | ███████████░ |
+| attitudes-trust | **731** | 0 | ███████████░ |
+| tooling | **581** | 0 | █████████░░░ |
+| ai-literacy-construct | **567** | 0 | █████████░░░ |
+| adoption-behavior | **521** | 0 | ████████░░░░ |
+| learning-design | **466** | 0 | ███████░░░░░ |
+| professional-education | **461** | 0 | ███████░░░░░ |
+| workforce-upskilling | **455** | 0 | ███████░░░░░ |
+| org-implementation | **443** | 0 | ███████░░░░░ |
+| *other* | **3,939** | | |
+
+### By year
+
+| Year | Papers | |
+|------|--------|-|
+| 2025 | 4,326 | ████████████ |
+| 2026 | 2,731 | ███████░░░░░ |
+| unknown | 68 | ░░░░░░░░░░░░ |
+
+### Momentum (hottest categories)
+
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+| Compliance & AI Act | 755 | 43.2/mo | 69% | 226 |
+| Generative AI Skills | 734 | 35.9/mo | 59% | 197 |
+| Adoption Behavior & Engagement | 521 | 26.2/mo | 60% | 181 |
+| Attitudes, Trust & Acceptance | 731 | 32.1/mo | 53% | 107 |
+| Org Implementation & Change | 443 | 19.9/mo | 54% | 104 |
+
+### Trending keywords
+
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| continuum | 10 | 2.09 |
+| micro-learning | 2 | 2.09 |
+| agentic | 163 | 1.93 |
+| transfer | 106 | 1.76 |
+| avoidance | 19 | 1.76 |
+| agent | 616 | 1.74 |
+| taxonomy | 122 | 1.68 |
+| compliance | 224 | 1.61 |
+
+### Top venues
+
+| Venue | Papers |
+|-------|--------|
+| SSRN Electronic Journal | 183 |
+| Zenodo (CERN European Organization for Nuclear Research) | 183 |
+| Education and Information Technologies | 112 |
+| Frontiers in Education | 84 |
+| Education Sciences | 75 |
+| Lecture notes in computer science | 65 |
+| Advances in computational intelligence and robotics book series | 60 |
+| arXiv | 49 |
+
+### Research gaps (thinnest cells)
+
+| Cell | Papers |
+|------|--------|
+| `org-implementation/evaluation` | 2 |
+| `sme-training/evaluation` | 2 |
+| `k12-education/evaluation` | 4 |
+| `workforce-upskilling/evaluation` | 5 |
+| `compliance/evaluation` | 5 |
+
+*Generated 2026-08 by `scripts/standard_stats.py`.*
+
 ## 📄 License
 
 **© 2026 KI-Kompetenz-Training | Tobias Weiss**
@@ -221,176 +299,6 @@ a weekly scheduled job opens a PR with newly discovered papers.
 - **Tools:** MIT License
 
 ---
-## 📊 Corpus Statistics
-
-**9,653 papers** across **20 categories**.  
-Sources: **arXiv** 2,628 (27%) · **DOI** 6,875 (71%) · **Other** 150 (1%).  
-Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
-
-### Top categories
-
-| Category | Papers | Recent | |
-|----------|--------|--------|-|
-| compliance | **755** | 0 | ████████████ |
-| generative-ai-skills | **734** | 0 | ███████████░ |
-| attitudes-trust | **731** | 0 | ███████████░ |
-| tooling | **581** | 0 | █████████░░░ |
-| ai-literacy-construct | **567** | 0 | █████████░░░ |
-| adoption-behavior | **521** | 0 | ████████░░░░ |
-| learning-design | **466** | 0 | ███████░░░░░ |
-| professional-education | **461** | 0 | ███████░░░░░ |
-| workforce-upskilling | **455** | 0 | ███████░░░░░ |
-| org-implementation | **443** | 0 | ███████░░░░░ |
-| *other* | **3,939** | | |
-
-
-### By year
-
-| Year | Papers | |
-|------|--------|-|
-| 2025 | 4,326 | ████████████ |
-| 2026 | 2,731 | ███████░░░░░ |
-| unknown | 68 | ░░░░░░░░░░░░ |
-
-
-### Momentum (hottest categories)
-
-| Category | Total | Rate | Recent | Score |
-|----------|-------|------|--------|-------|
-| Compliance & AI Act | 755 | 43.2/mo | 69% | 226 |
-| Generative AI Skills | 734 | 35.9/mo | 59% | 197 |
-| Adoption Behavior & Engagement | 521 | 26.2/mo | 60% | 181 |
-| Attitudes, Trust & Acceptance | 731 | 32.1/mo | 53% | 107 |
-| Org Implementation & Change | 443 | 19.9/mo | 54% | 104 |
-
-
-### Trending keywords
-
-| Keyword | Papers | Burst |
-|---------|--------|-------|
-| continuum | 10 | 2.09 |
-| micro-learning | 2 | 2.09 |
-| agentic | 163 | 1.93 |
-| transfer | 106 | 1.76 |
-| avoidance | 19 | 1.76 |
-| agent | 616 | 1.74 |
-| taxonomy | 122 | 1.68 |
-| compliance | 224 | 1.61 |
-
-
-### Top venues
-
-| Venue | Papers |
-|-------|--------|
-| SSRN Electronic Journal | 183 |
-| Zenodo (CERN European Organization for Nuclear Research) | 183 |
-| Education and Information Technologies | 112 |
-| Frontiers in Education | 84 |
-| Education Sciences | 75 |
-| Lecture notes in computer science | 65 |
-| Advances in computational intelligence and robotics book series | 60 |
-| arXiv | 49 |
-
-
-### Research gaps (thinnest cells)
-
-| Cell | Papers |
-|------|--------|
-| `org-implementation/evaluation` | 2 |
-| `sme-training/evaluation` | 2 |
-| `k12-education/evaluation` | 4 |
-| `workforce-upskilling/evaluation` | 5 |
-| `compliance/evaluation` | 5 |
-
-
-
-*Generated 2026-08 by `scripts/standard_stats.py`.*
-
-## 📊 Corpus Statistics
-
-**9,653 papers** across **20 categories**.  
-Sources: **arXiv** 2,628 (27%) · **DOI** 6,875 (71%) · **Other** 150 (1%).  
-Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
-
-### Top categories
-
-| Category | Papers | Recent | |
-|----------|--------|--------|-|
-| compliance | **755** | 0 | ████████████ |
-| generative-ai-skills | **734** | 0 | ███████████░ |
-| attitudes-trust | **731** | 0 | ███████████░ |
-| tooling | **581** | 0 | █████████░░░ |
-| ai-literacy-construct | **567** | 0 | █████████░░░ |
-| adoption-behavior | **521** | 0 | ████████░░░░ |
-| learning-design | **466** | 0 | ███████░░░░░ |
-| professional-education | **461** | 0 | ███████░░░░░ |
-| workforce-upskilling | **455** | 0 | ███████░░░░░ |
-| org-implementation | **443** | 0 | ███████░░░░░ |
-| *other* | **3,939** | | |
-
-
-### By year
-
-| Year | Papers | |
-|------|--------|-|
-| 2025 | 4,326 | ████████████ |
-| 2026 | 2,731 | ███████░░░░░ |
-| unknown | 68 | ░░░░░░░░░░░░ |
-
-
-### Momentum (hottest categories)
-
-| Category | Total | Rate | Recent | Score |
-|----------|-------|------|--------|-------|
-| Compliance & AI Act | 755 | 43.2/mo | 69% | 226 |
-| Generative AI Skills | 734 | 35.9/mo | 59% | 197 |
-| Adoption Behavior & Engagement | 521 | 26.2/mo | 60% | 181 |
-| Attitudes, Trust & Acceptance | 731 | 32.1/mo | 53% | 107 |
-| Org Implementation & Change | 443 | 19.9/mo | 54% | 104 |
-
-
-### Trending keywords
-
-| Keyword | Papers | Burst |
-|---------|--------|-------|
-| continuum | 10 | 2.09 |
-| micro-learning | 2 | 2.09 |
-| agentic | 163 | 1.93 |
-| transfer | 106 | 1.76 |
-| avoidance | 19 | 1.76 |
-| agent | 616 | 1.74 |
-| taxonomy | 122 | 1.68 |
-| compliance | 224 | 1.61 |
-
-
-### Top venues
-
-| Venue | Papers |
-|-------|--------|
-| SSRN Electronic Journal | 183 |
-| Zenodo (CERN European Organization for Nuclear Research) | 183 |
-| Education and Information Technologies | 112 |
-| Frontiers in Education | 84 |
-| Education Sciences | 75 |
-| Lecture notes in computer science | 65 |
-| Advances in computational intelligence and robotics book series | 60 |
-| arXiv | 49 |
-
-
-### Research gaps (thinnest cells)
-
-| Cell | Papers |
-|------|--------|
-| `org-implementation/evaluation` | 2 |
-| `sme-training/evaluation` | 2 |
-| `k12-education/evaluation` | 4 |
-| `workforce-upskilling/evaluation` | 5 |
-| `compliance/evaluation` | 5 |
-
-
-
-*Generated 2026-08 by `scripts/standard_stats.py`.*
-
 
 ## 🙏 Acknowledgments
 

@@ -4,7 +4,7 @@
    "id": "ai-literacy-construct",
    "name": "AI Literacy Constructs & Models",
    "color": "#58a6ff",
-   "count": 301,
+   "count": 302,
    "subcategories": [
     {
      "id": "theory",
@@ -24,7 +24,7 @@
     {
      "id": "application",
      "name": "Application",
-     "count": 39
+     "count": 40
     },
     {
      "id": "development",
@@ -52,20 +52,20 @@
     "2021": 4,
     "2022": 7,
     "2023": 27,
-    "2024": 77,
+    "2024": 78,
     "2025": 108,
     "2026": 65
    },
    "momentum": {
     "id": "ai-literacy-construct",
     "name": "AI Literacy Constructs & Models",
-    "total": 301,
+    "total": 302,
     "recent": 107,
     "prior": 106,
     "growth_pct": 0.9,
-    "recent_share": 0.355,
+    "recent_share": 0.354,
     "papers_per_month": 8.9,
-    "score": 36.4
+    "score": 36.3
    }
   },
   {
@@ -141,7 +141,7 @@
    "id": "learning-design",
    "name": "Learning Design & Curriculum",
    "color": "#d29922",
-   "count": 207,
+   "count": 208,
    "subcategories": [
     {
      "id": "theory",
@@ -171,7 +171,7 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 34
+     "count": 35
     },
     {
      "id": "evaluation",
@@ -188,20 +188,20 @@
     "2021": 4,
     "2022": 19,
     "2023": 32,
-    "2024": 76,
+    "2024": 77,
     "2025": 53,
     "2026": 20
    },
    "momentum": {
     "id": "learning-design",
     "name": "Learning Design & Curriculum",
-    "total": 207,
+    "total": 208,
     "recent": 30,
-    "prior": 77,
-    "growth_pct": -61.0,
-    "recent_share": 0.145,
+    "prior": 78,
+    "growth_pct": -61.5,
+    "recent_share": 0.144,
     "papers_per_month": 2.5,
-    "score": -46.5
+    "score": -47.1
    }
   },
   {
@@ -478,7 +478,7 @@
    "id": "compliance",
    "name": "Compliance & AI Act",
    "color": "#79c0ff",
-   "count": 237,
+   "count": 238,
    "subcategories": [
     {
      "id": "theory",
@@ -508,7 +508,7 @@
     {
      "id": "systems",
      "name": "Systems & Technology",
-     "count": 42
+     "count": 43
     },
     {
      "id": "evaluation",
@@ -528,18 +528,18 @@
     "2023": 6,
     "2024": 25,
     "2025": 80,
-    "2026": 108
+    "2026": 109
    },
    "momentum": {
     "id": "compliance",
     "name": "Compliance & AI Act",
-    "total": 237,
-    "recent": 139,
+    "total": 238,
+    "recent": 140,
     "prior": 62,
-    "growth_pct": 124.2,
-    "recent_share": 0.586,
-    "papers_per_month": 11.6,
-    "score": 182.8
+    "growth_pct": 125.8,
+    "recent_share": 0.588,
+    "papers_per_month": 11.7,
+    "score": 184.6
    }
   },
   {
@@ -614,7 +614,7 @@
    "id": "higher-education",
    "name": "Higher Education",
    "color": "#ff7b72",
-   "count": 152,
+   "count": 153,
    "subcategories": [
     {
      "id": "theory",
@@ -654,26 +654,26 @@
     {
      "id": "review",
      "name": "Reviews & Surveys",
-     "count": 7
+     "count": 8
     }
    ],
    "trajectory": {
     "2022": 2,
     "2023": 7,
     "2024": 43,
-    "2025": 67,
+    "2025": 68,
     "2026": 32
    },
    "momentum": {
     "id": "higher-education",
     "name": "Higher Education",
-    "total": 152,
+    "total": 153,
     "recent": 61,
-    "prior": 61,
-    "growth_pct": 0.0,
-    "recent_share": 0.401,
+    "prior": 62,
+    "growth_pct": -1.6,
+    "recent_share": 0.399,
     "papers_per_month": 5.1,
-    "score": 40.1
+    "score": 38.3
    }
   },
   {
@@ -813,7 +813,7 @@
    "id": "critical-ai-literacy",
    "name": "Critical & Ethical AI Literacy",
    "color": "#56d4dd",
-   "count": 212,
+   "count": 214,
    "subcategories": [
     {
      "id": "theory",
@@ -833,12 +833,12 @@
     {
      "id": "application",
      "name": "Application",
-     "count": 42
+     "count": 43
     },
     {
      "id": "development",
      "name": "Development",
-     "count": 8
+     "count": 9
     },
     {
      "id": "systems",
@@ -861,30 +861,30 @@
     "2023": 13,
     "2024": 42,
     "2025": 104,
-    "2026": 49
+    "2026": 51
    },
    "momentum": {
     "id": "critical-ai-literacy",
     "name": "Critical & Ethical AI Literacy",
-    "total": 212,
-    "recent": 100,
+    "total": 214,
+    "recent": 102,
     "prior": 77,
-    "growth_pct": 29.9,
-    "recent_share": 0.472,
-    "papers_per_month": 8.3,
-    "score": 77.1
+    "growth_pct": 32.5,
+    "recent_share": 0.477,
+    "papers_per_month": 8.5,
+    "score": 80.2
    }
   },
   {
    "id": "generative-ai-skills",
    "name": "Generative AI Skills",
    "color": "#b392f0",
-   "count": 308,
+   "count": 309,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 23
+     "count": 24
     },
     {
      "id": "mechanism",
@@ -927,30 +927,30 @@
     "2023": 51,
     "2024": 102,
     "2025": 106,
-    "2026": 46
+    "2026": 47
    },
    "momentum": {
     "id": "generative-ai-skills",
     "name": "Generative AI Skills",
-    "total": 308,
-    "recent": 74,
+    "total": 309,
+    "recent": 75,
     "prior": 112,
-    "growth_pct": -33.9,
-    "recent_share": 0.24,
+    "growth_pct": -33.0,
+    "recent_share": 0.243,
     "papers_per_month": 6.2,
-    "score": -9.9
+    "score": -8.7
    }
   },
   {
    "id": "attitudes-trust",
    "name": "Attitudes, Trust & Acceptance",
    "color": "#ffc680",
-   "count": 331,
+   "count": 332,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 42
+     "count": 43
     },
     {
      "id": "mechanism",
@@ -993,18 +993,18 @@
     "2023": 34,
     "2024": 76,
     "2025": 113,
-    "2026": 77
+    "2026": 78
    },
    "momentum": {
     "id": "attitudes-trust",
     "name": "Attitudes, Trust & Acceptance",
-    "total": 331,
-    "recent": 119,
+    "total": 332,
+    "recent": 120,
     "prior": 115,
-    "growth_pct": 3.5,
-    "recent_share": 0.36,
-    "papers_per_month": 9.9,
-    "score": 39.5
+    "growth_pct": 4.3,
+    "recent_share": 0.361,
+    "papers_per_month": 10.0,
+    "score": 40.4
    }
   },
   {
@@ -1359,7 +1359,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 423
+   "count": 425
   },
   {
    "id": "mechanism",
@@ -1374,17 +1374,17 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 992
+   "count": 994
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 158
+   "count": 159
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 887
+   "count": 889
   },
   {
    "id": "evaluation",
@@ -1394,7 +1394,7 @@
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 378
+   "count": 379
   }
  ],
  "timeline": [
@@ -6686,6 +6686,11 @@
   [
    "2024-05",
    "ai-literacy-construct",
+   "application"
+  ],
+  [
+   "2024-05",
+   "ai-literacy-construct",
    "method"
   ],
   [
@@ -9585,6 +9590,11 @@
   ],
   [
    "2024-11",
+   "learning-design",
+   "systems"
+  ],
+  [
+   "2024-11",
    "lifelong-learning",
    "application"
   ],
@@ -11160,6 +11170,11 @@
   ],
   [
    "2025-01",
+   "higher-education",
+   "review"
+  ],
+  [
+   "2025-01",
    "k12-education",
    "application"
   ],
@@ -19195,6 +19210,11 @@
   ],
   [
    "2026-01",
+   "attitudes-trust",
+   "theory"
+  ],
+  [
+   "2026-01",
    "compliance",
    "application"
   ],
@@ -19332,6 +19352,11 @@
    "2026-01",
    "compliance",
    "theory"
+  ],
+  [
+   "2026-01",
+   "critical-ai-literacy",
+   "application"
   ],
   [
    "2026-01",
@@ -20111,6 +20136,11 @@
   [
    "2026-02",
    "critical-ai-literacy",
+   "development"
+  ],
+  [
+   "2026-02",
+   "critical-ai-literacy",
    "method"
   ],
   [
@@ -20147,6 +20177,11 @@
    "2026-02",
    "generative-ai-skills",
    "systems"
+  ],
+  [
+   "2026-02",
+   "generative-ai-skills",
+   "theory"
   ],
   [
    "2026-02",
@@ -23067,6 +23102,11 @@
    "2026-08",
    "compliance",
    "review"
+  ],
+  [
+   "2026-08",
+   "compliance",
+   "systems"
   ],
   [
    "2026-08",
@@ -23152,7 +23192,7 @@
   },
   {
    "name": "Education Sciences",
-   "papers": 35
+   "papers": 36
   },
   {
    "name": "Advances in educational technologies and instructional design book series",
@@ -23193,7 +23233,7 @@
  ],
  "source_breakdown": {
   "arxiv": 1127,
-  "doi": 3209,
+  "doi": 3217,
   "other": 78
  },
  "keyword_bursts": [
@@ -23201,14 +23241,14 @@
    "keyword": "continuum",
    "recent": 6,
    "total": 6,
-   "burst_score": 2.99,
-   "recent_share": 0.0041
+   "burst_score": 2.98,
+   "recent_share": 0.004
   },
   {
    "keyword": "micro-learning",
    "recent": 1,
    "total": 1,
-   "burst_score": 2.99,
+   "burst_score": 2.98,
    "recent_share": 0.0007
   },
   {
@@ -23216,14 +23256,14 @@
    "recent": 48,
    "total": 58,
    "burst_score": 2.47,
-   "recent_share": 0.0325
+   "recent_share": 0.0324
   },
   {
    "keyword": "ai competence",
    "recent": 6,
    "total": 8,
    "burst_score": 2.24,
-   "recent_share": 0.0041
+   "recent_share": 0.004
   },
   {
    "keyword": "small business",
@@ -23237,49 +23277,49 @@
    "recent": 6,
    "total": 9,
    "burst_score": 1.99,
-   "recent_share": 0.0041
+   "recent_share": 0.004
   },
   {
    "keyword": "avoidance",
    "recent": 6,
    "total": 9,
    "burst_score": 1.99,
-   "recent_share": 0.0041
+   "recent_share": 0.004
   },
   {
    "keyword": "agent",
    "recent": 130,
    "total": 208,
-   "burst_score": 1.87,
-   "recent_share": 0.088
+   "burst_score": 1.86,
+   "recent_share": 0.0877
   },
   {
    "keyword": "eu ai act",
    "recent": 46,
    "total": 81,
-   "burst_score": 1.7,
-   "recent_share": 0.0311
+   "burst_score": 1.69,
+   "recent_share": 0.031
   },
   {
    "keyword": "productivity",
    "recent": 57,
    "total": 101,
-   "burst_score": 1.69,
-   "recent_share": 0.0386
+   "burst_score": 1.68,
+   "recent_share": 0.0385
   },
   {
    "keyword": "readiness",
    "recent": 48,
    "total": 85,
-   "burst_score": 1.69,
-   "recent_share": 0.0325
+   "burst_score": 1.68,
+   "recent_share": 0.0324
   },
   {
    "keyword": "compliance",
    "recent": 46,
    "total": 82,
-   "burst_score": 1.68,
-   "recent_share": 0.0311
+   "burst_score": 1.67,
+   "recent_share": 0.031
   },
   {
    "keyword": "transfer",
@@ -23292,15 +23332,15 @@
    "keyword": "workshop",
    "recent": 22,
    "total": 42,
-   "burst_score": 1.57,
-   "recent_share": 0.0149
+   "burst_score": 1.56,
+   "recent_share": 0.0148
   },
   {
    "keyword": "reliance",
    "recent": 43,
    "total": 84,
    "burst_score": 1.53,
-   "recent_share": 0.0291
+   "recent_share": 0.029
   }
  ]
 }

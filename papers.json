@@ -323,6 +323,20 @@
   "venue": "F1000Research"
  },
  {
+  "title": "Leading sustainably in the digital era: a pilot study of AI literacy as a leadership competency in Estonian small and medium-sized enterprises",
+  "date": "2026-08",
+  "url": "https://doi.org/10.3176/proc.2026.3.09",
+  "category": "compliance",
+  "subcategory": "systems",
+  "authors": [
+   "Aive Pevkur",
+   "Jaanus Mugu"
+  ],
+  "abstract": "The rapid digitalisation of organisational management has brought artificial intelligence (AI) into core decision-making processes, shaping managerial and human resource functions. Since February 2025",
+  "tags": [],
+  "venue": "Proceedings of the Estonian Academy of Sciences"
+ },
+ {
   "title": "AI Literacy: An Exercise in Power-Knowledge",
   "date": "2026-07",
   "url": "https://arxiv.org/abs/2607.27547v1",
@@ -9220,6 +9234,36 @@
   "venue": "European Journal of Business Management and Research"
  },
  {
+  "title": "Research on artificial intelligence literacy among nursing professionals: a scoping review",
+  "date": "2026-02",
+  "url": "https://doi.org/10.1186/s12912-026-04448-8",
+  "category": "critical-ai-literacy",
+  "subcategory": "development",
+  "authors": [
+   "Qin Wang",
+   "Na Lu",
+   "Chongchong Yu"
+  ],
+  "abstract": "BACKGROUND: Artificial Intelligence (AI) applications are increasingly integrated into nursing practice. As key stakeholders, nursing professionals must possess adequate AI literacy. To address this n",
+  "tags": [],
+  "venue": "BMC Nursing"
+ },
+ {
+  "title": "Integrating Generative AI in Engineering Education: Enhancing Learning and Attendance in a Vehicle Theory Course",
+  "date": "2026-02",
+  "url": "https://doi.org/10.3390/educsci16020239",
+  "category": "generative-ai-skills",
+  "subcategory": "theory",
+  "authors": [
+   "Fernando Viadero-Monasterio",
+   "Ram\u00f3n Guti\u00e9rrez-Moizant",
+   "Miguel Mel\u00e9ndez-Useros"
+  ],
+  "abstract": "This paper presents the results of a two-year innovative teaching project in the Vehicle Theory course, a fourth-year Mechanical Engineering subject at Universidad Carlos III de Madrid. The project ex",
+  "tags": [],
+  "venue": "Education Sciences"
+ },
+ {
   "title": "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures",
   "date": "2026-01",
   "url": "https://arxiv.org/abs/2601.06101v1",
@@ -11991,6 +12035,35 @@
   "abstract": "Purpose \u2013 The rapid adoption of artificial intelligence (AI) in higher education has transformed how students engage with learning tasks, raising concerns about dependency, ethical awareness, and algo",
   "tags": [],
   "venue": "Artificial Intelligence in Lifelong and Life-Course Education"
+ },
+ {
+  "title": "AI in Journalism Education: An Experimental Study on the Impact of Foundational Training on AI-Assisted News Writing",
+  "date": "2026-01",
+  "url": "https://doi.org/10.60072/ijeissah.2026.v4i02.001",
+  "category": "critical-ai-literacy",
+  "subcategory": "application",
+  "authors": [
+   "Diana Anggraeni",
+   "Riza Darma Putra",
+   "Muhamad Rosit"
+  ],
+  "abstract": "This study is motivated by the rapid development of generative Artificial Intelligence (AI) technologies, such as ChatGPT, which have transformed journalistic practices. While AI enhances efficiency i",
+  "tags": [],
+  "venue": "International journal of Emerging Issues in Social Science Arts and Humanities"
+ },
+ {
+  "title": "Impact of AI Literacy on Self-Efficacy Among Student Translators: Serial Mediating Roles of Self-Regulated Learning and Technology Acceptance",
+  "date": "2026-01",
+  "url": "https://doi.org/10.1109/access.2026.3675004",
+  "category": "attitudes-trust",
+  "subcategory": "theory",
+  "authors": [
+   "Jianyu He",
+   "Jian Wang"
+  ],
+  "abstract": "The recent advancement of artificial intelligence (AI) technology has revolutionized the language translation industry and unavoidably exerts an impact on student translators in multiple ways. In this",
+  "tags": [],
+  "venue": "IEEE Access"
  },
  {
   "title": "Comprehensive AI Literacy: The Case for Centering Human Agency",
@@ -35894,6 +35967,21 @@
   "venue": "Edu Cendikia Jurnal Ilmiah Kependidikan"
  },
  {
+  "title": "Systematic review of ChatGPT in higher education: Navigating impact on learning, wellbeing, and collaboration",
+  "date": "2025-01",
+  "url": "https://doi.org/10.1016/j.ssaho.2025.101866",
+  "category": "higher-education",
+  "subcategory": "review",
+  "authors": [
+   "Naya Abdallah",
+   "Rateb Katmah",
+   "Kinda Khalaf"
+  ],
+  "abstract": "The rapid evolution of artificial intelligence (AI)-based chatbots has significantly influenced higher education in the last couple of years, with large language models (LLMs), such as OpenAI's ChatGP",
+  "tags": [],
+  "venue": "Social Sciences & Humanities Open"
+ },
+ {
   "title": "Generating AI Literacy MCQs: A Multi-Agent LLM Approach",
   "date": "2024-12",
   "url": "https://arxiv.org/abs/2412.00970v1",
@@ -39643,6 +39731,21 @@
   "abstract": "AI-enhanced micro-credentials can optimize learning pathways, improve access to education, and boost workforce skills, according to this report. It addresses traditional education delivery model issue",
   "tags": [],
   "venue": "Advances in educational technologies and instructional design book series"
+ },
+ {
+  "title": "Fostering children's dispositional autonomy and AI understanding through co-designing AI systems: A learning science perspective",
+  "date": "2024-11",
+  "url": "https://doi.org/10.1016/j.ijhcs.2024.103412",
+  "category": "learning-design",
+  "subcategory": "systems",
+  "authors": [
+   "Yumeng Zhu",
+   "Samantha\u2010Kaye Johnston",
+   "Caifeng Zhu"
+  ],
+  "abstract": "",
+  "tags": [],
+  "venue": "International Journal of Human-Computer Studies"
  },
  {
   "title": "Executive Functioning Skills and Artificial Intelligence",
@@ -47139,6 +47242,21 @@
   "abstract": "In the rapidly evolving landscape of cyber security, education stands at the forefront, adapting to meet the demands of an increasingly sophisticated digital realm. This chapter comprehensively explor",
   "tags": [],
   "venue": ""
+ },
+ {
+  "title": "Leveraging the potential of ChatGPT as an automated writing evaluation (AWE) tool: Students' feedback literacy development and AWE tools integration framework",
+  "date": "2024-05",
+  "url": "https://doi.org/10.29140/jaltcall.v20n1.1200",
+  "category": "ai-literacy-construct",
+  "subcategory": "application",
+  "authors": [
+   "Imelda Gozali",
+   "Alberik Ryan Tendy Wijaya",
+   "Anita Lie"
+  ],
+  "abstract": "This study examines the use of ChatGPT, in conjunction with other applications, Grammarly and Quillbot, as an Automated Writing Evaluation (AWE) tool in a Recount and Narrative essay course for 18 Eng",
+  "tags": [],
+  "venue": "The JALT CALL Journal"
  },
  {
   "title": "\"Sora is Incredible and Scary\": Emerging Governance Challenges of Text-to-Video Generative AI Models",

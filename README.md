@@ -4,10 +4,10 @@
 <h3 align="center">AI-literacy implementation & evaluation — evidence base for closing the development/evaluation gap</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/ai--literacy--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/ai--literacy--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research/actions/workflows/validate.yml)
-  [![Business Dev](https://img.shields.io/badge/Business Dev-business--development--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research) [![Learning](https://img.shields.io/badge/Learning-learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research) [![Marketing](https://img.shields.io/badge/Marketing-marketing--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/marketing-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research/actions/workflows/validate.yml)
+  [**Business Dev**](https://github.com/tobias-weiss-ai-xr/business-development-research) [**Learning**](https://github.com/tobias-weiss-ai-xr/learning-research) [**Marketing**](https://github.com/tobias-weiss-ai-xr/marketing-research)
 </div>
 
 > 📚 **AI literacy research corpus:** implementation and evaluation of AI-literacy

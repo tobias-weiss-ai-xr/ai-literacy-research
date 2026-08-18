@@ -1,0 +1,581 @@
+topic:
+  name: Ai Literacy
+  short: ai-literacy
+  description: '- GitHub: https://github.com/tobias-weiss-ai-xr/ai-literacy-research'
+  openalex_mailto: research@tobias-weiss-ai-xr.de
+taxonomy:
+  categories:
+  - id: ai-literacy-construct
+    display: Ai Literacy Construct
+  - id: ai-literacy-pedagogy
+    display: Ai Literacy Pedagogy
+  - id: learning-design
+    display: Learning Design
+  - id: assessment
+    display: Assessment
+  - id: program-evaluation
+    display: Program Evaluation
+  - id: roi-measurement
+    display: Roi Measurement
+  - id: workforce-upskilling
+    display: Workforce Upskilling
+  - id: org-implementation
+    display: Org Implementation
+  - id: sme-training
+    display: Sme Training
+  - id: generative-ai-skills
+    display: Generative Ai Skills
+  - id: higher-education
+    display: Higher Education
+  - id: k12-education
+    display: K12 Education
+  - id: teacher-ai-literacy
+    display: Teacher Ai Literacy
+  - id: professional-education
+    display: Professional Education
+  - id: lifelong-learning
+    display: Lifelong Learning
+  - id: compliance
+    display: Compliance
+  - id: attitudes-trust
+    display: Attitudes Trust
+  - id: adoption-behavior
+    display: Adoption Behavior
+  - id: critical-ai-literacy
+    display: Critical Ai Literacy
+  - id: survey
+    display: Survey
+  - id: method
+    display: Method
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: experiment
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"AI literacy framework"
+  category: ai-literacy-construct
+  subcategory_hint: theory
+- query: abs:"AI literacy definition dimensions"
+  category: ai-literacy-construct
+  subcategory_hint: theory
+- query: abs:"AI literacy pedagogy"
+  category: ai-literacy-pedagogy
+  subcategory_hint: method
+- query: abs:"AI literacy curriculum design"
+  category: learning-design
+  subcategory_hint: development
+- query: abs:"generative AI education teaching"
+  category: ai-literacy-pedagogy
+  subcategory_hint: application
+- query: abs:"AI literacy assessment scale"
+  category: assessment
+  subcategory_hint: method
+- query: abs:"AI literacy measurement instrument validity"
+  category: assessment
+  subcategory_hint: evaluation
+- query: abs:"training program evaluation technology"
+  category: program-evaluation
+  subcategory_hint: evaluation
+- query: abs:"Kirkpatrick training evaluation AI"
+  category: program-evaluation
+  subcategory_hint: method
+- query: abs:"AI training return on investment"
+  category: roi-measurement
+  subcategory_hint: evaluation
+- query: abs:"AI upskilling workforce"
+  category: workforce-upskilling
+  subcategory_hint: method
+- query: abs:"AI reskilling employees"
+  category: workforce-upskilling
+  subcategory_hint: application
+- query: abs:"AI literacy implementation organizations"
+  category: org-implementation
+  subcategory_hint: application
+- query: abs:"artificial intelligence adoption training firms"
+  category: org-implementation
+  subcategory_hint: application
+- query: abs:"AI skills small medium enterprises"
+  category: sme-training
+  subcategory_hint: application
+- query: abs:"AI literacy assessment"
+  category: assessment
+  subcategory_hint: method
+- query: abs:"prompt engineering education"
+  category: generative-ai-skills
+  subcategory_hint: method
+- query: abs:"AI literacy higher education students"
+  category: higher-education
+  subcategory_hint: application
+- query: abs:"AI literacy K-12 school"
+  category: k12-education
+  subcategory_hint: application
+- query: abs:"teacher AI literacy training"
+  category: teacher-ai-literacy
+  subcategory_hint: method
+- query: abs:"executive education artificial intelligence"
+  category: professional-education
+  subcategory_hint: application
+- query: abs:"lifelong learning AI skills"
+  category: lifelong-learning
+  subcategory_hint: theory
+- query: abs:"EU AI Act literacy article 4"
+  category: compliance
+  subcategory_hint: application
+- query: abs:"AI Act compliance organizations"
+  category: compliance
+  subcategory_hint: application
+- query: abs:"artificial intelligence regulation skills"
+  category: compliance
+  subcategory_hint: theory
+- query: abs:"AI self-efficacy acceptance"
+  category: attitudes-trust
+  subcategory_hint: mechanism
+- query: abs:"technology acceptance model artificial intelligence"
+  category: attitudes-trust
+  subcategory_hint: mechanism
+- query: abs:"AI adoption employee behavior"
+  category: adoption-behavior
+  subcategory_hint: application
+- query: abs:"critical AI literacy ethics"
+  category: critical-ai-literacy
+  subcategory_hint: theory
+- query: abs:"AI literacy systematic review"
+  category: ai-literacy-construct
+  subcategory_hint: review
+- query: abs:"AI in education review"
+  category: ai-literacy-pedagogy
+  subcategory_hint: review
+- query: abs:"AI competence framework review"
+  category: ai-literacy-construct
+  subcategory_hint: review
+- query: abs:"generative AI workforce skills review"
+  category: workforce-upskilling
+  subcategory_hint: review
+other_sources_queries:
+- source: crossref
+  query: AI literacy framework
+  category: ai-literacy-construct
+  subcategory_hint: theory
+- source: crossref
+  query: AI literacy definition dimensions
+  category: ai-literacy-construct
+  subcategory_hint: theory
+- source: crossref
+  query: AI literacy pedagogy
+  category: ai-literacy-pedagogy
+  subcategory_hint: method
+- source: crossref
+  query: AI literacy curriculum design
+  category: learning-design
+  subcategory_hint: development
+- source: crossref
+  query: generative AI education teaching
+  category: ai-literacy-pedagogy
+  subcategory_hint: application
+- source: crossref
+  query: AI literacy assessment scale
+  category: assessment
+  subcategory_hint: method
+- source: crossref
+  query: AI literacy measurement instrument validity
+  category: assessment
+  subcategory_hint: evaluation
+- source: crossref
+  query: training program evaluation technology
+  category: program-evaluation
+  subcategory_hint: evaluation
+- source: crossref
+  query: Kirkpatrick training evaluation AI
+  category: program-evaluation
+  subcategory_hint: method
+- source: crossref
+  query: AI training return on investment
+  category: roi-measurement
+  subcategory_hint: evaluation
+- source: crossref
+  query: AI upskilling workforce
+  category: workforce-upskilling
+  subcategory_hint: method
+- source: crossref
+  query: AI reskilling employees
+  category: workforce-upskilling
+  subcategory_hint: application
+- source: crossref
+  query: AI literacy implementation organizations
+  category: org-implementation
+  subcategory_hint: application
+- source: crossref
+  query: artificial intelligence adoption training firms
+  category: org-implementation
+  subcategory_hint: application
+- source: crossref
+  query: AI skills small medium enterprises
+  category: sme-training
+  subcategory_hint: application
+- source: dblp
+  query: AI literacy assessment
+  category: assessment
+  subcategory_hint: method
+- source: dblp
+  query: prompt engineering education
+  category: generative-ai-skills
+  subcategory_hint: method
+- source: crossref
+  query: AI literacy higher education students
+  category: higher-education
+  subcategory_hint: application
+- source: crossref
+  query: AI literacy K-12 school
+  category: k12-education
+  subcategory_hint: application
+- source: crossref
+  query: teacher AI literacy training
+  category: teacher-ai-literacy
+  subcategory_hint: method
+- source: crossref
+  query: executive education artificial intelligence
+  category: professional-education
+  subcategory_hint: application
+- source: crossref
+  query: lifelong learning AI skills
+  category: lifelong-learning
+  subcategory_hint: theory
+- source: crossref
+  query: EU AI Act literacy article 4
+  category: compliance
+  subcategory_hint: application
+- source: crossref
+  query: AI Act compliance organizations
+  category: compliance
+  subcategory_hint: application
+- source: crossref
+  query: artificial intelligence regulation skills
+  category: compliance
+  subcategory_hint: theory
+- source: crossref
+  query: AI self-efficacy acceptance
+  category: attitudes-trust
+  subcategory_hint: mechanism
+- source: crossref
+  query: technology acceptance model artificial intelligence
+  category: attitudes-trust
+  subcategory_hint: mechanism
+- source: crossref
+  query: AI adoption employee behavior
+  category: adoption-behavior
+  subcategory_hint: application
+- source: crossref
+  query: critical AI literacy ethics
+  category: critical-ai-literacy
+  subcategory_hint: theory
+- source: crossref
+  query: AI literacy systematic review
+  category: ai-literacy-construct
+  subcategory_hint: review
+- source: crossref
+  query: AI in education review
+  category: ai-literacy-pedagogy
+  subcategory_hint: review
+- source: crossref
+  query: AI competence framework review
+  category: ai-literacy-construct
+  subcategory_hint: review
+- source: crossref
+  query: generative AI workforce skills review
+  category: workforce-upskilling
+  subcategory_hint: review
+openalex_queries:
+- category: ai-literacy-construct
+  query: AI literacy framework
+- category: ai-literacy-construct
+  query: AI literacy definition dimensions
+- category: ai-literacy-pedagogy
+  query: AI literacy pedagogy
+- category: learning-design
+  query: AI literacy curriculum design
+- category: ai-literacy-pedagogy
+  query: generative AI education teaching
+- category: assessment
+  query: AI literacy assessment scale
+- category: assessment
+  query: AI literacy measurement instrument validity
+- category: program-evaluation
+  query: training program evaluation technology
+- category: program-evaluation
+  query: Kirkpatrick training evaluation AI
+- category: roi-measurement
+  query: AI training return on investment
+- category: workforce-upskilling
+  query: AI upskilling workforce
+- category: workforce-upskilling
+  query: AI reskilling employees
+- category: org-implementation
+  query: AI literacy implementation organizations
+- category: org-implementation
+  query: artificial intelligence adoption training firms
+- category: sme-training
+  query: AI skills small medium enterprises
+- category: assessment
+  query: AI literacy assessment
+- category: generative-ai-skills
+  query: prompt engineering education
+- category: higher-education
+  query: AI literacy higher education students
+- category: k12-education
+  query: AI literacy K-12 school
+- category: teacher-ai-literacy
+  query: teacher AI literacy training
+- category: professional-education
+  query: executive education artificial intelligence
+- category: lifelong-learning
+  query: lifelong learning AI skills
+- category: compliance
+  query: EU AI Act literacy article 4
+- category: compliance
+  query: AI Act compliance organizations
+- category: compliance
+  query: artificial intelligence regulation skills
+- category: attitudes-trust
+  query: AI self-efficacy acceptance
+- category: attitudes-trust
+  query: technology acceptance model artificial intelligence
+- category: adoption-behavior
+  query: AI adoption employee behavior
+- category: critical-ai-literacy
+  query: critical AI literacy ethics
+- category: ai-literacy-construct
+  query: AI literacy systematic review
+- category: ai-literacy-pedagogy
+  query: AI in education review
+- category: ai-literacy-construct
+  query: AI competence framework review
+- category: workforce-upskilling
+  query: generative AI workforce skills review
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: evaluation
+  keywords:
+  - benchmark
+  - evaluation
+  - comparison
+  - baseline
+  - empirical study
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
+relevance_keywords:
+- acceptance
+- adoption
+- adoption behavior
+- ai literacy construct
+- ai literacy pedagogy
+- article
+- artificial
+- assessment
+- attitudes trust
+- behavior
+- competence
+- compliance
+- critical
+- critical ai literacy
+- curriculum
+- definition
+- design
+- dimensions
+- education
+- employee
+- employees
+- engineering
+- enterprises
+- ethics
+- evaluation
+- executive
+- firms
+- framework
+- generative
+- generative ai skills
+- higher
+- higher education
+- implementation
+- instrument
+- intelligence
+- investment
+- k12 education
+- kirkpatrick
+- learning
+- learning design
+- lifelong
+- lifelong learning
+- literacy
+- measurement
+- medium
+- model
+- org implementation
+- organizations
+- pedagogy
+- professional education
+- program
+- program evaluation
+- prompt
+- regulation
+- reskilling
+- return
+- review
+- roi measurement
+- scale
+- school
+- self-efficacy
+- skills
+- small
+- sme training
+- students
+- systematic
+- teacher
+- teacher ai literacy
+- teaching
+- technology
+- training
+- upskilling
+- validity
+- workforce
+- workforce upskilling
+trend_keywords:
+- acceptance
+- adoption
+- adoption behavior
+- ai literacy construct
+- ai literacy pedagogy
+- article
+- artificial
+- assessment
+- attitudes trust
+- behavior
+- competence
+- compliance
+- critical
+- critical ai literacy
+- curriculum
+- definition
+- design
+- dimensions
+- education
+- employee
+- employees
+- engineering
+- enterprises
+- ethics
+- evaluation
+- executive
+- firms
+- framework
+- generative
+- generative ai skills
+- higher
+- higher education
+- implementation
+- instrument
+- intelligence
+- investment
+- k12 education
+- kirkpatrick
+- learning
+- learning design
+- lifelong
+- lifelong learning
+- literacy
+- measurement
+- medium
+- model
+- org implementation
+- organizations
+- pedagogy
+- professional education
+- program
+- program evaluation
+- prompt
+- regulation
+- reskilling
+- return
+- review
+- roi measurement
+- scale
+- school
+- self-efficacy
+- skills
+- small
+- sme training
+- students
+- systematic
+- teacher
+- teacher ai literacy
+- teaching
+- technology
+- training
+- upskilling
+- validity
+- workforce
+- workforce upskilling

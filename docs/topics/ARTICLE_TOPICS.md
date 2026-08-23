@@ -1,51 +1,51 @@
 # Article Topics (auto-generated)
 
 
-## Attitudes Trust
+## Compliance
 
-Evidence-based topic: 332 curated papers, 191 in the last 12 months.
-
-
-## Generative Ai Skills
-
-Evidence-based topic: 309 curated papers, 153 in the last 12 months.
+Evidence-based topic: 909 curated papers, 817 in the last 12 months.
 
 
 ## Ai Literacy Construct
 
-Evidence-based topic: 302 curated papers, 173 in the last 12 months.
+Evidence-based topic: 848 curated papers, 692 in the last 12 months.
+
+
+## Generative Ai Skills
+
+Evidence-based topic: 734 curated papers, 554 in the last 12 months.
+
+
+## Attitudes Trust
+
+Evidence-based topic: 731 curated papers, 551 in the last 12 months.
 
 
 ## Workforce Upskilling
 
-Evidence-based topic: 277 curated papers, 172 in the last 12 months.
+Evidence-based topic: 690 curated papers, 540 in the last 12 months.
 
 
 ## Adoption Behavior
 
-Evidence-based topic: 265 curated papers, 177 in the last 12 months.
+Evidence-based topic: 680 curated papers, 574 in the last 12 months.
 
 
-## Tooling
+## Learning Design
 
-Evidence-based topic: 254 curated papers, 117 in the last 12 months.
-
-
-## Compliance
-
-Evidence-based topic: 238 curated papers, 189 in the last 12 months.
-
-
-## Ai Literacy Pedagogy
-
-Evidence-based topic: 238 curated papers, 132 in the last 12 months.
+Evidence-based topic: 658 curated papers, 479 in the last 12 months.
 
 
 ## Org Implementation
 
-Evidence-based topic: 227 curated papers, 164 in the last 12 months.
+Evidence-based topic: 629 curated papers, 546 in the last 12 months.
 
 
-## Roi Measurement
+## Assessment
 
-Evidence-based topic: 220 curated papers, 171 in the last 12 months.
+Evidence-based topic: 629 curated papers, 527 in the last 12 months.
+
+
+## Program Evaluation
+
+Evidence-based topic: 625 curated papers, 456 in the last 12 months.

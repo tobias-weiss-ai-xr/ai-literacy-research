@@ -1,9 +1,11 @@
 # AI-Literacy Assessment Instrument Spec (Phase 5)
 
-**Status:** draft v1 · **Builds on:** Guide 2 §2.1–2.2 (instruments, warnings) and
-Guide 1 §2.1 (construct model) · **Purpose:** specification for a task-oriented,
-occupation-aligned AI-literacy assessment — the missing *objective* measurement
-layer for Art. 4 compliance and program evaluation.
+**Status:** draft v1.1 (refreshed 2026-08-23) · **Builds on:** Guide 2 §2.1–2.2
+(instruments, warnings) and Guide 1 §2.1 (construct model) · **Purpose:**
+specification for a task-oriented, occupation-aligned AI-literacy assessment —
+the missing *objective* measurement layer for Art. 4 compliance and program
+evaluation. Corpus refreshed to **11,640 papers** (see `gap_analysis.md` for
+cell-level prioritization).
 
 ---
 
@@ -138,6 +140,48 @@ without re-doing baseline.
 
 ---
 
+## 10. Instrument reference — corpus-grounded selection (2026-08-23)
+
+The §3 architecture is deliberately *instrument-agnostic* (it specifies the
+measurement **layer**, not a fixed questionnaire). But the refreshed corpus now
+contains enough validated instruments to seed both layers concretely. Use this
+table to pick what to license/adapt rather than building from zero.
+
+| Instrument | Construct coverage (axes) | Level range | Population / role fit | Spec layer to seed |
+|-----------|--------------------------|-------------|----------------------|--------------------|
+| **AICOS** (objective competency, GenAI dimension) | Competence depth, Autonomy | 2–4 | Adults, general | **CORE** objective proxy (preferred) |
+| **MAIL-CS** (32 items, 4 factors; α=.91, ω=.92) | Competence depth, Disposition | 2–4 | University students | CORE / criterion-validity anchor |
+| **SFAILQ** (six facets; adolescents→midlife) | Competence depth, Disposition | 1–4 | Multi-cohort adults | CORE for adult, cross-age programs |
+| **SAIL4ALL** (56 items, 4 themes) | Competence depth | 1–3 | Adults, any setting | CORE screening |
+| **FALCON-AI** (role-embedded, CTRL) | Autonomy, Occupation-alignment | 2–3 | Faculty / professional | CORE task-design template |
+| **EUIA** (6 GenAI-in-assessment levels) | Competence depth, Autonomy | 1–4 | Assessment contexts | CORE level anchors |
+| **AILS (KR)** / **AILS (Arabic)** | Competence depth, Disposition | 1–3 | Students / cross-cultural | COMPANION cross-cultural |
+| **SNAIL** (non-experts, gains) | Competence depth | 1–2 | Course participants | COMPANION pre/post gains |
+| **GenAI-RTS** (20 items, 4 reliance types) | Disposition (reliance) | — | Writing contexts | **COMPANION** reliance pattern |
+| **G-Factor / A-Factor battery** (18 items, 4 dims) | Construct model (A-factor 44%) | — | Adults (N=517) | COMPANION construct evidence |
+
+**Selection rule for ALaaS:** CORE = an *objective* instrument (AICOS or
+MAIL-CS/SFAILQ where population-matched) **plus** the §4 task matrix; COMPANION
+= GenAI-RTS-style reliance battery to compute the SR-vs-OB gap (§2 warning).
+Never let a self-report instrument become the score.
+
+**Newest corpus entry (2026):** SFAILQ (Six-Facet AI Literacy Questionnaire,
+adolescents→midlife adults — <https://doi.org/10.3390/bs16071110>) extends the
+multi-cohort objective option and should be piloted in the §7 validation track.
+
+## 11. Gap alignment — why this spec is the Phase-2 priority payoff
+
+The gap analyzer (`gap_analysis.md`) ranks `compliance/evaluation` and the
+other `*/evaluation` cells as the corpus's thinnest, most-surging white space —
+i.e. the field has instruments but almost no *evidence that programs using them
+worked*, especially for Art. 4. This spec is the deliverable that closes that
+loop: it turns the §10 instruments into an **evaluation chain** (role → task →
+measured level → stored evidence) that is simultaneously a program-evaluation
+artifact and an Art. 4 compliance record (§8). The pinned `rq3.md` gap-cell
+shortlists (e.g. *Dutch municipalities' AI Act compliance readiness*, the
+*AIconomics Maturity Model*) are the first real-world targets to run §7
+validation against.
+
 **Next steps (Phase 6):** pilot the 6 default task matrices with 2-3
-customer-aligned roles; run validation steps §7; fold results into the ALaaS
-reporting/upsell design.
+customer-aligned roles; run validation steps §7 (seed with SFAILQ + AICOS as the
+objective anchors); fold results into the ALaaS reporting/upsell design.

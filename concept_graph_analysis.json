@@ -8,9 +8,9 @@
   },
   "nodes": [
     {
-      "id": 36,
+      "id": 2,
       "term": "large language",
-      "kind": "emergent",
+      "kind": "curated",
       "df": 957,
       "degree": 70,
       "weighted_degree": 2849,
@@ -20,9 +20,9 @@
       "clustering": 0.5172
     },
     {
-      "id": 35,
+      "id": 1,
       "term": "language models",
-      "kind": "emergent",
+      "kind": "curated",
       "df": 959,
       "degree": 70,
       "weighted_degree": 2817,
@@ -44,7 +44,7 @@
       "clustering": 0.5008
     },
     {
-      "id": 3,
+      "id": 6,
       "term": "evaluation",
       "kind": "curated",
       "df": 736,
@@ -56,9 +56,9 @@
       "clustering": 0.5158
     },
     {
-      "id": 37,
+      "id": 4,
       "term": "higher education",
-      "kind": "emergent",
+      "kind": "curated",
       "df": 898,
       "degree": 66,
       "weighted_degree": 1493,
@@ -68,7 +68,7 @@
       "clustering": 0.5305
     },
     {
-      "id": 4,
+      "id": 7,
       "term": "Generative Ai Skills",
       "kind": "taxonomy",
       "df": 734,
@@ -80,7 +80,7 @@
       "clustering": 0.5547
     },
     {
-      "id": 1,
+      "id": 3,
       "term": "Compliance",
       "kind": "taxonomy",
       "df": 909,
@@ -92,7 +92,7 @@
       "clustering": 0.5345
     },
     {
-      "id": 18,
+      "id": 21,
       "term": "implementation",
       "kind": "curated",
       "df": 379,
@@ -104,7 +104,7 @@
       "clustering": 0.5075
     },
     {
-      "id": 5,
+      "id": 8,
       "term": "Attitudes Trust",
       "kind": "taxonomy",
       "df": 731,
@@ -116,7 +116,7 @@
       "clustering": 0.4728
     },
     {
-      "id": 12,
+      "id": 15,
       "term": "Teacher Ai Literacy",
       "kind": "taxonomy",
       "df": 586,
@@ -128,7 +128,7 @@
       "clustering": 0.5024
     },
     {
-      "id": 2,
+      "id": 5,
       "term": "Ai Literacy Construct",
       "kind": "taxonomy",
       "df": 848,
@@ -140,7 +140,7 @@
       "clustering": 0.4678
     },
     {
-      "id": 15,
+      "id": 18,
       "term": "Higher Education",
       "kind": "taxonomy",
       "df": 437,
@@ -152,7 +152,7 @@
       "clustering": 0.5493
     },
     {
-      "id": 23,
+      "id": 26,
       "term": "prompt engineering",
       "kind": "curated",
       "df": 265,
@@ -164,7 +164,7 @@
       "clustering": 0.6829
     },
     {
-      "id": 8,
+      "id": 11,
       "term": "Learning Design",
       "kind": "taxonomy",
       "df": 658,
@@ -176,7 +176,7 @@
       "clustering": 0.4983
     },
     {
-      "id": 11,
+      "id": 14,
       "term": "Program Evaluation",
       "kind": "taxonomy",
       "df": 625,
@@ -188,7 +188,7 @@
       "clustering": 0.4813
     },
     {
-      "id": 7,
+      "id": 10,
       "term": "Adoption Behavior",
       "kind": "taxonomy",
       "df": 680,
@@ -200,7 +200,7 @@
       "clustering": 0.4908
     },
     {
-      "id": 13,
+      "id": 16,
       "term": "Ai Literacy Pedagogy",
       "kind": "taxonomy",
       "df": 547,
@@ -212,7 +212,7 @@
       "clustering": 0.5327
     },
     {
-      "id": 22,
+      "id": 25,
       "term": "ai act",
       "kind": "curated",
       "df": 275,
@@ -224,7 +224,7 @@
       "clustering": 0.7354
     },
     {
-      "id": 24,
+      "id": 27,
       "term": "compliance",
       "kind": "curated",
       "df": 236,
@@ -236,7 +236,7 @@
       "clustering": 0.6113
     },
     {
-      "id": 9,
+      "id": 12,
       "term": "Assessment",
       "kind": "taxonomy",
       "df": 629,
@@ -248,9 +248,9 @@
       "clustering": 0.4354
     },
     {
-      "id": 39,
+      "id": 29,
       "term": "critical thinking",
-      "kind": "emergent",
+      "kind": "curated",
       "df": 226,
       "degree": 53,
       "weighted_degree": 516,
@@ -260,7 +260,7 @@
       "clustering": 0.619
     },
     {
-      "id": 20,
+      "id": 23,
       "term": "Critical Ai Literacy",
       "kind": "taxonomy",
       "df": 372,
@@ -272,7 +272,7 @@
       "clustering": 0.55
     },
     {
-      "id": 19,
+      "id": 22,
       "term": "Sme Training",
       "kind": "taxonomy",
       "df": 375,
@@ -284,9 +284,9 @@
       "clustering": 0.6133
     },
     {
-      "id": 38,
+      "id": 28,
       "term": "digital transformation",
-      "kind": "emergent",
+      "kind": "curated",
       "df": 228,
       "degree": 41,
       "weighted_degree": 366,
@@ -296,7 +296,7 @@
       "clustering": 0.5329
     },
     {
-      "id": 6,
+      "id": 9,
       "term": "Workforce Upskilling",
       "kind": "taxonomy",
       "df": 690,
@@ -308,7 +308,7 @@
       "clustering": 0.5146
     },
     {
-      "id": 10,
+      "id": 13,
       "term": "Org Implementation",
       "kind": "taxonomy",
       "df": 629,
@@ -344,7 +344,7 @@
       "clustering": 0.5992
     },
     {
-      "id": 14,
+      "id": 17,
       "term": "Professional Education",
       "kind": "taxonomy",
       "df": 461,
@@ -368,7 +368,7 @@
       "clustering": 0.6268
     },
     {
-      "id": 25,
+      "id": 30,
       "term": "digital literacy",
       "kind": "curated",
       "df": 176,
@@ -392,7 +392,7 @@
       "clustering": 0.6795
     },
     {
-      "id": 21,
+      "id": 24,
       "term": "K12 Education",
       "kind": "taxonomy",
       "df": 340,
@@ -524,7 +524,7 @@
       "clustering": 0.6899
     },
     {
-      "id": 26,
+      "id": 31,
       "term": "measurement",
       "kind": "curated",
       "df": 107,
@@ -548,7 +548,7 @@
       "clustering": 0.6757
     },
     {
-      "id": 16,
+      "id": 19,
       "term": "Roi Measurement",
       "kind": "taxonomy",
       "df": 423,
@@ -716,7 +716,7 @@
       "clustering": 0.7197
     },
     {
-      "id": 17,
+      "id": 20,
       "term": "Lifelong Learning",
       "kind": "taxonomy",
       "df": 385,
@@ -812,7 +812,7 @@
       "clustering": 0.5812
     },
     {
-      "id": 27,
+      "id": 32,
       "term": "agentic ai",
       "kind": "curated",
       "df": 85,
@@ -884,7 +884,7 @@
       "clustering": 0.7706
     },
     {
-      "id": 28,
+      "id": 33,
       "term": "utaut",
       "kind": "curated",
       "df": 40,
@@ -896,7 +896,7 @@
       "clustering": 0.6765
     },
     {
-      "id": 29,
+      "id": 34,
       "term": "technostress",
       "kind": "curated",
       "df": 15,
@@ -908,7 +908,7 @@
       "clustering": 0.6667
     },
     {
-      "id": 31,
+      "id": 36,
       "term": "self-report",
       "kind": "curated",
       "df": 5,
@@ -920,7 +920,7 @@
       "clustering": 1.0
     },
     {
-      "id": 30,
+      "id": 35,
       "term": "maturity model",
       "kind": "curated",
       "df": 6,
@@ -932,7 +932,7 @@
       "clustering": 0.0
     },
     {
-      "id": 32,
+      "id": 37,
       "term": "objective measurement",
       "kind": "curated",
       "df": 1,
@@ -944,7 +944,7 @@
       "clustering": 0.0
     },
     {
-      "id": 33,
+      "id": 38,
       "term": "Survey",
       "kind": "taxonomy",
       "df": 0,
@@ -956,7 +956,7 @@
       "clustering": 0.0
     },
     {
-      "id": 34,
+      "id": 39,
       "term": "Method",
       "kind": "taxonomy",
       "df": 0,
@@ -1096,8 +1096,8 @@
       "edge_betweenness": 24.3802
     },
     {
-      "source": "technostress",
-      "target": "higher education",
+      "source": "higher education",
+      "target": "technostress",
       "weight": 2,
       "edge_betweenness": 19.7727
     },

@@ -4,17 +4,22 @@
 # defines its own list. Keep it focused — these are the terms that matter
 # for the knowledge graph but are not single distinctive taxonomy categories.
 concepts:
-  - evaluation
-  - implementation
-  - training
-  - measurement
-  - ai act
-  - maturity model
-  - self-report
-  - objective measurement
-  - technostress
-  - utaut
   - agentic ai
-  - digital literacy
-  - prompt engineering
+  - ai act
   - compliance
+  - critical thinking
+  - digital literacy
+  - digital transformation
+  - evaluation
+  - higher education
+  - implementation
+  - language models
+  - large language
+  - maturity model
+  - measurement
+  - objective measurement
+  - prompt engineering
+  - self-report
+  - technostress
+  - training
+  - utaut

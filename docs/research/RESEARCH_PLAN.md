@@ -132,9 +132,23 @@ python3 tools/brief_generator.py "measuring AI literacy evaluation" --papers 30 
 
 # 4. Track trends for content timing
 python3 tools/trend_scanner.py --months 12
+
+# 5. Concept-graph knowledge enrichment + feed-back loop
+python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
+python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
+python3 tools/analyze_concept_graph.py --graph concept_graph.json --write-doc > concept_graph_analysis.json
+python3 tools/feedback_concepts.py --analysis concept_graph_analysis.json --concepts config/concepts.yaml  # review diff, commit
+#    → analysis → research-planning signal: docs/research/concept_graph_feedback.md
 ```
+
+**Concept-graph feed-back.** Steps 1–4 above drive the *evidence* layer; step 5
+builds the *idea* knowledge graph (concepts → co-occurrence → analysis) and
+feeds it back: bridge/gap concepts are merged into `config/concepts.yaml`, and
+the analysis is translated into priority strands, cross-cutting bridges and
+structural white spaces in `docs/research/concept_graph_feedback.md` (which in
+turn informs Phase-2 extraction priorities and the gap analysis).
 
 ---
 
 *Author: Tobias Weiss · KI-Kompetenz-Training · ki-kompetenz-training@tobias-weiss.org*
-*Last updated: 2026-08-11*
+*Last updated: 2026-08-23*

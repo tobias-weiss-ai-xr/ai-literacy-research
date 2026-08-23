@@ -35,7 +35,7 @@
 - Assessment ↔ maturity model (weight 2, EB 76.0)
 - evaluation ↔ self-report (weight 2, EB 25.1911)
 - implementation ↔ self-report (weight 2, EB 24.3802)
-- technostress ↔ higher education (weight 2, EB 19.7727)
+- higher education ↔ technostress (weight 2, EB 19.7727)
 - Assessment ↔ self-report (weight 2, EB 15.3823)
 - Attitudes Trust ↔ technostress (weight 3, EB 11.969)
 - technostress ↔ rapid integration (weight 2, EB 11.2144)

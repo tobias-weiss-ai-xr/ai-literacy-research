@@ -22,8 +22,8 @@
     },
     {
       "term": "language models",
-      "kind": "emergent",
-      "seed": false,
+      "kind": "curated",
+      "seed": true,
       "df": 959,
       "match": {
         "type": "text",
@@ -41,8 +41,8 @@
     },
     {
       "term": "large language",
-      "kind": "emergent",
-      "seed": false,
+      "kind": "curated",
+      "seed": true,
       "df": 957,
       "match": {
         "type": "text",
@@ -78,8 +78,8 @@
     },
     {
       "term": "higher education",
-      "kind": "emergent",
-      "seed": false,
+      "kind": "curated",
+      "seed": true,
       "df": 898,
       "match": {
         "type": "text",
@@ -516,8 +516,8 @@
     },
     {
       "term": "digital transformation",
-      "kind": "emergent",
-      "seed": false,
+      "kind": "curated",
+      "seed": true,
       "df": 228,
       "match": {
         "type": "text",
@@ -535,8 +535,8 @@
     },
     {
       "term": "critical thinking",
-      "kind": "emergent",
-      "seed": false,
+      "kind": "curated",
+      "seed": true,
       "df": 226,
       "match": {
         "type": "text",

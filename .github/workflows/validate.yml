@@ -53,12 +53,6 @@ jobs:
       - name: Check README is up-to-date
         run: grep -q '## 📊 Corpus Statistics' README.md || exit 1
 
-      - name: Check gap analysis is up-to-date
-        run: |
-          python3 tools/research_gap_analyzer.py --write-doc
-          git diff --exit-code -- docs/research/gap_analysis.md \
-            || { echo 'docs/research/gap_analysis.md is out of date — regenerate and commit it (tools/research_gap_analyzer.py)'; exit 1; }
-
       - name: Check concept graph is up-to-date
         run: |
           python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
@@ -66,6 +60,12 @@ jobs:
           python3 tools/analyze_concept_graph.py --graph concept_graph.json --write-doc > concept_graph_analysis.json
           git diff --exit-code -- concepts.json concept_graph.json concept_graph_analysis.json docs/research/concept_map.md docs/research/concept_graph_analysis.md \
             || { echo 'Concept graph is out of date — regenerate (tools/extract_concepts.py + tools/relate_concepts.py + tools/analyze_concept_graph.py)'; exit 1; }
+
+      - name: Check gap analysis is up-to-date
+        run: |
+          python3 tools/research_gap_analyzer.py --write-doc
+          git diff --exit-code -- docs/research/gap_analysis.md \
+            || { echo 'docs/research/gap_analysis.md is out of date — regenerate and commit it (tools/research_gap_analyzer.py)'; exit 1; }
 
   discover:
     if: github.event_name == 'schedule'
@@ -108,11 +108,11 @@ jobs:
       - name: Regenerate statistics, charts, gap analysis and README
         run: |
           python3 scripts/analysis/generate_analysis.py
-          python3 tools/research_gap_analyzer.py --write-doc
+          python3 scripts/visualize_statistics.py
           python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
           python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
           python3 tools/analyze_concept_graph.py --graph concept_graph.json --write-doc > concept_graph_analysis.json
-          python3 scripts/visualize_statistics.py
+          python3 tools/research_gap_analyzer.py --write-doc
           python3 scripts/refresh_readme_stats.py
           python3 tools/topic_planner.py --top 10
 

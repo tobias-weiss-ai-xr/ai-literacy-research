@@ -1,31 +1,41 @@
 # Research Gap Analysis
 
-Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 12-month momentum × 0.4 + floor bonus (0.15) for cells with ≤ 5 papers. Thin-and-surging cells rank highest — they are where the program's white space is both real and active.
+Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 12-month momentum × 0.4 + cross-cutting bridge × 0.15 + floor bonus (0.15) for cells with ≤ 5 papers. Thin-and-surging cells rank highest; the bridge term lifts thin cells that sit on a high-betweenness concept-graph bridge (where separate research strands connect) — see docs/research/concept_graph_feedback.md.
 
 ## Top 20 Gap Cells
 
-| Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Score |
-|-----:|------|-------:|--------:|--------:|-----------:|------:|
-| 1 | `compliance/evaluation` | 5 | 113.6 | 4 | +300% | 100.0 |
-| 2 | `org-implementation/evaluation` | 5 | 78.6 | 5 | +100% | 100.0 |
-| 3 | `workforce-upskilling/evaluation` | 7 | 86.2 | 4 | +33% | 95.1 |
-| 4 | `ai-literacy-construct/evaluation` | 12 | 106.0 | 11 | +1000% | 93.2 |
-| 5 | `teacher-ai-literacy/evaluation` | 11 | 73.2 | 7 | +75% | 91.0 |
-| 6 | `learning-design/evaluation` | 13 | 82.2 | 7 | +17% | 90.5 |
-| 7 | `ai-literacy-pedagogy/evaluation` | 12 | 68.4 | 7 | +40% | 89.5 |
-| 8 | `attitudes-trust/evaluation` | 16 | 91.4 | 14 | +600% | 89.5 |
-| 9 | `adoption-behavior/development` | 17 | 85.0 | 12 | +140% | 88.0 |
-| 10 | `program-evaluation/development` | 16 | 78.1 | 8 | +0% | 87.7 |
-| 11 | `compliance/development` | 24 | 113.6 | 18 | +200% | 87.3 |
-| 12 | `tooling/evaluation` | 16 | 72.6 | 12 | +200% | 86.8 |
-| 13 | `adoption-behavior/evaluation` | 19 | 85.0 | 10 | +11% | 86.6 |
-| 14 | `workforce-upskilling/development` | 20 | 86.2 | 10 | +0% | 86.1 |
-| 15 | `higher-education/development` | 13 | 54.6 | 8 | +60% | 85.7 |
-| 16 | `ai-literacy-construct/development` | 26 | 106.0 | 16 | +60% | 85.3 |
-| 17 | `assessment/development` | 22 | 78.6 | 16 | +167% | 83.2 |
-| 18 | `professional-education/evaluation` | 7 | 57.6 | 3 | -25% | 82.7 |
-| 19 | `critical-ai-literacy/development` | 14 | 46.5 | 8 | +33% | 81.9 |
-| 20 | `higher-education/review` | 17 | 54.6 | 13 | +225% | 81.3 |
+| Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Bridge | Score |
+|-----:|------|-------:|--------:|--------:|-----------:|-------:|------:|
+| 1 | `compliance/evaluation` | 5 | 113.6 | 4 | +300% | 0.14 | 100.0 |
+| 2 | `org-implementation/evaluation` | 5 | 78.6 | 5 | +100% | 0.31 | 100.0 |
+| 3 | `assessment/development` | 22 | 78.6 | 16 | +167% | 1.00 | 98.2 |
+| 4 | `ai-literacy-construct/evaluation` | 12 | 106.0 | 11 | +1000% | 0.32 | 98.0 |
+| 5 | `workforce-upskilling/evaluation` | 7 | 86.2 | 4 | +33% | 0.18 | 97.8 |
+| 6 | `attitudes-trust/evaluation` | 16 | 91.4 | 14 | +600% | 0.36 | 94.9 |
+| 7 | `teacher-ai-literacy/evaluation` | 11 | 73.2 | 7 | +75% | 0.24 | 94.6 |
+| 8 | `learning-design/evaluation` | 13 | 82.2 | 7 | +17% | 0.21 | 93.6 |
+| 9 | `ai-literacy-pedagogy/evaluation` | 12 | 68.4 | 7 | +40% | 0.19 | 92.3 |
+| 10 | `adoption-behavior/development` | 17 | 85.0 | 12 | +140% | 0.24 | 91.5 |
+| 11 | `adoption-behavior/evaluation` | 19 | 85.0 | 10 | +11% | 0.24 | 90.1 |
+| 12 | `ai-literacy-construct/development` | 26 | 106.0 | 16 | +60% | 0.32 | 90.1 |
+| 13 | `program-evaluation/development` | 16 | 78.1 | 8 | +0% | 0.13 | 89.6 |
+| 14 | `compliance/development` | 24 | 113.6 | 18 | +200% | 0.14 | 89.4 |
+| 15 | `workforce-upskilling/development` | 20 | 86.2 | 10 | +0% | 0.18 | 88.8 |
+| 16 | `higher-education/development` | 13 | 54.6 | 8 | +60% | 0.17 | 88.3 |
+| 17 | `assessment/evaluation` | 28 | 78.6 | 13 | -13% | 1.00 | 88.3 |
+| 18 | `tooling/evaluation` | 16 | 72.6 | 12 | +200% | 0.00 | 86.8 |
+| 19 | `professional-education/evaluation` | 7 | 57.6 | 3 | -25% | 0.27 | 86.7 |
+| 20 | `critical-ai-literacy/development` | 14 | 46.5 | 8 | +33% | 0.15 | 84.2 |
+
+## Bridge Gap Cells (thin cells on cross-cutting categories)
+
+Under-saturated cells whose category is a high-betweenness bridge in the concept graph — the integrative white spaces where separate research strands connect. Prioritised by the bridge term.
+
+- `assessment/development` — bridge 1.00, 22 papers (category cell avg 78.6)
+- `assessment/evaluation` — bridge 1.00, 28 papers (category cell avg 78.6)
+- `assessment/mechanism` — bridge 1.00, 50 papers (category cell avg 78.6)
+- `assessment/theory` — bridge 1.00, 53 papers (category cell avg 78.6)
+- `assessment/review` — bridge 1.00, 56 papers (category cell avg 78.6)
 
 ## Detailed Cells (top 20)
 
@@ -51,16 +61,16 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **"AAB AI Education Case Registry Dataset v1.0"** (2026-05) — <https://doi.org/10.21227/z095-8k08>
   - **Human–AI co-creation among Gen Z to build knowledge and learning effectiveness** (2026-05) — <https://doi.org/10.1038/s41598-026-52962-1>
 
-### Workforce Upskilling / Evaluation & Benchmarks (`workforce-upskilling/evaluation`)
+### Assessment / Development (`assessment/development`)
 
-- **Papers:** 7 (category cell avg 86.2) — 4 published in the last 12 months (+33%).
-- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
+- **Papers:** 22 (category cell avg 78.6) — 16 published in the last 12 months (+167%).
+- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
-  - **IMPACT OF SKILL DEVELOPMENT PROGRAMS ON EMPLOYMENT OPPORTUNITIES AND LIVELIHOOD OF PERSONS WITH DISABILITIES: AN EMPIRICAL STUDY WITH REFERENCE TO AI-SUPPORTED LEARNING ENVIRONMENTS IN CHINTAMANI TALUK, KARNATAKA** (2026-06) — <https://doi.org/10.5281/zenodo.21529844>
-  - **Automated detection of primary soft tissue sarcomas of the extremities using artificial intelligence and ChatGPT** (2026-03) — <https://doi.org/10.3389/fonc.2026.1674509>
-  - **Evaluating AI competency in project management: benefits and challenges** (2025-12) — <https://doi.org/10.1007/s00146-025-02730-y>
-  - **Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?** (2025-11) — <https://arxiv.org/abs/2511.16028v1>
-  - **Evaluating the impact of AI-powered tools on programming skills development among IT students at Davao Oriental State University (DOrSU)** (2024-10) — <https://doi.org/10.46223/hcmcoujs.soci.en.16.2.3519.2026>
+  - **AI Protocols For Job Readiness Assessment: Design And Implementation Of DIJOB In Côte D'Ivoire** (2026-07) — <https://doi.org/10.5281/zenodo.21505673>
+  - **Cogni CISLF Advisor: An Open-Source Executive Assessment Tool for AI Transformation Readiness** (2026-07) — <https://doi.org/10.5281/zenodo.21389986>
+  - **Development of a personalized gamified mobile learning app using an AI-based virtual assistant for financial literacy** (2026-07) — <https://doi.org/10.1007/s44217-026-01858-3>
+  - **A Library Led Pilot on Custom GPT Driven Discovery: Strengthening Student Engagement with AI and Information Literacy** (2026-07) — <https://doi.org/10.5281/zenodo.21641100>
+  - **Lehigh University: Comprehensive AI Governance & Activity Inventory** (2026-06) — <https://doi.org/10.5281/zenodo.20629952>
 
 ### Ai Literacy Construct / Evaluation & Benchmarks (`ai-literacy-construct/evaluation`)
 
@@ -72,6 +82,28 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **"AAB AI Literacy Framework Crosswalk Dataset v1.0"** (2026-05) — <https://doi.org/10.21227/yqrv-rs33>
   - **The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups** (2026-05) — <https://doi.org/10.31234/osf.io/bg6pq_v1>
   - **Drivers and pathways of <scp>AI</scp> academic mentor acceptance: An <scp>SEM</scp> ‐ <scp>fsQCA</scp> study integrating cognitive appraisal theory and the <scp>AIDUA</scp> model** (2026-03) — <https://doi.org/10.1002/berj.70147>
+
+### Workforce Upskilling / Evaluation & Benchmarks (`workforce-upskilling/evaluation`)
+
+- **Papers:** 7 (category cell avg 86.2) — 4 published in the last 12 months (+33%).
+- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **IMPACT OF SKILL DEVELOPMENT PROGRAMS ON EMPLOYMENT OPPORTUNITIES AND LIVELIHOOD OF PERSONS WITH DISABILITIES: AN EMPIRICAL STUDY WITH REFERENCE TO AI-SUPPORTED LEARNING ENVIRONMENTS IN CHINTAMANI TALUK, KARNATAKA** (2026-06) — <https://doi.org/10.5281/zenodo.21529844>
+  - **Automated detection of primary soft tissue sarcomas of the extremities using artificial intelligence and ChatGPT** (2026-03) — <https://doi.org/10.3389/fonc.2026.1674509>
+  - **Evaluating AI competency in project management: benefits and challenges** (2025-12) — <https://doi.org/10.1007/s00146-025-02730-y>
+  - **Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?** (2025-11) — <https://arxiv.org/abs/2511.16028v1>
+  - **Evaluating the impact of AI-powered tools on programming skills development among IT students at Davao Oriental State University (DOrSU)** (2024-10) — <https://doi.org/10.46223/hcmcoujs.soci.en.16.2.3519.2026>
+
+### Attitudes Trust / Evaluation & Benchmarks (`attitudes-trust/evaluation`)
+
+- **Papers:** 16 (category cell avg 91.4) — 14 published in the last 12 months (+600%).
+- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **AI tools in Arab University English classrooms: Looking back and forward** (2026-06) — <https://arxiv.org/abs/2607.05403v1>
+  - **SSAFE: Simple and Strong AI-Generated Image Detection via Frozen Vision Encoders** (2026-06) — <https://arxiv.org/abs/2606.08634v1>
+  - **Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models** (2026-06) — <https://arxiv.org/abs/2606.26079v1>
+  - **Examining University Students' Artificial Intelligence-Generated Content (AIGC) Verification Intention from a Protection Motivation Perspective** (2026-05) — <https://arxiv.org/abs/2605.16642v1>
+  - **Evaluating the False Trust Engendered by LLM Explanations** (2026-05) — <https://arxiv.org/abs/2605.10930v2>
 
 ### Teacher Ai Literacy / Evaluation & Benchmarks (`teacher-ai-literacy/evaluation`)
 
@@ -106,17 +138,6 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **A Human-Centered Approach to Ethical AI Education in Underresourced Secondary Schools** (2026-03) — <https://arxiv.org/abs/2603.26004v1>
   - **Teachers’ Attitude, Competence, and Challenges in Using Artificial Intelligence in Teaching Secondary Science** (2026-03) — <https://doi.org/10.12691/education-14-3-3>
 
-### Attitudes Trust / Evaluation & Benchmarks (`attitudes-trust/evaluation`)
-
-- **Papers:** 16 (category cell avg 91.4) — 14 published in the last 12 months (+600%).
-- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
-- **Representative papers (newest first):**
-  - **AI tools in Arab University English classrooms: Looking back and forward** (2026-06) — <https://arxiv.org/abs/2607.05403v1>
-  - **SSAFE: Simple and Strong AI-Generated Image Detection via Frozen Vision Encoders** (2026-06) — <https://arxiv.org/abs/2606.08634v1>
-  - **Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models** (2026-06) — <https://arxiv.org/abs/2606.26079v1>
-  - **Examining University Students' Artificial Intelligence-Generated Content (AIGC) Verification Intention from a Protection Motivation Perspective** (2026-05) — <https://arxiv.org/abs/2605.16642v1>
-  - **Evaluating the False Trust Engendered by LLM Explanations** (2026-05) — <https://arxiv.org/abs/2605.10930v2>
-
 ### Adoption Behavior / Development (`adoption-behavior/development`)
 
 - **Papers:** 17 (category cell avg 85.0) — 12 published in the last 12 months (+140%).
@@ -127,6 +148,28 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **Analysis of Factors Influencing Behavioral Intention Regarding AI Technology for Quality Inspection Using the Technology Acceptance Model at PT XYZ** (2026-07) — <https://doi.org/10.59141/jrssem.v5i12.1653>
   - **Enabling AI Proactivity: Leadership Sensemaking, Ambidexterity, and Psychological Safety (WITHDRAWN)** (2026-07) — <https://doi.org/10.5465/amproc.2026.17292poster>
   - **Determinants of AI-Induced Workplace Stress among IT Professionals in Gurugram: A Secondary Data Analysis** (2026-06) — <https://doi.org/10.62823/exre/2026/03/02.228>
+
+### Adoption Behavior / Evaluation & Benchmarks (`adoption-behavior/evaluation`)
+
+- **Papers:** 19 (category cell avg 85.0) — 10 published in the last 12 months (+11%).
+- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **Evaluation of AI Tools in Terms of Sustainable Workforce Productivity and Their Impact on Organizational Outcomes Using an Intuitionistic Fuzzy Approach** (2026-07) — <https://doi.org/10.31181/jopi41202665>
+  - **AI-Driven Workforce Management in the Metaverse: Bridging Institutional Adaptiveness and Future Workforce Demands Through Technology Acceptance and Digital Competence** (2026-05) — <https://doi.org/10.58346/jisis.2026.i2.031>
+  - **Disconnect Between AI Satisfaction and Technostress: An Empirical Study** (2026-04) — <https://doi.org/10.1109/iccraids67816.2026.11519657>
+  - **Impact of AI Integration on Downsizing Intentions in Entrepreneurial Enterprises** (2026-03) — <https://doi.org/10.1109/iatmsi68868.2026.11465455>
+  - **Critically Engaged Pragmatism: Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools** (2026-01) — <https://arxiv.org/abs/2601.09753v2>
+
+### Ai Literacy Construct / Development (`ai-literacy-construct/development`)
+
+- **Papers:** 26 (category cell avg 106.0) — 16 published in the last 12 months (+60%).
+- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **Transforming Academic Library Collections Through Artificial Intelligence** (2026-08) — <https://doi.org/10.5281/zenodo.21912832>
+  - **Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach** (2026-07) — <https://arxiv.org/abs/2607.18884v1>
+  - **Digital maturity of territorial communities as a prerequisite for the implementation of artificial intelligence** (2026-07) — <https://doi.org/10.66556/2663-0117.50.paladiichuk-s>
+  - **e-Tax Filing and Assessment in the Age of Artificial Intelligence (AI): A Case of Bangladesh** (2026-06) — <https://doi.org/10.64907/xkmf.v6.i2.cmfr.3>
+  - **AI citizenship and libraries: a practical framework bridging policy, ethics and user engagement** (2026-05) — <https://doi.org/10.1108/lhtn-04-2026-0086>
 
 ### Program Evaluation / Development (`program-evaluation/development`)
 
@@ -150,28 +193,6 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **Generative Artificial Intelligence and Intellectual Property Rights: A Comparative Analysis of Copyright, Patents and Trade Secrets** (2026-08) — <https://doi.org/10.69971/tipr.4.3.2026.138>
   - **Building AI Literacy in the Library World** (2026-07) — <https://doi.org/10.5281/zenodo.21640949>
 
-### Tools, Platforms & AI Tutors / Evaluation & Benchmarks (`tooling/evaluation`)
-
-- **Papers:** 16 (category cell avg 72.6) — 12 published in the last 12 months (+200%).
-- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
-- **Representative papers (newest first):**
-  - **Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration** (2026-08) — <https://arxiv.org/abs/2608.11460v1>
-  - **Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitability Index** (2026-08) — <https://arxiv.org/abs/2608.05411v1>
-  - **Knowledge Distillation for Automated AI Tutor Evaluation** (2026-07) — <https://arxiv.org/abs/2607.10647v1>
-  - **When LLM Tutoring Responses Work: Evidence from Student Programming Conversations** (2026-07) — <https://arxiv.org/abs/2607.09919v1>
-  - **FairTutor: Equity-Aware Pedagogical LLM Routing for Budget-Constrained AI Tutoring** (2026-06) — <https://arxiv.org/abs/2606.20713v1>
-
-### Adoption Behavior / Evaluation & Benchmarks (`adoption-behavior/evaluation`)
-
-- **Papers:** 19 (category cell avg 85.0) — 10 published in the last 12 months (+11%).
-- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
-- **Representative papers (newest first):**
-  - **Evaluation of AI Tools in Terms of Sustainable Workforce Productivity and Their Impact on Organizational Outcomes Using an Intuitionistic Fuzzy Approach** (2026-07) — <https://doi.org/10.31181/jopi41202665>
-  - **AI-Driven Workforce Management in the Metaverse: Bridging Institutional Adaptiveness and Future Workforce Demands Through Technology Acceptance and Digital Competence** (2026-05) — <https://doi.org/10.58346/jisis.2026.i2.031>
-  - **Disconnect Between AI Satisfaction and Technostress: An Empirical Study** (2026-04) — <https://doi.org/10.1109/iccraids67816.2026.11519657>
-  - **Impact of AI Integration on Downsizing Intentions in Entrepreneurial Enterprises** (2026-03) — <https://doi.org/10.1109/iatmsi68868.2026.11465455>
-  - **Critically Engaged Pragmatism: Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools** (2026-01) — <https://arxiv.org/abs/2601.09753v2>
-
 ### Workforce Upskilling / Development (`workforce-upskilling/development`)
 
 - **Papers:** 20 (category cell avg 86.2) — 10 published in the last 12 months (+0%).
@@ -194,27 +215,27 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **GhostCite: A Large-Scale Analysis of Citation Validity in the Age of Large Language Models** (2026-02) — <https://arxiv.org/abs/2602.06718v2>
   - **DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity** (2026-01) — <https://arxiv.org/abs/2601.12505v1>
 
-### Ai Literacy Construct / Development (`ai-literacy-construct/development`)
+### Assessment / Evaluation & Benchmarks (`assessment/evaluation`)
 
-- **Papers:** 26 (category cell avg 106.0) — 16 published in the last 12 months (+60%).
-- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
+- **Papers:** 28 (category cell avg 78.6) — 13 published in the last 12 months (-13%).
+- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
-  - **Transforming Academic Library Collections Through Artificial Intelligence** (2026-08) — <https://doi.org/10.5281/zenodo.21912832>
-  - **Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach** (2026-07) — <https://arxiv.org/abs/2607.18884v1>
-  - **Digital maturity of territorial communities as a prerequisite for the implementation of artificial intelligence** (2026-07) — <https://doi.org/10.66556/2663-0117.50.paladiichuk-s>
-  - **e-Tax Filing and Assessment in the Age of Artificial Intelligence (AI): A Case of Bangladesh** (2026-06) — <https://doi.org/10.64907/xkmf.v6.i2.cmfr.3>
-  - **AI citizenship and libraries: a practical framework bridging policy, ethics and user engagement** (2026-05) — <https://doi.org/10.1108/lhtn-04-2026-0086>
+  - **Bridging Metacognition and Artificial Intelligence Literacy** (2026-07) — <https://doi.org/10.17632/js3wdz9sgs>
+  - **Validity and Reliability of Taekwondo Front Kick Physical Literacy Instrument** (2026-06) — <https://doi.org/10.37134/jsspj.vol15.1.7.2026>
+  - **AI-Readiness Assessment Tool for Open Data Catalogues** (2026-06) — <https://doi.org/10.5281/zenodo.20929807>
+  - **Evaluating the Impact of Mobile-Integrated Generative AI on University Students’ Critical Thinking and Problem-Solving Skills** (2026-06) — <https://doi.org/10.3991/ijim.v20i12.62161>
+  - **Dataset for Mindful Attention Awareness, AI Anxiety, and Teacher AI Competence among Teachers** (2026-04) — <https://doi.org/10.6084/m9.figshare.32033352.v1>
 
-### Assessment / Development (`assessment/development`)
+### Tools, Platforms & AI Tutors / Evaluation & Benchmarks (`tooling/evaluation`)
 
-- **Papers:** 22 (category cell avg 78.6) — 16 published in the last 12 months (+167%).
-- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
+- **Papers:** 16 (category cell avg 72.6) — 12 published in the last 12 months (+200%).
+- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
-  - **AI Protocols For Job Readiness Assessment: Design And Implementation Of DIJOB In Côte D'Ivoire** (2026-07) — <https://doi.org/10.5281/zenodo.21505673>
-  - **Cogni CISLF Advisor: An Open-Source Executive Assessment Tool for AI Transformation Readiness** (2026-07) — <https://doi.org/10.5281/zenodo.21389986>
-  - **Development of a personalized gamified mobile learning app using an AI-based virtual assistant for financial literacy** (2026-07) — <https://doi.org/10.1007/s44217-026-01858-3>
-  - **A Library Led Pilot on Custom GPT Driven Discovery: Strengthening Student Engagement with AI and Information Literacy** (2026-07) — <https://doi.org/10.5281/zenodo.21641100>
-  - **Lehigh University: Comprehensive AI Governance & Activity Inventory** (2026-06) — <https://doi.org/10.5281/zenodo.20629952>
+  - **Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration** (2026-08) — <https://arxiv.org/abs/2608.11460v1>
+  - **Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitability Index** (2026-08) — <https://arxiv.org/abs/2608.05411v1>
+  - **Knowledge Distillation for Automated AI Tutor Evaluation** (2026-07) — <https://arxiv.org/abs/2607.10647v1>
+  - **When LLM Tutoring Responses Work: Evidence from Student Programming Conversations** (2026-07) — <https://arxiv.org/abs/2607.09919v1>
+  - **FairTutor: Equity-Aware Pedagogical LLM Routing for Budget-Constrained AI Tutoring** (2026-06) — <https://arxiv.org/abs/2606.20713v1>
 
 ### Professional Education / Evaluation & Benchmarks (`professional-education/evaluation`)
 
@@ -237,17 +258,6 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
   - **Redefining critical literacies and ethics in human–machine conversations in the emergent AI-human zone** (2026-03) — <https://doi.org/10.47989/ir31iconf64250>
   - **Research on artificial intelligence literacy among nursing professionals: a scoping review** (2026-02) — <https://doi.org/10.1186/s12912-026-04448-8>
   - **An Agentic Software Framework for Data Governance under DPDP** (2026-01) — <https://arxiv.org/abs/2601.01101v1>
-
-### Higher Education / Reviews & Surveys (`higher-education/review`)
-
-- **Papers:** 17 (category cell avg 54.6) — 13 published in the last 12 months (+225%).
-- **Why a gap:** Thin for its category yet surging in the last 12 months.
-- **Representative papers (newest first):**
-  - **Using AI in engineering education: a balancing act, driven by clear purpose** (2026-06) — <https://arxiv.org/abs/2606.16626v1>
-  - **Generative AI Use in Professional Graduate Thesis Writing: Adoption, Perceived Outcomes, and the Role of a Research-Specialized Agent** (2026-04) — <https://arxiv.org/abs/2604.02792v1>
-  - **Towards an AI Buddy for every University Student? Exploring Students' Experiences, Attitudes and Motivations towards AI and AI-based Study Companions** (2026-03) — <https://arxiv.org/abs/2603.20909v1>
-  - **A Survey on the AI Literacy of Higher Education Teachers** (2026-01) — <https://doi.org/10.12677/ve.2026.152081>
-  - **From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education** (2025-12) — <https://arxiv.org/abs/2512.20714v1>
 
 ---
 

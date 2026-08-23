@@ -2,15 +2,19 @@
 """Research gap analyzer.
 
 Ranks under-saturated taxonomy cells (category/subcategory) by an
-*opportunity score* that joins thinness with 12-month momentum: a thin cell
-that is also surging (lots of recent output) is more promising white space
-than a thin cell that is flat.
+*opportunity score* that joins thinness with 12-month momentum and the
+concept graph's cross-cutting bridge signal: a thin cell that is also
+surging (lots of recent output) — or that sits on a high-betweenness bridge
+between separate research strands — is more promising white space than a thin
+cell that is flat and isolated.
 
     gap_score(cell) = thinness_weight * (1 - count / category_avg)
                     + momentum_weight * normalized_12m_growth(cell)
+                    + bridge_weight * normalized_category_betweenness(cell)
                     + floor_bonus          if count <= gap_floor
 
-Inputs:  statistics.json (window metadata), papers.yaml, config/taxonomy.yaml.
+Inputs:  statistics.json (window metadata), papers.yaml, config/taxonomy.yaml,
+         and (optionally) concept_graph_analysis.json (from analyze_concept_graph.py).
 Output:  ranked gap table on stdout, and — with ``--write-doc`` —
          docs/research/gap_analysis.md (generated, read-only, deterministic).
 
@@ -80,6 +84,42 @@ def load_stats() -> dict:
         return json.load(f)
 
 
+def load_bridge_scores() -> dict:
+    """category_id -> normalized betweenness (0..1) from concept_graph_analysis.json.
+
+    The concept graph's taxonomy nodes carry a betweenness score (how strongly
+    that category bridges otherwise-separate strands). We normalise it per
+    category and return {category_id: norm}. Returns {} when the analysis file
+    is absent, so the gap analyzer still works standalone (bridge term = 0).
+    """
+    path = REPO / "concept_graph_analysis.json"
+    if not path.exists():
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            a = json.load(f)
+    except Exception:
+        return {}
+    label_to_id = {}
+    try:
+        with open(REPO / "config" / "taxonomy.yaml", encoding="utf-8") as f:
+            tcfg = yaml.safe_load(f) or {}
+        for c in tcfg.get("taxonomy", {}).get("categories", []):
+            label_to_id[c.get("display")] = c.get("id")
+    except Exception:
+        pass
+    betas = {}
+    for n in a.get("nodes", []):
+        if n.get("kind") == "taxonomy":
+            cid = label_to_id.get(n.get("term"))
+            if cid is not None:
+                betas[cid] = n.get("betweenness", 0.0)
+    if not betas:
+        return {}
+    mx = max(betas.values()) or 1.0
+    return {cid: b / mx for cid, b in betas.items()}
+
+
 def window_start(stats: dict) -> str:
     """Start of the 12-month analysis window, from statistics.json metadata."""
     ws = (stats.get("metadata") or {}).get("analysis_window") or {}
@@ -127,7 +167,8 @@ def category_stats(papers: list) -> tuple:
 
 
 def compute_gaps(cells: dict, cat_avgs: dict, thin_w: float,
-                 mom_w: float, gap_floor: int, floor_bonus: float) -> list:
+                 mom_w: float, gap_floor: int, floor_bonus: float,
+                 bridge_scores: dict, bridge_w: float) -> list:
     rows = []
     for cell, info in cells.items():
         cat, sub = cell.split("/", 1)
@@ -143,10 +184,12 @@ def compute_gaps(cells: dict, cat_avgs: dict, thin_w: float,
             else (100.0 if recent > 0 else 0.0)
         )
         bonus = floor_bonus if count <= gap_floor else 0.0
-        raw = thin_w * thinness + mom_w * norm_growth + bonus
+        bridge = bridge_scores.get(cat, 0.0)
+        raw = thin_w * thinness + mom_w * norm_growth + bridge_w * bridge + bonus
         rows.append({
             "cell": cell, "category": cat, "subcategory": sub, "count": count,
             "cat_avg": round(avg, 1), "recent": recent, "growth_pct": round(growth_pct, 1),
+            "bridge": round(bridge, 3),
             "score": round(min(100.0, raw * 100.0), 1),
         })
     return sorted(rows, key=lambda r: (-r["score"], r["count"], r["cell"]))
@@ -165,7 +208,8 @@ def why_note(row: dict) -> str:
 
 
 def render_markdown(rows: list, cells: dict, top: int, thin_w: float,
-                    mom_w: float, gap_floor: int, floor_bonus: float) -> str:
+                    mom_w: float, gap_floor: int, floor_bonus: float,
+                    bridge_w: float, bridge_scores: dict) -> str:
     cfg = research_config.load_config()
     lines = []
     lines.append("# Research Gap Analysis")
@@ -173,21 +217,39 @@ def render_markdown(rows: list, cells: dict, top: int, thin_w: float,
     lines.append(
         "Ranked under-saturated taxonomy cells by opportunity score = "
         f"thinness × {thin_w} + 12-month momentum × {mom_w} "
+        f"+ cross-cutting bridge × {bridge_w} "
         f"+ floor bonus ({floor_bonus}) for cells with ≤ {gap_floor} papers. "
-        "Thin-and-surging cells rank highest — they are where the program's "
-        "white space is both real and active."
+        "Thin-and-surging cells rank highest; the bridge term lifts thin cells "
+        "that sit on a high-betweenness concept-graph bridge (where separate "
+        "research strands connect) — see docs/research/concept_graph_feedback.md."
     )
     lines.append("")
     lines.append(f"## Top {top} Gap Cells")
     lines.append("")
-    lines.append("| Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Score |")
-    lines.append("|-----:|------|-------:|--------:|--------:|-----------:|------:|")
+    lines.append("| Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Bridge | Score |")
+    lines.append("|-----:|------|-------:|--------:|--------:|-----------:|-------:|------:|")
     for i, r in enumerate(rows[:top], 1):
         lines.append(
             f"| {i} | `{r['cell']}` | {r['count']} | {r['cat_avg']} "
-            f"| {r['recent']} | {r['growth_pct']:+.0f}% | {r['score']} |"
+            f"| {r['recent']} | {r['growth_pct']:+.0f}% | {r['bridge']:.2f} | {r['score']} |"
         )
     lines.append("")
+    bridge_cells = [r for r in rows if r["bridge"] >= 0.5 and r["count"] <= r["cat_avg"]]
+    if bridge_cells:
+        lines.append("## Bridge Gap Cells (thin cells on cross-cutting categories)")
+        lines.append("")
+        lines.append(
+            "Under-saturated cells whose category is a high-betweenness bridge "
+            "in the concept graph — the integrative white spaces where separate "
+            "research strands connect. Prioritised by the bridge term."
+        )
+        lines.append("")
+        for r in bridge_cells:
+            lines.append(
+                f"- `{r['cell']}` — bridge {r['bridge']:.2f}, "
+                f"{r['count']} papers (category cell avg {r['cat_avg']})"
+            )
+        lines.append("")
     lines.append(f"## Detailed Cells (top {top})")
     lines.append("")
     for r in rows[:top]:
@@ -226,13 +288,13 @@ def render_markdown(rows: list, cells: dict, top: int, thin_w: float,
 
 
 def render_table(rows: list, top: int) -> str:
-    out = ["Research gap score (0-100) — thinness + 12-month momentum:",
-           f"{'Rank':>4}  {'Score':>6}  {'Papers':>6}  {'12m':>4}  {'Growth':>7}  Cell",
-           f"{'':4}  {'':6}  {'':6}  {'':4}  {'':7}  ----"]
+    out = ["Research gap score (0-100) — thinness + 12-month momentum + bridge:",
+           f"{'Rank':>4}  {'Score':>6}  {'Papers':>6}  {'12m':>4}  {'Growth':>7}  {'Bridge':>6}  Cell",
+           f"{'':4}  {'':6}  {'':6}  {'':4}  {'':7}  {'':6}  ----"]
     for i, r in enumerate(rows[:top], 1):
         out.append(
             f"{i:>4}  {r['score']:>6.1f}  {r['count']:>6}  {r['recent']:>4}  "
-            f"{r['growth_pct']:>+6.0f}%  {r['cell']}"
+            f"{r['growth_pct']:>+6.0f}%  {r['bridge']:>6.2f}  {r['cell']}"
         )
     return "\n".join(out)
 
@@ -248,6 +310,9 @@ def main() -> None:
                         help="cells with <= this many papers get the floor bonus (default 5)")
     parser.add_argument("--floor-bonus", type=float, default=DEFAULT_FLOOR_BONUS,
                         help="bonus added to very thin cells (default 0.15)")
+    parser.add_argument("--bridge-weight", type=float, default=0.15,
+                        help="weight of the cross-cutting bridge term from the "
+                             "concept graph (default 0.15); set 0 to disable")
     parser.add_argument("--write-doc", action="store_true",
                         help="write docs/research/gap_analysis.md and print a short summary")
     args = parser.parse_args()
@@ -257,12 +322,15 @@ def main() -> None:
     ws = window_start(stats)
     cells = collect_cells(papers, ws)
     cat_totals, cat_avgs = category_stats(papers)
+    bridge_scores = load_bridge_scores()
     rows = compute_gaps(cells, cat_avgs, args.thinness_weight,
-                        args.momentum_weight, args.gap_floor, args.floor_bonus)
+                        args.momentum_weight, args.gap_floor, args.floor_bonus,
+                        bridge_scores, args.bridge_weight)
 
     if args.write_doc:
         doc = render_markdown(rows, cells, args.top, args.thinness_weight,
-                              args.momentum_weight, args.gap_floor, args.floor_bonus)
+                              args.momentum_weight, args.gap_floor, args.floor_bonus,
+                              args.bridge_weight, bridge_scores)
         GAP_REPORT.parent.mkdir(parents=True, exist_ok=True)
         GAP_REPORT.write_text(doc, encoding="utf-8")
         print(f"Wrote {GAP_REPORT.relative_to(REPO)} "

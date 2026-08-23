@@ -198,7 +198,8 @@ ai-literacy-research/
 │   ├── topic_planner.py               # Topic planner ✨
 │   ├── trend_scanner.py               # Emerging trend scanner ✨
 │   ├── brief_generator.py             # Brief generator ✨
-│   └── landscape_analyzer.py          # Landscape report ✨
+│   ├── landscape_analyzer.py          # Landscape report ✨
+│   └── research_gap_analyzer.py       # Ranked research gaps ✨
 │
 ├── scripts/                           # Research pipeline
 │   ├── fetch/                         # OpenAlex (primary), arXiv, DBLP/CrossRef
@@ -227,6 +228,7 @@ python3 topic_planner.py --top 10               # ranked evidence areas
 python3 trend_scanner.py --months 6             # keyword bursts
 python3 brief_generator.py "EU AI Act literacy obligations" --papers 5
 python3 landscape_analyzer.py --write-doc       # full landscape
+python3 research_gap_analyzer.py --write-doc    # ranked research gaps
 ```
 
 ---
@@ -236,9 +238,10 @@ python3 landscape_analyzer.py --write-doc       # full landscape
 1. **Discover** — `python3 scripts/fetch/fetch_openalex.py --months 3`
 2. **Validate** — `python3 scripts/validate_papers.py`
 3. **Analyze** — `python3 scripts/analysis/generate_analysis.py`
-4. **Visualize** — `python3 scripts/visualize_statistics.py`
-5. **Report** — `python3 scripts/analysis/generate_reports.py`
-6. **Generate** — `python3 scripts/generate_readme.py`
+4. **Gap analysis** — `python3 tools/research_gap_analyzer.py --write-doc`
+5. **Visualize** — `python3 scripts/visualize_statistics.py`
+6. **Report** — `python3 scripts/analysis/generate_reports.py`
+7. **Generate** — `python3 scripts/generate_readme.py`
 
 CI (`.github/workflows/validate.yml`) validates and regenerates on every push;
 a weekly scheduled job opens a PR with newly discovered papers.

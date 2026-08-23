@@ -8,12 +8,14 @@ on:
       - 'scripts/'
       - 'tools/'
       - 'requirements.txt'
+      - 'docs/research/gap_analysis.md'
   pull_request:
     paths:
       - 'papers.yaml'
       - 'scripts/'
       - 'tools/'
       - 'requirements.txt'
+      - 'docs/research/gap_analysis.md'
   schedule:
     - cron: '0 6 * * 1'
 
@@ -40,6 +42,12 @@ jobs:
 
       - name: Check README is up-to-date
         run: grep -q '## 📊 Corpus Statistics' README.md || exit 1
+
+      - name: Check gap analysis is up-to-date
+        run: |
+          python3 tools/research_gap_analyzer.py --write-doc
+          git diff --exit-code -- docs/research/gap_analysis.md \
+            || { echo 'docs/research/gap_analysis.md is out of date — regenerate and commit it (tools/research_gap_analyzer.py)'; exit 1; }
 
   discover:
     if: github.event_name == 'schedule'
@@ -79,9 +87,10 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml requests matplotlib
 
-      - name: Regenerate statistics, charts and README
+      - name: Regenerate statistics, charts, gap analysis and README
         run: |
           python3 scripts/analysis/generate_analysis.py
+          python3 tools/research_gap_analyzer.py --write-doc
           python3 scripts/visualize_statistics.py
           python3 scripts/refresh_readme_stats.py
           python3 tools/topic_planner.py --top 10

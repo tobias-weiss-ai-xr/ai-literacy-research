@@ -189,7 +189,13 @@ python3 topic_planner.py --top 10               # ranked evidence areas
 python3 trend_scanner.py --months 6             # keyword bursts
 python3 brief_generator.py "EU AI Act literacy obligations" --papers 5
 python3 landscape_analyzer.py --write-doc       # full landscape
+python3 research_gap_analyzer.py --write-doc    # ranked research gaps
 ```
+
+> 📊 **Gap targeting:** `research_gap_analyzer.py` ranks under-saturated
+> taxonomy cells by thinness × 12-month momentum (thin-and-surging wins),
+> writing `docs/research/gap_analysis.md` — the same white-space signal the
+> research plan uses to steer RQ2/RQ3.
 
 ---
 
@@ -198,9 +204,10 @@ python3 landscape_analyzer.py --write-doc       # full landscape
 1. **Discover** — `python3 scripts/fetch/fetch_openalex.py --months 3`
 2. **Validate** — `python3 scripts/validate_papers.py`
 3. **Analyze** — `python3 scripts/analysis/generate_analysis.py`
-4. **Visualize** — `python3 scripts/visualize_statistics.py`
-5. **Report** — `python3 scripts/analysis/generate_reports.py`
-6. **Generate** — `python3 scripts/generate_readme.py`
+4. **Gap analysis** — `python3 tools/research_gap_analyzer.py --write-doc`
+5. **Visualize** — `python3 scripts/visualize_statistics.py`
+6. **Report** — `python3 scripts/analysis/generate_reports.py`
+7. **Generate** — `python3 scripts/generate_readme.py`
 
 CI (`.github/workflows/validate.yml`) validates and regenerates on every push;
 a weekly scheduled job opens a PR with newly discovered papers.
@@ -218,33 +225,33 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 📊 Corpus Statistics
 
-**4,422 papers** across **20 categories**.  
-Sources: **arXiv** 1,127 (25%) · **DOI** 3,217 (72%) · **Other** 78 (1%).  
+**11,640 papers** across **20 categories**.  
+Sources: **arXiv** 2,656 (22%) · **DOI** 8,731 (75%) · **Other** 253 (2%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| attitudes-trust | **332** | 0 | ████████████ |
-| generative-ai-skills | **309** | 0 | ███████████░ |
-| ai-literacy-construct | **302** | 0 | ██████████░░ |
-| workforce-upskilling | **277** | 0 | ██████████░░ |
-| adoption-behavior | **265** | 0 | █████████░░░ |
-| tooling | **254** | 0 | █████████░░░ |
-| ai-literacy-pedagogy | **238** | 0 | ████████░░░░ |
-| compliance | **238** | 0 | ████████░░░░ |
-| org-implementation | **227** | 0 | ████████░░░░ |
-| roi-measurement | **220** | 0 | ███████░░░░░ |
-| *other* | **1,760** | | |
+| compliance | **909** | 0 | ████████████ |
+| ai-literacy-construct | **848** | 0 | ███████████░ |
+| generative-ai-skills | **734** | 0 | █████████░░░ |
+| attitudes-trust | **731** | 0 | █████████░░░ |
+| workforce-upskilling | **690** | 0 | █████████░░░ |
+| adoption-behavior | **680** | 0 | ████████░░░░ |
+| learning-design | **658** | 0 | ████████░░░░ |
+| assessment | **629** | 0 | ████████░░░░ |
+| org-implementation | **629** | 0 | ████████░░░░ |
+| program-evaluation | **625** | 0 | ████████░░░░ |
+| *other* | **4,507** | | |
 
 
 ### By year
 
 | Year | Papers | |
 |------|--------|-|
-| 2025 | 1,670 | ████████████ |
-| 2026 | 846 | ██████░░░░░░ |
+| 2025 | 4,326 | ███████████░ |
+| 2026 | 4,718 | ████████████ |
 | unknown | 68 | ░░░░░░░░░░░░ |
 
 
@@ -252,50 +259,50 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-lit
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| ROI & Business Impact | 220 | 10.8/mo | 59% | 200 |
-| Compliance & AI Act | 238 | 11.7/mo | 59% | 185 |
-| Adoption Behavior & Engagement | 265 | 10.2/mo | 46% | 102 |
-| Critical & Ethical AI Literacy | 214 | 8.5/mo | 48% | 80 |
-| Org Implementation & Change | 227 | 8.4/mo | 44% | 69 |
+| Compliance & AI Act | 909 | 56.0/mo | 74% | 308 |
+| Adoption Behavior & Engagement | 680 | 39.5/mo | 70% | 301 |
+| Org Implementation & Change | 629 | 35.4/mo | 68% | 235 |
+| Teacher AI Literacy | 586 | 32.8/mo | 67% | 223 |
+| Assessment & Measurement | 629 | 34.2/mo | 65% | 214 |
 
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| continuum | 6 | 2.98 |
-| micro-learning | 1 | 2.98 |
-| agentic | 58 | 2.47 |
-| ai competence | 8 | 2.24 |
-| small business | 7 | 2.13 |
-| article 4 | 9 | 1.99 |
-| avoidance | 9 | 1.99 |
-| agent | 208 | 1.86 |
+| continuum | 10 | 1.76 |
+| micro-learning | 2 | 1.76 |
+| agentic | 183 | 1.64 |
+| avoidance | 23 | 1.53 |
+| agent | 664 | 1.49 |
+| transfer | 111 | 1.49 |
+| taxonomy | 126 | 1.43 |
+| compliance | 251 | 1.40 |
 
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| SSRN Electronic Journal | 94 |
-| Education and Information Technologies | 58 |
-| Zenodo (CERN European Organization for Nuclear Research) | 58 |
-| Computers and Education Artificial Intelligence | 38 |
-| Frontiers in Education | 37 |
-| Education Sciences | 36 |
-| Advances in educational technologies and instructional design book series | 30 |
-| Lecture notes in computer science | 28 |
+| Zenodo (CERN European Organization for Nuclear Research) | 443 |
+| SSRN Electronic Journal | 183 |
+| Education and Information Technologies | 122 |
+| Frontiers in Education | 113 |
+| Education Sciences | 88 |
+| Advances in computational intelligence and robotics book series | 83 |
+| Lecture notes in computer science | 73 |
+| Open MIND | 68 |
 
 
 ### Research gaps (thinnest cells)
 
 | Cell | Papers |
 |------|--------|
-| `higher-education/development` | 1 |
-| `org-implementation/evaluation` | 1 |
-| `lifelong-learning/evaluation` | 1 |
 | `sme-training/evaluation` | 2 |
-| `compliance/evaluation` | 2 |
+| `k12-education/evaluation` | 4 |
+| `org-implementation/evaluation` | 5 |
+| `compliance/evaluation` | 5 |
+| `lifelong-learning/evaluation` | 5 |
 
 
 

@@ -74,6 +74,43 @@ Rule: Tools are config-driven and reproducible.
 - **WHEN** `tools/brief_generator.py "EU AI Act literacy obligations" --papers 5` runs
 - **THEN** a brief with the top matching papers and their abstracts is produced
 
+### Requirement: Research Gap Analysis
+
+A `research_gap_analyzer.py` tool SHALL identify under-saturated taxonomy
+cells and rank them by an opportunity score that combines thinness (count vs
+category average) with 12-month momentum (surging white space wins), writing
+the ranked result to `docs/research/gap_analysis.md`.
+
+Feature: Research Gap Analysis
+Rule: The tool reads statistics.json + papers.yaml + taxonomy.yaml and produces
+a ranked, reproducible gap report. It runs after statistics generation and
+before the reports step in the pipeline.
+
+#### Scenario: Analyzer runs after statistics are generated
+- **GIVEN** `statistics.json` exists
+- **WHEN** `tools/research_gap_analyzer.py` runs
+- **THEN** `docs/research/gap_analysis.md` is written with a ranked gap table and per-cell detail sections
+
+#### Scenario: Gap score combines thinness and momentum
+- **GIVEN** a cell with count 2, category average 40, and 12-month growth +150%
+- **WHEN** the gap score is computed
+- **THEN** the cell scores higher than a cell with count 2, category average 40, and 12-month growth 0%
+
+#### Scenario: Very thin cells receive a floor bonus
+- **GIVEN** `--gap-floor 5` and a cell with count 3
+- **WHEN** the gap score is computed
+- **THEN** a floor bonus is added so very thin cells rank above merely-thin cells with no momentum
+
+#### Scenario: Weights are configurable via CLI
+- **GIVEN** the user passes `--thinness-weight 0.7 --momentum-weight 0.3`
+- **WHEN** the analyzer runs
+- **THEN** the gap score uses the provided weights and the report notes the weights used
+
+#### Scenario: Report lists representative papers per cell
+- **GIVEN** a ranked gap cell with at least one paper
+- **WHEN** the per-cell section is rendered
+- **THEN** up to 5 representative papers (newest first) are listed with title, date, and url
+
 ### Requirement: Visualization
 
 The pipeline SHALL produce category-distribution and trend visualizations in

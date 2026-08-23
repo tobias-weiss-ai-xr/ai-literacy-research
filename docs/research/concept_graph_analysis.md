@@ -1,51 +1,51 @@
 # Concept Graph Analysis
 
-**Generated:** 80 nodes, 1381 edges, 1 components, 1 communities (modularity -102.065). Edges = co-occurrence.
+**Generated:** 40 nodes, 322 edges, 1 components, 1 communities (modularity -683.673). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **large language** — PR 0.0667, degree 70, df 957
-- **language models** — PR 0.0659, degree 70, df 959
-- **training** — PR 0.0593, degree 72, df 1267
-- **evaluation** — PR 0.0450, degree 68, df 736
-- **higher education** — PR 0.0406, degree 66, df 898
-- **Generative Ai Skills** — PR 0.0301, degree 39, df 734
-- **Compliance** — PR 0.0250, degree 35, df 909
-- **implementation** — PR 0.0225, degree 67, df 379
-- **Attitudes Trust** — PR 0.0224, degree 49, df 731
-- **Teacher Ai Literacy** — PR 0.0208, degree 46, df 586
-- **Ai Literacy Construct** — PR 0.0198, degree 50, df 848
-- **Higher Education** — PR 0.0185, degree 43, df 437
+- **large language** — PR 0.1022, degree 33, df 957
+- **language models** — PR 0.1001, degree 33, df 959
+- **training** — PR 0.0937, degree 32, df 1267
+- **evaluation** — PR 0.0699, degree 33, df 736
+- **higher education** — PR 0.0606, degree 34, df 898
+- **Generative Ai Skills** — PR 0.0457, degree 13, df 734
+- **Compliance** — PR 0.0372, degree 12, df 909
+- **implementation** — PR 0.0351, degree 34, df 379
+- **prompt engineering** — PR 0.0274, degree 21, df 265
+- **compliance** — PR 0.0255, degree 26, df 236
+- **ai act** — PR 0.0253, degree 16, df 275
+- **Attitudes Trust** — PR 0.0232, degree 16, df 731
 
 ## Bridge nodes (high betweenness — connect clusters)
 
-- Assessment
-- implementation
-- training
-- evaluation
 - higher education
+- implementation
+- Assessment
+- evaluation
 - large language
 - language models
-- Attitudes Trust
+- training
+- measurement
+- digital transformation
 - digital literacy
-- Ai Literacy Construct
 
 ## Bridge edges (high edge-betweenness)
 
-- Assessment ↔ maturity model (weight 2, EB 76.0)
-- evaluation ↔ self-report (weight 2, EB 25.1911)
-- implementation ↔ self-report (weight 2, EB 24.3802)
-- higher education ↔ technostress (weight 2, EB 19.7727)
-- Assessment ↔ self-report (weight 2, EB 15.3823)
-- Attitudes Trust ↔ technostress (weight 3, EB 11.969)
-- technostress ↔ rapid integration (weight 2, EB 11.2144)
-- measurement ↔ self-report (weight 2, EB 11.0465)
-- training ↔ medium enterprises (weight 6, EB 10.4801)
-- training ↔ medium-sized enterprises (weight 2, EB 9.943)
+- Assessment ↔ maturity model (weight 2, EB 36.0)
+- higher education ↔ technostress (weight 2, EB 20.4667)
+- implementation ↔ self-report (weight 2, EB 12.0625)
+- evaluation ↔ self-report (weight 2, EB 11.0625)
+- higher education ↔ Assessment (weight 71, EB 7.9293)
+- measurement ↔ self-report (weight 2, EB 7.7292)
+- implementation ↔ utaut (weight 4, EB 6.3136)
+- language models ↔ Assessment (weight 19, EB 5.8668)
+- large language ↔ Assessment (weight 22, EB 5.8668)
+- higher education ↔ utaut (weight 5, EB 5.647)
 
 ## Communities (clusters of related concepts)
 
-### Cluster 1 (77 concepts)
+### Cluster 1 (37 concepts)
 
 Adoption Behavior, Ai Literacy Construct, Ai Literacy Pedagogy, Assessment, Attitudes Trust, Compliance, Critical Ai Literacy, Generative Ai Skills, Higher Education, K12 Education, Learning Design, Lifelong Learning
 

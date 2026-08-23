@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 80 concepts, 1381 relationships from 11640 papers. Edges = co-occurrence (shared papers).
+**Generated:** 40 concepts, 322 relationships from 11640 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -67,9 +67,9 @@
 - evaluation — 213 shared paper(s)
 - training — 173 shared paper(s)
 - prompt engineering — 120 shared paper(s)
-- natural language — 78 shared paper(s)
 - Attitudes Trust — 56 shared paper(s)
 - Compliance — 54 shared paper(s)
+- Higher Education — 50 shared paper(s)
 
 ### large language
 
@@ -78,20 +78,20 @@
 - evaluation — 215 shared paper(s)
 - training — 160 shared paper(s)
 - prompt engineering — 117 shared paper(s)
-- natural language — 67 shared paper(s)
 - Attitudes Trust — 59 shared paper(s)
 - Higher Education — 52 shared paper(s)
+- Compliance — 51 shared paper(s)
 
 ### Compliance
 
 - ai act — 256 shared paper(s)
 - compliance — 147 shared paper(s)
 - training — 122 shared paper(s)
-- european union — 62 shared paper(s)
 - evaluation — 54 shared paper(s)
 - language models — 54 shared paper(s)
 - large language — 51 shared paper(s)
 - implementation — 31 shared paper(s)
+- digital transformation — 18 shared paper(s)
 
 ### higher education
 
@@ -102,7 +102,7 @@
 - Assessment — 71 shared paper(s)
 - Attitudes Trust — 60 shared paper(s)
 - Teacher Ai Literacy — 55 shared paper(s)
-- university students — 49 shared paper(s)
+- large language — 43 shared paper(s)
 
 ### Ai Literacy Construct
 
@@ -112,8 +112,8 @@
 - digital literacy — 35 shared paper(s)
 - evaluation — 34 shared paper(s)
 - training — 33 shared paper(s)
-- university students — 23 shared paper(s)
 - implementation — 21 shared paper(s)
+- critical thinking — 16 shared paper(s)
 
 ### evaluation
 
@@ -133,31 +133,31 @@
 - prompt engineering — 210 shared paper(s)
 - evaluation — 115 shared paper(s)
 - training — 77 shared paper(s)
-- natural language — 43 shared paper(s)
-- findings suggest — 27 shared paper(s)
-- software engineering — 19 shared paper(s)
+- higher education — 17 shared paper(s)
+- critical thinking — 12 shared paper(s)
+- implementation — 12 shared paper(s)
 
 ### Attitudes Trust
 
 - training — 92 shared paper(s)
-- technology acceptance — 81 shared paper(s)
 - higher education — 60 shared paper(s)
 - large language — 59 shared paper(s)
 - language models — 56 shared paper(s)
 - evaluation — 50 shared paper(s)
-- factors influencing — 37 shared paper(s)
-- findings suggest — 24 shared paper(s)
+- implementation — 21 shared paper(s)
+- utaut — 20 shared paper(s)
+- agentic ai — 10 shared paper(s)
 
 ### Workforce Upskilling
 
 - training — 85 shared paper(s)
-- human resource — 26 shared paper(s)
 - digital transformation — 23 shared paper(s)
-- resource management — 20 shared paper(s)
 - implementation — 18 shared paper(s)
-- rapid advancement — 18 shared paper(s)
 - evaluation — 17 shared paper(s)
 - language models — 13 shared paper(s)
+- large language — 13 shared paper(s)
+- higher education — 11 shared paper(s)
+- agentic ai — 7 shared paper(s)
 
 ### Adoption Behavior
 
@@ -165,21 +165,21 @@
 - large language — 51 shared paper(s)
 - language models — 45 shared paper(s)
 - evaluation — 42 shared paper(s)
-- human resource — 33 shared paper(s)
-- technology acceptance — 27 shared paper(s)
 - digital transformation — 27 shared paper(s)
-- resource management — 26 shared paper(s)
+- implementation — 17 shared paper(s)
+- higher education — 15 shared paper(s)
+- compliance — 9 shared paper(s)
 
 ### Learning Design
 
 - training — 138 shared paper(s)
 - higher education — 77 shared paper(s)
-- curriculum design — 61 shared paper(s)
 - large language — 36 shared paper(s)
 - language models — 35 shared paper(s)
 - evaluation — 32 shared paper(s)
-- medical education — 24 shared paper(s)
 - implementation — 18 shared paper(s)
+- critical thinking — 8 shared paper(s)
+- digital literacy — 6 shared paper(s)
 
 ### Assessment
 
@@ -189,8 +189,8 @@
 - training — 27 shared paper(s)
 - large language — 22 shared paper(s)
 - language models — 19 shared paper(s)
-- university students — 19 shared paper(s)
 - digital literacy — 15 shared paper(s)
+- implementation — 15 shared paper(s)
 
 ### Org Implementation
 
@@ -198,10 +198,10 @@
 - digital transformation — 33 shared paper(s)
 - higher education — 27 shared paper(s)
 - training — 20 shared paper(s)
-- human resource — 15 shared paper(s)
 - large language — 15 shared paper(s)
 - evaluation — 13 shared paper(s)
 - language models — 12 shared paper(s)
+- digital literacy — 11 shared paper(s)
 
 ### Program Evaluation
 
@@ -211,19 +211,19 @@
 - language models — 42 shared paper(s)
 - higher education — 30 shared paper(s)
 - implementation — 18 shared paper(s)
-- medical education — 15 shared paper(s)
-- human resource — 14 shared paper(s)
+- digital transformation — 8 shared paper(s)
+- compliance — 6 shared paper(s)
 
 ### Teacher Ai Literacy
 
-- pre-service teachers — 95 shared paper(s)
 - training — 78 shared paper(s)
-- teacher education — 71 shared paper(s)
 - higher education — 55 shared paper(s)
 - large language — 39 shared paper(s)
 - language models — 35 shared paper(s)
 - evaluation — 31 shared paper(s)
 - implementation — 22 shared paper(s)
+- digital literacy — 18 shared paper(s)
+- digital transformation — 14 shared paper(s)
 
 ### Ai Literacy Pedagogy
 
@@ -231,10 +231,10 @@
 - training — 34 shared paper(s)
 - large language — 34 shared paper(s)
 - language models — 30 shared paper(s)
-- foreign language — 27 shared paper(s)
 - evaluation — 19 shared paper(s)
 - critical thinking — 17 shared paper(s)
 - implementation — 16 shared paper(s)
+- digital literacy — 15 shared paper(s)
 
 ### Professional Education
 
@@ -244,19 +244,19 @@
 - large language — 25 shared paper(s)
 - evaluation — 20 shared paper(s)
 - compliance — 17 shared paper(s)
-- medical education — 16 shared paper(s)
 - implementation — 15 shared paper(s)
+- agentic ai — 8 shared paper(s)
 
 ### Higher Education
 
 - higher education — 162 shared paper(s)
 - large language — 52 shared paper(s)
-- academic integrity — 51 shared paper(s)
 - language models — 50 shared paper(s)
-- university students — 45 shared paper(s)
 - evaluation — 38 shared paper(s)
 - critical thinking — 27 shared paper(s)
 - implementation — 21 shared paper(s)
+- training — 18 shared paper(s)
+- digital literacy — 14 shared paper(s)
 
 ### Roi Measurement
 
@@ -264,10 +264,10 @@
 - large language — 23 shared paper(s)
 - digital transformation — 17 shared paper(s)
 - language models — 16 shared paper(s)
-- human resource — 13 shared paper(s)
 - implementation — 12 shared paper(s)
 - measurement — 8 shared paper(s)
 - evaluation — 7 shared paper(s)
+- higher education — 2 shared paper(s)
 
 ### Lifelong Learning
 
@@ -278,7 +278,7 @@
 - critical thinking — 7 shared paper(s)
 - implementation — 7 shared paper(s)
 - digital transformation — 6 shared paper(s)
-- human resource — 5 shared paper(s)
+- language models — 4 shared paper(s)
 
 ### implementation
 
@@ -293,14 +293,14 @@
 
 ### Sme Training
 
-- medium-sized enterprises — 84 shared paper(s)
-- medium enterprises — 79 shared paper(s)
 - digital transformation — 30 shared paper(s)
 - training — 29 shared paper(s)
 - implementation — 11 shared paper(s)
 - language models — 8 shared paper(s)
-- human resource — 8 shared paper(s)
-- systematic literature — 8 shared paper(s)
+- large language — 7 shared paper(s)
+- digital literacy — 6 shared paper(s)
+- evaluation — 4 shared paper(s)
+- compliance — 4 shared paper(s)
 
 ### Critical Ai Literacy
 
@@ -315,14 +315,14 @@
 
 ### K12 Education
 
-- school students — 56 shared paper(s)
-- secondary school — 44 shared paper(s)
-- high school — 30 shared paper(s)
 - higher education — 15 shared paper(s)
 - implementation — 10 shared paper(s)
-- teacher education — 9 shared paper(s)
 - training — 8 shared paper(s)
 - evaluation — 7 shared paper(s)
+- digital literacy — 7 shared paper(s)
+- critical thinking — 6 shared paper(s)
+- prompt engineering — 4 shared paper(s)
+- language models — 4 shared paper(s)
 
 
 Generated by `tools/relate_concepts.py` — do not edit by hand.

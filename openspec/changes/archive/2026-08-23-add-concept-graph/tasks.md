@@ -16,6 +16,6 @@
 - [x] 4.1 Create change `add-concept-graph` (proposal, design, spec, tasks)
 
 ## 5. Portability (post-merge)
-- [ ] 5.1 Copy `tools/extract_concepts.py`, `tools/relate_concepts.py` into `skeleton-research` (reference template)
-- [ ] 5.2 Add repo-specific `config/concepts.yaml` to each `*research` repo as needed
-- [ ] 5.3 Mirror `validate.yml` wiring in `skeleton-research` so all forks inherit it
+- [x] 5.1 Copy `tools/extract_concepts.py`, `tools/relate_concepts.py` into `skeleton-research` (reference template) — DONE (commit 3cf05e4)
+- [ ] 5.2 Add repo-specific `config/concepts.yaml` to each remaining `*research` repo as needed
+- [ ] 5.3 Mirror the CI wiring in `skeleton-research` so all forks inherit it (done in template; existing forks need a one-time copy of tools + CI until re-forked)

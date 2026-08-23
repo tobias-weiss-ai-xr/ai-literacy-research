@@ -1,6 +1,6 @@
 # Extraction Table — RQ2: Which implementation strategies for organization-level AI-literacy programs are evidenced, and under which conditions do they work?
 
-**Protocol:** PROTOCOL.md §3-4 · 25 papers · tiers provisional
+**Protocol:** PROTOCOL.md §3-4 · 25 (+ gap-cell rows, 2026-08-23) · tiers provisional
 (abstract-level) until full-text review · rows filled by
 `tools/extract_rows.py` from fetched abstracts (arXiv API / CrossRef);
 TBD cells await full-text extraction; drop rows that fail inclusion
@@ -33,7 +33,12 @@ criteria at full text (record reason in the last column).
 | RQ2-23 | Developing a Curriculum for Ethical and Responsible AI: A University Course on S | 2023 | D | University course | Students | Course on safety, fairness, privacy, ethics | Abstract unavailable | TBD | — | Verify via Springer chapter |
 | RQ2-24 | AI Is Not a Wildcard: Challenges for Integrating AI into the Design Curriculum | 2023 | D | Design education | Design students | AI integration challenges in design curricula | Abstract unavailable | TBD | — | Verify via CHI paper |
 | RQ2-25 | Getting Practical About the Future of Work a Framework for Upskilling and Reskil | 2023 | D | Oil & gas industry | Workforce | FoW upskilling/reskilling framework | Practitioner framework | Readiness varies by country, gender, generation; reskilling imperative (McKinsey 30-40%) | Industry-specific | Framework example |
+| RQ2-26 | Three Frameworks, One System: The AI Governance Convergence Playbook, Guidance Crosswalk, and Executive Poster | 2026 | E | Organizations (governance) | Governance / compliance teams | EU AI Act + NIST AI RMF + third framework convergence toolkit | Practitioner toolkit / guidance crosswalk | Integrated enterprise AI governance implementation guide | Practitioner / position tier | Compliance/development (gap cell) |
+| RQ2-27 | Students' Voices on the Implementation of Gen-AI Feedback in EFL Writing Classroom | 2026 | D | EFL writing classrooms | Students | Gen-AI feedback implementation in writing instruction | Qualitative / experience report | Student experiences of gen-AI feedback adoption | Single context; subjective | Org-implementation/development (gap cell) |
+| RQ2-28 | Human-AI Collaboration and the Transformation of Software Engineering Work | 2026 | E | Software-engineering workforce | Engineers / managers | Competency framework (5 categories) for human-AI / Agentic-AI engineering | Structured interpretive synthesis | Role-trajectory + competency matrix; 9 testable propositions | Synthesis / review tier; propositions untested | Workforce-upskilling/development (gap cell) |
+| RQ2-29 | The Impact of AI and Machine Learning on Recruitment, Performance Management and Employee Behavior Prediction | 2026 | D | HRM functions | Employees / HR | AI/ML in recruitment, performance, behavior prediction | Analysis / review | Efficiency / accuracy gains in HR functions | Review tier; outcomes asserted | Adoption-behavior/development (gap cell) |
 
+> **Added 2026-08-23** (rows RQ2-): priority gap-cell studies from `gap_analysis.md` shortlist, abstract-level; full-text verification pending per PROTOCOL.md.
 ## Priority gap cells — extraction shortlist
 
 *Pinned from [`docs/research/gap_analysis.md`](../gap_analysis.md) (thin-and-surging taxonomy cells, ranked by opportunity score). These are the white-space cells the research program targets for **RQ2 (implementation strategies)**; full-text extraction should begin here. Recent-first, top 5 per cell.*

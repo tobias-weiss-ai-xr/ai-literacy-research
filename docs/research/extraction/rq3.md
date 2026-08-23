@@ -1,6 +1,6 @@
 # Extraction Table — RQ3: How is AI literacy measured — which instruments exist, with what validity — and which evaluation frameworks apply to programs?
 
-**Protocol:** PROTOCOL.md §3-4 · 25 papers · tiers provisional
+**Protocol:** PROTOCOL.md §3-4 · 25 (+ gap-cell rows, 2026-08-23) · tiers provisional
 (abstract-level) until full-text review · rows filled by
 `tools/extract_rows.py` from fetched abstracts (arXiv API / CrossRef);
 TBD cells await full-text extraction; drop rows that fail inclusion
@@ -33,7 +33,13 @@ criteria at full text (record reason in the last column).
 | RQ3-23 | Dimensions of Artificial Intelligence Literacy: A Qualitative Synthesis of Conte | 2025 | ? | Education & workforce | — | Systematic review 2019-2024 | Qualitative synthesis | 6 dimensions: technical, ethical/societal, critical, ... | Review | ★ synthesis for Guide 2 |
 | RQ3-24 | Artificial intelligence literacy education in primary schools: a review | 2025 | ? | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | RQ3-25 | Artificial intelligence literacy: a proposed faceted taxonomy | 2024 | ? | Education & research | — | Faceted taxonomy of AI literacy | Facet analysis | Taxonomy from literature + classification schemes | Taxonomy proposal | ★ taxonomy |
+| RQ3-26 | Digital transformation readiness: evaluating Dutch municipalities’ compliance with the AI Act | 2026 | E | Dutch municipalities | Municipal administration / staff | Evaluating AI Act compliance readiness (diagnostic) | Readiness / maturity assessment | Compliance-readiness diagnostic for Art. 4 obligations | Conceptual / legal-analysis tier; no empirical N | Art. 4 evaluation frontier (gap cell) |
+| RQ3-27 | The AIconomics Maturity Model: A Sector-Agnostic Diagnostic Framework for Enterprise AI Transformation | 2026 | E | Enterprises (cross-sector) | Org leadership / transformation teams | Sector-agnostic diagnostic maturity framework for AI transformation | Maturity / diagnostic model | Org AI-transformation diagnostic; capability mapping | Framework proposal; not empirically validated | Org-implementation evaluation (gap cell) |
+| RQ3-28 | IMPACT OF SKILL DEVELOPMENT PROGRAMS ON EMPLOYMENT OPPORTUNITIES AND LIVELIHOOD OF PERSONS WITH DISABILITIES (AI-supported) | 2026 | C | Persons with disabilities (AI-supported programs) | Program participants | AI-supported skill-development / employment programs | Empirical study (employment outcomes) | Employment opportunity / livelihood gains via AI-supported skilling | Abstract short; verify design at full text | Workforce-upskilling evaluation (gap cell) |
+| RQ3-29 | The Six-Facet Artificial Intelligence Literacy Questionnaire (SFAILQ): Assessing AI Literacy in Adolescents, Young Adults, and Midlife Adults | 2026 | C | Adolescents, young adults, midlife adults | Multi-cohort general population | SFAILQ — six-facet AI literacy scale | Psychometric development / validation | Multi-cohort valid instrument; complements MAIL-CS / AICOS | New (2026); confirm factor structure at full text | Instrument frontier (gap cell) |
+| RQ3-30 | AI Literacy and Professional Development Engagement as Predictors of Mathematics Teachers’ Readiness for AI-Enhanced Instruction | 2026 | C | Mathematics teachers | Teachers | AI literacy + PD engagement → readiness for AI-enhanced instruction | Quantitative survey | AI literacy & PD engagement predict readiness | Cross-sectional; self-report | Teacher PD evaluation (gap cell) |
 
+> **Added 2026-08-23** (rows RQ3-): priority gap-cell studies from `gap_analysis.md` shortlist, abstract-level; full-text verification pending per PROTOCOL.md.
 ## Priority gap cells — extraction shortlist
 
 *Pinned from [`docs/research/gap_analysis.md`](../gap_analysis.md) (thin-and-surging taxonomy cells, ranked by opportunity score). These are the white-space cells the research program targets for **RQ3 (evaluation instruments & frameworks)**; full-text extraction should begin here. Recent-first, top 5 per cell.*

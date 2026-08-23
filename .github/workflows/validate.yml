@@ -8,14 +8,24 @@ on:
       - 'scripts/'
       - 'tools/'
       - 'requirements.txt'
+      - 'config/taxonomy.yaml'
+      - 'config/concepts.yaml'
+      - 'concepts.json'
+      - 'concept_graph.json'
       - 'docs/research/gap_analysis.md'
+      - 'docs/research/concept_map.md'
   pull_request:
     paths:
       - 'papers.yaml'
       - 'scripts/'
       - 'tools/'
       - 'requirements.txt'
+      - 'config/taxonomy.yaml'
+      - 'config/concepts.yaml'
+      - 'concepts.json'
+      - 'concept_graph.json'
       - 'docs/research/gap_analysis.md'
+      - 'docs/research/concept_map.md'
   schedule:
     - cron: '0 6 * * 1'
 
@@ -48,6 +58,13 @@ jobs:
           python3 tools/research_gap_analyzer.py --write-doc
           git diff --exit-code -- docs/research/gap_analysis.md \
             || { echo 'docs/research/gap_analysis.md is out of date — regenerate and commit it (tools/research_gap_analyzer.py)'; exit 1; }
+
+      - name: Check concept graph is up-to-date
+        run: |
+          python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
+          python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
+          git diff --exit-code -- concepts.json concept_graph.json docs/research/concept_map.md \
+            || { echo 'Concept graph is out of date — regenerate (tools/extract_concepts.py + tools/relate_concepts.py)'; exit 1; }
 
   discover:
     if: github.event_name == 'schedule'
@@ -91,6 +108,8 @@ jobs:
         run: |
           python3 scripts/analysis/generate_analysis.py
           python3 tools/research_gap_analyzer.py --write-doc
+          python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
+          python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
           python3 scripts/visualize_statistics.py
           python3 scripts/refresh_readme_stats.py
           python3 tools/topic_planner.py --top 10

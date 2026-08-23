@@ -190,12 +190,19 @@ python3 trend_scanner.py --months 6             # keyword bursts
 python3 brief_generator.py "EU AI Act literacy obligations" --papers 5
 python3 landscape_analyzer.py --write-doc       # full landscape
 python3 research_gap_analyzer.py --write-doc    # ranked research gaps
+python3 extract_concepts.py --out concepts.json            # extract concepts/ideas
+python3 relate_concepts.py --concepts concepts.json --write-doc > concept_graph.json  # concept knowledge graph
 ```
 
 > 📊 **Gap targeting:** `research_gap_analyzer.py` ranks under-saturated
 > taxonomy cells by thinness × 12-month momentum (thin-and-surging wins),
 > writing `docs/research/gap_analysis.md` — the same white-space signal the
 > research plan uses to steer RQ2/RQ3.
+>
+> 🕸️ **Concept graph:** `extract_concepts.py` + `relate_concepts.py` mine
+> concepts/ideas from the corpus (taxonomy categories + curated seeds in
+> `config/concepts.yaml` + emergent bigrams) and relate them by co-occurrence,
+> writing `concept_graph.json` + `docs/research/concept_map.md`.
 
 ---
 
@@ -205,6 +212,7 @@ python3 research_gap_analyzer.py --write-doc    # ranked research gaps
 2. **Validate** — `python3 scripts/validate_papers.py`
 3. **Analyze** — `python3 scripts/analysis/generate_analysis.py`
 4. **Gap analysis** — `python3 tools/research_gap_analyzer.py --write-doc`
+4.5 **Concept graph** — `python3 tools/extract_concepts.py --out concepts.json && python3 tools/relate_concepts.py --concepts concepts.json --write-doc > concept_graph.json`
 5. **Visualize** — `python3 scripts/visualize_statistics.py`
 6. **Report** — `python3 scripts/analysis/generate_reports.py`
 7. **Generate** — `python3 scripts/generate_readme.py`

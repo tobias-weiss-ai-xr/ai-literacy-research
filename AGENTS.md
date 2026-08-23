@@ -26,6 +26,8 @@ for content; tooling and reports stay reproducible from it.
 python3 scripts/validate_papers.py
 python3 scripts/analysis/generate_analysis.py        # statistics.json
 python3 tools/research_gap_analyzer.py --write-doc   # docs/research/gap_analysis.md
+python3 tools/extract_concepts.py --out concepts.json     # concepts.json
+python3 tools/relate_concepts.py --concepts concepts.json --write-doc > concept_graph.json  # concept_graph.json + docs/research/concept_map.md
 python3 scripts/visualize_statistics.py
 python3 scripts/refresh_readme_stats.py
 python3 tools/topic_planner.py --top 10
@@ -40,6 +42,9 @@ gap report is current).
 - **What are the research gaps?**
   `python3 tools/research_gap_analyzer.py --write-doc` → ranked thin-and-
   surging cells in `docs/research/gap_analysis.md` (thinness × momentum).
+- **What concepts/ideas relate in the corpus?**
+  `python3 tools/extract_concepts.py --out concepts.json && python3 tools/relate_concepts.py --concepts concepts.json --write-doc > concept_graph.json`
+  → `concept_graph.json` + `docs/research/concept_map.md` (co-occurrence graph).
 - **Regenerate statistics:**
   `python3 scripts/analysis/generate_analysis.py`
 - **Validate the corpus:**

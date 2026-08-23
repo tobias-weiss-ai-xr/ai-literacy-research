@@ -63,8 +63,9 @@ jobs:
         run: |
           python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
           python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
-          git diff --exit-code -- concepts.json concept_graph.json docs/research/concept_map.md \
-            || { echo 'Concept graph is out of date — regenerate (tools/extract_concepts.py + tools/relate_concepts.py)'; exit 1; }
+          python3 tools/analyze_concept_graph.py --graph concept_graph.json --write-doc > concept_graph_analysis.json
+          git diff --exit-code -- concepts.json concept_graph.json concept_graph_analysis.json docs/research/concept_map.md docs/research/concept_graph_analysis.md \
+            || { echo 'Concept graph is out of date — regenerate (tools/extract_concepts.py + tools/relate_concepts.py + tools/analyze_concept_graph.py)'; exit 1; }
 
   discover:
     if: github.event_name == 'schedule'
@@ -110,6 +111,7 @@ jobs:
           python3 tools/research_gap_analyzer.py --write-doc
           python3 tools/extract_concepts.py --papers papers.yaml --out concepts.json
           python3 tools/relate_concepts.py --papers papers.yaml --concepts concepts.json --write-doc > concept_graph.json
+          python3 tools/analyze_concept_graph.py --graph concept_graph.json --write-doc > concept_graph_analysis.json
           python3 scripts/visualize_statistics.py
           python3 scripts/refresh_readme_stats.py
           python3 tools/topic_planner.py --top 10

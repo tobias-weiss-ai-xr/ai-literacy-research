@@ -33,3 +33,56 @@ criteria at full text (record reason in the last column).
 | RQ2-23 | Developing a Curriculum for Ethical and Responsible AI: A University Course on S | 2023 | D | University course | Students | Course on safety, fairness, privacy, ethics | Abstract unavailable | TBD | — | Verify via Springer chapter |
 | RQ2-24 | AI Is Not a Wildcard: Challenges for Integrating AI into the Design Curriculum | 2023 | D | Design education | Design students | AI integration challenges in design curricula | Abstract unavailable | TBD | — | Verify via CHI paper |
 | RQ2-25 | Getting Practical About the Future of Work a Framework for Upskilling and Reskil | 2023 | D | Oil & gas industry | Workforce | FoW upskilling/reskilling framework | Practitioner framework | Readiness varies by country, gender, generation; reskilling imperative (McKinsey 30-40%) | Industry-specific | Framework example |
+
+## Priority gap cells — extraction shortlist
+
+*Pinned from [`docs/research/gap_analysis.md`](../gap_analysis.md) (thin-and-surging taxonomy cells, ranked by opportunity score). These are the white-space cells the research program targets for **RQ2 (implementation strategies)**; full-text extraction should begin here. Recent-first, top 5 per cell.*
+
+### `compliance/development` — 24 papers in corpus
+
+1. **Three Frameworks, One System: The AI Governance Convergence Playbook, Guidance Crosswa** (2026) — <https://doi.org/10.6084/m9.figshare.33137024.v2>
+2. **Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-da** (2026) — <https://arxiv.org/abs/2608.05018v3>
+3. **AIMSDistill Model Weights: distilled ModernBERT students and teacher logits** (2026) — <https://doi.org/10.6084/m9.figshare.33261576>
+4. **Generative Artificial Intelligence and Intellectual Property Rights: A Comparative Analysis of Copyright, Pate** (2026) — <https://doi.org/10.69971/tipr.4.3.2026.138>
+5. **Building AI Literacy in the Library World** (2026) — <https://doi.org/10.5281/zenodo.21640949>
+
+### `org-implementation/development` — 38 papers in corpus
+
+1. **Students' Voices on the Implementation of Gen-AI Feedback in EFL Writing Classroom** (2026) — <https://doi.org/10.26877/eternal.v17i2.3644>
+2. **Literacy Specialists Use Notebook LM to Enhance Student Comprehension by Presenting Information in Diverse For** (2026) — <https://doi.org/10.5281/zenodo.21238588>
+3. **Operationalizing ChatGPT in Coursework: Assignment Compliance, Prompt Use, and Implementation Challenges** (2026) — <https://doi.org/10.33423/pg4yt174>
+4. **Before Professional AI Fluency: Basic AI Literacy as the Pre-PAF Foundation** (2026) — <https://doi.org/10.5281/zenodo.20754528>
+5. **Learners’ Uptake Judgments of AI Feedback and Its Implementation in Rewriting : A Study of Intermediate Learne** (2026) — <https://doi.org/10.37736/kjlr.2026.06.17.3.03>
+
+### `workforce-upskilling/development` — 20 papers in corpus
+
+1. **Human-AI Collaboration and the Transformation of Software Engineering Work** (2026) — <https://arxiv.org/abs/2606.03394v1>
+2. **Pengaruh Upskilling dan Reskilling terhadap Peningkatan Kinerja di Era Artificial Intelligence (AI)** (2026) — <https://doi.org/10.30640/digital.v5i2.6596>
+3. **Impact of Artificial Intelligence on Middle Level Roles in I.T. Sector** (2026) — <https://www.ijert.org/impact-of-artificial-intelligence-on-middle-level-roles-in-it-sector>
+4. **Vulnerability of Workforce to AI Automation and Ethical Reactions** (2026) — <https://doi.org/10.1109/sieds69358.2026.11540281>
+5. **An Evaluation of the Impact of AI-Enhanced Project Management Tools on U.S. Workforce Productivity, Satisfacti** (2026) — <https://doi.org/10.5281/zenodo.19352486>
+
+### `adoption-behavior/development` — 17 papers in corpus
+
+1. **The Impact of AI and Machine Learning on Recruitment, Performance Management and Employee Behavior Prediction** (2026) — <https://doi.org/10.64388/irev10i1-1720100>
+2. **Positioning AI-Driven Technologies as Support for Effective Workplace Collaborations: A Study Based on the Oil** (2026) — <https://doi.org/10.1016/j.array.2026.101077>
+3. **Analysis of Factors Influencing Behavioral Intention Regarding AI Technology for Quality Inspection Using the** (2026) — <https://doi.org/10.59141/jrssem.v5i12.1653>
+4. **Enabling AI Proactivity: Leadership Sensemaking, Ambidexterity, and Psychological Safety (WITHDRAWN)** (2026) — <https://doi.org/10.5465/amproc.2026.17292poster>
+5. **Determinants of AI-Induced Workplace Stress among IT Professionals in Gurugram: A Secondary Data Analysis** (2026) — <https://doi.org/10.62823/exre/2026/03/02.228>
+
+### `program-evaluation/development` — 16 papers in corpus
+
+1. **Effectiveness of an AI-Assisted Decision Support System among ASHA Workers.** (2026) — <https://doi.org/10.70146/nhcpv02i02.0018>
+2. **CXL-ClusterSim: Modeling CXL-based Disaggregated Memory Cluster for Pooling and Sharing using gem5 and SST** (2026) — <https://arxiv.org/abs/2605.27745v1>
+3. **“Alga”: An AI-Powered Adaptive Training Platform for Competitive Programming** (2026) — <https://nur.nu.edu.kz/handle/123456789/18975>
+4. **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery** (2026) — <https://arxiv.org/abs/2603.08127>
+5. **The Energy-Throughput Trade-off in Lossless-Compressed Source Code Storage** (2026) — <https://arxiv.org/abs/2601.13220v1>
+
+### `learning-design/development` — 31 papers in corpus
+
+1. **Exploring AI-Educator Co-Creation in Curriculum Design: Effects on Time Efficiency and Learning Outcomes** (2026) — <https://doi.org/10.70232/jrep.v3i3.193>
+2. **Curriculum Design Principles for AI Literacy in Junior Primary Education** (2026) — <https://doi.org/10.4018/979-8-3373-4893-3.ch002>
+3. **Sociotechnical Mediation of Multiliteracies and Communicative Competence in AI-Integrated Pedagogies** (2026) — <https://doi.org/10.4018/979-8-3373-8424-5.ch006>
+4. **The Integration of AI Technology in Implementation Inde-pendent Curriculum** (2026) — <https://doi.org/10.61132/ijets.v3i2.480>
+5. **Structured Scaling of AI Discovery Across Diverse Scientific Domains** (2026) — <https://arxiv.org/abs/2604.19341v2>
+

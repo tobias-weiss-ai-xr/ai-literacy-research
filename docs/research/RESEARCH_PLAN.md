@@ -1,8 +1,10 @@
 # Research Plan — AI-Literacy Implementation & Evaluation
 
-**Status:** active (Phase 0 complete: corpus constructed)
+**Status:** active — Phases 0–1 complete; Phase 2 in progress (priority gap
+cells shortlisted); Guides 1–2 drafted v1.1; gap-analysis tool shipped
+(`tools/research_gap_analyzer.py` → `docs/research/gap_analysis.md`)
 **Companion protocol:** [PROTOCOL.md](PROTOCOL.md)
-**Evidence base:** this corpus (papers.yaml, 5,000+ papers across 20 categories)
+**Evidence base:** this corpus (papers.yaml, **11,640 papers** across 20 categories, 100% saturation)
 
 ---
 
@@ -73,15 +75,16 @@ quarterly, and the synthesis documents track the evidence as it grows.
 |-------|------|-------------|----------------|
 | **0 — Corpus** (done) | 20-category AI-literacy corpus, pipeline, CI | this repo | validate passes; saturation ≥ 95% |
 
-*Seed: 4,414 papers, 100% saturation (2026-08-12): OpenAlex bulk (~2,700) +
+*Seed grew to **11,640 papers**, 100% saturation (2026-08-23); original
+seed snapshot was 4,414 papers (2026-08-12): OpenAlex bulk (~2,700) +
 arXiv + CrossRef/DBLP/EuropePMC. Fine-grained OpenAlex refresh
 (`scripts/fetch/fetch_openalex.py`) can be added later — mind the 1,000
 credits/day free budget (10 credits per page, resets at midnight UTC);
 the weekly CI discovery job keeps the arXiv side fresh automatically.
 | **1 — Mapping** (done) | Cell-level map of the 6 target categories; 25–40 papers shortlisted per RQ | `docs/research/mapping_review.md` | shortlist table complete |
-| **2 — Extraction** (in progress) | Abstract screening done: 72/150 included, refilled to 25/RQ (`docs/research/extraction/screening_report.md`); evidence tables `rq1-5.md` created, 17 key studies pre-extracted; 109 rows await full-text extraction | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
-| **3 — Synthesis A: Implementation Guide** (draft v1) | RQ1+RQ2: construct model (continuum × 3 axes) + implementation conditions framework + 10-step playbook + risks | **Guide 1** (`docs/research/guide_implementation.md`) | expert review (2 readers) |
-| **4 — Synthesis B: Evaluation Guide** (draft v1) | RQ3+RQ4+RQ5: 10 instruments catalogued, outcome evidence table, Art. 4 evidence chain, business-case designs (task-based quasi-experiment + SME-minimum) | **Guide 2** (`docs/research/guide_evaluation.md`) | expert review |
+| **2 — Extraction** (in progress) | Abstract screening done: 72/150 included, refilled to 25/RQ (`docs/research/extraction/screening_report.md`); evidence tables `rq1-5.md` created, 17 key studies pre-extracted; 109 rows await full-text extraction; **priority gap-cell shortlists pinned into `rq2.md`/`rq3.md` from `gap_analysis.md`** | `docs/research/extraction/*.md` + evidence tables | ≥ 80% of shortlist extracted |
+| **3 — Synthesis A: Implementation Guide** (draft v1.1, refreshed with 11.6k corpus + gap-cell evidence) | RQ1+RQ2: construct model (continuum × 3 axes) + implementation conditions framework + 10-step playbook + risks + §8 white-space-cell evidence | **Guide 1** (`docs/research/guide_implementation.md`) | expert review (2 readers) |
+| **4 — Synthesis B: Evaluation Guide** (draft v1.1, refreshed with 11.6k corpus + gap-cell evidence) | RQ3+RQ4+RQ5: 10+ instruments catalogued (incl. SFAILQ), outcome evidence table, Art. 4 evidence chain, business-case designs (task-based quasi-experiment + SME-minimum) + §8 white-space-cell evidence | **Guide 2** (`docs/research/guide_evaluation.md`) | expert review |
 | **5 — Instrument spec** | Task-oriented AI-literacy assessment (occupation-aligned, levels 1–4) informed by RQ3 | `docs/research/assessment_spec.md` | pilot in ALaaS cohort |
 | **6 — Publication & transfer** | Articles, newsletter, ALaaS offer redesign, platform integration | 6+ pieces + offer changes | published & live |
 | **Ongoing — Refresh** | Quarterly corpus update + gap re-measurement + guide updates | updated artifacts | CI green |

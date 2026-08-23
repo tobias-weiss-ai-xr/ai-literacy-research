@@ -1,8 +1,9 @@
 # Guide 1 — Implementing AI-Literacy Programs in Organizations
 
-**Phase 3 deliverable (Synthesis A: RQ1 + RQ2)** · draft v1 · 2026-08-12
-**Evidence base:** ai-literacy-research corpus (4,414 papers, 100% saturation);
-extraction tables `docs/research/extraction/rq1.md` + `rq2.md` (50 studies);
+**Phase 3 deliverable (Synthesis A: RQ1 + RQ2)** · draft v1.1 (refreshed 2026-08-23)
+**Evidence base:** ai-literacy-research corpus (11,640 papers, 100% saturation);
+extraction tables `docs/research/extraction/rq1.md` + `rq2.md` (50 studies, with
+priority gap-cell shortlists pinned from `docs/research/gap_analysis.md`);
 screening tier A–E per PROTOCOL.md §4. Tiers are provisional (abstract-level)
 until full-text verification. Claims are graded: **(A)** RCT/meta-analysis,
 **(B)** quasi-experimental/panel, **(C)** longitudinal/cross-sectional,
@@ -238,3 +239,49 @@ Combine the evidence into four condition clusters — all four are necessary:
 
 *Draft v1 · Tobias Weiss · KI-Kompetenz-Training · ki-kompetenz-training@tobias-weiss.org*
 *Next: Phase 4 — Guide 2 (Evaluation), then Phase 5 — assessment instrument spec.*
+
+## 8. White-space cells: implementation evidence from the current corpus
+
+*Extension (2026-08-23) using the 11,640-paper corpus and the gap ranking in
+`docs/research/gap_analysis.md`. The analyzer flags `*/development` and
+`*/implementation` cells as **thin-and-surging** — the program's core
+*development* gap, now with concrete recent studies. Each cell is mapped to the
+§3 implementation-conditions framework and the §4 playbook so the white space is
+not just identified but actionable. (Full per-cell shortlists: `extraction/rq2.md`.)*
+
+### 8.1 `compliance/development` — 24 papers · AI Act as the implementation driver
+The EU AI Act is moving from legal theory to operational curricula. The corpus
+shows governance convergence and live, safety-critical pilots — exactly the
+entry point the ALaaS compliance track needs.
+- Three Frameworks, One System: The AI Governance Convergence Playbook, Guidance Crosswalk, and Executive Poster (2026) — <https://doi.org/10.6084/m9.figshare.33137024.v2>
+- Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge (2026) — <https://arxiv.org/abs/2608.05018v3>
+- AIMSDistill Model Weights: distilled ModernBERT students and teacher logits (2026) — <https://doi.org/10.6084/m9.figshare.33261576>
+→ **Playbook link:** treat Art. 4 literacy as the program's entry point (Step 4
+role-specific curricula; Step 9 measurement), not an add-on.
+
+### 8.2 `org-implementation/development` — 38 papers · tool adoption in real workflows
+Strongest evidence is the embedding of genAI into existing workflows (feedback,
+comprehension, coursework) — and the friction it surfaces.
+- Students' Voices on the Implementation of Gen-AI Feedback in EFL Writing Classroom (2026) — <https://doi.org/10.26877/eternal.v17i2.3644>
+- Literacy Specialists Use Notebook LM to Enhance Student Comprehension by Presenting Information in Diverse Formats (2026) — <https://doi.org/10.5281/zenodo.21238588>
+- Operationalizing ChatGPT in Coursework: Assignment Compliance, Prompt Use, and Implementation Challenges (2026) — <https://doi.org/10.33423/pg4yt174>
+→ **Playbook link:** Step 2 (psychological safety) and Step 6 (continuous
+upskilling) are where these implementations succeed or stall.
+
+### 8.3 `workforce-upskilling/development` — 20 papers · continuous upskilling architecture
+- Human-AI Collaboration and the Transformation of Software Engineering Work (2026) — <https://arxiv.org/abs/2606.03394v1>
+- Pengaruh Upskilling dan Reskilling terhadap Peningkatan Kinerja di Era Artificial Intelligence (AI) (2026) — <https://doi.org/10.30640/digital.v5i2.6596>
+- Impact of Artificial Intelligence on Middle Level Roles in I.T. Sector (2026) — <https://www.ijert.org/impact-of-artificial-intelligence-on-middle-level-roles-in-it-sector>
+→ **Playbook link:** Step 6 (continuous upskilling architecture) and Step 10
+(meta-skills over tool skills) — see the §1.5 "training trap" caveat.
+
+### 8.4 `adoption-behavior/development` — 17 papers · behavior-change mechanisms
+- The Impact of AI and Machine Learning on Recruitment, Performance Management and Employee Behavior Prediction (2026) — <https://doi.org/10.64388/irev10i1-1720100>
+- Positioning AI-Driven Technologies as Support for Effective Workplace Collaborations (Oil & Gas, UAE) (2026) — <https://doi.org/10.1016/j.array.2026.101077>
+- Analysis of Factors Influencing Behavioral Intention … Using the Technology Acceptance Model (2026) — <https://doi.org/10.59141/jrssem.v5i12.1653>
+→ **Playbook link:** Step 7 (behavior change) — TAM/acceptance mechanisms are the
+levers; pair with the §3.2 conditions (support, leadership, low technostress).
+
+**Synthesis for ALaaS:** the compliance and org-implementation cells are where
+demand and evidence now concentrate ("surging"); the playbook's compliance track
+and continuous-upskilling architecture are the differentiators to lead with.

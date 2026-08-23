@@ -1,6 +1,6 @@
 # Guide 2 — Evaluating AI-Literacy Programs: Measurement, Outcomes, ROI
 
-**Phase 4 deliverable (Synthesis B: RQ3 + RQ4 + RQ5)** · draft v1 · 2026-08-12
+**Phase 4 deliverable (Synthesis B: RQ3 + RQ4 + RQ5)** · draft v1.1 (refreshed 2026-08-23)
 **Evidence base:** extraction tables `docs/research/extraction/rq3.md`,
 `rq4.md`, `rq5.md` (75 studies); tiers A–E per PROTOCOL.md (provisional at
 abstract level). Companion: [Guide 1 — Implementation](../guide_implementation.md),
@@ -56,6 +56,7 @@ and evidence that exist, plus a business-case design organizations can run.
 | AILS (KR) | AI literacy dimensions + questionnaire | Korean university students | Validity + reliability study | (C) |
 | AILS (Arabic) | Multinational validation of AILS | Arab adults | Multinational validation | (C) |
 | G-Factor/A-Factor battery | 18 items, 4 dimensions | Adults (N=517, 3 studies) | A-factor 44% variance; lab validation | (C) |
+| SFAILQ | Six facets, adolescents→midlife adults | Adults (multi-cohort) | Development + validation (2026) | (C) |
 
 **Selection guidance:** for organizational programs, prefer **AICOS or
 MAIL-CS** (objective/validated, GenAI-era); for cross-population benchmarking
@@ -200,3 +201,55 @@ The weakest link: training→firm ROI (only E-level quantification exists).
 
 *Draft v1 · Tobias Weiss · KI-Kompetenz-Training · ki-kompetenz-training@tobias-weiss.org*
 *Next: Phase 5 — assessment instrument specification.*
+
+## 8. White-space cells: evaluation evidence from the current corpus
+
+*Extension (2026-08-23) using the 11,640-paper corpus and the gap ranking in
+`docs/research/gap_analysis.md`. The `*/evaluation` cells dominate the top of
+the gap report — the program's core *evaluation* gap. Below, the thinnest cells
+are populated with their current corpus studies and tied to §2 instruments and
+§5 business-case designs. (Full shortlists: `extraction/rq3.md`.)*
+
+### 8.1 `compliance/evaluation` — 5 papers · the AI Act evaluation frontier
+This is the single most strategic white space: evaluating whether a
+compliance-readiness program *worked*. The corpus shows readiness/risk
+evaluation migrating into domain practice.
+- Digital transformation readiness: evaluating Dutch municipalities' compliance with the AI Act (2026) — <https://doi.org/10.4337/9781035361229.00008>
+- Leveraging AI for fine-grained food safety risk forecasting in sparse data conditions (2026) — <https://arxiv.org/abs/2608.01767v1>
+- FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking (2026) — <https://arxiv.org/abs/2607.26641v1>
+→ **Design link:** §5.1 task-based quasi-experiment is the template; pair with the
+RQ5 Art. 4 operationalization evidence (M-SHALF framework; AI Legislation
+Literacy measure) so "trained → measured → at what level" is auditable.
+
+### 8.2 `org-implementation/evaluation` — 5 papers · diagnostic maturity models
+- The AIconomics Maturity Model: A Sector-Agnostic Diagnostic Framework for Enterprise AI Transformation (2026) — <https://doi.org/10.17605/osf.io/d2a3j>
+- STUDY REPORT Project Business in the Age of AI: Future Competences, Changing Roles and Development Needs (2026) — <https://doi.org/10.33700/wb6tac34>
+- AI Adoption Under Constraint: A Process Model from Malaysian Printing Industry (2026) — <https://doi.org/10.55057/ijbtm.2026.8.3.5>
+→ **Design link:** a maturity/diagnostic instrument (not just a pre/post quiz) is
+the right evaluation unit for org-level transformation.
+
+### 8.3 `workforce-upskilling/evaluation` — 7 papers · task-based upskilling proof
+- IMPACT OF SKILL DEVELOPMENT PROGRAMS ON EMPLOYMENT … PERSONS WITH DISABILITIES (AI-supported) (2026) — <https://doi.org/10.5281/zenodo.21529844>
+- Automated detection of primary soft tissue sarcomas … using AI and ChatGPT (2026) — <https://doi.org/10.3389/fonc.2026.1674509>
+- Evaluating AI competency in project management: benefits and challenges (2025) — <https://doi.org/10.1007/s00146-025-02730-y>
+→ **Design link:** §5.2 minimum-viable evaluation on the job's actual tasks.
+
+### 8.4 `ai-literacy-construct/evaluation` — 12 papers · the instrument frontier
+A new validated instrument appeared in the refreshed corpus and should enter
+the §2.1 selection table:
+- **SFAILQ** — Six-Facet AI Literacy Questionnaire (adolescents → midlife adults), 2026 — <https://doi.org/10.3390/bs16071110>
+- IEEC: A Framework for AI Literacy in Programming (2026) — <https://doi.org/10.21315/apjee2026.41.1.15>
+- "AAB AI Literacy Framework Crosswalk Dataset v1.0" (2026) — <https://doi.org/10.21227/yqrv-rs33>
+→ **Selection update:** SFAILQ complements MAIL-CS/AICOS for adult, multi-cohort
+populations; prefer objective/instrument-backed measures per §2.2.
+
+### 8.5 `teacher-ai-literacy/evaluation` — 11 papers · evaluate professional development
+- The impact of coercive/normative/mimetic Stress on teachers' continuance intention to use GenAI (2026) — <https://arxiv.org/abs/2605.00522v1>
+- AI Literacy and Professional Development Engagement as Predictors of Mathematics Teachers' Readiness (2026) — <https://doi.org/10.26803/ijlter.25.2.29>
+- Can We Improve Educational Diagram Generation with In-Context Examples? (2026) — <https://arxiv.org/abs/2601.20476v1>
+→ **Design link:** PD evaluation must use objective measures (§2.2) — self-report
+readiness diverges from demonstrated competence.
+
+**Synthesis for ALaaS:** lead the evaluation offer with the compliance/evaluation
+cell (Art. 4 proof) and the instrument frontier (SFAILQ, AICOS, MAIL-CS). These
+are thin, surging, and directly monetizable as the "what you get" reporting layer.

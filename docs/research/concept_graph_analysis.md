@@ -1,47 +1,47 @@
 # Concept Graph Analysis
 
-**Generated:** 40 nodes, 322 edges, 1 components, 1 communities (modularity -683.673). Edges = co-occurrence.
+**Generated:** 41 nodes, 296 edges, 1 components, 1 communities (modularity -151.281). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **large language** — PR 0.1022, degree 33, df 957
-- **language models** — PR 0.1001, degree 33, df 959
-- **training** — PR 0.0937, degree 32, df 1267
-- **evaluation** — PR 0.0699, degree 33, df 736
-- **higher education** — PR 0.0606, degree 34, df 898
-- **Generative Ai Skills** — PR 0.0457, degree 13, df 734
-- **Compliance** — PR 0.0372, degree 12, df 909
-- **implementation** — PR 0.0351, degree 34, df 379
-- **prompt engineering** — PR 0.0274, degree 21, df 265
-- **compliance** — PR 0.0255, degree 26, df 236
-- **ai act** — PR 0.0253, degree 16, df 275
-- **Attitudes Trust** — PR 0.0232, degree 16, df 731
+- **framework** — PR 0.1943, degree 33, df 1534
+- **survey** — PR 0.0518, degree 30, df 339
+- **qualitative** — PR 0.0451, degree 30, df 270
+- **Generative Ai Skills** — PR 0.0446, degree 15, df 734
+- **dataset** — PR 0.0424, degree 29, df 248
+- **benchmark** — PR 0.0382, degree 27, df 225
+- **systematic review** — PR 0.0380, degree 27, df 280
+- **Ai Literacy Construct** — PR 0.0378, degree 15, df 848
+- **Compliance** — PR 0.0356, degree 13, df 909
+- **case study** — PR 0.0331, degree 29, df 227
+- **Attitudes Trust** — PR 0.0329, degree 14, df 730
+- **quantitative** — PR 0.0298, degree 27, df 138
 
 ## Bridge nodes (high betweenness — connect clusters)
 
-- higher education
-- implementation
-- Assessment
-- evaluation
-- large language
-- language models
-- training
-- measurement
-- digital transformation
-- digital literacy
+- Learning Design
+- framework
+- qualitative
+- dataset
+- case study
+- literature review
+- survey
+- systematic review
+- benchmark
+- quantitative
 
 ## Bridge edges (high edge-betweenness)
 
-- Assessment ↔ maturity model (weight 2, EB 36.0)
-- higher education ↔ technostress (weight 2, EB 20.4667)
-- implementation ↔ self-report (weight 2, EB 12.0625)
-- evaluation ↔ self-report (weight 2, EB 11.0625)
-- higher education ↔ Assessment (weight 71, EB 7.9293)
-- measurement ↔ self-report (weight 2, EB 7.7292)
-- implementation ↔ utaut (weight 4, EB 6.3136)
-- language models ↔ Assessment (weight 19, EB 5.8668)
-- large language ↔ Assessment (weight 22, EB 5.8668)
-- higher education ↔ utaut (weight 5, EB 5.647)
+- Learning Design ↔ open access (weight 2, EB 36.0)
+- Learning Design ↔ grounded theory (weight 2, EB 18.7008)
+- Ai Literacy Construct ↔ grounded theory (weight 2, EB 17.5849)
+- Generative Ai Skills ↔ research gap (weight 2, EB 13.8637)
+- Attitudes Trust ↔ research gap (weight 2, EB 12.5619)
+- Lifelong Learning ↔ research gap (weight 2, EB 10.0808)
+- framework ↔ K12 Education (weight 22, EB 7.7667)
+- Learning Design ↔ literature review (weight 5, EB 7.6574)
+- framework ↔ reproducibility (weight 10, EB 7.3992)
+- framework ↔ Learning Design (weight 97, EB 7.1785)
 
 ## Communities (clusters of related concepts)
 

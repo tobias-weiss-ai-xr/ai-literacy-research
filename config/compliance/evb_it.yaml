@@ -1,0 +1,283 @@
+# EVB-IT Compliance Wissensbasis
+# =================================
+# Ergänzende Vertragsbedingungen für die Beschaffung von IT-Leistungen (EVB-IT),
+# herausgegeben vom BMDS (Bundesministerium für Digitales und Staatsmodernisierung).
+#
+# QUELLEN / PROVENIENCE (zwingend, CC-BY-4.0):
+#   - Vendored, maschinenlesbares Korpus: vendor/evb-it/  (Repo aivot-digital/evb-it,
+#     MIT für Template/Doku + CC-BY-4.0 für die BMDS-Vertragstexte; Logo ausgenommen).
+#     Siehe vendor/evb-it/NOTICE.md und vendor/evb-it/LICENSE.md.
+#   - BMDS EVB-IT offiziell: https://evb-it.gov.de  (CC-BY-4.0).
+#   - EU AI Act: Verordnung (EU) 2024/1689.
+#   - DSGVO: Verordnung (EU) 2016/679.
+#
+# HINWEIS: Keine Rechtsberatung. Die Pflichtmatrix ist eine strukturierte Extraktion
+# aus den genannten Quellen für ein Self-Assessment; verbindlich sind die jeweiligen
+# Vertragstexte in ihrer aktuellen amtlichen Fassung.
+#
+# DATENMODELL:
+#   profile (Eingabe, JSON):
+#     deskriptiv (Szenario): buyer_is_public_sector, buyer_type, service_type,
+#       involves_personal_data, special_category_data, uses_ai, ai_high_risk,
+#       open_source_components, subcontracting, sovereignty_required
+#     kontrollen (was schon erfüllt ist / zu prüfen): dsgvo_av_contract_in_place,
+#       subcontracting_approved, acceptance_procedure_defined, confidentiality_agreed,
+#       security_toms_defined, audit_rights_granted, liability_insurance_in_place,
+#       sovereignty_measured, ai_act_conformity_declared, oss_license_compliant,
+#       tender_compliant, dsgvo_special_ok
+#   families[].applies_when: Prädikat (DSL unten) -> Familie anwendbar?
+#   families[].obligations[]: dimension, requirement, severity, control (Profil-Flag),
+#       check (optionales Prädikat -> bedingte Anwendbarkeit), source
+#
+# PRÄDIKAT-DSL (engine evaluiert sicher, ohne eval):
+#   atomar:  {field: X, op: "==|!=|in|not_in|>|<", value: Y}
+#   kombiniert: {all: [pred, ...]} | {any: [pred, ...]} | {not: pred}
+
+meta:
+  title: EVB-IT Compliance Wissensbasis (ai-literacy-research)
+  version: 1.0.0
+  severity_weights:
+    critical: 3
+    high: 2
+    medium: 1
+    low: 0.5
+  sources:
+    - vendor/evb-it  (aivot-digital/evb-it: MIT + CC-BY-4.0 BMDS; Logo ausgenommen)
+    - BMDS EVB-IT offiziell, evb-it.gov.de (CC-BY-4.0)
+    - EU AI Act (VO (EU) 2024/1689)
+    - DSGVO (VO (EU) 2016/679)
+  coverage_note: >
+    Vollständig aus dem vendored Repo extrahiert: EVB-IT Cloud, Pflege S,
+    Überlassung Typ B. Weitere Familien (Dienstleistung, Kauf, Transfer, PB,
+    System, Rahmenvereinbarung) sind aus den BMDS-EVB-IT-Grundsätzen recherchiert
+    und als "bmds_research" markiert (nicht im vendored Repo enthalten).
+
+# ---------------------------------------------------------------------------
+# Familie: general (querschnittlich für alle öffentlichen Beschaffungen)
+# ---------------------------------------------------------------------------
+families:
+  general:
+    label: "Querschnitt (öffentliche Beschaffung)"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+    obligations:
+      - id: gen-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "Bei personenbezogenen Daten: Auftragsverarbeitungsvertrag (Art. 28 DSGVO) erforderlich; Verzeichnis von Verarbeitungstätigkeiten (Art. 30)."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        check: {field: involves_personal_data, op: "==", value: true}
+        source: "DSGVO Art. 28 / 30; BMDS EVB-IT (evb-it.gov.de), CC-BY-4.0"
+      - id: gen-dsgvo-special
+        dimension: "Datenschutz (besondere Kategorien)"
+        requirement: "Bei besonderen Kategorien (z.B. Schülerdaten): explizite Rechtsgrundlage/Einwilligung + verstärkte techn./org. Maßnahmen."
+        severity: critical
+        control: dsgvo_special_ok
+        check: {field: special_category_data, op: "==", value: true}
+        source: "DSGVO Art. 9"
+      - id: gen-aiact
+        dimension: "EU AI Act"
+        requirement: "Bei KI-Einsatz: Risikoklassifizierung; Transparenz (Art. 50); Notification (Art. 50(4)) für General-Purpose AI; Provider-/Deployer-Pflichten."
+        severity: critical
+        control: ai_act_conformity_declared
+        check: {field: uses_ai, op: "==", value: true}
+        source: "EU AI Act (VO (EU) 2024/1689)"
+      - id: gen-aiact-highrisk
+        dimension: "EU AI Act (High-Risk)"
+        requirement: "Bei High-Risk (z.B. KI in Bildung/Bewertung, Anhang III): Konformitätsbewertung, Techn. Dokumentation, Risikomanagement, Human-Oversight, Registrierung in EU-DB."
+        severity: critical
+        control: ai_act_conformity_declared
+        check: {field: ai_high_risk, op: "==", value: true}
+        source: "EU AI Act Anhang III + Art. 9-17"
+      - id: gen-sovereignty
+        dimension: "Digitale Souveränität"
+        requirement: "Kein unkontrollierter Drittland-Zugriff; Datenort/Verarbeitung ggf. Deutschland/EU; Nachweis erbringen."
+        severity: high
+        control: sovereignty_measured
+        check: {field: sovereignty_required, op: "==", value: true}
+        source: "BMDS Digitalstrategie / Souveränität; EVB-IT Cloud (evb-it.gov.de)"
+      - id: gen-oss
+        dimension: "Open Source"
+        requirement: "Bei OSS-Komponenten: Lizenzkompatibilität sicherstellen; ggf. EVB-IT Transfer für Rechteübertragung heranziehen."
+        severity: medium
+        control: oss_license_compliant
+        check: {field: open_source_components, op: "==", value: true}
+        source: "EVB-IT Transfer (BMDS); OSS-Lizenzrecht"
+      - id: gen-tender
+        dimension: "Vergaberecht"
+        requirement: "Öffentliche Beschaffung: VgV/UVgO einhalten; EVB-IT als Vertragsbasis verwenden."
+        severity: high
+        control: tender_compliant
+        source: "GWB / VgV; BMDS EVB-IT"
+
+  # -------------------------------------------------------------------------
+  # Familie: cloud  (AUS DEM VENDORED REPO EXTRAHIERT)
+  # -------------------------------------------------------------------------
+  cloud:
+    label: "EVB-IT Cloud"
+    source_repo: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: service_type, op: in, value: [cloud_saas, cloud_iaas, cloud_paas]}
+    obligations:
+      - id: cloud-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Cloud §Datenschutz: Auftragsverarbeitung (Art. 28 DSGVO) im Vertrag verankert; Datenschutz-Beauftragter benannt."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Datenschutz (checkboxBeauftragteAuftragnehmerDatenschutz, Z.775)"
+      - id: cloud-subcontract
+        dimension: "Unterauftragsvergabe"
+        requirement: "EVB-IT Cloud §Unterauftragnehmer: Unterauftragnehmer nur mit Zustimmung; Datenschutz-/Sicherheitspflichten durchsetzbar."
+        severity: high
+        control: subcontracting_approved
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Unterauftragnehmer (Z.838)"
+      - id: cloud-acceptance
+        dimension: "Abnahme / Leistungsaufnahme"
+        requirement: "EVB-IT Cloud §Leistungen auf Abruf: Abnahmemenge/Leistungsaufnahme + Kriterienkatalog geregelt."
+        severity: medium
+        control: acceptance_procedure_defined
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Leistungen auf Abruf (Z.587)"
+      - id: cloud-confidentiality
+        dimension: "Vertraulichkeit / Geheimschutz"
+        requirement: "EVB-IT Cloud §Vertraulichkeit + §Geheimschutz: Vertraulichkeitspflicht, ggf. Geheimschutzvereinbarung."
+        severity: high
+        control: confidentiality_agreed
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Vertraulichkeit (Z.844), §Geheimschutz (Z.778)"
+      - id: cloud-security
+        dimension: "Sicherheit / TOM"
+        requirement: "EVB-IT Cloud §Allgemeine Sicherheitsanforderungen + Kriterienkatalog/TOM: techn. & org. Maßnahmen nachgewiesen."
+        severity: high
+        control: security_toms_defined
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Allgemeine Sicherheitsanforderungen (Z.801), kriterienkatalog.typ"
+      - id: cloud-audit
+        dimension: "Prüfrechte"
+        requirement: "EVB-IT Cloud §Prüfrechte: Zutritts-/Einsichts-/Auskunftsrechte des Auftraggebers."
+        severity: medium
+        control: audit_rights_granted
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Prüfrechte (Z.817)"
+      - id: cloud-liability
+        dimension: "Haftung / Versicherung"
+        requirement: "EVB-IT Cloud §Haftpflichtversicherung + §Abweichende Haftungsregelungen: Versicherung + Haftungsregelung."
+        severity: medium
+        control: liability_insurance_in_place
+        source: "vendor/evb-it/evb-it/cloud/cloud-vertrag.typ §Haftpflichtversicherung (Z.850)"
+
+  # -------------------------------------------------------------------------
+  # Familie: pflege-s  (AUS DEM VENDORED REPO, research-extrahiert)
+  # -------------------------------------------------------------------------
+  pflege:
+    label: "EVB-IT Pflege S"
+    source_repo: "vendor/evb-it/evb-it/pflege-s/"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: service_type, op: "==", value: maintenance}
+    obligations:
+      - id: pflege-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Pflege S: Auftragsverarbeitung (Art. 28 DSGVO) bei pflegebedingter Datenverarbeitung."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "vendor/evb-it/evb-it/pflege-s/ ; DSGVO Art. 28"
+      - id: pflege-response
+        dimension: "Betrieb / Reaktionszeit"
+        requirement: "EVB-IT Pflege S: vereinbarte Reaktions-/Behebungszeiten (SLA) für Störungen."
+        severity: medium
+        control: acceptance_procedure_defined
+        source: "vendor/evb-it/evb-it/pflege-s/ (Pflege SLA)"
+
+  # -------------------------------------------------------------------------
+  # Familie: ueberlassung (Typ B)  (AUS DEM VENDORED REPO)
+  # -------------------------------------------------------------------------
+  ueberlassung:
+    label: "EVB-IT Überlassung Typ B"
+    source_repo: "vendor/evb-it/evb-it/ueberlassung-typ-b/"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: service_type, op: "==", value: ueberlassung}
+    obligations:
+      - id: ueberlassung-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Überlassung Typ B: Datenschutz-/Nutzungsrechtsregelung bei überlassener Software."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "vendor/evb-it/evb-it/ueberlassung-typ-b/ ; DSGVO Art. 28"
+      - id: ueberlassung-rights
+        dimension: "Nutzungsrechte"
+        requirement: "EVB-IT Überlassung Typ B: eingeräumte Nutzungsrechte (Zweck, Zeitraum, Übertragbarkeit) eindeutig."
+        severity: high
+        control: confidentiality_agreed
+        source: "vendor/evb-it/evb-it/ueberlassung-typ-b/"
+
+  # -------------------------------------------------------------------------
+  # Familien ohne vendor-Abdeckung (bmds_research) — aus BMDS-EVB-IT-Grundsätzen
+  # -------------------------------------------------------------------------
+  dienstleistung:
+    label: "EVB-IT Dienstleistung"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: service_type, op: in, value: [software_dev, training_delivery, project]}
+    obligations:
+      - id: dienst-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Dienstleistung: Auftragsverarbeitung (Art. 28 DSGVO) bei dienstleistungsbedingter Datenverarbeitung."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "bmds_research: BMDS EVB-IT Dienstleistung (evb-it.gov.de), CC-BY-4.0"
+      - id: dienst-subcontract
+        dimension: "Unterauftragsvergabe"
+        requirement: "EVB-IT Dienstleistung: Unterauftragnehmer nur mit Zustimmung; Pflichten durchsetzbar."
+        severity: high
+        control: subcontracting_approved
+        source: "bmds_research: BMDS EVB-IT Dienstleistung"
+      - id: dienst-acceptance
+        dimension: "Abnahme"
+        requirement: "EVB-IT Dienstleistung: Abnahme der Leistungen vertraglich geregelt."
+        severity: medium
+        control: acceptance_procedure_defined
+        source: "bmds_research: BMDS EVB-IT Dienstleistung"
+
+  kauf:
+    label: "EVB-IT Kauf"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: service_type, op: "==", value: hardware_kauf}
+    obligations:
+      - id: kauf-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Kauf: Datenschutz bei vorinstallierter Software/Betriebssystem (Einbeziehung EVB-IT Überlassung-AGB)."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "bmds_research: BMDS EVB-IT Kauf (evb-it.gov.de), CC-BY-4.0"
+      - id: kauf-warranty
+        dimension: "Gewährleistung"
+        requirement: "EVB-IT Kauf: Gewährleistung/Mängelhaftung vertraglich geregelt."
+        severity: medium
+        control: liability_insurance_in_place
+        source: "bmds_research: BMDS EVB-IT Kauf"
+
+  transfer:
+    label: "EVB-IT Transfer"
+    applies_when:
+      all:
+        - {field: buyer_is_public_sector, op: "==", value: true}
+        - {field: open_source_components, op: "==", value: true}
+    obligations:
+      - id: transfer-oss
+        dimension: "Open Source / Rechteübertragung"
+        requirement: "EVB-IT Transfer: Lizenzkompatibilität + saubere Rechteübertragung (inkl. OSS-Komponenten)."
+        severity: high
+        control: oss_license_compliant
+        source: "bmds_research: BMDS EVB-IT Transfer (evb-it.gov.de), CC-BY-4.0"
+      - id: transfer-dsgvo
+        dimension: "Datenschutz / DSGVO"
+        requirement: "EVB-IT Transfer: Datenschutz bei übertragenen Verarbeitungstätigkeiten."
+        severity: critical
+        control: dsgvo_av_contract_in_place
+        source: "bmds_research: BMDS EVB-IT Transfer; DSGVO Art. 28"

@@ -47,6 +47,9 @@ taxonomy:
     display: Survey
   - id: method
     display: Method
+  - id: tooling
+    display: Tooling
+    description: Auto-added category 'tooling' from ingested papers
   subcategories:
   - id: method
     display: Method
@@ -62,6 +65,18 @@ taxonomy:
     display: Systems
   - id: development
     display: Development
+  - id: evaluation
+    display: Evaluation
+    description: Auto-added subcategory 'evaluation' from ingested papers
+    category: tooling
+  - id: review
+    display: Review
+    description: Auto-added subcategory 'review' from ingested papers
+    category: tooling
+  - id: mechanism
+    display: Mechanism
+    description: Auto-added subcategory 'mechanism' from ingested papers
+    category: tooling
 arxiv_queries:
 - query: abs:"AI literacy framework"
   category: ai-literacy-construct

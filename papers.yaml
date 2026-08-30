@@ -6010,14 +6010,6 @@ papers:
   - Klaas Toes
   doi: 10.4324/9780367855727-1
   venue: Return on Investment in Training and Performance Improvement Programs
-- title: Calculating the Return
-  date: 2012-06
-  url: https://doi.org/10.4324/9780080516257-12
-  category: roi-measurement
-  subcategory: evaluation
-  authors: []
-  doi: 10.4324/9780080516257-12
-  venue: Return on Investment in Training and Performance Improvement Programs
 - title: Calculate the Return on Investment
   date: 2024-04
   url: https://doi.org/10.4324/9780367855727-7
@@ -7207,14 +7199,6 @@ papers:
   - Faith Faith
   doi: 10.61955/rhyojj
   venue: Journal of Professional Counselling
-- title: Literacy at home
-  date: 2007-04
-  url: https://doi.org/10.4324/9780203015148-8
-  category: k12-education
-  subcategory: application
-  authors: []
-  doi: 10.4324/9780203015148-8
-  venue: Improving Primary Literacy
 - title: DEVELOPING AI LITERACY FOR PRIMARY SCHOOL TEACHERS IN CHINA AND SUGGESTIONS
     FOR VIETNAM
   date: 2025-06
@@ -7821,14 +7805,6 @@ papers:
     working side-by-side with humans in manufacturing industry,
   doi: 10.3233/978-1-61499-330-8-295
   venue: Frontiers in Artificial Intelligence and Applications
-- title: REGULATION OF ARTIFICIAL INTELLIGENCE
-  date: 2018-01
-  url: https://doi.org/10.4337/9781786439055.00016
-  category: compliance
-  subcategory: theory
-  authors: []
-  doi: 10.4337/9781786439055.00016
-  venue: Research Handbook on the Law of Artificial Intelligence
 - title: INTEGRATING DIGITAL SKILLS AND ARTIFICIAL INTELLIGENCE IN  METALWORK EDUCATION
   date: 2026-04
   url: https://doi.org/10.61955/ihllsi
@@ -37361,14 +37337,6 @@ papers:
     (AI) into education to facilitate customizable, individualized, and on-demand
     learning pathways. At the same time, while A
   venue: Journal of Information Economics
-- title: 'From Data To Insights: How AI Is Shaping Evidence-Based Curriculum Design'
-  date: 2024-10
-  url: https://doi.org/10.62441/nano-ntp.v20is13.113
-  category: learning-design
-  subcategory: method
-  authors: []
-  abstract: ''
-  venue: Nanotechnology Perceptions
 - title: 'Types of teacher-AI collaboration in K-12 classroom instruction: Chinese
     teachers’ perspective'
   date: 2024-02
@@ -39310,19 +39278,6 @@ papers:
     model (LLM) to improve readability of patient handouts. STUDY DESIGN: Review of
     online material modified by AI. SETTING: Academ'
   venue: Otolaryngology
-- title: Enhancing Writing Literacy Teachers’ through AI Development
-  date: 2024-01
-  url: https://doi.org/10.30605/onoma.v10i1.3175
-  category: assessment
-  subcategory: method
-  authors:
-  - Fitri Wulandari
-  - Missy Tri Astuti
-  - Marhamah Marhamah
-  abstract: The rapid evolution of technological tools, particularly Artificial Intelligence
-    (AI), has resulted in the integration of technology-aided learning resources within
-    educational environments. This stud
-  venue: Jurnal Onoma Pendidikan Bahasa dan Sastra
 - title: LEVERAGING AI AND DATA ANALYTICS FOR ENHANCING FINANCIAL INCLUSION IN DEVELOPING
     ECONOMIES
   date: 2024-03
@@ -42190,18 +42145,6 @@ papers:
     understanding the key drivers and barriers to readiness becomes crucial. This
     study conducts a comprehensive literature review t
   venue: Green Technologies and Sustainability
-- title: The need for a holistic approach when deploying AI in clinical practice
-  date: 2025-10
-  url: https://doi.org/10.63776/medlaw2025.44.3.johnson
-  category: workforce-upskilling
-  subcategory: application
-  authors:
-  - Sandra Johnson
-  - Mark Nevin
-  abstract: The deployment of AI systems in clinical care is increasing as new systems
-    emerge and as trust in these systems develops over time. Healthcare is complex
-    and whilst we embrace the notion of scientific
-  venue: Medicine and law
 - title: 'Mapping the Freelance Economy: A Cross-Platform Study of Workforce Characteristics,
     Challenges, and Emerging Trends'
   date: 2025-12
@@ -43613,20 +43556,6 @@ papers:
     accessibility challenges for disabled usres. AI technology, like chatbots and
     text-to-speech, can ehnance library accessibility de
   venue: Knowledge Garden
-- title: Human Resource Management Strategies to Increase Adaptability in the Digital
-    Age
-  date: 2024-09
-  url: https://doi.org/10.37476/presed.v2i1.56
-  category: org-implementation
-  subcategory: theory
-  authors:
-  - ⁠Surianto ⁠Surianto
-  - Badaruddin Badaruddin
-  - Ahmad Firman
-  abstract: 'This research explores human resource management (HRM) strategies to
-    enhance organizational adaptability in the digital age, focusing on digital skills
-    enhancement and work flexibility. This research '
-  venue: Proceeding of Research and Civil Society Desemination
 - title: 'Cybersecurity and Audit Resilience in Digital Finance: Global Insights and
     the Pakistani Context'
   date: 2025-09
@@ -44471,20 +44400,6 @@ papers:
     healthcare institutions to support patients and families to access, understand,
     and use health information. Nurses play a key rol'
   venue: ''
-- title: 'Synergizing Data Science and Business Leadership: A Blueprint for Strategic
-    Decision Excellence'
-  date: 2023-08
-  url: https://doi.org/10.47363/jesmr/2022(4)218
-  category: org-implementation
-  subcategory: method
-  authors:
-  - Seattle, Washington, United States of America
-  - Sowmya Ramesh Kumar
-  - Samarth Ramesh Kedilaya
-  abstract: In the rapidly evolving landscape of modern business, the integration
-    of data science and business leadership is essential for organizations striving
-    for strategic decision excellence. This paper deli
-  venue: Journal of Economics & Management Research
 - title: Machine Learning Cybersecurity Adoption in Small and Medium Enterprises in
     Developed Countries
   date: 2021-11
@@ -47398,18 +47313,6 @@ papers:
   - Sofia Ranchordás
   abstract: ''
   venue: SSRN Electronic Journal
-- title: 'University Leadership Ranking in Financial and Digital Literacy: An EU-Aligned
-    Ranking Framework and Methodology'
-  date: 2025-12
-  url: https://doi.org/10.36690/dles-65-88
-  category: compliance
-  subcategory: method
-  authors:
-  - Iryna Mihus
-  abstract: Global university rankings provide cross-border signals, yet their single-score
-    proxy logics often privilege research visibility and reputational capital, thereby
-    underrepresenting mission diversity a
-  venue: ''
 - title: Fiduciary Duties and Business Judgment Rule 2.0 in the AI Act Age
   date: 2025-01
   url: https://doi.org/10.2139/ssrn.5714102
@@ -49013,19 +48916,6 @@ papers:
     the adoption of GenAI for learning. Drawing on the Unified Theory of Acceptance
     and Use of Technology (UTAUT) and competence and
   venue: The Journal of Educational Research
-- title: Fostering Pre-Service Teachers’ AI Literacy through School Implications
-  date: 2024-12
-  url: https://doi.org/10.53898/jpes2024327
-  category: k12-education
-  subcategory: method
-  authors:
-  - Prasart Nuangchalerm
-  - Veena Prachagool
-  - Antomi Saregar
-  abstract: As technology advances, AI in schooling becomes more commonly used in
-    learning assistance and academic purposes. This review study examines improving
-    pre-service teachers' AI literacy in the modern cl
-  venue: Journal of Philology and Educational Sciences
 - title: What shapes students’ AI literacy? Investigating digital competence, student
     background, and GenAI use in higher education
   date: 2025-11
@@ -51271,20 +51161,6 @@ papers:
     in healthcare artificial intelligence (AI) raise concerns about the risk of deskilling
     clinicians. This purpose of this study is '
   venue: International Journal of Medical Informatics
-- title: 'AI in Teacher Training and Professional Development: A Tool for Continuous
-    Learning and Skill Enhancement'
-  date: 2025-03
-  url: https://doi.org/10.47067/real.v8i1.416
-  category: professional-education
-  subcategory: application
-  authors:
-  - Fahim Shezad
-  - Rajesh Goswami
-  - Anna Shaheen
-  abstract: This study examines the effectiveness of artificial intelligence in teacher
-    professional development and training, with specific emphasis on how it influences
-    individualized learning, continuous skill
-  venue: Review of Education Administration and Law
 - title: 'Navigating the confluence of artificial intelligence and education for sustainable
     development in the era of industry 4.0: Challenges, opportunities, and ethical
     dimensions'
@@ -54191,19 +54067,6 @@ papers:
     teachers is extremely relevant, especially in the context of the rapid introduction
     of artificial intelligence (AI) and its impa
   venue: OPEN EDUCATIONAL E-ENVIRONMENT OF MODERN UNIVERSITY
-- title: 'The Impact of Big Data and AI on Teacher Performance Reviews: A Study of
-    Private Higher Vocational Colleges'
-  date: 2023-12
-  url: https://doi.org/10.55267/iadt.07.14050
-  category: teacher-ai-literacy
-  subcategory: theory
-  authors:
-  - Xianghe Sun
-  - Yanjun Song
-  abstract: In the quick-changing world of education, the integration of big data
-    analytics and artificial intelligence (AI) has become a revolutionary force. However,
-    it is still completely unknown how these tec
-  venue: Journal of Information Systems Engineering & Management
 - title: 'Global and educational disparities in AI integration: A study of L2 teacher
     training and usage patterns'
   date: 2025-10
@@ -60639,16 +60502,6 @@ papers:
   - Min‐Jik Kim
   abstract: ''
   venue: Journal of Environmental Management
-- title: Journal of Management World
-  date: 2024-01
-  url: https://dx.doi.org/10.53935/jomw
-  category: adoption-behavior
-  subcategory: review
-  authors: []
-  abstract: This study aims to investigate the influence of AI-enhanced leadership
-    on employee well-being in the Middle East and North Africa (MENA).It examines
-    the mediating role of psychological safety and perc
-  venue: Journal of Management World
 - title: 'Unlocking the Path to AI Adoption: Antecedents to Behavioral Intentions
     in Utilizing AI for Effective Job (Re)Design'
   date: 2023-12
@@ -62175,19 +62028,6 @@ papers:
     focusing on its impact on employee turnover, customer behavior, and ethical considerations.
     It examines how AI influences w
   venue: Pharos International Journal of Tourism and Hospitality
-- title: 'Changing Landscape of Artificial Intelligence on Indian Corporate Sectors
-    and Governance: Special Reference to SMEs'
-  date: 2023-01
-  url: https://doi.org/10.52458/23492589.2023.v10.iss1.kp.a1
-  category: adoption-behavior
-  subcategory: mechanism
-  authors:
-  - Deepali Rani Sahoo
-  - Megha Chauhan
-  abstract: Artificial intelligence (AI) has the likely to start a new industrial
-    upheaval that will primarily alter market forces at work and working circumstances.
-    This study tries to clarify what artificial in
-  venue: Kaav International Journal of Law Finance & Industrial Relations
 - title: 'Revolutionizing nursing education and care: The role of artificial intelligence
     in nursing'
   date: 2024-02
@@ -62431,20 +62271,6 @@ papers:
     challenges in terms of balancing rapid technological adoption with long-term environmental
     goals. Many firms struggle to integrate
   venue: Administrative Sciences
-- title: '"EMERGING TRENDS IN DIGITALTRANSFORMATION AND THEIR IMPACT ONTHE WORKPLACE:
-    A REVIEW OF THELITERATURE"'
-  date: 2023-02
-  url: https://doi.org/10.56975/cswp0m33
-  category: adoption-behavior
-  subcategory: review
-  authors:
-  - Rashmi
-  - Ms. Viji
-  - Neetu Neetu
-  abstract: “Digital transformation” is a progressive mode that rapidly transforms
-    traditional business models, practices, and operations via digital technologies.
-    In the digital age whole world is deeply affecte
-  venue: INTERNATIONAL JOURNAL OF RESEARCH AND ANALYTICAL REVIEWS
 - title: 'Ai Feedback vs. Human: Impact on Employee Behavior &amp; Performance'
   date: 2025-01
   url: https://doi.org/10.2139/ssrn.5217569
@@ -67002,20 +66828,6 @@ papers:
     operate autonomously with little human intervention and dynamically respond to
     shifting contexts. This survey considers their tra
   venue: IEEE Access
-- title: 'Artificial intelligence (AI)-based mobile learning in ELT for EFL learners:
-    The implementation and learners'' attitudes'
-  date: 2022-04
-  url: https://doi.org/10.53402/ijesss.v2i2.40
-  category: tooling
-  subcategory: systems
-  authors:
-  - Dini Noor Arini
-  - Fahmi Hidayat
-  - Atiek Winarti
-  abstract: 'Mobile learning powered by artificial intelligence (AI) is a promising
-    vision for transforming education by introducing tutoring systems that can personalize
-    learning. It is being developed to ensure '
-  venue: International Journal of Educational Studies in Social Sciences (IJESSS)
 - title: 'Development, Implementation and Acceptance of an AI-based Tutoring System:
     A Research-Led Methodology'
   date: 2022-01
@@ -120331,21 +120143,6 @@ papers:
     and service marketing is transforming business operations, necessitating a shift
     in workforce skills. This research examines '
   venue: ''
-- title: Strategic Analysis of Walmart Inc. Innovation, Ethical Challenges, and the
-    Future of AI-Driven Services
-  date: 2025-09
-  url: https://doi.org/10.64818/pijmess.3107.4626.0029
-  category: workforce-upskilling
-  subcategory: application
-  authors:
-  - Brunda C.
-  - Disha
-  - P. S. Aithal
-  abstract: 'Purpose: The purpose of this scholarly paper is to examine Walmart Inc.’s
-    strategic evolution through the lens of artificial intelligence (AI) innovation,
-    ethical considerations, and business transfor'
-  venue: Poornaprajna International Journal of Management Education & Social Science
-    (PIJMESS)
 - title: 'Employee Comfort with AI-Driven Algorithmic Decision-Making: Evidence from
     the GCC and Lebanon'
   date: 2026-01
@@ -122994,19 +122791,6 @@ papers:
   - Harold Andrew Patrick
   abstract: ''
   venue: Lecture notes in electrical engineering
-- title: Developing AI-Interaction Competences Through Active Learning In Business
-    Education
-  date: 2026-06
-  url: https://aisel.aisnet.org/ecis2026/comp_mgmt/comp_mgmt/4
-  category: org-implementation
-  subcategory: theory
-  authors:
-  - Antigoni Papadimitriou
-  - Zilong Pan
-  abstract: Digital transformation is redefining the competencies required for future
-    work, highlighting the need for higher education to cultivate critical, ethical,
-    and adaptive AI-related skills. This paper ex
-  venue: Journal of the Association for Information Systems
 - title: 'Digital Competence, AI and Sustainable Social Transitions: An Ibero-American
     Framework for Hybrid Human–AI Societies'
   date: 2026-04
@@ -126379,20 +126163,6 @@ papers:
     literacy among Micro, Small, and Medium Enterprises (MSMEs) assisted by the South
     Sulawesi Integrated Business Service Center o
   venue: Proceeding of Research and Civil Society Desemination
-- title: 'BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners
-    Across Digital Skill Levels'
-  date: 2025-06
-  url: https://doi.org/10.1145/3707640.3731928.
-  category: sme-training
-  subcategory: application
-  authors:
-  - Quentin Romero Lauro
-  - Aakash Gautam
-  - Yasmine Kotturi
-  abstract: Generative AI can help small business owners automate tasks, increase
-    efficiency, and improve their bottom line. However, despite the seemingly intuitive
-    design of systems like ChatGPT, significant ba
-  venue: Maryland Shared Open Access Repository (USMAI Consortium)
 - title: The role of artificial intelligence in enhancing financial literacy, decision-making
     and growth, for small businesses in underserved communities
   date: 2025-12
@@ -129352,17 +129122,6 @@ papers:
     can support productivity, innovation, competitiveness, and inclusion in emerging
     economies. Using an integrative conceptual re'
   venue: Zenodo (CERN European Organization for Nuclear Research)
-- title: Big Data and Artificial Intelligence For Market Trend Identification
-  date: 2025-12
-  url: https://doi.org/10.59188/jcs.v4i12.3853
-  category: compliance
-  subcategory: systems
-  authors:
-  - Erislan Erislan
-  abstract: Businesses face intense competition and fluctuating consumer preferences,
-    driven by social media, global events, and technological innovations. This study
-    systematically reviews the literature (2019–2
-  venue: Journal of Comprehensive Science (JCS)
 - title: Artificial Intelligence trends and challenges in recent years - Literature
     review
   date: 2026-06
@@ -129563,7 +129322,7 @@ papers:
   venue: SSRN Electronic Journal
 - title: The changing role of management accountants due to technological evolution
   date: 2025-09
-  url: https://ir.uitm.edu.my/view/publication/Accounting_Insights_Compilation_books=3A_A_Compilation_of_Students_Practical_Papers.html>,
+  url: https://ir.uitm.edu.my/view/publication/Accounting_Insights_Compilation_books=3A_A_Compilation_of_Students_Practical_Papers.html
   category: compliance
   subcategory: application
   authors:
@@ -129726,17 +129485,6 @@ papers:
     Dar es Salaam, Iringa, Kagera, Lindi, Mwanza, Morogoro, Tabora and Zanzibar. The
     aim was to explore the essential competencies
   venue: International Journal of Innovative Research and Development
-- title: 'Poland’s Digital Leap: Progress, Challenges and Opportunities'
-  date: 2025-03
-  url: https://doi.org/10.36690/dtit-153-182
-  category: compliance
-  subcategory: application
-  authors:
-  - Paulina Kolisnichenko
-  abstract: This study investigates the evolution and current landscape of digital
-    infrastructure in Poland, emphasizing its role in driving national modernization,
-    economic resilience, and institutional innovati
-  venue: ''
 - title: 'Introduction: Reimagining hospitality education: a multidisciplinary framework
     for future readiness'
   date: 2026-04
@@ -132399,15 +132147,6 @@ papers:
     learning, teaching, and assessment by providing AI-generated feedback to students.
     This study used five different AI plug-ins an
   venue: Education Sciences
-- title: 'Digital Educational Translation of Chinese Traditional Culture: An Experimental
-    Study on Primary School Art Teaching with the Example of Afu’s AI Collection Journey'
-  date: 2025-09
-  url: https://doi.org/10.69979/3041-0843.25.03.049
-  category: k12-education
-  subcategory: method
-  authors: []
-  abstract: ''
-  venue: Global vision research
 - title: Identifying Rural Elementary Teachers’ Perception Challenges and Opportunities
     in Integrating Artificial Intelligence in Teaching Practices
   date: 2025-03
@@ -132422,20 +132161,6 @@ papers:
     teachers perceive in using AI as a pedagogical tool to support student learning
     in rural schools. Using a convergent parall
   venue: Sustainability
-- title: Optimisation of Teaching Methods and Practical Exploration of Teachers’ Teaching
-    Methods in Vocational Education Based on AI Assistance
-  date: 2025-01
-  url: https://doi.org/10.2478/amns-2025-0009
-  category: k12-education
-  subcategory: application
-  authors:
-  - Li‐Juan Yu
-  - Zhang Xiuping
-  - Chen Jin
-  abstract: Abstract This paper provides an in-depth study and optimisation of the
-    teaching methods of vocational education teachers with the help of artificial
-    intelligence. In the field of machine learning, the
-  venue: Applied Mathematics and Nonlinear Sciences
 - title: A systematic review of artificial intelligence in high school STEM education
     research
   date: 2025-03
@@ -133925,19 +133650,6 @@ papers:
     for scaffolding, personalization, and multimodal expression, while also raising
     challenges of over-reliance, bias, and dimin
   venue: ''
-- title: 'A Review of Artificial Intelligence in Education: What is Ahead, What is
-    Left Behind at Global Scale?'
-  date: 2026-08
-  url: https://doi.org/10.53478/tuba.978-625-6110-86-1.ch08
-  category: k12-education
-  subcategory: review
-  authors:
-  - Mehmet Akın Bulut
-  - Jeffrey Buckley
-  abstract: This narrative review synthesizes recent research on artificial intelligence
-    (AI) in education to address gaps in understanding its diverse roles, integration
-    strategies, and pedagogical implications.
-  venue: Turkish Academy of Sciences eBooks
 - title: Transforming Education Through Global Read Aloud and Cultural Exchange
   date: 2026-01
   url: https://doi.org/10.1007/978-3-032-21822-3_18
@@ -138297,18 +138009,6 @@ papers:
     as a transformative force. Despite this emergence, human capabilities still remain
     irreplaceable, creating an important conjun
   venue: CSMFL Publications eBooks
-- title: 'Digital Human Resource Management Transformation in Nigeria: Impacts on
-    Talent, Performance, and Workforce Well-being'
-  date: 2025-07
-  url: https://doi.org/10.69798/76859601
-  category: professional-education
-  subcategory: systems
-  authors:
-  - Lolo Teddy Adias
-  abstract: Digital transformation is rapidly changing the landscape of human resource
-    management (HRM) globally, but its adoption and impact in Nigeria are only beginning
-    to be understood. As the Nigerian workfo
-  venue: ''
 - title: 'Empowering Learning in the Age of AI: Towards Inclusive and Human-Centered
     Workplaces'
   date: 2026-06
@@ -138907,18 +138607,6 @@ papers:
     to overcome challenges and enhance communication effectiveness, is crucial in
     language learning. However, the coverage of these s
   venue: IAFOR Journal of Education
-- title: Evaluating the Impact of AI Tools on Language Proficiency and Intercultural
-    Communication in Second Language Education
-  date: 2024-10
-  url: https://doi.org/10.33422/ijsfle.v3i1.768
-  category: teacher-ai-literacy
-  subcategory: application
-  authors:
-  - Michail St. Fountoulakis
-  abstract: This study investigates the impact of AI-driven tools, including Duolingo,
-    Rosetta Stone, and ChatGPT, on enhancing language proficiency and intercultural
-    communication in educational settings. Throug
-  venue: International Journal of Second and Foreign Language Education
 - title: 'Revolutionizing gifted education: enhancing teachers’ digital competence
     through fourth industrial revolution training'
   date: 2025-03
@@ -140408,20 +140096,6 @@ papers:
     classroom and their influence on developing students' critical thinking abilities.
     Using a qualitative case study methodology, the
   venue: JELA (Journal of English Language Teaching Literature and Applied Linguistics)
-- title: 'Enhancing Critical Thinking Skills: Exploring Generative AI-enabled Cognitive
-    Offload Instruction in English Essay Writing'
-  date: 2025-02
-  url: https://doi.org/10.62754/joe.v4i1.6250
-  category: critical-ai-literacy
-  subcategory: development
-  authors:
-  - Hui Hong
-  - Chantana Viriyavejakul
-  - Poonsri Vate-U-Lan
-  abstract: This study explores the integration of Generative AI technology for cognitive
-    offloading in the context of English essay writing, with the aim of promoting
-    inclusive and equitable quality education. F
-  venue: Journal of Ecohumanism
 - title: Does Artificial Intelligence (AI) Nurture or Hinder Language Learners' Higher‐
     Order Thinking Skills (HOTS)? A Phenomenological Study on L2 Learners' Perspectives
     and Lived Experiences
@@ -142953,7 +142627,7 @@ papers:
     programming language classrooms: evidence from library and information management
     students'
   date: 2025-01
-  url: https://ir.uitm.edu.my/view/publication/Creative_Practices_in_Language_Learning_and_Teaching_=28CPLT=29.html>,
+  url: https://ir.uitm.edu.my/view/publication/Creative_Practices_in_Language_Learning_and_Teaching_=28CPLT=29.html
   category: generative-ai-skills
   subcategory: development
   authors:
@@ -151223,20 +150897,6 @@ papers:
     enabling contemporary AI innovation and business development. However, with the
     rapid increase in the scale and complexity of AI '
   venue: ''
-- title: 'AI-Driven Innovation In HRM And Its Impact On Business Management: An In-Depth
-    Study Of Technology Advancement And Strategic Implementation'
-  date: 2024-10
-  url: https://doi.org/10.62441/nano-ntp.vi.2599
-  category: roi-measurement
-  subcategory: method
-  authors:
-  - Muhammad Ashraf Faheem
-  - Sobia Anwer
-  - Zahir Rayhan
-  abstract: 'Introduction: This research seeks to establish various effects made by
-    artificial intelligence in managing human resource management in businesses through
-    comprehending how technology is incorporated '
-  venue: Nanotechnology Perceptions
 - title: 'AI Trustworthiness and Student Pilots: Exploring Attitudes, Anxieties, and
     Adaptation Performance'
   date: 2025-01
@@ -152461,19 +152121,6 @@ papers:
   - Isak Van der Walt
   abstract: ''
   venue: Communications in computer and information science
-- title: New Job Opportunities due to Integration of AI-driven GPTs across Four Industry
-    Sectors - A Futuristic Analysis
-  date: 2024-09
-  url: https://doi.org/10.64818/pijet.3107.8486.0003
-  category: roi-measurement
-  subcategory: systems
-  authors:
-  - P. S. Aithal
-  - Vinay V. Prabhu
-  abstract: 'Purpose: The purpose of this research paper is to explore and analyze
-    the potential job opportunities emerging from the integration of AI-driven Generative
-    Pre-trained Transformers (GPTs) across four '
-  venue: Poornaprajna International Journal of Emerging Technologies (PIJET)
 - title: A Mixed-Methods Analysis of Policy, Legal, and Technical Barriers to the
     Adoption of AI and IoT-Driven Agricultural Solutions in the East African Community
     (EAC)
@@ -152878,18 +152525,6 @@ papers:
     virtual reality (VR), augmented reality (AR), and wearable technology has revolutionized
     sports training, enhancing sporting pe
   venue: Quality in Sport
-- title: 'Cloud-Native ML: Architecting AI Solutions for Cloud-First Infrastructures'
-  date: 2024-12
-  url: https://doi.org/10.62441/nano-ntp.v20i7.4004
-  category: roi-measurement
-  subcategory: application
-  authors:
-  - Abhishek Gupta
-  - Yashovardhan Chaturvedi
-  abstract: 'The integration of cloud-native architectures into artificial intelligence
-    (AI) workflows has revolutionized the deployment, scalability, and efficiency
-    of machine learning (ML) solutions. This study '
-  venue: Nanotechnology Perceptions
 - title: Artificial Intelligence Applications in Ophthalmology
   date: 2025-01
   url: https://doi.org/10.31662/jmaj.2024-0139
@@ -154801,19 +154436,6 @@ papers:
     core infrastructure in many classrooms, where they automate formative assessment,
     personalise pacing and supply fine-grai
   venue: Artificial Intelligence Review
-- title: Developing an Intelligent Tutoring System Using Reinforcement Learning for
-    Personalized Feedback
-  date: 2025-07
-  url: https://doi.org/10.71086/iajse/v12i3/iajse1221
-  category: tooling
-  subcategory: development
-  authors:
-  - Sneha Deshmukh
-  - Vikram Sen
-  abstract: The growth of sectors within artificial intelligence have made it feasible
-    to create intelligent tutoring systems (ITSs) that are capable of adapting to
-    specific learner’s needs. This paper reports th
-  venue: International Academic Journal of Science and Engineering
 - title: A Conversational Intelligent Tutoring System for Improving English Proficiency
     of Non-Native Speakers via Debriefing of Online Meeting Transcriptions
   date: 2024-10
@@ -156702,7 +156324,7 @@ papers:
 - title: 'Transforming education through generative AI: a pathway to equitable learning
     and literacy under SDG4'
   date: 2025-03
-  url: https://ir.uitm.edu.my/view/publication/Social_and_Management_Research_Journal_=28SMRJ=29.html>,
+  url: https://ir.uitm.edu.my/view/publication/Social_and_Management_Research_Journal_=28SMRJ=29.html
   category: lifelong-learning
   subcategory: development
   authors:
@@ -157468,19 +157090,6 @@ papers:
     Learning: A Prototype-Based Approach Vaishali P. Patel Assistant Professor, Bharati
     Vidyapeeth (Deemed to be University'
   venue: Zenodo (CERN European Organization for Nuclear Research)
-- title: 'The Future of Work, AI-Augmented Labour: Productivity and Ethics in AI-Augmented
-    Labour'
-  date: 2025-01
-  url: https://doi.org/10.70381/23951737.v11.n2.i22.2025.11
-  category: lifelong-learning
-  subcategory: systems
-  authors:
-  - Nandini Sharma
-  - Gauri Dhingra
-  abstract: The rapid integration of artificial intelligence (AI) into workplaces
-    is fundamentally reshaping the nature of work, giving rise to AI-augmented labour
-    systems in which human workers and intelligent t
-  venue: International Journal of Academic Research & Development
 - title: 'Human-Centered Artificial Intelligence and Future Workforce Learning: The
     Mediating Role of Digital Belongingness in Human–AI Collaboration among Generation
     Z'
@@ -169249,18 +168858,6 @@ papers:
     from both educational researchers and practitioners in recent years. Among the
     various emerging approaches, integrating AI educati
   venue: Proceedings of the AAAI Conference on Artificial Intelligence
-- title: 'Designing an AI-Assisted Curriculum Accreditation Management System: A Design
-    Science Research Approach'
-  date: 2026-07
-  url: https://aisel.aisnet.org/pacis2026/is_education/is_education/13
-  category: learning-design
-  subcategory: application
-  authors:
-  - Mohammed Harysi
-  abstract: Managing curriculum accreditation across multiple programs in a Saudi
-    business school involves compliance tracking, shared course coordination, structured
-    review workflows, and bilingual documentation
-  venue: Journal of the Association for Information Systems
 - title: Cultivating Innovative Modeling and Design Abilities in Art Curriculum Teaching
     That Integrates AI Technology
   date: 2026-08
@@ -169470,19 +169067,6 @@ papers:
     can be repositioned within digitally-enhanced global classrooms to advance epistemic
     justice and curriculum relevance in South Afr
   venue: E-Journal of Humanities Arts and Social Sciences
-- title: Exploring the Needs for Developing AI-Based Curriculum Design Policy for
-    Secondary Sciences Schools in the Province of Sind
-  date: 2026-03
-  url: https://doi.org/10.63056/academia.5.3(s9).2026.2144
-  category: learning-design
-  subcategory: systems
-  authors:
-  - Shagufta Hashim
-  - Uroosa Bint-e- Iffat
-  abstract: With Artificial Intelligence (AI) having transformed global labor markets
-    and cognitive needs, there is an increasing need to integrate the knowledge base
-    related to Artificial Intelligence into secon
-  venue: ACADEMIA International Journal for Social Sciences
 - title: 'EDuBot: a sustainable and integrated AI-driven chatbot for advising in higher
     education'
   date: 2026-04
@@ -170190,18 +169774,6 @@ papers:
     of large language models (LLMs) into the course design process in higher education.
     Recognizing the complex, often invisible labor
   venue: Discover Education
-- title: 'Beyond Memorisation: An AI-Mediated Course Design for Vocabulary Learning
-    in Higher Education'
-  date: 2026-08
-  url: https://doi.org/10.33422/ijsfle.v5i1.1445
-  category: learning-design
-  subcategory: application
-  authors:
-  - Angel Fan
-  abstract: English language teaching (ELT) in higher education has undergone successive
-    pedagogical transformations, evolving from rote memorisation to task-based and
-    communicative approaches, integrating comput
-  venue: International Journal of Second and Foreign Language Education
 - title: 'From AI Policy to Assessment Design: Review of Higher Education Course Syllabi
     Using the AI Assessment Scale'
   date: 2026-06
@@ -171384,20 +170956,6 @@ papers:
     the field of education due to its powerful text-generation capabilities. However,
     its impact on programming education is still in '
   venue: Frontiers in Psychology
-- title: 'Integrating AI-TPACK for Pre-Service Teachers: Applications and Challenges
-    in English Language Program'
-  date: 2026-04
-  url: https://doi.org/10.57176/jn.v5i2.207
-  category: workforce-upskilling
-  subcategory: theory
-  authors:
-  - Pungky Ramadhani
-  - Eka Rizki Amalia
-  - Nurul Azizah Ria Kusrini
-  abstract: 'Artificial Intelligence (AI) is transforming education, offering innovative
-    opportunities to enhance teaching and learning. Integrating AI into the Technological
-    Pedagogical Content Knowledge (TPACK) '
-  venue: Journal of Nusantara Education
 - title: Developer Needs and Feasible Features for AI Assistants in IDEs
   date: 2026-04
   url: https://arxiv.org/abs/2410.08676
@@ -172311,17 +171869,6 @@ papers:
     have fundamentally transformed human development patterns across psychological,
     cultural, educational, and legal dimensions. Th
   venue: ''
-- title: 'ITU Tier 1+ #36: Education + Learning (K_edu)'
-  date: 2026-05
-  url: https://github.com/munehiroterada/quantum_gravity_info
-  category: compliance
-  subcategory: method
-  authors:
-  - Munehiro Terada
-  abstract: Tier 1+ Pass-1.5 paper 36 of 45. ITU-derived education + learning on curriculum
-    + student + pedagogy + assessment + institution. Ebbinghaus + Bloom 2-sigma +
-    Khanmigo + ChatGPT EDU 2024.5. Defines K_e
-  venue: Open MIND
 - title: 'АЛГОРИТМІЗАЦІЯ ТА ЕТИКА: ТРАНСФОРМАЦІЯ PR В ЕПОХУ ШТУЧНОГО ІНТЕЛЕКТУ'
   date: 2026-05
   url: https://doi.org/10.32840/cpu2219-8741/2026.2(66).2
@@ -173131,18 +172678,6 @@ papers:
     offering unprecedented opportunities for efficiency, innovation, and decision-making.
     However, its rapid deployment also '
   venue: Al-Zaytoonah University Journal of Business
-- title: 'Artificial Intelligence Regulation in Türkiye: Current Position and Future
-    Trajectory'
-  date: 2026-08
-  url: https://doi.org/10.53478/tuba.978-625-6110-86-1.ch12
-  category: compliance
-  subcategory: application
-  authors:
-  - Osman Gazi Güçlütürk
-  abstract: The penetration of artificial intelligence systems as general-purpose
-    technologies into every aspect of social and economic life tests the adaptation
-    capacity of legal systems to this dynamic process.
-  venue: Turkish Academy of Sciences eBooks
 - title: 'Artificial Intelligence in Marketing and Consumer Protection: Regulating
     Synthetic Deception in the Digital Marketplace'
   date: 2026-03
@@ -173618,20 +173153,6 @@ papers:
     imaging have expanded rapidly&amp;mdash;723 Food and Drug Administration (FDA)-authorized
     radiology AI/machine learning (ML) dev
   venue: Artificial Intelligence in Health
-- title: 'Aligning the AI Act and the MDR/IVDR: What the AI Act simplification proposal
-    means for AI-enabled medical devices'
-  date: 2026-05
-  url: https://eprints.dkit.ie/id/eprint/1051/1/JMDR_paper_AIA.pdf
-  category: compliance
-  subcategory: application
-  authors:
-  - Niamh St John Lynch
-  - Róisín Loughran
-  - Martin Mc Hugh
-  abstract: 'This article examines the European Commission’s December 2025 ‘Simplification
-    Package’ and its implications for the regulation of artificial intelligence (AI)-enabled
-    medical devices under the AI Act '
-  venue: STOR (Dundalk Institute of Technology)
 - title: 'The transparency architecture in the AI Act: From system requirements to
     a right to explanation under article 86'
   date: 2026-08

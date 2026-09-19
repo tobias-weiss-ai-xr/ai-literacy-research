@@ -1,0 +1,3180 @@
+{
+ "schema_version": "1.0",
+ "source": "ai-literacy-research corpus (papers.yaml) + concept pipeline (concepts.json, concept_graph.json)",
+ "generated_at": "2026-09-19",
+ "stats": {
+  "paper_corpus": 13150,
+  "concepts": 42,
+  "seminal_papers": 20
+ },
+ "concepts": [
+  {
+   "id": "framework",
+   "df": 1984,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "framework"
+   ]
+  },
+  {
+   "id": "Ai Literacy Construct",
+   "df": 1146,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Ai Literacy Pedagogy",
+   "df": 1139,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Learning Design",
+   "df": 946,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Assessment",
+   "df": 942,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Compliance",
+   "df": 909,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Generative Ai Skills",
+   "df": 734,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Attitudes Trust",
+   "df": 730,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Workforce Upskilling",
+   "df": 700,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Adoption Behavior",
+   "df": 677,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Org Implementation",
+   "df": 630,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Program Evaluation",
+   "df": 625,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Teacher Ai Literacy",
+   "df": 597,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Tooling",
+   "df": 579,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "qualitative",
+   "df": 465,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "qualitative"
+   ]
+  },
+  {
+   "id": "Professional Education",
+   "df": 464,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "survey",
+   "df": 456,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "survey"
+   ]
+  },
+  {
+   "id": "Higher Education",
+   "df": 443,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Roi Measurement",
+   "df": 419,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Lifelong Learning",
+   "df": 384,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Critical Ai Literacy",
+   "df": 375,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Sme Training",
+   "df": 374,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "systematic review",
+   "df": 347,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "systematic review"
+   ]
+  },
+  {
+   "id": "K12 Education",
+   "df": 337,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "case study",
+   "df": 293,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "case study"
+   ]
+  },
+  {
+   "id": "quantitative",
+   "df": 273,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "quantitative"
+   ]
+  },
+  {
+   "id": "dataset",
+   "df": 264,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "dataset"
+   ]
+  },
+  {
+   "id": "literature review",
+   "df": 245,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "literature review"
+   ]
+  },
+  {
+   "id": "benchmark",
+   "df": 233,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "benchmark"
+   ]
+  },
+  {
+   "id": "taxonomy",
+   "df": 139,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "taxonomy"
+   ]
+  },
+  {
+   "id": "experiment",
+   "df": 129,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "experiment"
+   ]
+  },
+  {
+   "id": "interview",
+   "df": 59,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "interview"
+   ]
+  },
+  {
+   "id": "mixed methods",
+   "df": 47,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "mixed methods"
+   ]
+  },
+  {
+   "id": "reproducibility",
+   "df": 26,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "reproducibility"
+   ]
+  },
+  {
+   "id": "peer review",
+   "df": 25,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "peer review"
+   ]
+  },
+  {
+   "id": "research gap",
+   "df": 14,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "research gap"
+   ]
+  },
+  {
+   "id": "grounded theory",
+   "df": 12,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "grounded theory"
+   ]
+  },
+  {
+   "id": "open access",
+   "df": 7,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "open access"
+   ]
+  },
+  {
+   "id": "triangulation",
+   "df": 6,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "triangulation"
+   ]
+  },
+  {
+   "id": "Survey",
+   "df": 0,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "Method",
+   "df": 0,
+   "kind": "taxonomy",
+   "degree_in_graph": 0,
+   "forms": []
+  },
+  {
+   "id": "meta analysis",
+   "df": 0,
+   "kind": "curated",
+   "degree_in_graph": 0,
+   "forms": [
+    "meta analysis"
+   ]
+  }
+ ],
+ "papers": [
+  {
+   "id": "p13150",
+   "title": "Bias, artificial intelligence, and humans",
+   "url": "https://doi.org/10.1093/jamia/ocaf168",
+   "date": "2025-09",
+   "category": "assessment",
+   "subcategory": "theory",
+   "venue": "Journal of the American Medical Informatics Association",
+   "authors": [
+    "Suzanne Bakken"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "qualitative",
+    "survey",
+    "case study",
+    "quantitative",
+    "interview",
+    "mixed methods",
+    "grounded theory",
+    "Survey"
+   ],
+   "concept_count": 10,
+   "abstract": "In this editorial, I highlight 3 papers focused on ethics frameworks for artificial intelligence (AI)1–3 which assess bias from the perspective of AI-based applications in health care as well as 2 papers that address the role of AI-based technologies in patient communication4,5 and within the broader context of their studies, consider the potential for AI-based applications to mitigate clinician biases. Chan et al1 conducted a scoping review to examine the real-world impact of AI ethics frameworks across a decade in health care. Eligible studies reported primary research on the qualitative or quantitative impacts of AI ethics frameworks implemented in health care. The search and screening strategies resulted in 16 of 1807 records that met inclusion criteria, comprising 5 preliminary initiatives testing guidelines in practice, 5 case studies, 5 implementation studies, and 1 comparative case study. Narrative synthesis revealed that the frameworks were implemented for 3 key purposes: (1) to develop new AI governance structures and guidelines, (2) as ethical review assessment systems for adopting clinical AI technologies, and (3) as ethical “audit” tools for identifying ethical risks including bias. Real-world impact was predominantly reported through qualitative improvements in process measures (eg, improved trust in AI). Notably, no studies in the review demonstrated a direct link between ethics frameworks and health-related outcome measures such as patient safety. The authors conclude that implementation and impact evaluation of ethics frameworks for AI in health care remain limited. They suggest that stronger evidence is needed to link ethics frameworks with measurable health outcomes. In a Case Study, Koski et al2 report on the processes and recommendations of a multi-stakeholder expert panel (eg, healthcare professionals, AI developers, policymakers) that was tasked with identifying critical issues and formulating consensus recommendations related to the responsible use of real-world data (RWD) in healthcare AI. The panel’s deliberations revealed several critical challenges including: (1) need for data literacy and documentation, (2) identification and mitigation of bias, (3) privacy and ethical considerations, and (4) absence of an accountability structure for stakeholder management. To address these challenges, the panel proposed 15 recommendations in 5 keys areas: (1) adoption of metadata standards for RWD sources; (2) development of transparency fram"
+  },
+  {
+   "id": "p13150",
+   "title": "Construction of an Artificial Intelligence Literacy Ability Framework and Training System for College Students",
+   "url": "https://doaj.org/article/5d10945ddecc44928f93429cbcfe32ac",
+   "date": "2026-02",
+   "category": "assessment",
+   "subcategory": "theory",
+   "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "authors": [
+    "Anqi Hu"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "Compliance",
+    "qualitative",
+    "Higher Education",
+    "quantitative",
+    "dataset",
+    "grounded theory",
+    "Method"
+   ],
+   "concept_count": 9,
+   "abstract": "[Purpose/Significance] The rapid proliferation of generative artificial intelligence (AI), exemplified by models like DeepSeek-R1, has precipitated a paradigm shift across various sectors, positioning AI literacy as an indispensable competency for the future workforce. University students, as digital natives and pivotal agents of technological adoption and innovation, stand at the forefront of this transformation. Their proficiency in understanding, utilizing, and critically evaluating AI technologies directly influences their academic performance, research capabilities, and long-term career adaptability. Although existing literature has begun to explore the conceptual landscape of AI literacy, a significant gap remains. There is an absence of a robust, empirically validated competency framework specifically tailored to the unique learning contexts, developmental needs, and future roles of university students within China's higher education system. This study aims to address this critical gap by constructing and validating a comprehensive AI literacy competency framework for college students. Its primary significance lies in its ability to move beyond theoretical discourse and provide an evidence-based model that can guide the systematical development of targeted training programs. This enriches the theoretical underpinnings of AI literacy education and offers practical guidance for cultivating high-quality talent equipped for the intelligent era. [Method/Process] This research employed a mixed-methods approach, integrating qualitative and quantitative methods to provide both theoretical grounding and empirical robustness. The study commenced with a qualitative phase utilizing the grounded theory methodology. A systematic analysis of 112 core academic publications (2019-2024) from databases such as CNKI and Web of Science was conducted. Through a rigorous process of open coding, axial coding, and selective coding, facilitated by NVivo11 software, we extracted 300 initial concepts, which were subsequently synthesized into 26 sub-categories and ultimately 4 main categories. This process resulted in the preliminary construction of a four-dimensional AI literacy competency framework. Following this, a quantitative phase was implemented to test and refine the framework. A detailed questionnaire was developed based on the identified dimensions and indicators. Utilizing a five-point Likert scale, the questionnaire measured 26 variables corresponding to the framew"
+  },
+  {
+   "id": "p13150",
+   "title": "The impact of generative AI on academic reading and writing: a synthesis of recent evidence (2023–2025)",
+   "url": "https://doi.org/10.3389/feduc.2025.1711718",
+   "date": "2026-01",
+   "category": "ai-literacy-construct",
+   "subcategory": "method",
+   "venue": "Frontiers in Education",
+   "authors": [
+    "Aránzazu Sanz Tejeda",
+    "Juana Celia Domínguez Oller",
+    "Josep María Baldaquí-Escandell"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "qualitative",
+    "Higher Education",
+    "systematic review",
+    "quantitative",
+    "open access",
+    "Method"
+   ],
+   "concept_count": 8,
+   "abstract": "Introduction The aim of this systematic review is to examine the scientific literature published on digital reading and writing in higher education within the field of social sciences, assisted by generative artificial intelligence. Methods The PRISMA methodology and the SALSA Framework were applied, based on a bibliographic search conducted in the Scopus and Web of Science databases. Journal articles that explicitly addressed the established topic, published between 1 January 2023 and 7 March 2025, in open access, in Spanish or English, and within the field of Social Sciences, were included. After a rigorous screening and selection process, a final sample of 136 articles was compiled and used as the basis for the study. Results The findings indicate that the reviewed research employs a range of methodologies, encompassing quantitative (surveys, experimental studies, psychometric evaluations), qualitative (case studies, semi-structured interviews, thematic analysis), and mixed-method approaches. The results also reveal a clear trend toward the integration of artificial intelligence tools –particularly ChatGPT– into academic writing processes. A significant improvement is observed in the quality of students’ texts, especially regarding coherence, discursive organization, lexical richness, and argumentation. Furthermore, the role of AI in formative feedback, idea generation, paraphrasing, and fostering student autonomy in self-editing their texts is highlighted. The research also identifies key challenges, such as students’ overreliance on AI, diminished metacognitive engagement, and ethical dilemmas related to plagiarism and authorship. Discussion The emergence of AI in higher education is transforming teaching and learning processes, creating opportunities for personalization and enhanced support in academic writing. However, the scientific literature also exposes tensions between its potential benefits and associated risks, such as student dependency, loss of critical thinking, and ethical concerns regarding authorship and plagiarism. These findings call for a rethinking of pedagogical, assessment, and institutional practices, as well as the development of critical and digital literacy skills among both teachers and students."
+  },
+  {
+   "id": "p13150",
+   "title": "A Systematic AI Adoption Framework for Higher Education: From Student GenAI Usage to Institutional Integration",
+   "url": "https://arxiv.org/abs/2604.22030",
+   "date": "2026-04",
+   "category": "higher-education",
+   "subcategory": "application",
+   "venue": "",
+   "authors": [
+    "Michael Neumann",
+    "Lasse Bischof",
+    "Maria Rauschenberger"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "survey",
+    "Higher Education",
+    "case study",
+    "quantitative",
+    "Survey"
+   ],
+   "concept_count": 7,
+   "abstract": "The rapid development of GenAI technologies is transforming learning, assessment, and academic production in higher education. Despite increasing student adoption, many institutions lack operational mechanisms to systematically align regulations and curricula with evolving generative artificial intelligence practices, creating regulatory ambiguity and academic integrity risks. This study investigates how students utilize generative artificial intelligence tools in computer science-oriented disciplines and develops a structured, lightweight framework supporting institutional adaptation to pervasive GenAI usage. We conducted a case study at the University of Applied Sciences and Arts Hannover (Germany), combining document analysis with an online survey (N = 151) targeting Business Information Systems and E-Government students. Quantitative responses were analyzed statistically, while open-ended responses underwent thematic synthesis. Generative artificial intelligence adoption was widespread, with ChatGPT as the dominant tool. Students primarily used generative artificial intelligence for research assistance, programming support, and text processing. However, substantial policy uncertainty was observed: many students were unaware of or unsure about institutional generative artificial intelligence regulations. Document analysis revealed regulatory gaps, ambiguous terminology, and inconsistencies between formal rules and teaching practices. To address these shortcomings, we propose the AI Adoption Framework for Higher Education, an iterative and operational model integrating document analysis, empirical observation, synthesis of findings, and targeted updates of regulations and curricula. The framework addresses governance, assessment validity, and academic integrity under generative artificial intelligence conditions and provides practical guidance for institutional adaptation."
+  },
+  {
+   "id": "p13150",
+   "title": "DESIGNING AN AI-INTEGRATED CURRICULUM INNOVATION FRAMEWORK FOR HIGHER EDUCATION",
+   "url": "https://doi.org/10.30868/ei.v14i04.9215",
+   "date": "2025-11",
+   "category": "learning-design",
+   "subcategory": "theory",
+   "venue": "Edukasi Islami Jurnal Pendidikan Islam",
+   "authors": [
+    "Muchamad Suradji",
+    "Khozin Khozin",
+    "Faridi Faridi"
+   ],
+   "matched_concepts": [
+    "framework",
+    "qualitative",
+    "survey",
+    "Higher Education",
+    "quantitative",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 7,
+   "abstract": "Background: The rapid integration of Artificial Intelligence (AI) in higher education presents both opportunities and challenges for curriculum design. Purpose: This study aims to develop and validate an AI-Integrated Curriculum Innovation Framework with an Islamic Perspective, which holistically integrates technological, pedagogical, ethical, and spiritual dimensions. Method: Using an exploratory sequential mixed-methods design, qualitative data were collected through interviews and focus group discussions with 25 participants (lecturers, students, and administrators), while quantitative validation involved a survey of 115 respondents. Thematic analysis identified four core dimensions—AI Literacy, Data-Driven Personalization, Ethics & Governance, and Adaptivity & Future Skills—which were tested using Confirmatory Factor Analysis (CFA) and Structural Equation Modeling (SEM). Result: Results demonstrated strong construct validity, with Ethics & Governance as well as AI Literacy as a major predictor of future adaptability and skills. Integration of Islamic values ​​such as ta‘lim (education), ḥikmah (wisdom), and maqāṣid al-sharī‘ah ensuring that AI functions not merely as a technical tool, but as a catalyst for values-oriented curriculum transformation. Conclusion: Theoretically, this research bridges classical curriculum theory with AI studies; practically, the AI-Integrated Curriculum Framework has the potential to revitalize academic governance, strengthen digital literacy, and establish an adaptive, ethical, and sustainable learning ecosystem in higher education institutions."
+  },
+  {
+   "id": "p13150",
+   "title": "Financial Literacy Coach Pilot Study: User Experience and Behavioral Change Assessment",
+   "url": "https://osf.io/v3bca",
+   "date": "2026-06",
+   "category": "assessment",
+   "subcategory": "theory",
+   "venue": "Open MIND",
+   "authors": [
+    "Soniya Gupta-Rawal"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "qualitative",
+    "survey",
+    "quantitative",
+    "interview",
+    "Survey"
+   ],
+   "concept_count": 7,
+   "abstract": "This study evaluates the impact of MESH Money Coach, an AI-powered financial literacy and credit readiness tool embedded within the MESH platform in Kenya. MESH is a digital platform supporting young entrepreneurs, many of whom cannot access formal credit because they lack basic financial records, documentation, and credit history, despite strong demand. The Coach was built to address this readiness gap at scale, providing personalised financial literacy content, guided habit formation, and credit readiness support across five structured levels. The pilot ran for five weeks with approximately 110 participants recruited from the MESH user base. Participants span a range of ages (18 to 45+), genders, education levels, business stages, and baseline financial readiness levels (Levels 1 to 4 of the Financial Readiness Framework). The intervention was delivered via a conversational AI coach accessible through the MESH platform, with automated nudges, personalised learning content, and open-ended support built in. A baseline survey was administered at Week 0 and an endline survey at Week 5, with 99 baseline respondents and 76 endline respondents, yielding 71 matched participants. These surveys captured financial behaviour across five focal areas: income and expense tracking, savings habits, separation of business and personal finances, financial goal-setting, and credit readiness. Attitudinal measures of financial stress and felt control were collected alongside behavioural indicators. Both the baseline and endline survey data have been collected but not yet fully analysed. Preliminary descriptive comparisons have been produced, but no hypothesis-driven analysis has been conducted. This registration precedes that analysis. Following the quantitative data collection, the study will conduct in-depth individual interviews (IDIs) with approximately 20 participants, selected purposively to represent distinct engagement and progression profiles: early dropouts (Levels 1 and 2), participants who did not change levels, participants who regressed, participants who skipped levels (e.g., Level 2 to Level 4 directly), and those who progressed incrementally. Interviews will be 30 to 45 minutes, conducted remotely or in person, using a semi-structured guide. The interview phase aims to answer what the quantitative data cannot: why certain participants improved sharply, what the lived experience of engagement with the Coach was, what blocked progress for others, and whether obs"
+  },
+  {
+   "id": "p13150",
+   "title": "AI Integration and Risk Identification in Advanced Architectural Design Studios",
+   "url": "https://doi.org/10.54941/ahfe1008228",
+   "date": "2026-01",
+   "category": "assessment",
+   "subcategory": "method",
+   "venue": "AHFE international",
+   "authors": [
+    "Samah Elkhateeb",
+    "Hassan Mostafa"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "survey",
+    "Higher Education",
+    "literature review",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 7,
+   "abstract": "Generative Artificial Intelligence (AI) is rapidly changing architectural practice. However, advanced design studios at the senior and graduate levels still rely on traditional pedagogical approaches of manual ideation, desk critique, and jury defense. This research explores the influence of AI integration on the student design experience in advanced studios and the possible risks it provides for the cultivation of critical thinking and creative agency. We employed a sequential mixed-method design. It consisted of (i) a literature review on AI in higher education, creative cognition, and studio pedagogy; (ii) semi-structured interviews with senior studio instructors; and (iii) a structured risk-assessment survey adapted from ISO 31000:2018 distributed to senior architectural students. Thirty things in three categories, AI Studio Environment, Pedagogical Context, and Design Competencies, were rated on five-point probability and impact scales. The findings show a profile dominated by opportunities, with 27 of the 30 aspects (90%) identified as opportunities and only three elements (equity in subscription cost, AI literacy of instructors, and curricular framework) identified as low-to-moderate dangers. No threats were identified in the Design Competencies cluster. The main possible use of associate AI with definite critical agency, with the studio's fundamental role being retained in the context of AI, but only if the institutional infrastructure is raised to a similar level. The paper offers a three-tiered agenda for transformation for educators and program developers."
+  },
+  {
+   "id": "p13150",
+   "title": "Holistic learning environments, human–AI collaborative learning, and learner development in Vietnamese higher education: A higher-order PLS-SEM approach",
+   "url": "https://doi.org/10.5281/zenodo.20308086",
+   "date": "2026-05",
+   "category": "assessment",
+   "subcategory": "theory",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "authors": [
+    "Kim Manh Tuan",
+    "Dung Van Ha",
+    "Thuy Vu Thi"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "survey",
+    "Higher Education",
+    "quantitative",
+    "dataset",
+    "Survey"
+   ],
+   "concept_count": 7,
+   "abstract": "Description This dataset contains quantitative survey data collected for the study entitled “Holistic learning environments, human–AI collaborative learning, and learner development in Vietnamese higher education: A higher-order PLS-SEM approach.” The dataset was developed to examine structural relationships among Holistic Learning Environment (HLE), Human–AI Collaborative Learning (HACL), Learner Agency (LA), AI Literacy (AIL), and Holistic Student Development (HSD) within Vietnamese higher education contexts. The study employed a cross-sectional quantitative research design and applied higher-order Partial Least Squares Structural Equation Modeling (PLS-SEM) to investigate how human-centered educational ecosystems and collaborative AI-supported learning processes contribute toward holistic learner development in contemporary university environments. Data Collection Data were collected from December 2025 to May 2026 through online survey administration procedures across Vietnamese higher education institutions. The questionnaire was distributed through institutional learning management systems, classroom communication channels, and lecturer-supported recruitment networks. Participation remained voluntary, and incomplete responses were removed before statistical analysis. The final dataset includes responses from 682 undergraduate students representing multiple academic disciplines, including Education, Social Sciences, STEM, Business, Health Sciences, and Humanities. Female students represented the largest proportion of participants (58.65%), while Year 2 and Year 3 students demonstrated relatively balanced representation across the sample. Dataset Structure The dataset contains variables associated with five major constructs: Holistic Learning Environment (HLE) Human–AI Collaborative Learning (HACL) Learner Agency (LA) Holistic Student Development (HSD) AI Literacy (AIL) Holistic Learning Environment and Human–AI Collaborative Learning were conceptualized as reflective–reflective higher-order constructs within the proposed framework. Higher-Order Constructs Holistic Learning Environment (HLE) includes: Human-Centered Pedagogy (HCP) Socio-Emotional Support (SES) Inclusive Learning Climate (ILC) Ethical Learning Governance (ELG) Flexible Learning Support (FLS) Human–AI Collaborative Learning (HACL) includes: AI-Assisted Learning Support (ALS) Reflective AI Interaction (RAI) AI-Supported Self-Regulation (ASR) Human Oversight and Control (HOC) AI-Enabled Col"
+  },
+  {
+   "id": "p13150",
+   "title": "From Challenge to Change: Design Principles for AI Transformations",
+   "url": "https://arxiv.org/abs/2512.05533",
+   "date": "2025-12",
+   "category": "adoption-behavior",
+   "subcategory": "review",
+   "venue": "",
+   "authors": [
+    "Theocharis Tavantzis",
+    "Stefano Lambiase",
+    "Daniel Russo"
+   ],
+   "matched_concepts": [
+    "framework",
+    "survey",
+    "literature review",
+    "interview",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 6,
+   "abstract": "The rapid rise of Artificial Intelligence (AI) is reshaping Software Engineering (SE), creating new opportunities while introducing human-centered challenges. Although prior work notes behavioral and other non-technical factors in AI integration, most studies still emphasize technical concerns and offer limited insight into how teams adapt to and trust AI. This paper proposes a Behavioral Software Engineering (BSE)-informed, human-centric framework to support SE organizations during early AI adoption. Using a mixed-methods approach, we built and refined the framework through a literature review of organizational change models and thematic analysis of interview data, producing concrete, actionable steps. The framework comprises nine dimensions: AI Strategy Design, AI Strategy Evaluation, Collaboration, Communication, Governance and Ethics, Leadership, Organizational Culture, Organizational Dynamics, and Up-skilling, each supported by design principles and actions. To gather preliminary practitioner input, we conducted a survey (N=105) and two expert workshops (N=4). Survey results show that Up-skilling (15.2%) and AI Strategy Design (15.1%) received the highest $100-method allocations, underscoring their perceived importance in early AI initiatives. Findings indicate that organizations currently prioritize procedural elements such as strategy design, while human-centered guardrails remain less developed. Workshop feedback reinforced these patterns and emphasized the need to ground the framework in real-world practice. By identifying key behavioral dimensions and offering actionable guidance, this work provides a pragmatic roadmap for navigating the socio-technical complexity of early AI adoption and highlights future research directions for human-centric AI in SE."
+  },
+  {
+   "id": "p13150",
+   "title": "Recommendations for Efficient and Responsible LLM Adoption within Industrial Software Development",
+   "url": "https://arxiv.org/abs/2604.26590",
+   "date": "2026-04",
+   "category": "compliance",
+   "subcategory": "application",
+   "venue": "",
+   "authors": [
+    "Krishna Ronanki",
+    "Beatriz Cabrero-Daniel",
+    "Tomas Herda"
+   ],
+   "matched_concepts": [
+    "Compliance",
+    "qualitative",
+    "survey",
+    "case study",
+    "research gap",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "Context: Large language models (LLMs) are observed to have a significant positive impact on various software engineering (SE) activities. With improved accessibility, the adoption of powerful LLMs in industry has surged recently. However, there is a lack of actionable best practices for the efficient and responsible adoption of LLMs within industrial software settings. Objectives: We developed seven actionable recommendations to address this research gap. Methods: We conducted a multi-case study with three organisations that use LLMs within their SE activities and synthesised seven recommendations through qualitative thematic analysis. We conducted a complementary online survey with software practitioners from various industries to evaluate the perceived relevance of our recommendations. Results: Our results and recommendations focus on (i) users' preference to use LLMs as AI assistants, (ii) the importance of relevant stakeholders' satisfaction in the LLM-output evaluation, (iii) scoping the applicability of LLMs within SE tasks, (iv) the effect of LLMs on SE workflows, (v) the necessity and directions for developing human oversight mechanisms, and (vi) the necessary skills for practitioners for leveraging LLMs within SE. The online survey indicates a high level of agreement from the participants regarding the perceived relevance of the recommendations. Conclusion: We outline future research directions, including mapping the seven recommendations to the principles of the EU AI Act (AIA) in order to examine how they relate to the current regulatory compliance frameworks."
+  },
+  {
+   "id": "p13150",
+   "title": "Nishpaksh: TEC Standard-Compliant Framework for Fairness Auditing and Certification of AI Models",
+   "url": "https://arxiv.org/abs/2601.16926",
+   "date": "2026-01",
+   "category": "professional-education",
+   "subcategory": "application",
+   "venue": "",
+   "authors": [
+    "Shashank Prakash",
+    "Ranjitha Prasad",
+    "Avinash Agarwal"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "survey",
+    "quantitative",
+    "dataset",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "The growing reliance on Artificial Intelligence (AI) models in high-stakes decision-making systems, particularly within emerging telecom and 6G applications, underscores the urgent need for transparent and standardized fairness assessment frameworks. While global toolkits such as IBM AI Fairness 360 and Microsoft Fairlearn have advanced bias detection, they often lack alignment with region-specific regulatory requirements and national priorities. To address this gap, we propose Nishpaksh, an indigenous fairness evaluation tool that operationalizes the Telecommunication Engineering Centre (TEC) Standard for the Evaluation and Rating of Artificial Intelligence Systems. Nishpaksh integrates survey-based risk quantification, contextual threshold determination, and quantitative fairness evaluation into a unified, web-based dashboard. The tool employs vectorized computation, reactive state management, and certification-ready reporting to enable reproducible, audit-grade assessments, thereby addressing a critical post-standardization implementation need. Experimental validation on the COMPAS dataset demonstrates Nishpaksh's effectiveness in identifying attribute-specific bias and generating standardized fairness scores compliant with the TEC framework. The system bridges the gap between research-oriented fairness methodologies and regulatory AI governance in India, marking a significant step toward responsible and auditable AI deployment within critical infrastructure like telecommunications."
+  },
+  {
+   "id": "p13150",
+   "title": "Enabling and Inhibitory Pathways of University Students' Willingness to Disclose AI Use: A Cognition-Affect-Conation Perspective",
+   "url": "https://arxiv.org/abs/2604.21733",
+   "date": "2026-04",
+   "category": "critical-ai-literacy",
+   "subcategory": "mechanism",
+   "venue": "",
+   "authors": [
+    "Yiran Du",
+    "Huimin He"
+   ],
+   "matched_concepts": [
+    "framework",
+    "qualitative",
+    "survey",
+    "Higher Education",
+    "quantitative",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "The increasing integration of artificial intelligence (AI) in higher education has raised important questions regarding students' transparency in reporting AI-assisted work. This study investigates the psychological mechanisms underlying university students' willingness to disclose AI use by applying the Cognition--Affect--Conation (CAC) framework. A sequential explanatory mixed-methods design was employed. In the quantitative phase, survey data were collected from 546 university students and analysed using structural equation modelling to examine the relationships among cognitive perceptions, affective responses, and disclosure intention. In the qualitative phase, semi-structured interviews with 22 students were conducted to further interpret the quantitative findings. The results indicate that psychological safety significantly increases students' willingness to disclose AI use and is positively shaped by perceived fairness, perceived teacher support, and perceived organisational support. Conversely, evaluation apprehension reduces disclosure intention and psychological safety, and is strengthened by perceived stigma, perceived uncertainty, and privacy concern. Qualitative findings further reveal that institutional clarity and supportive instructional practices encourage openness, whereas policy ambiguity and fear of negative evaluation often lead students to adopt cautious or strategic disclosure practices. Overall, the study highlights the dual role of enabling and inhibitory psychological mechanisms in shaping AI-use disclosure and underscores the importance of supportive institutional environments and clear guidance for promoting responsible AI transparency in higher education."
+  },
+  {
+   "id": "p13150",
+   "title": "FROM FLORENCE NIGHTINGALE TO ARTIFICIAL INTELLIGENCE: MAPPING THE EVOLUTION OF TECHNOLOGIES IN NURSING EDUCATION",
+   "url": "https://doi.org/10.17605/osf.io/8xtf3",
+   "date": "2026-08",
+   "category": "ai-literacy-construct",
+   "subcategory": "method",
+   "venue": "Open Science Framework",
+   "authors": [
+    "Maria Teresa Moreira",
+    "Germano Couto",
+    "Andreia Lima"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "qualitative",
+    "Professional Education",
+    "quantitative",
+    "taxonomy"
+   ],
+   "concept_count": 6,
+   "abstract": "1. Review title From Florence Nightingale to Artificial Intelligence: Mapping the Evolution of Technologies in Nursing Education — A Scoping Review. 2. Background and rationale Nursing education has continually incorporated the communication media, devices, and knowledge systems available in each historical period. Demonstration materials, printed diagrams, lantern slides, film, radio, and television were followed by computer-assisted instruction, multimedia, learning-management systems, online learning, high- and low-fidelity simulation, serious games, mobile learning, virtual and augmented reality, intelligent tutoring, conversational agents, and generative artificial intelligence. These developments have affected not only how educational content is delivered but also how learners practise, receive feedback, collaborate, make decisions, and construct professional knowledge. [1–9] The historical importance of this transformation cannot be understood by listing technologies alone. A new device may reproduce a teacher-centred model, whereas an older medium may support active, collaborative, or reflective learning. A historical mapping must therefore examine technological change together with pedagogical purpose, educational design, learner and educator roles, assessed outcomes, implementation conditions, and the social or institutional context in which adoption occurred. [2–9] Recent evidence syntheses have examined individual domains such as e-learning, simulation, virtual reality, artificial intelligence, digital competence, or post-COVID-19 digital transformation. Hernon et al. mapped educational technologies in undergraduate and postgraduate nursing and midwifery education but limited inclusion to 2016–2020. Barbosa et al. examined the evolution of information and communication technologies used by educators in undergraduate nursing programmes, with searches completed in 2020; the review included 29 studies and focused primarily on contemporary ICT tools. Other syntheses have concentrated on virtual reality, AI-enhanced simulation, AI integration, or sustainable digitalisation. These reviews are valuable but do not provide a longitudinal account across successive technological families, education levels, and historical periods, nor do they consistently examine transitions in the roles of learners and educators. [2–9] A preliminary search of PubMed, Scopus, Web of Science, Google Scholar, and OSF-related web records was conducted in August 2026 using com"
+  },
+  {
+   "id": "p13150",
+   "title": "Design a Curriculum Model for Artificial Intelligence (AI) Literacy for Student Teachers at Farhangian University",
+   "url": "https://doi.org/10.57647/jee.2026.0902.18",
+   "date": "2026-02",
+   "category": "learning-design",
+   "subcategory": "method",
+   "venue": "OICC Press Journals",
+   "authors": [
+    "Leila Razi",
+    "Sedigheh Mohammadjani",
+    "Sepideh Safarpoor"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "qualitative",
+    "mixed methods",
+    "triangulation",
+    "Method"
+   ],
+   "concept_count": 6,
+   "abstract": "The purpose of this study was to design a curriculum model for artificial intelligence (AI) literacy for student teachers at Farhangian University. A qualitative approach and meta-synthesis method were adopted. The research corpus consisted of articles from reputable journals and theses on AI literacy curricula for student teachers, using qualitative or mixed methods, published between 2015 and 2025. Purposeful sampling was employed. Inclusion criteria included thematic relevance, inclusion of research keywords, methodological quality, and data comprehensiveness. Following the PRISMA checklist and a two-stage screening process, 36 studies meeting over 80% of the criteria were included. Data analysis was conducted using Attride-Stirling thematic network method with MAXQDA 24 software. Trustworthiness was ensured through researcher self-review, data triangulation, and Cohen’s kappa coefficient. A total of 175 basic themes, 37 organizing themes, and 10 global themes were identified as curriculum components: Curriculum Rationale, Objectives, Content, Instructor’s Role, Teaching-Learning Activities, Time, Place and Space, Materials and Resources, Learner Characteristics, and Assessment and Evaluation. Given the model’s comprehensiveness, it can serve as a foundational framework for AI literacy curricula for student teachers at Farhangian University."
+  },
+  {
+   "id": "p13150",
+   "title": "Assessing information literacy among health professional students: a case study from Khesar Gyalpo University in Bhutan",
+   "url": "https://doi.org/10.1108/idd-01-2024-0015",
+   "date": "2025-05",
+   "category": "learning-design",
+   "subcategory": "method",
+   "venue": "Information Discovery and Delivery",
+   "authors": [
+    "Phuntsho Norbu",
+    "Sonam Wangdi"
+   ],
+   "matched_concepts": [
+    "qualitative",
+    "survey",
+    "case study",
+    "quantitative",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 6,
+   "abstract": "Purpose This study aims to explore health professional students’ information literacy (IL) skills. These skills are crucial for navigating complex information and making informed decisions in their university learning and clinical practices. Design/methodology/approach A mixed-method (quantitative and qualitative) approach was used. Data was collected through a self-administered online survey and semi-structured interviews from six constituent and affiliated colleges of Khesar Gyalpo University of Medical Sciences of Bhutan (KGUMSB). Findings The findings revealed that health professional students exhibited moderate IL skills, with significant gaps in advanced search techniques and critical evaluation of information sources. Students rely on commercial platforms such as Google and YouTube for information retrieval and artificial intelligence (AI) tools such as ChatGPT to interpret complex information. Students use freely available medical databases such as PubMed but do not report the use of specialized healthcare databases such as CINAHL and Embase. Universities can address the gaps in student IL competencies through curriculum changes and IL interventions. Universities must prepare and incentivize faculty to deliver the mentorship that many students say they seek to help identify and evaluate information resources. Universities must recognize the AI use by students and develop policies that prepare students for the responsible and ethical use of AI tools. Originality/value This study contributed insights into the current status of IL among health professional students in a developing nation and identified ways that these students adapt to technologies and respond to digital information tools that will influence how they locate the best evidence and make informed clinical decisions."
+  },
+  {
+   "id": "p13150",
+   "title": "Exploring Rural School Principals’ Perceptions of Artificial Intelligence for Implementation and Challenges in PK-12 Schools",
+   "url": "https://doi.org/10.62608/2164-1102.1171",
+   "date": "2025-03",
+   "category": "learning-design",
+   "subcategory": "method",
+   "venue": "Journal of Educational Leadership in Action",
+   "authors": [
+    "Patrick Dean Hales",
+    "Hamada Elfarargy",
+    "Tony Durr"
+   ],
+   "matched_concepts": [
+    "qualitative",
+    "survey",
+    "quantitative",
+    "mixed methods",
+    "triangulation",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "This paper explores the perceptions of rural school principals in South Dakota regarding the implementation and challenges of Artificial Intelligence (AI) in PK-12 education, aiming to understand their familiarity with AI, considerations for integrating it into student learning, and perceived obstacles. Using a concurrent triangulation mixed methods design, the study combines quantitative data from a survey of 46 rural school principals with qualitative insights from open-ended responses. The findings reveal a significant gap in AI usage among rural principals, emphasizing the need for targeted professional development and increased AI literacy. Ethical considerations are crucial, with principals highlighting the importance of teaching students about AI's ethical implications. Key challenges identified include potential student cheating, the need for suitable curriculum and best practice examples, and the requirement for robust infrastructure and training. Despite these concerns, principals recognize AI's potential to enhance educational practices and administrative efficiency. However, the research is limited to rural South Dakota, which may not represent other regions, suggesting that future studies should expand geographically and include diverse samples to explore the longitudinal impacts of AI integration in rural schools. The practical implications point to the need for comprehensive AI training for educators, the creation of ethical guidelines, and ensuring equitable AI resource access in rural areas. These steps are essential for harnessing AI's potential while mitigating challenges, making this paper a valuable resource for educators, policymakers, and stakeholders supporting AI adoption in similar contexts."
+  },
+  {
+   "id": "p13150",
+   "title": "Artificial Intelligence and Ethics in the Classroom: A Multidisciplinary Approach to Future Pedagogies",
+   "url": "https://doi.org/10.63665/bpmaj.v1i1.5",
+   "date": "2025-01",
+   "category": "learning-design",
+   "subcategory": "method",
+   "venue": "Bookgram Publishers Multidisciplinary Academia Journal",
+   "authors": [
+    "Yashpal Azad"
+   ],
+   "matched_concepts": [
+    "Assessment",
+    "qualitative",
+    "survey",
+    "case study",
+    "quantitative",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "Artificial Intelligence (AI) is increasingly transforming educational landscapes, offering new opportunities for personalized learning, assessment, and administration. However, the integration of AI in classrooms raises complex ethical questions regarding privacy, bias, accountability, and the role of human educators. This paper explores the intersection of AI and ethics within educational settings, advocating for a multidisciplinary pedagogical approach to prepare educators and students for responsible AI engagement. Drawing from fields including computer science, philosophy, education, and sociology, the study examines current ethical challenges, stakeholder perceptions, and innovative pedagogical frameworks. Data were collected from surveys of 400 educators, 300 students, and 50 educational administrators across diverse institutions. Using a mixed-methods design, quantitative survey data are complemented by qualitative interviews to analyze awareness, attitudes, and preparedness regarding AI ethics in education. Two tables present survey findings on ethical concerns and pedagogical preferences. A case study of a university’s AI ethics integration program illustrates practical strategies and outcomes. Results indicate widespread recognition of ethical imperatives and a strong demand for interdisciplinary curricula that foster critical thinking and ethical literacy. The paper concludes with recommendations for curriculum design, teacher training, and policy development to advance ethical AI use in classrooms. This research contributes valuable insights to inform future pedagogies that balance technological innovation with ethical responsibility."
+  },
+  {
+   "id": "p13150",
+   "title": "AI across borders: COIL pedagogy, media ecology, and intercultural AI literacy in the postdigital classroom",
+   "url": "https://doi.org/10.1515/omgc-2026-0018",
+   "date": "2026-08",
+   "category": "learning-design",
+   "subcategory": "theory",
+   "venue": "Online Media and Global Communication",
+   "authors": [
+    "Tiffany Petricini",
+    "Laura Trujillo Liñán",
+    "Ricardo Meneses-Trujillo"
+   ],
+   "matched_concepts": [
+    "framework",
+    "survey",
+    "Higher Education",
+    "quantitative",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 6,
+   "abstract": "Abstract Purpose As AI becomes embedded in educational life worldwide, AI literacy can no longer be understood only as a technical competency. This article examines the cultural, linguistic, and ecological dimensions of AI use in higher education and argues that global communication classrooms require new pedagogical approaches for navigating AI across contexts of difference. Drawing on media ecological scholarship, we present a three-phase conceptual framework (Immersion, Encounter, Reflection) for developing Intercultural AI Literacy (ICAL). Method We report findings from “AI Across Borders,” a Collaborative Online International Learning (COIL) exchange between undergraduate students at Penn State Behrend (United States) and Universidad Panamericana (Mexico City). Using quantitative survey analysis ( N = 150; Penn State n = 55, UP Mexico n = 95), we examine similarities and differences in AI attitudes reported by US and Mexican students following participation in the exchange. Findings Composite-level analyses reveal similar post-exchange patterns in reported AI self-efficacy and cross-cultural orientation across both cohorts. Because the AI-in-higher-education item grouping demonstrated low internal consistency, it is interpreted cautiously as exploratory. Item-level analyses identify differences in reported prior AI educational exposure and default AI-use behavior. Equity-relevant subgroup analyses also suggest relationships between financial precarity and selected AI-literacy measures that warrant further study. Implications AI literacy education requires intercultural and ecological reorientation. COIL pedagogy offers a productive site for developing ecological AI consciousness. Structural inequities in AI access must be integrated into curriculum design, not treated as demographic covariates. Value This study offers an initial cross-national empirical mapping of AI literacy attitudes across US and Mexican undergraduate contexts, advances Intercultural AI Literacy as a pedagogical concept, and argues for a media ecological approach to AI literacy that centers cultural difference, structural equity, and global communication."
+  },
+  {
+   "id": "p13150",
+   "title": "Developing an AI Literacy and Responsible Digital Citizenship Framework for Sustainable Higher Education and Future Workforce Readiness",
+   "url": "https://doi.org/10.5281/zenodo.21556386",
+   "date": "2026-01",
+   "category": "learning-design",
+   "subcategory": "method",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "authors": [
+    "Dr Mehul Patel"
+   ],
+   "matched_concepts": [
+    "framework",
+    "Assessment",
+    "survey",
+    "Higher Education",
+    "quantitative",
+    "Survey"
+   ],
+   "concept_count": 6,
+   "abstract": "Artificial Intelligence (AI) is rapidly transforming higher education by reshaping teaching, learning, assessment, and institutional decision-making. However, the increasing use of AI technologies has exposed significant gaps in AI literacy, ethical awareness, and responsible digital behavior among students and educators. Existing educational frameworks primarily emphasize technical AI competencies while providing limited guidance on integrating ethical AI use, responsible digital citizenship, and workforce readiness into a unified educational model. This study proposes an AI Literacy and Responsible Digital Citizenship (AI-RDC) Framework designed to promote sustainable higher education and prepare graduates for the evolving demands of the AI-driven workforce. The research adopts a quantitative, crosssectional survey design involving undergraduate and postgraduate students, faculty members, and academic administrators from higher education institutions. Data will be collected using a structured questionnaire and analyzed through Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), and Partial Least Squares Structural Equation Modeling (PLS-SEM) to validate the proposed framework and examine the relationships among AI knowledge, AI skills, ethical AI practices, responsible digital citizenship, and workforce readiness. The expected outcome is a validated multidimensional framework that enables institutions to systematically integrate AI literacy and digital responsibility into curriculum design, teaching practices, and institutional policies. The proposed framework is anticipated to support educators in enhancing pedagogical effectiveness, empower students with responsible AI competencies and future-ready skills, and assist policymakers in developing sustainable educational strategies aligned with emerging technological and societal needs. Ultimately, this research contributes to advancing responsible AI adoption while fostering ethical, inclusive, and resilient higher education ecosystems."
+  },
+  {
+   "id": "p13150",
+   "title": "Physics instructors’ acceptance and implementation of generative AI",
+   "url": "https://doi.org/10.1103/r2fn-kdy4",
+   "date": "2025-05",
+   "category": "ai-literacy-pedagogy",
+   "subcategory": "theory",
+   "venue": "Physical Review Physics Education Research",
+   "authors": [
+    "Pornrat Wattanakasiwich",
+    "Kreetha Kaewkhong",
+    "Duanghathai Katwibun"
+   ],
+   "matched_concepts": [
+    "Assessment",
+    "qualitative",
+    "survey",
+    "quantitative",
+    "Survey",
+    "Method"
+   ],
+   "concept_count": 6,
+   "abstract": "[This paper is part of the Focused Collection in Artificial Intelligence Tools in Physics Teaching and Physics Education Research.] This study investigates physics instructors’ acceptance and implementation of generative AI (GenAI) in physics education, guided by Rogers’ diffusion of innovation (DOI) theory, focusing on its five-stage innovation-decision process: knowledge, persuasion, decision, implementation, and confirmation. Two survey versions were developed—one for GenAI users and another for nonusers. Data were collected through an online survey featuring five-point Likert scale items and open-ended questions, yielding 320 responses from high school and university physics instructors. The persuasion stage was explored in depth using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2). A mixed-method approach combining quantitative structural equation modeling (SEM) and qualitative content analysis was employed. We found instructors distributed across different adoption stages, with key barriers including insufficient technical knowledge (51.75% of nonusers) and language processing limitations (50.5% of users). Hedonic motivation ( β = 0.4 9 8 ) was found to have a substantially stronger influence on adoption than performance expectancy ( β = 0.1 2 1 ), with an effect size approximately 4 times greater. We identified significant differences between paid and free GenAI users, with paid users more likely to request prompt-writing guidance (30.56% vs 6.47%) despite using more advanced models. Support needs also varied substantially, as half of paid users requested budget support for GenAI services compared to only 17.65% of free users. Most physics instructors used GenAI primarily for assessment tasks, particularly for generatingphysics problems with solutions. Their primary concerns included incorrect physics information in GenAI responses, potential negative impacts on students’ analytical thinking, language barriers, and challenges with prompt writing. These findings suggest that successful GenAI integration in physics education requires physics-specific training and differentiated support based on whether instructors use free or paid versions of GenAI tools."
+  }
+ ],
+ "edges": {
+  "paper_matches_concept": [
+   {
+    "from": "p1",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "case study",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "interview",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "mixed methods",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "grounded theory",
+    "weight": 1
+   },
+   {
+    "from": "p1",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "Compliance",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "dataset",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "grounded theory",
+    "weight": 1
+   },
+   {
+    "from": "p2",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "systematic review",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "open access",
+    "weight": 1
+   },
+   {
+    "from": "p3",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "case study",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p4",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p5",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "interview",
+    "weight": 1
+   },
+   {
+    "from": "p6",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "literature review",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p7",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "dataset",
+    "weight": 1
+   },
+   {
+    "from": "p8",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "literature review",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "interview",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p9",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "Compliance",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "case study",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "research gap",
+    "weight": 1
+   },
+   {
+    "from": "p10",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "dataset",
+    "weight": 1
+   },
+   {
+    "from": "p11",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p12",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "Professional Education",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p13",
+    "to": "taxonomy",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "mixed methods",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "triangulation",
+    "weight": 1
+   },
+   {
+    "from": "p14",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "case study",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p15",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "mixed methods",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "triangulation",
+    "weight": 1
+   },
+   {
+    "from": "p16",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "case study",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p17",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p18",
+    "to": "Method",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "framework",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "Higher Education",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p19",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "Assessment",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "qualitative",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "survey",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "quantitative",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "Survey",
+    "weight": 1
+   },
+   {
+    "from": "p20",
+    "to": "Method",
+    "weight": 1
+   }
+  ],
+  "concept_links_concept": [
+   {
+    "from": 0,
+    "to": 1,
+    "weight": 372
+   },
+   {
+    "from": 0,
+    "to": 22,
+    "weight": 51
+   },
+   {
+    "from": 1,
+    "to": 22,
+    "weight": 52
+   },
+   {
+    "from": 0,
+    "to": 14,
+    "weight": 109
+   },
+   {
+    "from": 1,
+    "to": 14,
+    "weight": 43
+   },
+   {
+    "from": 0,
+    "to": 16,
+    "weight": 90
+   },
+   {
+    "from": 1,
+    "to": 16,
+    "weight": 35
+   },
+   {
+    "from": 0,
+    "to": 12,
+    "weight": 70
+   },
+   {
+    "from": 14,
+    "to": 16,
+    "weight": 45
+   },
+   {
+    "from": 0,
+    "to": 30,
+    "weight": 24
+   },
+   {
+    "from": 1,
+    "to": 30,
+    "weight": 8
+   },
+   {
+    "from": 0,
+    "to": 24,
+    "weight": 60
+   },
+   {
+    "from": 0,
+    "to": 29,
+    "weight": 57
+   },
+   {
+    "from": 1,
+    "to": 24,
+    "weight": 19
+   },
+   {
+    "from": 1,
+    "to": 29,
+    "weight": 16
+   },
+   {
+    "from": 24,
+    "to": 29,
+    "weight": 5
+   },
+   {
+    "from": 14,
+    "to": 22,
+    "weight": 12
+   },
+   {
+    "from": 0,
+    "to": 26,
+    "weight": 83
+   },
+   {
+    "from": 1,
+    "to": 26,
+    "weight": 9
+   },
+   {
+    "from": 0,
+    "to": 33,
+    "weight": 10
+   },
+   {
+    "from": 1,
+    "to": 33,
+    "weight": 3
+   },
+   {
+    "from": 30,
+    "to": 33,
+    "weight": 2
+   },
+   {
+    "from": 0,
+    "to": 20,
+    "weight": 52
+   },
+   {
+    "from": 0,
+    "to": 25,
+    "weight": 80
+   },
+   {
+    "from": 1,
+    "to": 25,
+    "weight": 17
+   },
+   {
+    "from": 16,
+    "to": 25,
+    "weight": 61
+   },
+   {
+    "from": 26,
+    "to": 30,
+    "weight": 9
+   },
+   {
+    "from": 0,
+    "to": 31,
+    "weight": 17
+   },
+   {
+    "from": 1,
+    "to": 31,
+    "weight": 5
+   },
+   {
+    "from": 14,
+    "to": 31,
+    "weight": 15
+   },
+   {
+    "from": 0,
+    "to": 2,
+    "weight": 137
+   },
+   {
+    "from": 2,
+    "to": 16,
+    "weight": 57
+   },
+   {
+    "from": 2,
+    "to": 25,
+    "weight": 40
+   },
+   {
+    "from": 2,
+    "to": 26,
+    "weight": 7
+   },
+   {
+    "from": 0,
+    "to": 28,
+    "weight": 91
+   },
+   {
+    "from": 2,
+    "to": 28,
+    "weight": 2
+   },
+   {
+    "from": 2,
+    "to": 14,
+    "weight": 94
+   },
+   {
+    "from": 2,
+    "to": 30,
+    "weight": 17
+   },
+   {
+    "from": 14,
+    "to": 30,
+    "weight": 10
+   },
+   {
+    "from": 2,
+    "to": 24,
+    "weight": 36
+   },
+   {
+    "from": 0,
+    "to": 6,
+    "weight": 158
+   },
+   {
+    "from": 0,
+    "to": 3,
+    "weight": 178
+   },
+   {
+    "from": 3,
+    "to": 14,
+    "weight": 67
+   },
+   {
+    "from": 3,
+    "to": 28,
+    "weight": 11
+   },
+   {
+    "from": 3,
+    "to": 26,
+    "weight": 19
+   },
+   {
+    "from": 6,
+    "to": 28,
+    "weight": 74
+   },
+   {
+    "from": 2,
+    "to": 22,
+    "weight": 55
+   },
+   {
+    "from": 0,
+    "to": 4,
+    "weight": 162
+   },
+   {
+    "from": 4,
+    "to": 24,
+    "weight": 17
+   },
+   {
+    "from": 0,
+    "to": 11,
+    "weight": 57
+   },
+   {
+    "from": 0,
+    "to": 8,
+    "weight": 69
+   },
+   {
+    "from": 8,
+    "to": 24,
+    "weight": 9
+   },
+   {
+    "from": 0,
+    "to": 10,
+    "weight": 74
+   },
+   {
+    "from": 0,
+    "to": 7,
+    "weight": 84
+   },
+   {
+    "from": 0,
+    "to": 17,
+    "weight": 55
+   },
+   {
+    "from": 17,
+    "to": 24,
+    "weight": 20
+   },
+   {
+    "from": 0,
+    "to": 19,
+    "weight": 30
+   },
+   {
+    "from": 0,
+    "to": 5,
+    "weight": 200
+   },
+   {
+    "from": 7,
+    "to": 16,
+    "weight": 49
+   },
+   {
+    "from": 0,
+    "to": 9,
+    "weight": 84
+   },
+   {
+    "from": 0,
+    "to": 27,
+    "weight": 52
+   },
+   {
+    "from": 0,
+    "to": 34,
+    "weight": 10
+   },
+   {
+    "from": 1,
+    "to": 27,
+    "weight": 29
+   },
+   {
+    "from": 1,
+    "to": 34,
+    "weight": 2
+   },
+   {
+    "from": 27,
+    "to": 34,
+    "weight": 3
+   },
+   {
+    "from": 8,
+    "to": 26,
+    "weight": 5
+   },
+   {
+    "from": 8,
+    "to": 28,
+    "weight": 2
+   },
+   {
+    "from": 8,
+    "to": 29,
+    "weight": 4
+   },
+   {
+    "from": 28,
+    "to": 29,
+    "weight": 15
+   },
+   {
+    "from": 8,
+    "to": 25,
+    "weight": 7
+   },
+   {
+    "from": 8,
+    "to": 14,
+    "weight": 9
+   },
+   {
+    "from": 14,
+    "to": 29,
+    "weight": 5
+   },
+   {
+    "from": 8,
+    "to": 16,
+    "weight": 12
+   },
+   {
+    "from": 16,
+    "to": 28,
+    "weight": 7
+   },
+   {
+    "from": 10,
+    "to": 14,
+    "weight": 14
+   },
+   {
+    "from": 10,
+    "to": 25,
+    "weight": 4
+   },
+   {
+    "from": 14,
+    "to": 25,
+    "weight": 116
+   },
+   {
+    "from": 10,
+    "to": 16,
+    "weight": 8
+   },
+   {
+    "from": 0,
+    "to": 21,
+    "weight": 23
+   },
+   {
+    "from": 21,
+    "to": 26,
+    "weight": 4
+   },
+   {
+    "from": 5,
+    "to": 24,
+    "weight": 14
+   },
+   {
+    "from": 5,
+    "to": 25,
+    "weight": 11
+   },
+   {
+    "from": 5,
+    "to": 22,
+    "weight": 12
+   },
+   {
+    "from": 5,
+    "to": 26,
+    "weight": 22
+   },
+   {
+    "from": 22,
+    "to": 26,
+    "weight": 2
+   },
+   {
+    "from": 5,
+    "to": 28,
+    "weight": 25
+   },
+   {
+    "from": 5,
+    "to": 27,
+    "weight": 11
+   },
+   {
+    "from": 24,
+    "to": 27,
+    "weight": 3
+   },
+   {
+    "from": 0,
+    "to": 23,
+    "weight": 22
+   },
+   {
+    "from": 22,
+    "to": 23,
+    "weight": 9
+   },
+   {
+    "from": 11,
+    "to": 29,
+    "weight": 7
+   },
+   {
+    "from": 16,
+    "to": 17,
+    "weight": 31
+   },
+   {
+    "from": 17,
+    "to": 25,
+    "weight": 9
+   },
+   {
+    "from": 14,
+    "to": 17,
+    "weight": 15
+   },
+   {
+    "from": 17,
+    "to": 29,
+    "weight": 2
+   },
+   {
+    "from": 17,
+    "to": 27,
+    "weight": 10
+   },
+   {
+    "from": 0,
+    "to": 15,
+    "weight": 52
+   },
+   {
+    "from": 12,
+    "to": 14,
+    "weight": 28
+   },
+   {
+    "from": 12,
+    "to": 16,
+    "weight": 21
+   },
+   {
+    "from": 12,
+    "to": 22,
+    "weight": 12
+   },
+   {
+    "from": 12,
+    "to": 27,
+    "weight": 11
+   },
+   {
+    "from": 22,
+    "to": 27,
+    "weight": 36
+   },
+   {
+    "from": 20,
+    "to": 24,
+    "weight": 15
+   },
+   {
+    "from": 20,
+    "to": 29,
+    "weight": 6
+   },
+   {
+    "from": 20,
+    "to": 30,
+    "weight": 4
+   },
+   {
+    "from": 20,
+    "to": 28,
+    "weight": 3
+   },
+   {
+    "from": 16,
+    "to": 20,
+    "weight": 11
+   },
+   {
+    "from": 0,
+    "to": 18,
+    "weight": 34
+   },
+   {
+    "from": 14,
+    "to": 20,
+    "weight": 9
+   },
+   {
+    "from": 20,
+    "to": 25,
+    "weight": 9
+   },
+   {
+    "from": 20,
+    "to": 27,
+    "weight": 6
+   },
+   {
+    "from": 20,
+    "to": 22,
+    "weight": 10
+   },
+   {
+    "from": 6,
+    "to": 27,
+    "weight": 9
+   },
+   {
+    "from": 6,
+    "to": 16,
+    "weight": 23
+   },
+   {
+    "from": 6,
+    "to": 29,
+    "weight": 35
+   },
+   {
+    "from": 16,
+    "to": 29,
+    "weight": 20
+   },
+   {
+    "from": 6,
+    "to": 26,
+    "weight": 48
+   },
+   {
+    "from": 6,
+    "to": 30,
+    "weight": 15
+   },
+   {
+    "from": 28,
+    "to": 30,
+    "weight": 3
+   },
+   {
+    "from": 6,
+    "to": 24,
+    "weight": 23
+   },
+   {
+    "from": 27,
+    "to": 29,
+    "weight": 4
+   },
+   {
+    "from": 0,
+    "to": 13,
+    "weight": 71
+   },
+   {
+    "from": 7,
+    "to": 14,
+    "weight": 37
+   },
+   {
+    "from": 7,
+    "to": 31,
+    "weight": 3
+   },
+   {
+    "from": 0,
+    "to": 38,
+    "weight": 2
+   },
+   {
+    "from": 7,
+    "to": 27,
+    "weight": 7
+   },
+   {
+    "from": 7,
+    "to": 29,
+    "weight": 6
+   },
+   {
+    "from": 7,
+    "to": 28,
+    "weight": 16
+   },
+   {
+    "from": 7,
+    "to": 24,
+    "weight": 9
+   },
+   {
+    "from": 9,
+    "to": 16,
+    "weight": 22
+   },
+   {
+    "from": 9,
+    "to": 27,
+    "weight": 10
+   },
+   {
+    "from": 9,
+    "to": 31,
+    "weight": 5
+   },
+   {
+    "from": 16,
+    "to": 27,
+    "weight": 10
+   },
+   {
+    "from": 16,
+    "to": 31,
+    "weight": 6
+   },
+   {
+    "from": 9,
+    "to": 30,
+    "weight": 7
+   },
+   {
+    "from": 16,
+    "to": 30,
+    "weight": 14
+   },
+   {
+    "from": 9,
+    "to": 14,
+    "weight": 12
+   },
+   {
+    "from": 9,
+    "to": 26,
+    "weight": 28
+   },
+   {
+    "from": 30,
+    "to": 31,
+    "weight": 2
+   },
+   {
+    "from": 9,
+    "to": 24,
+    "weight": 6
+   },
+   {
+    "from": 18,
+    "to": 26,
+    "weight": 12
+   },
+   {
+    "from": 18,
+    "to": 30,
+    "weight": 2
+   },
+   {
+    "from": 18,
+    "to": 25,
+    "weight": 6
+   },
+   {
+    "from": 18,
+    "to": 28,
+    "weight": 6
+   },
+   {
+    "from": 18,
+    "to": 24,
+    "weight": 5
+   },
+   {
+    "from": 24,
+    "to": 26,
+    "weight": 3
+   },
+   {
+    "from": 26,
+    "to": 33,
+    "weight": 5
+   },
+   {
+    "from": 13,
+    "to": 28,
+    "weight": 33
+   },
+   {
+    "from": 13,
+    "to": 16,
+    "weight": 11
+   },
+   {
+    "from": 13,
+    "to": 27,
+    "weight": 11
+   },
+   {
+    "from": 13,
+    "to": 26,
+    "weight": 24
+   },
+   {
+    "from": 3,
+    "to": 22,
+    "weight": 24
+   },
+   {
+    "from": 4,
+    "to": 22,
+    "weight": 32
+   },
+   {
+    "from": 4,
+    "to": 31,
+    "weight": 5
+   },
+   {
+    "from": 4,
+    "to": 16,
+    "weight": 58
+   },
+   {
+    "from": 10,
+    "to": 26,
+    "weight": 7
+   },
+   {
+    "from": 3,
+    "to": 25,
+    "weight": 50
+   },
+   {
+    "from": 22,
+    "to": 25,
+    "weight": 10
+   },
+   {
+    "from": 3,
+    "to": 27,
+    "weight": 20
+   },
+   {
+    "from": 21,
+    "to": 22,
+    "weight": 6
+   },
+   {
+    "from": 21,
+    "to": 27,
+    "weight": 7
+   },
+   {
+    "from": 5,
+    "to": 29,
+    "weight": 15
+   },
+   {
+    "from": 23,
+    "to": 27,
+    "weight": 5
+   },
+   {
+    "from": 6,
+    "to": 22,
+    "weight": 10
+   },
+   {
+    "from": 10,
+    "to": 24,
+    "weight": 10
+   },
+   {
+    "from": 10,
+    "to": 31,
+    "weight": 3
+   },
+   {
+    "from": 24,
+    "to": 31,
+    "weight": 4
+   },
+   {
+    "from": 0,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 0,
+    "to": 36,
+    "weight": 4
+   },
+   {
+    "from": 1,
+    "to": 36,
+    "weight": 3
+   },
+   {
+    "from": 0,
+    "to": 32,
+    "weight": 7
+   },
+   {
+    "from": 1,
+    "to": 32,
+    "weight": 3
+   },
+   {
+    "from": 7,
+    "to": 32,
+    "weight": 4
+   },
+   {
+    "from": 1,
+    "to": 28,
+    "weight": 4
+   },
+   {
+    "from": 26,
+    "to": 28,
+    "weight": 48
+   },
+   {
+    "from": 25,
+    "to": 29,
+    "weight": 5
+   },
+   {
+    "from": 14,
+    "to": 24,
+    "weight": 43
+   },
+   {
+    "from": 24,
+    "to": 25,
+    "weight": 14
+   },
+   {
+    "from": 2,
+    "to": 29,
+    "weight": 4
+   },
+   {
+    "from": 2,
+    "to": 27,
+    "weight": 52
+   },
+   {
+    "from": 11,
+    "to": 22,
+    "weight": 30
+   },
+   {
+    "from": 11,
+    "to": 30,
+    "weight": 4
+   },
+   {
+    "from": 2,
+    "to": 34,
+    "weight": 4
+   },
+   {
+    "from": 14,
+    "to": 34,
+    "weight": 2
+   },
+   {
+    "from": 3,
+    "to": 24,
+    "weight": 36
+   },
+   {
+    "from": 3,
+    "to": 32,
+    "weight": 8
+   },
+   {
+    "from": 3,
+    "to": 38,
+    "weight": 2
+   },
+   {
+    "from": 14,
+    "to": 32,
+    "weight": 15
+   },
+   {
+    "from": 14,
+    "to": 38,
+    "weight": 2
+   },
+   {
+    "from": 32,
+    "to": 38,
+    "weight": 2
+   },
+   {
+    "from": 14,
+    "to": 27,
+    "weight": 12
+   },
+   {
+    "from": 3,
+    "to": 29,
+    "weight": 7
+   },
+   {
+    "from": 25,
+    "to": 27,
+    "weight": 4
+   },
+   {
+    "from": 3,
+    "to": 30,
+    "weight": 6
+   },
+   {
+    "from": 3,
+    "to": 36,
+    "weight": 4
+   },
+   {
+    "from": 14,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 22,
+    "to": 24,
+    "weight": 3
+   },
+   {
+    "from": 3,
+    "to": 16,
+    "weight": 38
+   },
+   {
+    "from": 3,
+    "to": 31,
+    "weight": 7
+   },
+   {
+    "from": 27,
+    "to": 30,
+    "weight": 2
+   },
+   {
+    "from": 3,
+    "to": 33,
+    "weight": 2
+   },
+   {
+    "from": 25,
+    "to": 28,
+    "weight": 5
+   },
+   {
+    "from": 4,
+    "to": 29,
+    "weight": 8
+   },
+   {
+    "from": 5,
+    "to": 14,
+    "weight": 17
+   },
+   {
+    "from": 4,
+    "to": 14,
+    "weight": 45
+   },
+   {
+    "from": 4,
+    "to": 27,
+    "weight": 12
+   },
+   {
+    "from": 5,
+    "to": 16,
+    "weight": 18
+   },
+   {
+    "from": 16,
+    "to": 22,
+    "weight": 8
+   },
+   {
+    "from": 5,
+    "to": 30,
+    "weight": 5
+   },
+   {
+    "from": 4,
+    "to": 25,
+    "weight": 48
+   },
+   {
+    "from": 25,
+    "to": 31,
+    "weight": 6
+   },
+   {
+    "from": 4,
+    "to": 32,
+    "weight": 8
+   },
+   {
+    "from": 4,
+    "to": 36,
+    "weight": 2
+   },
+   {
+    "from": 14,
+    "to": 36,
+    "weight": 3
+   },
+   {
+    "from": 16,
+    "to": 24,
+    "weight": 10
+   },
+   {
+    "from": 16,
+    "to": 32,
+    "weight": 7
+   },
+   {
+    "from": 24,
+    "to": 32,
+    "weight": 5
+   },
+   {
+    "from": 25,
+    "to": 32,
+    "weight": 12
+   },
+   {
+    "from": 25,
+    "to": 36,
+    "weight": 2
+   },
+   {
+    "from": 31,
+    "to": 32,
+    "weight": 3
+   },
+   {
+    "from": 4,
+    "to": 26,
+    "weight": 15
+   },
+   {
+    "from": 17,
+    "to": 26,
+    "weight": 13
+   },
+   {
+    "from": 17,
+    "to": 30,
+    "weight": 4
+   },
+   {
+    "from": 17,
+    "to": 34,
+    "weight": 7
+   },
+   {
+    "from": 26,
+    "to": 34,
+    "weight": 2
+   },
+   {
+    "from": 17,
+    "to": 28,
+    "weight": 11
+   },
+   {
+    "from": 14,
+    "to": 26,
+    "weight": 12
+   },
+   {
+    "from": 25,
+    "to": 26,
+    "weight": 17
+   },
+   {
+    "from": 28,
+    "to": 34,
+    "weight": 4
+   },
+   {
+    "from": 4,
+    "to": 28,
+    "weight": 10
+   },
+   {
+    "from": 14,
+    "to": 28,
+    "weight": 4
+   },
+   {
+    "from": 17,
+    "to": 33,
+    "weight": 4
+   },
+   {
+    "from": 15,
+    "to": 31,
+    "weight": 6
+   },
+   {
+    "from": 16,
+    "to": 26,
+    "weight": 7
+   },
+   {
+    "from": 15,
+    "to": 29,
+    "weight": 9
+   },
+   {
+    "from": 15,
+    "to": 33,
+    "weight": 2
+   },
+   {
+    "from": 15,
+    "to": 30,
+    "weight": 4
+   },
+   {
+    "from": 15,
+    "to": 24,
+    "weight": 9
+   },
+   {
+    "from": 15,
+    "to": 25,
+    "weight": 7
+   },
+   {
+    "from": 15,
+    "to": 26,
+    "weight": 7
+   },
+   {
+    "from": 15,
+    "to": 28,
+    "weight": 6
+   },
+   {
+    "from": 15,
+    "to": 34,
+    "weight": 3
+   },
+   {
+    "from": 15,
+    "to": 16,
+    "weight": 15
+   },
+   {
+    "from": 8,
+    "to": 31,
+    "weight": 3
+   },
+   {
+    "from": 12,
+    "to": 26,
+    "weight": 10
+   },
+   {
+    "from": 12,
+    "to": 28,
+    "weight": 7
+   },
+   {
+    "from": 27,
+    "to": 28,
+    "weight": 3
+   },
+   {
+    "from": 12,
+    "to": 24,
+    "weight": 13
+   },
+   {
+    "from": 6,
+    "to": 25,
+    "weight": 14
+   },
+   {
+    "from": 26,
+    "to": 29,
+    "weight": 11
+   },
+   {
+    "from": 6,
+    "to": 14,
+    "weight": 16
+   },
+   {
+    "from": 24,
+    "to": 28,
+    "weight": 5
+   },
+   {
+    "from": 7,
+    "to": 25,
+    "weight": 24
+   },
+   {
+    "from": 7,
+    "to": 26,
+    "weight": 17
+   },
+   {
+    "from": 9,
+    "to": 28,
+    "weight": 11
+   },
+   {
+    "from": 9,
+    "to": 29,
+    "weight": 2
+   },
+   {
+    "from": 11,
+    "to": 26,
+    "weight": 13
+   },
+   {
+    "from": 11,
+    "to": 33,
+    "weight": 2
+   },
+   {
+    "from": 11,
+    "to": 28,
+    "weight": 8
+   },
+   {
+    "from": 11,
+    "to": 25,
+    "weight": 4
+   },
+   {
+    "from": 13,
+    "to": 29,
+    "weight": 11
+   },
+   {
+    "from": 13,
+    "to": 14,
+    "weight": 13
+   },
+   {
+    "from": 13,
+    "to": 30,
+    "weight": 5
+   },
+   {
+    "from": 13,
+    "to": 24,
+    "weight": 15
+   },
+   {
+    "from": 13,
+    "to": 25,
+    "weight": 6
+   },
+   {
+    "from": 16,
+    "to": 19,
+    "weight": 10
+   },
+   {
+    "from": 19,
+    "to": 29,
+    "weight": 3
+   },
+   {
+    "from": 19,
+    "to": 26,
+    "weight": 3
+   },
+   {
+    "from": 19,
+    "to": 28,
+    "weight": 2
+   },
+   {
+    "from": 19,
+    "to": 30,
+    "weight": 2
+   },
+   {
+    "from": 19,
+    "to": 24,
+    "weight": 4
+   },
+   {
+    "from": 11,
+    "to": 16,
+    "weight": 20
+   },
+   {
+    "from": 22,
+    "to": 29,
+    "weight": 5
+   },
+   {
+    "from": 5,
+    "to": 34,
+    "weight": 2
+   },
+   {
+    "from": 8,
+    "to": 22,
+    "weight": 20
+   },
+   {
+    "from": 8,
+    "to": 27,
+    "weight": 10
+   },
+   {
+    "from": 10,
+    "to": 27,
+    "weight": 11
+   },
+   {
+    "from": 14,
+    "to": 21,
+    "weight": 7
+   },
+   {
+    "from": 14,
+    "to": 23,
+    "weight": 6
+   },
+   {
+    "from": 29,
+    "to": 30,
+    "weight": 5
+   },
+   {
+    "from": 1,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 16,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 2,
+    "to": 31,
+    "weight": 3
+   },
+   {
+    "from": 2,
+    "to": 32,
+    "weight": 9
+   },
+   {
+    "from": 25,
+    "to": 30,
+    "weight": 8
+   },
+   {
+    "from": 24,
+    "to": 30,
+    "weight": 2
+   },
+   {
+    "from": 3,
+    "to": 37,
+    "weight": 2
+   },
+   {
+    "from": 4,
+    "to": 34,
+    "weight": 3
+   },
+   {
+    "from": 4,
+    "to": 30,
+    "weight": 5
+   },
+   {
+    "from": 4,
+    "to": 37,
+    "weight": 2
+   },
+   {
+    "from": 5,
+    "to": 33,
+    "weight": 3
+   },
+   {
+    "from": 6,
+    "to": 31,
+    "weight": 4
+   },
+   {
+    "from": 6,
+    "to": 33,
+    "weight": 3
+   },
+   {
+    "from": 6,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 6,
+    "to": 32,
+    "weight": 2
+   },
+   {
+    "from": 26,
+    "to": 31,
+    "weight": 2
+   },
+   {
+    "from": 7,
+    "to": 22,
+    "weight": 7
+   },
+   {
+    "from": 7,
+    "to": 30,
+    "weight": 35
+   },
+   {
+    "from": 7,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 9,
+    "to": 25,
+    "weight": 7
+   },
+   {
+    "from": 9,
+    "to": 22,
+    "weight": 11
+   },
+   {
+    "from": 10,
+    "to": 22,
+    "weight": 11
+   },
+   {
+    "from": 10,
+    "to": 28,
+    "weight": 2
+   },
+   {
+    "from": 11,
+    "to": 14,
+    "weight": 5
+   },
+   {
+    "from": 11,
+    "to": 32,
+    "weight": 4
+   },
+   {
+    "from": 11,
+    "to": 27,
+    "weight": 10
+   },
+   {
+    "from": 11,
+    "to": 31,
+    "weight": 4
+   },
+   {
+    "from": 11,
+    "to": 24,
+    "weight": 9
+   },
+   {
+    "from": 12,
+    "to": 25,
+    "weight": 9
+   },
+   {
+    "from": 12,
+    "to": 32,
+    "weight": 2
+   },
+   {
+    "from": 12,
+    "to": 30,
+    "weight": 3
+   },
+   {
+    "from": 12,
+    "to": 29,
+    "weight": 2
+   },
+   {
+    "from": 13,
+    "to": 22,
+    "weight": 15
+   },
+   {
+    "from": 13,
+    "to": 31,
+    "weight": 2
+   },
+   {
+    "from": 13,
+    "to": 33,
+    "weight": 2
+   },
+   {
+    "from": 14,
+    "to": 19,
+    "weight": 4
+   },
+   {
+    "from": 19,
+    "to": 22,
+    "weight": 6
+   },
+   {
+    "from": 14,
+    "to": 15,
+    "weight": 18
+   },
+   {
+    "from": 14,
+    "to": 18,
+    "weight": 6
+   },
+   {
+    "from": 16,
+    "to": 18,
+    "weight": 6
+   },
+   {
+    "from": 15,
+    "to": 27,
+    "weight": 6
+   },
+   {
+    "from": 15,
+    "to": 22,
+    "weight": 7
+   },
+   {
+    "from": 16,
+    "to": 21,
+    "weight": 4
+   },
+   {
+    "from": 16,
+    "to": 23,
+    "weight": 7
+   },
+   {
+    "from": 17,
+    "to": 22,
+    "weight": 7
+   },
+   {
+    "from": 33,
+    "to": 34,
+    "weight": 2
+   },
+   {
+    "from": 17,
+    "to": 32,
+    "weight": 4
+   },
+   {
+    "from": 18,
+    "to": 22,
+    "weight": 11
+   },
+   {
+    "from": 18,
+    "to": 27,
+    "weight": 3
+   },
+   {
+    "from": 18,
+    "to": 29,
+    "weight": 2
+   },
+   {
+    "from": 19,
+    "to": 27,
+    "weight": 5
+   },
+   {
+    "from": 19,
+    "to": 35,
+    "weight": 2
+   },
+   {
+    "from": 21,
+    "to": 24,
+    "weight": 13
+   },
+   {
+    "from": 21,
+    "to": 31,
+    "weight": 3
+   },
+   {
+    "from": 23,
+    "to": 24,
+    "weight": 11
+   }
+  ]
+ }
+}

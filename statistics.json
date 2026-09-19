@@ -1,31 +1,1021 @@
 {
-  "total": 12092,
-  "by_source": {
-    "unknown": 12092
+  "metadata": {
+    "total_papers": 13152,
+    "generated_date": "2026-09",
+    "taxonomy": {
+      "categories": 20,
+      "subcategories": 8,
+      "total_cells": 160,
+      "filled_cells": 166,
+      "saturation": 103.8,
+      "empty_cells": -6
+    },
+    "analysis_window": {
+      "last_12m_start": "2025-09"
+    }
+  },
+  "by_category": {
+    "ai-literacy-construct": 1146,
+    "ai-literacy-pedagogy": 1139,
+    "learning-design": 947,
+    "assessment": 942,
+    "workforce-upskilling": 700,
+    "org-implementation": 630,
+    "sme-training": 374,
+    "compliance": 910,
+    "k12-education": 337,
+    "higher-education": 443,
+    "professional-education": 464,
+    "teacher-ai-literacy": 597,
+    "critical-ai-literacy": 375,
+    "generative-ai-skills": 734,
+    "attitudes-trust": 730,
+    "adoption-behavior": 677,
+    "program-evaluation": 625,
+    "roi-measurement": 419,
+    "tooling": 579,
+    "lifelong-learning": 384
+  },
+  "by_subcategory": {
+    "theory": 1622,
+    "mechanism": 1092,
+    "method": 3356,
+    "application": 2958,
+    "development": 425,
+    "systems": 2402,
+    "evaluation": 293,
+    "review": 968
   },
   "by_year": {
-    "2025": 4540,
-    "2026": 4829,
-    "2024": 2025,
-    "2023": 459,
-    "2022": 187,
-    "2021": 19,
-    "2019": 4,
+    "1984": 1,
+    "1991": 1,
+    "1998": 1,
+    "2001": 1,
+    "2002": 1,
+    "2003": 1,
+    "2005": 1,
     "2010": 1,
+    "2011": 1,
+    "2012": 3,
     "2013": 3,
     "2015": 2,
-    "2002": 1,
-    "2018": 10,
-    "2005": 1,
-    "1991": 1,
-    "1984": 1,
-    "2001": 1,
-    "1998": 1,
     "2017": 1,
-    "2012": 3,
-    "2003": 1,
+    "2018": 10,
+    "2019": 4,
     "2020": 1,
-    "2011": 1
+    "2021": 19,
+    "2022": 187,
+    "2023": 496,
+    "2024": 2250,
+    "2025": 4918,
+    "2026": 5249
   },
-  "saturation": "100%"
+  "by_cell": {
+    "ai-literacy-pedagogy/method": 467,
+    "ai-literacy-construct/method": 367,
+    "compliance/application": 362,
+    "assessment/method": 349,
+    "learning-design/method": 304,
+    "ai-literacy-construct/theory": 231,
+    "ai-literacy-pedagogy/theory": 229,
+    "generative-ai-skills/systems": 226,
+    "teacher-ai-literacy/method": 224,
+    "tooling/systems": 213,
+    "org-implementation/application": 202,
+    "program-evaluation/application": 200,
+    "attitudes-trust/method": 191,
+    "learning-design/application": 178,
+    "generative-ai-skills/application": 174,
+    "workforce-upskilling/application": 167,
+    "assessment/application": 162,
+    "workforce-upskilling/method": 160,
+    "workforce-upskilling/systems": 158,
+    "ai-literacy-construct/systems": 156,
+    "learning-design/theory": 153,
+    "ai-literacy-construct/application": 151,
+    "professional-education/application": 151,
+    "adoption-behavior/method": 149,
+    "assessment/theory": 149,
+    "attitudes-trust/systems": 147,
+    "adoption-behavior/application": 146,
+    "tooling/application": 146,
+    "compliance/systems": 144,
+    "learning-design/systems": 141,
+    "higher-education/method": 139,
+    "ai-literacy-pedagogy/application": 138,
+    "ai-literacy-pedagogy/systems": 135,
+    "adoption-behavior/systems": 135,
+    "attitudes-trust/application": 132,
+    "roi-measurement/application": 129,
+    "teacher-ai-literacy/systems": 120,
+    "compliance/method": 117,
+    "generative-ai-skills/method": 114,
+    "assessment/systems": 113,
+    "k12-education/method": 112,
+    "sme-training/application": 108,
+    "org-implementation/systems": 107,
+    "program-evaluation/method": 106,
+    "attitudes-trust/mechanism": 101,
+    "lifelong-learning/method": 99,
+    "compliance/mechanism": 97,
+    "ai-literacy-construct/review": 96,
+    "critical-ai-literacy/method": 96,
+    "attitudes-trust/theory": 96,
+    "adoption-behavior/theory": 96,
+    "program-evaluation/systems": 96,
+    "higher-education/application": 94,
+    "ai-literacy-construct/mechanism": 91,
+    "teacher-ai-literacy/application": 91,
+    "professional-education/method": 88,
+    "compliance/theory": 87,
+    "org-implementation/theory": 85,
+    "critical-ai-literacy/application": 84,
+    "workforce-upskilling/review": 82,
+    "lifelong-learning/application": 82,
+    "org-implementation/method": 81,
+    "higher-education/systems": 81,
+    "lifelong-learning/systems": 81,
+    "sme-training/systems": 79,
+    "roi-measurement/method": 78,
+    "program-evaluation/review": 77,
+    "sme-training/method": 76,
+    "compliance/review": 73,
+    "professional-education/systems": 71,
+    "critical-ai-literacy/systems": 70,
+    "generative-ai-skills/mechanism": 70,
+    "org-implementation/review": 67,
+    "k12-education/systems": 65,
+    "adoption-behavior/mechanism": 64,
+    "roi-measurement/systems": 64,
+    "workforce-upskilling/mechanism": 63,
+    "k12-education/application": 61,
+    "learning-design/mechanism": 59,
+    "learning-design/review": 56,
+    "tooling/mechanism": 56,
+    "assessment/review": 56,
+    "professional-education/theory": 55,
+    "higher-education/mechanism": 52,
+    "adoption-behavior/review": 51,
+    "program-evaluation/mechanism": 51,
+    "assessment/mechanism": 50,
+    "ai-literacy-pedagogy/review": 49,
+    "teacher-ai-literacy/theory": 48,
+    "program-evaluation/theory": 48,
+    "ai-literacy-pedagogy/mechanism": 47,
+    "generative-ai-skills/theory": 46,
+    "org-implementation/mechanism": 45,
+    "professional-education/mechanism": 45,
+    "roi-measurement/theory": 44,
+    "tooling/review": 44,
+    "workforce-upskilling/theory": 43,
+    "teacher-ai-literacy/mechanism": 43,
+    "teacher-ai-literacy/review": 42,
+    "tooling/theory": 42,
+    "critical-ai-literacy/theory": 41,
+    "generative-ai-skills/evaluation": 41,
+    "roi-measurement/mechanism": 40,
+    "attitudes-trust/review": 39,
+    "tooling/method": 39,
+    "org-implementation/development": 38,
+    "assessment/evaluation": 37,
+    "sme-training/review": 37,
+    "learning-design/development": 36,
+    "critical-ai-literacy/review": 35,
+    "ai-literacy-construct/development": 34,
+    "lifelong-learning/theory": 34,
+    "higher-education/theory": 34,
+    "roi-measurement/review": 34,
+    "generative-ai-skills/review": 33,
+    "lifelong-learning/mechanism": 32,
+    "lifelong-learning/review": 32,
+    "program-evaluation/evaluation": 31,
+    "sme-training/theory": 31,
+    "ai-literacy-pedagogy/development": 30,
+    "k12-education/theory": 30,
+    "generative-ai-skills/development": 30,
+    "critical-ai-literacy/mechanism": 29,
+    "sme-training/mechanism": 29,
+    "k12-education/mechanism": 28,
+    "professional-education/review": 26,
+    "compliance/development": 25,
+    "tooling/development": 23,
+    "assessment/development": 23,
+    "k12-education/review": 22,
+    "professional-education/development": 21,
+    "workforce-upskilling/development": 20,
+    "adoption-behavior/evaluation": 19,
+    "lifelong-learning/development": 19,
+    "ai-literacy-construct/evaluation": 18,
+    "ai-literacy-pedagogy/evaluation": 18,
+    "teacher-ai-literacy/development": 18,
+    "roi-measurement/evaluation": 17,
+    "higher-education/review": 17,
+    "adoption-behavior/development": 17,
+    "ai-literacy-pedagogy/survey": 17,
+    "attitudes-trust/evaluation": 16,
+    "tooling/evaluation": 16,
+    "program-evaluation/development": 16,
+    "k12-education/development": 15,
+    "learning-design/evaluation": 15,
+    "critical-ai-literacy/development": 14,
+    "higher-education/development": 13,
+    "higher-education/evaluation": 13,
+    "roi-measurement/development": 13,
+    "sme-training/development": 12,
+    "teacher-ai-literacy/evaluation": 11,
+    "ai-literacy-pedagogy/experiment": 9,
+    "attitudes-trust/development": 8,
+    "workforce-upskilling/evaluation": 7,
+    "professional-education/evaluation": 7,
+    "critical-ai-literacy/evaluation": 6,
+    "org-implementation/evaluation": 5,
+    "compliance/evaluation": 5,
+    "lifelong-learning/evaluation": 5,
+    "learning-design/survey": 5,
+    "k12-education/evaluation": 4,
+    "sme-training/evaluation": 2,
+    "ai-literacy-construct/survey": 2,
+    "assessment/survey": 2,
+    "assessment/experiment": 1
+  },
+  "emerging_themes_12m": [
+    {
+      "keyword": "continuum",
+      "papers": 10
+    },
+    {
+      "keyword": "micro-learning",
+      "papers": 3
+    },
+    {
+      "keyword": "agentic",
+      "papers": 174
+    },
+    {
+      "keyword": "agent",
+      "papers": 573
+    },
+    {
+      "keyword": "transfer",
+      "papers": 118
+    },
+    {
+      "keyword": "measurement",
+      "papers": 119
+    },
+    {
+      "keyword": "avoidance",
+      "papers": 19
+    },
+    {
+      "keyword": "taxonomy",
+      "papers": 107
+    },
+    {
+      "keyword": "eu ai act",
+      "papers": 158
+    },
+    {
+      "keyword": "compliance",
+      "papers": 199
+    }
+  ],
+  "momentum": [
+    {
+      "id": "compliance",
+      "name": "Compliance & AI Act",
+      "total": 910,
+      "recent": 653,
+      "prior": 214,
+      "growth_pct": 205.1,
+      "recent_share": 0.718,
+      "papers_per_month": 54.4,
+      "score": 276.9
+    },
+    {
+      "id": "adoption-behavior",
+      "name": "Adoption Behavior & Engagement",
+      "total": 677,
+      "recent": 453,
+      "prior": 162,
+      "growth_pct": 179.6,
+      "recent_share": 0.669,
+      "papers_per_month": 37.8,
+      "score": 246.5
+    },
+    {
+      "id": "assessment",
+      "name": "Assessment & Measurement",
+      "total": 942,
+      "recent": 624,
+      "prior": 245,
+      "growth_pct": 154.7,
+      "recent_share": 0.662,
+      "papers_per_month": 52.0,
+      "score": 220.9
+    },
+    {
+      "id": "teacher-ai-literacy",
+      "name": "Teacher AI Literacy",
+      "total": 597,
+      "recent": 394,
+      "prior": 161,
+      "growth_pct": 144.7,
+      "recent_share": 0.66,
+      "papers_per_month": 32.8,
+      "score": 210.7
+    },
+    {
+      "id": "org-implementation",
+      "name": "Org Implementation & Change",
+      "total": 630,
+      "recent": 411,
+      "prior": 174,
+      "growth_pct": 136.2,
+      "recent_share": 0.652,
+      "papers_per_month": 34.2,
+      "score": 201.4
+    },
+    {
+      "id": "generative-ai-skills",
+      "name": "Generative AI Skills",
+      "total": 734,
+      "recent": 409,
+      "prior": 197,
+      "growth_pct": 107.6,
+      "recent_share": 0.557,
+      "papers_per_month": 34.1,
+      "score": 163.3
+    },
+    {
+      "id": "learning-design",
+      "name": "Learning Design & Curriculum",
+      "total": 947,
+      "recent": 538,
+      "prior": 271,
+      "growth_pct": 98.5,
+      "recent_share": 0.568,
+      "papers_per_month": 44.8,
+      "score": 155.3
+    },
+    {
+      "id": "ai-literacy-construct",
+      "name": "AI Literacy Constructs & Models",
+      "total": 1146,
+      "recent": 658,
+      "prior": 339,
+      "growth_pct": 94.1,
+      "recent_share": 0.574,
+      "papers_per_month": 54.8,
+      "score": 151.5
+    },
+    {
+      "id": "workforce-upskilling",
+      "name": "Workforce Upskilling",
+      "total": 700,
+      "recent": 408,
+      "prior": 215,
+      "growth_pct": 89.8,
+      "recent_share": 0.583,
+      "papers_per_month": 34.0,
+      "score": 148.1
+    },
+    {
+      "id": "program-evaluation",
+      "name": "Program Evaluation & Outcomes",
+      "total": 625,
+      "recent": 335,
+      "prior": 178,
+      "growth_pct": 88.2,
+      "recent_share": 0.536,
+      "papers_per_month": 27.9,
+      "score": 141.8
+    },
+    {
+      "id": "attitudes-trust",
+      "name": "Attitudes, Trust & Acceptance",
+      "total": 730,
+      "recent": 369,
+      "prior": 256,
+      "growth_pct": 44.1,
+      "recent_share": 0.505,
+      "papers_per_month": 30.8,
+      "score": 94.6
+    },
+    {
+      "id": "higher-education",
+      "name": "Higher Education",
+      "total": 443,
+      "recent": 225,
+      "prior": 181,
+      "growth_pct": 24.3,
+      "recent_share": 0.508,
+      "papers_per_month": 18.8,
+      "score": 75.1
+    },
+    {
+      "id": "lifelong-learning",
+      "name": "Lifelong & Self-Directed Learning",
+      "total": 384,
+      "recent": 157,
+      "prior": 154,
+      "growth_pct": 1.9,
+      "recent_share": 0.409,
+      "papers_per_month": 13.1,
+      "score": 42.8
+    },
+    {
+      "id": "critical-ai-literacy",
+      "name": "Critical & Ethical AI Literacy",
+      "total": 375,
+      "recent": 163,
+      "prior": 171,
+      "growth_pct": -4.7,
+      "recent_share": 0.435,
+      "papers_per_month": 13.6,
+      "score": 38.8
+    },
+    {
+      "id": "sme-training",
+      "name": "SME Training & Adoption",
+      "total": 374,
+      "recent": 158,
+      "prior": 166,
+      "growth_pct": -4.8,
+      "recent_share": 0.422,
+      "papers_per_month": 13.2,
+      "score": 37.4
+    },
+    {
+      "id": "professional-education",
+      "name": "Professional & Executive Ed",
+      "total": 464,
+      "recent": 180,
+      "prior": 185,
+      "growth_pct": -2.7,
+      "recent_share": 0.388,
+      "papers_per_month": 15.0,
+      "score": 36.1
+    },
+    {
+      "id": "roi-measurement",
+      "name": "ROI & Business Impact",
+      "total": 419,
+      "recent": 178,
+      "prior": 202,
+      "growth_pct": -11.9,
+      "recent_share": 0.425,
+      "papers_per_month": 14.8,
+      "score": 30.6
+    },
+    {
+      "id": "ai-literacy-pedagogy",
+      "name": "AI Literacy Pedagogy",
+      "total": 1139,
+      "recent": 401,
+      "prior": 446,
+      "growth_pct": -10.1,
+      "recent_share": 0.352,
+      "papers_per_month": 33.4,
+      "score": 25.1
+    },
+    {
+      "id": "tooling",
+      "name": "Tools, Platforms & AI Tutors",
+      "total": 579,
+      "recent": 225,
+      "prior": 264,
+      "growth_pct": -14.8,
+      "recent_share": 0.389,
+      "papers_per_month": 18.8,
+      "score": 24.1
+    },
+    {
+      "id": "k12-education",
+      "name": "K-12 Education",
+      "total": 337,
+      "recent": 104,
+      "prior": 162,
+      "growth_pct": -35.8,
+      "recent_share": 0.309,
+      "papers_per_month": 8.7,
+      "score": -4.9
+    }
+  ],
+  "category_trajectory": {
+    "ai-literacy-construct": {
+      "2019": 2,
+      "2021": 4,
+      "2022": 7,
+      "2023": 33,
+      "2024": 182,
+      "2025": 382,
+      "2026": 536
+    },
+    "ai-literacy-pedagogy": {
+      "2010": 1,
+      "2018": 1,
+      "2021": 1,
+      "2022": 19,
+      "2023": 76,
+      "2024": 315,
+      "2025": 450,
+      "2026": 276
+    },
+    "learning-design": {
+      "2021": 4,
+      "2022": 19,
+      "2023": 33,
+      "2024": 162,
+      "2025": 310,
+      "2026": 419
+    },
+    "assessment": {
+      "2013": 2,
+      "2015": 1,
+      "2020": 1,
+      "2021": 1,
+      "2022": 5,
+      "2023": 14,
+      "2024": 107,
+      "2025": 297,
+      "2026": 514
+    },
+    "workforce-upskilling": {
+      "2022": 10,
+      "2023": 21,
+      "2024": 119,
+      "2025": 206,
+      "2026": 344
+    },
+    "org-implementation": {
+      "2021": 1,
+      "2022": 4,
+      "2023": 13,
+      "2024": 63,
+      "2025": 209,
+      "2026": 340
+    },
+    "sme-training": {
+      "2021": 1,
+      "2022": 8,
+      "2023": 11,
+      "2024": 72,
+      "2025": 193,
+      "2026": 89
+    },
+    "compliance": {
+      "2013": 1,
+      "2022": 6,
+      "2023": 6,
+      "2024": 78,
+      "2025": 304,
+      "2026": 515
+    },
+    "k12-education": {
+      "2021": 1,
+      "2022": 8,
+      "2023": 21,
+      "2024": 100,
+      "2025": 143,
+      "2026": 64
+    },
+    "higher-education": {
+      "2022": 2,
+      "2023": 7,
+      "2024": 74,
+      "2025": 231,
+      "2026": 129
+    },
+    "professional-education": {
+      "2018": 5,
+      "2022": 11,
+      "2023": 35,
+      "2024": 121,
+      "2025": 160,
+      "2026": 132
+    },
+    "teacher-ai-literacy": {
+      "2022": 1,
+      "2023": 16,
+      "2024": 70,
+      "2025": 211,
+      "2026": 299
+    },
+    "critical-ai-literacy": {
+      "2022": 4,
+      "2023": 13,
+      "2024": 68,
+      "2025": 198,
+      "2026": 92
+    },
+    "generative-ai-skills": {
+      "2022": 3,
+      "2023": 51,
+      "2024": 126,
+      "2025": 258,
+      "2026": 296
+    },
+    "attitudes-trust": {
+      "2022": 25,
+      "2023": 34,
+      "2024": 121,
+      "2025": 310,
+      "2026": 240
+    },
+    "adoption-behavior": {
+      "2019": 1,
+      "2022": 9,
+      "2023": 19,
+      "2024": 74,
+      "2025": 226,
+      "2026": 348
+    },
+    "program-evaluation": {
+      "1984": 1,
+      "1991": 1,
+      "1998": 1,
+      "2001": 1,
+      "2002": 1,
+      "2005": 1,
+      "2017": 1,
+      "2018": 2,
+      "2019": 1,
+      "2021": 4,
+      "2022": 25,
+      "2023": 38,
+      "2024": 92,
+      "2025": 179,
+      "2026": 277
+    },
+    "roi-measurement": {
+      "2003": 1,
+      "2012": 3,
+      "2022": 3,
+      "2023": 12,
+      "2024": 77,
+      "2025": 215,
+      "2026": 108
+    },
+    "tooling": {
+      "2021": 2,
+      "2022": 9,
+      "2023": 22,
+      "2024": 157,
+      "2025": 245,
+      "2026": 144
+    },
+    "lifelong-learning": {
+      "2011": 1,
+      "2015": 1,
+      "2018": 2,
+      "2022": 9,
+      "2023": 21,
+      "2024": 72,
+      "2025": 191,
+      "2026": 87
+    }
+  },
+  "keyword_bursts": [
+    {
+      "keyword": "continuum",
+      "recent": 10,
+      "total": 10,
+      "burst_score": 1.87,
+      "recent_share": 0.0014
+    },
+    {
+      "keyword": "micro-learning",
+      "recent": 3,
+      "total": 3,
+      "burst_score": 1.87,
+      "recent_share": 0.0004
+    },
+    {
+      "keyword": "agentic",
+      "recent": 174,
+      "total": 195,
+      "burst_score": 1.67,
+      "recent_share": 0.0247
+    },
+    {
+      "keyword": "agent",
+      "recent": 573,
+      "total": 720,
+      "burst_score": 1.49,
+      "recent_share": 0.0814
+    },
+    {
+      "keyword": "transfer",
+      "recent": 118,
+      "total": 151,
+      "burst_score": 1.46,
+      "recent_share": 0.0168
+    },
+    {
+      "keyword": "measurement",
+      "recent": 119,
+      "total": 157,
+      "burst_score": 1.42,
+      "recent_share": 0.0169
+    },
+    {
+      "keyword": "avoidance",
+      "recent": 19,
+      "total": 25,
+      "burst_score": 1.42,
+      "recent_share": 0.0027
+    },
+    {
+      "keyword": "taxonomy",
+      "recent": 107,
+      "total": 142,
+      "burst_score": 1.41,
+      "recent_share": 0.0152
+    },
+    {
+      "keyword": "eu ai act",
+      "recent": 158,
+      "total": 211,
+      "burst_score": 1.4,
+      "recent_share": 0.0224
+    },
+    {
+      "keyword": "compliance",
+      "recent": 199,
+      "total": 273,
+      "burst_score": 1.36,
+      "recent_share": 0.0283
+    },
+    {
+      "keyword": "readiness",
+      "recent": 338,
+      "total": 470,
+      "burst_score": 1.34,
+      "recent_share": 0.048
+    },
+    {
+      "keyword": "llm",
+      "recent": 804,
+      "total": 1138,
+      "burst_score": 1.32,
+      "recent_share": 0.1142
+    },
+    {
+      "keyword": "evaluation",
+      "recent": 737,
+      "total": 1054,
+      "burst_score": 1.31,
+      "recent_share": 0.1046
+    },
+    {
+      "keyword": "article 4",
+      "recent": 7,
+      "total": 10,
+      "burst_score": 1.31,
+      "recent_share": 0.001
+    },
+    {
+      "keyword": "trust",
+      "recent": 478,
+      "total": 700,
+      "burst_score": 1.28,
+      "recent_share": 0.0679
+    }
+  ],
+  "source_breakdown": {
+    "arxiv": 2681,
+    "doi": 10151,
+    "other": 320
+  },
+  "venues": [
+    {
+      "name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "papers": 496
+    },
+    {
+      "name": "SSRN Electronic Journal",
+      "papers": 214
+    },
+    {
+      "name": "Education and Information Technologies",
+      "papers": 138
+    },
+    {
+      "name": "Frontiers in Education",
+      "papers": 135
+    },
+    {
+      "name": "Advances in computational intelligence and robotics book series",
+      "papers": 109
+    },
+    {
+      "name": "Education Sciences",
+      "papers": 104
+    },
+    {
+      "name": "Lecture notes in computer science",
+      "papers": 96
+    },
+    {
+      "name": "arXiv",
+      "papers": 83
+    },
+    {
+      "name": "Frontiers in Psychology",
+      "papers": 79
+    },
+    {
+      "name": "Open MIND",
+      "papers": 76
+    },
+    {
+      "name": "Sustainability",
+      "papers": 64
+    },
+    {
+      "name": "Research Square",
+      "papers": 58
+    },
+    {
+      "name": "Scientific Reports",
+      "papers": 57
+    },
+    {
+      "name": "BMC Medical Education",
+      "papers": 57
+    },
+    {
+      "name": "Advances in educational technologies and instructional design book series",
+      "papers": 52
+    }
+  ],
+  "gaps": {
+    "thinnest_cells": [
+      {
+        "cell": "assessment/experiment",
+        "papers": 1
+      },
+      {
+        "cell": "sme-training/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "ai-literacy-construct/survey",
+        "papers": 2
+      },
+      {
+        "cell": "assessment/survey",
+        "papers": 2
+      },
+      {
+        "cell": "k12-education/evaluation",
+        "papers": 4
+      },
+      {
+        "cell": "org-implementation/evaluation",
+        "papers": 5
+      },
+      {
+        "cell": "compliance/evaluation",
+        "papers": 5
+      },
+      {
+        "cell": "lifelong-learning/evaluation",
+        "papers": 5
+      },
+      {
+        "cell": "learning-design/survey",
+        "papers": 5
+      },
+      {
+        "cell": "critical-ai-literacy/evaluation",
+        "papers": 6
+      }
+    ],
+    "white_space": [
+      {
+        "cell": "org-implementation/evaluation",
+        "total": 5,
+        "recent": 5,
+        "recent_share": 1.0
+      },
+      {
+        "cell": "ai-literacy-construct/evaluation",
+        "total": 18,
+        "recent": 17,
+        "recent_share": 0.94
+      },
+      {
+        "cell": "attitudes-trust/evaluation",
+        "total": 16,
+        "recent": 14,
+        "recent_share": 0.88
+      },
+      {
+        "cell": "compliance/evaluation",
+        "total": 5,
+        "recent": 4,
+        "recent_share": 0.8
+      },
+      {
+        "cell": "compliance/development",
+        "total": 25,
+        "recent": 19,
+        "recent_share": 0.76
+      },
+      {
+        "cell": "higher-education/review",
+        "total": 17,
+        "recent": 13,
+        "recent_share": 0.76
+      },
+      {
+        "cell": "tooling/evaluation",
+        "total": 16,
+        "recent": 12,
+        "recent_share": 0.75
+      },
+      {
+        "cell": "adoption-behavior/development",
+        "total": 17,
+        "recent": 12,
+        "recent_share": 0.71
+      },
+      {
+        "cell": "assessment/development",
+        "total": 23,
+        "recent": 15,
+        "recent_share": 0.65
+      },
+      {
+        "cell": "critical-ai-literacy/development",
+        "total": 14,
+        "recent": 9,
+        "recent_share": 0.64
+      }
+    ]
+  },
+  "top_authors": [
+    {
+      "name": "Davy Tsz Kit Ng",
+      "papers": 28
+    },
+    {
+      "name": "Thomas K. F. Chiu",
+      "papers": 18
+    },
+    {
+      "name": "Satyadhar Joshi",
+      "papers": 18
+    },
+    {
+      "name": "Jac Ka Lok Leung",
+      "papers": 16
+    },
+    {
+      "name": "Jiahong Su",
+      "papers": 16
+    },
+    {
+      "name": "Ruiwei Xiao",
+      "papers": 14
+    },
+    {
+      "name": "Jonathan Westover",
+      "papers": 14
+    },
+    {
+      "name": "Matthew Nyaaba",
+      "papers": 13
+    },
+    {
+      "name": "Jasper Roe",
+      "papers": 11
+    },
+    {
+      "name": "Jonathan H. Westover",
+      "papers": 11
+    },
+    {
+      "name": "Zuheir N. Khlaif",
+      "papers": 11
+    },
+    {
+      "name": "Jinhee Kim",
+      "papers": 10
+    },
+    {
+      "name": "Mike Perkins",
+      "papers": 10
+    },
+    {
+      "name": "Xiaoming Zhai",
+      "papers": 10
+    },
+    {
+      "name": "Cecilia Ka Yuk Chan",
+      "papers": 10
+    }
+  ]
 }

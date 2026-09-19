@@ -233,88 +233,88 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 📊 Corpus Statistics
 
-**11,640 papers** across **20 categories**.  
-Sources: **arXiv** 2,656 (22%) · **DOI** 8,731 (75%) · **Other** 253 (2%).  
+**13,152 papers** across **20 categories**.  
+Sources: **arXiv** 2,681 (20%) · **DOI** 10,151 (77%) · **Other** 320 (2%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| compliance | **909** | 0 | ████████████ |
-| ai-literacy-construct | **848** | 0 | ███████████░ |
-| generative-ai-skills | **734** | 0 | █████████░░░ |
-| attitudes-trust | **731** | 0 | █████████░░░ |
-| workforce-upskilling | **690** | 0 | █████████░░░ |
-| adoption-behavior | **680** | 0 | ████████░░░░ |
-| learning-design | **658** | 0 | ████████░░░░ |
-| assessment | **629** | 0 | ████████░░░░ |
-| org-implementation | **629** | 0 | ████████░░░░ |
-| program-evaluation | **625** | 0 | ████████░░░░ |
-| *other* | **4,507** | | |
+| ai-literacy-construct | **1,146** | 0 | ████████████ |
+| ai-literacy-pedagogy | **1,139** | 0 | ███████████░ |
+| learning-design | **947** | 0 | █████████░░░ |
+| assessment | **942** | 0 | █████████░░░ |
+| compliance | **910** | 0 | █████████░░░ |
+| generative-ai-skills | **734** | 0 | ███████░░░░░ |
+| attitudes-trust | **730** | 0 | ███████░░░░░ |
+| workforce-upskilling | **700** | 0 | ███████░░░░░ |
+| adoption-behavior | **677** | 0 | ███████░░░░░ |
+| org-implementation | **630** | 0 | ██████░░░░░░ |
+| *other* | **4,597** | | |
 
 
 ### By year
 
 | Year | Papers | |
 |------|--------|-|
-| 2025 | 4,326 | ███████████░ |
-| 2026 | 4,718 | ████████████ |
-| unknown | 68 | ░░░░░░░░░░░░ |
+| 2024 | 2,250 | █████░░░░░░░ |
+| 2025 | 4,918 | ███████████░ |
+| 2026 | 5,249 | ████████████ |
 
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Compliance & AI Act | 909 | 56.0/mo | 74% | 308 |
-| Adoption Behavior & Engagement | 680 | 39.5/mo | 70% | 301 |
-| Org Implementation & Change | 629 | 35.4/mo | 68% | 235 |
-| Teacher AI Literacy | 586 | 32.8/mo | 67% | 223 |
-| Assessment & Measurement | 629 | 34.2/mo | 65% | 214 |
+| Compliance & AI Act | 910 | 54.4/mo | 72% | 277 |
+| Adoption Behavior & Engagement | 677 | 37.8/mo | 67% | 246 |
+| Assessment & Measurement | 942 | 52.0/mo | 66% | 221 |
+| Teacher AI Literacy | 597 | 32.8/mo | 66% | 211 |
+| Org Implementation & Change | 630 | 34.2/mo | 65% | 201 |
 
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| continuum | 10 | 1.76 |
-| micro-learning | 2 | 1.76 |
-| agentic | 183 | 1.64 |
-| avoidance | 23 | 1.53 |
-| agent | 664 | 1.49 |
-| transfer | 111 | 1.49 |
-| taxonomy | 126 | 1.43 |
-| compliance | 251 | 1.40 |
+| continuum | 10 | 1.87 |
+| micro-learning | 3 | 1.87 |
+| agentic | 195 | 1.67 |
+| agent | 720 | 1.49 |
+| transfer | 151 | 1.46 |
+| measurement | 157 | 1.42 |
+| avoidance | 25 | 1.42 |
+| taxonomy | 142 | 1.41 |
 
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 443 |
-| SSRN Electronic Journal | 183 |
-| Education and Information Technologies | 122 |
-| Frontiers in Education | 113 |
-| Education Sciences | 88 |
-| Advances in computational intelligence and robotics book series | 83 |
-| Lecture notes in computer science | 73 |
-| Open MIND | 68 |
+| Zenodo (CERN European Organization for Nuclear Research) | 496 |
+| SSRN Electronic Journal | 214 |
+| Education and Information Technologies | 138 |
+| Frontiers in Education | 135 |
+| Advances in computational intelligence and robotics book series | 109 |
+| Education Sciences | 104 |
+| Lecture notes in computer science | 96 |
+| arXiv | 83 |
 
 
 ### Research gaps (thinnest cells)
 
 | Cell | Papers |
 |------|--------|
+| `assessment/experiment` | 1 |
 | `sme-training/evaluation` | 2 |
+| `ai-literacy-construct/survey` | 2 |
+| `assessment/survey` | 2 |
 | `k12-education/evaluation` | 4 |
-| `org-implementation/evaluation` | 5 |
-| `compliance/evaluation` | 5 |
-| `lifelong-learning/evaluation` | 5 |
 
 
 
-*Generated 2026-08 by `scripts/standard_stats.py`.*
+*Generated 2026-09 by `scripts/standard_stats.py`.*
 
 
 ## 📄 License

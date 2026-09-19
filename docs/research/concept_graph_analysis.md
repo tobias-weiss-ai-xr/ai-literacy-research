@@ -1,51 +1,51 @@
 # Concept Graph Analysis
 
-**Generated:** 41 nodes, 296 edges, 1 components, 1 communities (modularity -151.281). Edges = co-occurrence.
+**Generated:** 42 nodes, 335 edges, 1 components, 1 communities (modularity -264.438). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1943, degree 33, df 1534
-- **survey** — PR 0.0518, degree 30, df 339
-- **qualitative** — PR 0.0451, degree 30, df 270
-- **Generative Ai Skills** — PR 0.0446, degree 15, df 734
-- **dataset** — PR 0.0424, degree 29, df 248
-- **benchmark** — PR 0.0382, degree 27, df 225
-- **systematic review** — PR 0.0380, degree 27, df 280
-- **Ai Literacy Construct** — PR 0.0378, degree 15, df 848
-- **Compliance** — PR 0.0356, degree 13, df 909
-- **case study** — PR 0.0331, degree 29, df 227
-- **Attitudes Trust** — PR 0.0329, degree 14, df 730
-- **quantitative** — PR 0.0298, degree 27, df 138
+- **framework** — PR 0.1882, degree 37, df 1984
+- **qualitative** — PR 0.0627, degree 36, df 465
+- **survey** — PR 0.0535, degree 33, df 456
+- **quantitative** — PR 0.0435, degree 30, df 273
+- **Ai Literacy Construct** — PR 0.0430, degree 17, df 1146
+- **Learning Design** — PR 0.0369, degree 17, df 947
+- **Ai Literacy Pedagogy** — PR 0.0365, degree 14, df 1139
+- **systematic review** — PR 0.0356, degree 28, df 347
+- **dataset** — PR 0.0347, degree 30, df 264
+- **case study** — PR 0.0343, degree 32, df 293
+- **Assessment** — PR 0.0327, degree 16, df 942
+- **Generative Ai Skills** — PR 0.0317, degree 15, df 734
 
 ## Bridge nodes (high betweenness — connect clusters)
 
-- Learning Design
 - framework
 - qualitative
-- dataset
-- case study
-- literature review
 - survey
-- systematic review
-- benchmark
+- case study
+- Learning Design
+- literature review
+- dataset
 - quantitative
+- systematic review
+- Assessment
 
 ## Bridge edges (high edge-betweenness)
 
-- Learning Design ↔ open access (weight 2, EB 36.0)
-- Learning Design ↔ grounded theory (weight 2, EB 18.7008)
-- Ai Literacy Construct ↔ grounded theory (weight 2, EB 17.5849)
-- Generative Ai Skills ↔ research gap (weight 2, EB 13.8637)
-- Attitudes Trust ↔ research gap (weight 2, EB 12.5619)
-- Lifelong Learning ↔ research gap (weight 2, EB 10.0808)
-- framework ↔ K12 Education (weight 22, EB 7.7667)
-- Learning Design ↔ literature review (weight 5, EB 7.6574)
-- framework ↔ reproducibility (weight 10, EB 7.3992)
-- framework ↔ Learning Design (weight 97, EB 7.1785)
+- Learning Design ↔ open access (weight 2, EB 19.6052)
+- Assessment ↔ open access (weight 2, EB 18.5281)
+- framework ↔ triangulation (weight 2, EB 14.0)
+- qualitative ↔ triangulation (weight 2, EB 13.5)
+- framework ↔ grounded theory (weight 4, EB 10.0833)
+- qualitative ↔ grounded theory (weight 3, EB 9.75)
+- framework ↔ research gap (weight 2, EB 9.6667)
+- qualitative ↔ research gap (weight 2, EB 9.3333)
+- framework ↔ K12 Education (weight 22, EB 8.4333)
+- framework ↔ reproducibility (weight 10, EB 8.3323)
 
 ## Communities (clusters of related concepts)
 
-### Cluster 1 (37 concepts)
+### Cluster 1 (39 concepts)
 
 Adoption Behavior, Ai Literacy Construct, Ai Literacy Pedagogy, Assessment, Attitudes Trust, Compliance, Critical Ai Literacy, Generative Ai Skills, Higher Education, K12 Education, Learning Design, Lifelong Learning
 

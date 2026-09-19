@@ -202489,12 +202489,12 @@ papers:
     and Google Colab, using a pre-trained VGG16 model to classify four morphologically
     similar plant species. Conceptual understanding was assessed using a 15-item test
     and analysed through paired samples t-tests and Wilcoxon signed-rank tests. Results
-    indicated a statistically significant improvement in post-test scores ($\mathbf{p}\lt.001,
-    \mathbf{d}=0.92$), with students demonstrating enhanced comprehension of AI-related
-    tools and techniques. The findings suggest that even shortduration workshops,
-    when grounded in culturally relevant content and authentic coding practice, can
-    effectively foster AI literacy in secondary education. Implications and limitations
-    for curriculum design and further research are discussed.
+    indicated a statistically significant improvement in post-test scores (p\lt.001,
+    d=0.92), with students demonstrating enhanced comprehension of AI-related tools
+    and techniques. The findings suggest that even shortduration workshops, when grounded
+    in culturally relevant content and authentic coding practice, can effectively
+    foster AI literacy in secondary education. Implications and limitations for curriculum
+    design and further research are discussed.
   venue: ''
 - title: Re-imagining Elementary AI Curriculum through Design-Based Research
   date: 2026-02
@@ -207683,7 +207683,7 @@ papers:
   - Milena Benítez Restrepo
   - Carola Hérnandez Hérnandez
   abstract: Since the release of diverse generative AI (GenAI) tools such as ChatGPT,
-    Google Gemini, DALL$\cdot $E, and GitHub Copilot, there has been much debate around
+    Google Gemini, DALL\cdot E, and GitHub Copilot, there has been much debate around
     the impacts and implications of these tools on education. Currently, extant literature
     remarks on the affordances, challenges, and opportunities of GenAI, but few studies
     report and analyze empirical studies and educational practices coming up by GenAI
@@ -226844,21 +226844,21 @@ papers:
     15,200 readiness evaluations across 17 named AI and robotics challenges. Readiness
     is perceived community preparedness and available resources, not personal willingness
     or audited organisational capability. Respondents frequently disagreed about identical
-    challenges, with card-level readiness standard deviations of $1.03$-$1.26$ on
-    a five-point scale. A crossed decomposition attributes 32.7% of observed variation
-    to stable respondent differences, 7.3% to differences among challenges, and 60.0%
-    to response-level variation that also contains measurement error. Differences
-    among challenge-family means account for only about 2% of variation, with substantially
-    more variation among people, applications and person-family judgements. Manufacturing
-    has the highest mean readiness, yet shop-floor robotics, process-optimisation
-    AI and general decision-support applications are judged differently. Computer-science
-    and AI/ML respondents report higher readiness than non-technical respondents across
-    challenge families, whereas engineering respondents do not report higher Manufacturing
-    readiness. Sector rankings are therefore best used as portfolio summaries rather
-    than evidence that an industry is uniformly ready or behind. Readiness reporting
-    should retain application-level disagreement, disclose whose judgements form the
-    average, and consider ethics, cyber security, literacy and capability needs without
-    collapsing them into a single score.
+    challenges, with card-level readiness standard deviations of 1.03-1.26 on a five-point
+    scale. A crossed decomposition attributes 32.7% of observed variation to stable
+    respondent differences, 7.3% to differences among challenges, and 60.0% to response-level
+    variation that also contains measurement error. Differences among challenge-family
+    means account for only about 2% of variation, with substantially more variation
+    among people, applications and person-family judgements. Manufacturing has the
+    highest mean readiness, yet shop-floor robotics, process-optimisation AI and general
+    decision-support applications are judged differently. Computer-science and AI/ML
+    respondents report higher readiness than non-technical respondents across challenge
+    families, whereas engineering respondents do not report higher Manufacturing readiness.
+    Sector rankings are therefore best used as portfolio summaries rather than evidence
+    that an industry is uniformly ready or behind. Readiness reporting should retain
+    application-level disagreement, disclose whose judgements form the average, and
+    consider ethics, cyber security, literacy and capability needs without collapsing
+    them into a single score.
   venue: arXiv (Cornell University)
 - title: The Need to Revitalise Drug Use Monitoring to Keep Pace With a More Dynamic,
     Digitally Enabled and Globally Connected Drug Market

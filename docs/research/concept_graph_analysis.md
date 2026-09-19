@@ -9,7 +9,7 @@
 - **survey** — PR 0.0535, degree 33, df 456
 - **quantitative** — PR 0.0435, degree 30, df 273
 - **Ai Literacy Construct** — PR 0.0430, degree 17, df 1146
-- **Learning Design** — PR 0.0369, degree 17, df 947
+- **Learning Design** — PR 0.0369, degree 17, df 946
 - **Ai Literacy Pedagogy** — PR 0.0365, degree 14, df 1139
 - **systematic review** — PR 0.0356, degree 28, df 347
 - **dataset** — PR 0.0347, degree 30, df 264

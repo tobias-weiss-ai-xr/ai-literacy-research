@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 13152,
+    "total_papers": 13150,
     "generated_date": "2026-09",
     "taxonomy": {
       "categories": 20,
@@ -17,12 +17,12 @@
   "by_category": {
     "ai-literacy-construct": 1146,
     "ai-literacy-pedagogy": 1139,
-    "learning-design": 947,
+    "learning-design": 946,
     "assessment": 942,
     "workforce-upskilling": 700,
     "org-implementation": 630,
     "sme-training": 374,
-    "compliance": 910,
+    "compliance": 909,
     "k12-education": 337,
     "higher-education": 443,
     "professional-education": 464,
@@ -37,9 +37,9 @@
     "lifelong-learning": 384
   },
   "by_subcategory": {
-    "theory": 1622,
+    "theory": 1621,
     "mechanism": 1092,
-    "method": 3356,
+    "method": 3355,
     "application": 2958,
     "development": 425,
     "systems": 2402,
@@ -68,14 +68,14 @@
     "2023": 496,
     "2024": 2250,
     "2025": 4918,
-    "2026": 5249
+    "2026": 5247
   },
   "by_cell": {
     "ai-literacy-pedagogy/method": 467,
     "ai-literacy-construct/method": 367,
     "compliance/application": 362,
     "assessment/method": 349,
-    "learning-design/method": 304,
+    "learning-design/method": 303,
     "ai-literacy-construct/theory": 231,
     "ai-literacy-pedagogy/theory": 229,
     "generative-ai-skills/systems": 226,
@@ -127,7 +127,7 @@
     "ai-literacy-construct/mechanism": 91,
     "teacher-ai-literacy/application": 91,
     "professional-education/method": 88,
-    "compliance/theory": 87,
+    "compliance/theory": 86,
     "org-implementation/theory": 85,
     "critical-ai-literacy/application": 84,
     "workforce-upskilling/review": 82,
@@ -273,24 +273,24 @@
     },
     {
       "keyword": "eu ai act",
-      "papers": 158
+      "papers": 157
     },
     {
       "keyword": "compliance",
-      "papers": 199
+      "papers": 198
     }
   ],
   "momentum": [
     {
       "id": "compliance",
       "name": "Compliance & AI Act",
-      "total": 910,
-      "recent": 653,
+      "total": 909,
+      "recent": 652,
       "prior": 214,
-      "growth_pct": 205.1,
-      "recent_share": 0.718,
-      "papers_per_month": 54.4,
-      "score": 276.9
+      "growth_pct": 204.7,
+      "recent_share": 0.717,
+      "papers_per_month": 54.3,
+      "score": 276.4
     },
     {
       "id": "adoption-behavior",
@@ -350,13 +350,13 @@
     {
       "id": "learning-design",
       "name": "Learning Design & Curriculum",
-      "total": 947,
-      "recent": 538,
+      "total": 946,
+      "recent": 537,
       "prior": 271,
-      "growth_pct": 98.5,
+      "growth_pct": 98.2,
       "recent_share": 0.568,
       "papers_per_month": 44.8,
-      "score": 155.3
+      "score": 155.0
     },
     {
       "id": "ai-literacy-construct",
@@ -528,7 +528,7 @@
       "2023": 33,
       "2024": 162,
       "2025": 310,
-      "2026": 419
+      "2026": 418
     },
     "assessment": {
       "2013": 2,
@@ -570,7 +570,7 @@
       "2023": 6,
       "2024": 78,
       "2025": 304,
-      "2026": 515
+      "2026": 514
     },
     "k12-education": {
       "2021": 1,
@@ -735,17 +735,17 @@
     },
     {
       "keyword": "eu ai act",
-      "recent": 158,
-      "total": 211,
+      "recent": 157,
+      "total": 210,
       "burst_score": 1.4,
-      "recent_share": 0.0224
+      "recent_share": 0.0223
     },
     {
       "keyword": "compliance",
-      "recent": 199,
-      "total": 273,
+      "recent": 198,
+      "total": 272,
       "burst_score": 1.36,
-      "recent_share": 0.0283
+      "recent_share": 0.0281
     },
     {
       "keyword": "readiness",
@@ -766,7 +766,7 @@
       "recent": 737,
       "total": 1054,
       "burst_score": 1.31,
-      "recent_share": 0.1046
+      "recent_share": 0.1047
     },
     {
       "keyword": "article 4",
@@ -785,8 +785,8 @@
   ],
   "source_breakdown": {
     "arxiv": 2681,
-    "doi": 10151,
-    "other": 320
+    "doi": 10165,
+    "other": 304
   },
   "venues": [
     {

@@ -8,11 +8,11 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
 |-----:|------|-------:|--------:|--------:|-----------:|-------:|------:|
 | 1 | `assessment/experiment` | 1 | 94.2 | 1 | +100% | 0.80 | 100.0 |
 | 2 | `ai-literacy-construct/survey` | 2 | 127.3 | 1 | +0% | 0.28 | 100.0 |
-| 3 | `compliance/evaluation` | 5 | 113.8 | 4 | +300% | 0.05 | 100.0 |
+| 3 | `compliance/evaluation` | 5 | 113.6 | 4 | +300% | 0.05 | 100.0 |
 | 4 | `org-implementation/evaluation` | 5 | 78.8 | 5 | +100% | 0.01 | 100.0 |
-| 5 | `learning-design/evaluation` | 15 | 105.2 | 8 | +14% | 1.00 | 100.0 |
+| 5 | `learning-design/evaluation` | 15 | 105.1 | 8 | +14% | 1.00 | 100.0 |
 | 6 | `assessment/development` | 23 | 94.2 | 15 | +88% | 0.80 | 97.4 |
-| 7 | `learning-design/survey` | 5 | 105.2 | 1 | -75% | 1.00 | 97.1 |
+| 7 | `learning-design/survey` | 5 | 105.1 | 1 | -75% | 1.00 | 97.1 |
 | 8 | `ai-literacy-construct/evaluation` | 18 | 127.3 | 17 | +1600% | 0.28 | 95.7 |
 | 9 | `workforce-upskilling/evaluation` | 7 | 87.5 | 4 | +33% | 0.01 | 95.4 |
 | 10 | `teacher-ai-literacy/evaluation` | 11 | 74.6 | 7 | +75% | 0.02 | 91.5 |
@@ -21,10 +21,10 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
 | 13 | `assessment/evaluation` | 37 | 94.2 | 20 | +18% | 0.80 | 88.5 |
 | 14 | `ai-literacy-construct/development` | 34 | 127.3 | 21 | +62% | 0.28 | 88.2 |
 | 15 | `adoption-behavior/development` | 17 | 84.6 | 12 | +140% | 0.01 | 88.1 |
-| 16 | `compliance/development` | 25 | 113.8 | 19 | +217% | 0.05 | 87.6 |
+| 16 | `compliance/development` | 25 | 113.6 | 19 | +217% | 0.05 | 87.6 |
 | 17 | `tooling/evaluation` | 16 | 72.4 | 12 | +200% | 0.04 | 87.4 |
 | 18 | `higher-education/development` | 13 | 55.4 | 8 | +60% | 0.08 | 87.1 |
-| 19 | `learning-design/development` | 36 | 105.2 | 16 | -20% | 1.00 | 86.5 |
+| 19 | `learning-design/development` | 36 | 105.1 | 16 | -20% | 1.00 | 86.5 |
 | 20 | `assessment/survey` | 2 | 94.2 | 0 | -100% | 0.80 | 85.8 |
 
 ## Bridge Gap Cells (thin cells on cross-cutting categories)
@@ -32,14 +32,14 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
 Under-saturated cells whose category is a high-betweenness bridge in the concept graph — the integrative white spaces where separate research strands connect. Prioritised by the bridge term.
 
 - `assessment/experiment` — bridge 0.80, 1 papers (category cell avg 94.2)
-- `learning-design/evaluation` — bridge 1.00, 15 papers (category cell avg 105.2)
+- `learning-design/evaluation` — bridge 1.00, 15 papers (category cell avg 105.1)
 - `assessment/development` — bridge 0.80, 23 papers (category cell avg 94.2)
-- `learning-design/survey` — bridge 1.00, 5 papers (category cell avg 105.2)
+- `learning-design/survey` — bridge 1.00, 5 papers (category cell avg 105.1)
 - `assessment/evaluation` — bridge 0.80, 37 papers (category cell avg 94.2)
-- `learning-design/development` — bridge 1.00, 36 papers (category cell avg 105.2)
+- `learning-design/development` — bridge 1.00, 36 papers (category cell avg 105.1)
 - `assessment/survey` — bridge 0.80, 2 papers (category cell avg 94.2)
-- `learning-design/review` — bridge 1.00, 56 papers (category cell avg 105.2)
-- `learning-design/mechanism` — bridge 1.00, 59 papers (category cell avg 105.2)
+- `learning-design/review` — bridge 1.00, 56 papers (category cell avg 105.1)
+- `learning-design/mechanism` — bridge 1.00, 59 papers (category cell avg 105.1)
 - `assessment/mechanism` — bridge 0.80, 50 papers (category cell avg 94.2)
 - `assessment/review` — bridge 0.80, 56 papers (category cell avg 94.2)
 
@@ -62,7 +62,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Compliance / Evaluation (`compliance/evaluation`)
 
-- **Papers:** 5 (category cell avg 113.8) — 4 published in the last 12 months (+300%).
+- **Papers:** 5 (category cell avg 113.6) — 4 published in the last 12 months (+300%).
 - **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **Leveraging AI for fine-grained food safety risk forecasting in sparse data conditions** (2026-08) — <https://arxiv.org/abs/2608.01767>
@@ -84,7 +84,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Learning Design / Evaluation (`learning-design/evaluation`)
 
-- **Papers:** 15 (category cell avg 105.2) — 8 published in the last 12 months (+14%).
+- **Papers:** 15 (category cell avg 105.1) — 8 published in the last 12 months (+14%).
 - **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **Development and Initial Validation of the Conscious Intelligence Curriculum Framework Scale (CICFS): Measuring Curriculum Transformation for AI-Mediated Higher Education** (2026-08) — <https://www.researchpublish.com/papers/development-and-initial-validation-of-the-conscious-intelligence-curriculum-framework-scale-cicfs-measuring-curriculum-transformation-for-ai-mediated-higher-education>
@@ -106,7 +106,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Learning Design / Survey (`learning-design/survey`)
 
-- **Papers:** 5 (category cell avg 105.2) — 1 published in the last 12 months (-75%).
+- **Papers:** 5 (category cell avg 105.1) — 1 published in the last 12 months (-75%).
 - **Why a gap:** Thin for its category (below the category cell average).
 - **Representative papers (newest first):**
   - **Empowering Students through Co-Creation: Building Ethical AI Literacy, Guidelines and Resources for Languages, Culture and Employability** (2026-02) — <https://doi.org/10.34627/redvol9iss1e202607>
@@ -205,11 +205,11 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Compliance / Development (`compliance/development`)
 
-- **Papers:** 25 (category cell avg 113.8) — 19 published in the last 12 months (+217%).
+- **Papers:** 25 (category cell avg 113.6) — 19 published in the last 12 months (+217%).
 - **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **Bridging Legal, Financial, and Data Governance in Enterprise AI: Emerging Trends** (2026-09) — <https://doi.org/10.56201/ijefm.v9.no9.2024.pg336.381>
-  - **<b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence Playbook, </b><b>Guidance Crosswalk, and Executive </b><b>Poster</b>** (2026-08)
+  - **Three Frameworks, One System: The AI Governance Convergence Playbook, Guidance Crosswalk, and Executive Poster** (2026-08) — <https://doi.org/10.6084/m9.figshare.33137024.v2>
   - **Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load** (2026-08) — <https://arxiv.org/abs/2608.05018>
   - **AIMSDistill Model Weights: distilled ModernBERT students and teacher logits** (2026-08) — <https://doi.org/10.6084/m9.figshare.33261576>
   - **Generative Artificial Intelligence and Intellectual Property Rights: A Comparative Analysis of Copyright, Patents and Trade Secrets** (2026-08) — <https://doi.org/10.69971/tipr.4.3.2026.138>
@@ -238,7 +238,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Learning Design / Development (`learning-design/development`)
 
-- **Papers:** 36 (category cell avg 105.2) — 16 published in the last 12 months (-20%).
+- **Papers:** 36 (category cell avg 105.1) — 16 published in the last 12 months (-20%).
 - **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **Improving Creativity and Innovation in Early Childhood Education: The Role of Leveraging Artificial Intelligence** (2026-09) — <https://doi.org/10.56201/ijee.v12.no.1.2026.pg351.359>

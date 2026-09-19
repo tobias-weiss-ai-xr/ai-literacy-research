@@ -22,7 +22,7 @@
       "id": 3,
       "term": "Learning Design",
       "kind": "taxonomy",
-      "df": 947
+      "df": 946
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "id": 5,
       "term": "Compliance",
       "kind": "taxonomy",
-      "df": 910
+      "df": 909
     },
     {
       "id": 6,
@@ -1691,6 +1691,11 @@
     },
     {
       "source": 4,
+      "target": 34,
+      "weight": 3
+    },
+    {
+      "source": 4,
       "target": 30,
       "weight": 5
     },
@@ -1698,11 +1703,6 @@
       "source": 4,
       "target": 37,
       "weight": 2
-    },
-    {
-      "source": 4,
-      "target": 34,
-      "weight": 3
     },
     {
       "source": 5,
@@ -1933,6 +1933,6 @@
   "stats": {
     "concepts": 42,
     "edges": 335,
-    "papers": 13152
+    "papers": 13150
   }
 }

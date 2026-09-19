@@ -44698,6 +44698,7 @@ papers:
     on market conversion rate of Micro, Small, and Medium Enterprises (MSMEs) in Nigeria's
     Federal Capital Territory (FCT). The pri
   venue: Abuja Journal of Business and Management
+  url: https://doi.org/10.70118/ajbam-02-2025-128
 - title: 'Advancing chemical safety protocols in small and medium enterprises: A comprehensive
     guide'
   date: 2024-09
@@ -48149,8 +48150,8 @@ papers:
     to alignment at training time (e.g., Constitutional AI, RLHF) and proposes architectural
     constraints at generation time (e.g., Co
   venue: Zenodo (CERN European Organization for Nuclear Research)
-- title: '<b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence
-    Playbook, </b><b>Guidance Crosswalk, and Executive </b><b>Poster</b>'
+- title: 'Three Frameworks, One System: The AI Governance Convergence Playbook, Guidance
+    Crosswalk, and Executive Poster'
   date: 2026-08
   category: compliance
   subcategory: development
@@ -48160,6 +48161,7 @@ papers:
     <b>enterprise AI governance</b> by integrating the <b>EU AI Act</b>, the <b>NIST
     AI Risk Management Framework (AI RMF)</b>, an
   venue: Figshare
+  url: https://doi.org/10.6084/m9.figshare.33137024.v2
 - title: 'Artificial Intelligence and Media Freedom: From the ''Brussels'' to the
     ''Strasbourg'' Effect?'
   date: 2025-01
@@ -57962,6 +57964,7 @@ papers:
     and Gemini is reshaping the methodological landscape of obstetrics and gynecology
     (OBGYN) research. This narrative review provides
   venue: American Journal of Perinatology
+  url: https://doi.org/10.1055/a-2616-4182
 - title: 'Workshop: Educational Innovation Through Generative Artificial Intelligence:
     Tools, Opportunities, and Challenges'
   date: 2024-03
@@ -70267,6 +70270,7 @@ papers:
     processes and AI-powered technology assessment models within the expansive landscape
     of the big data era. Tracing the ori
   venue: Journal of Education and Training Studies
+  url: https://doi.org/10.11114/jets.v12i2.6582
 - title: Leveraging Video Presentation Coursework to Enhance Engineering Education
     Assessment Amidst the Rise of Generative AI Tools
   date: 2024-12
@@ -116235,6 +116239,7 @@ papers:
     a critical need to establish structured training for safe and effective use of
     artificial intelligence (AI) in endoscopy. This '
   venue: Endoscopy
+  url: https://doi.org/10.1055/a-2742-4342
 - title: 'Artificial Intelligence, Automation, and Technical and Vocational Education
     and Training: Transforming Vocational Training in Digital Era'
   date: 2025-08
@@ -117654,6 +117659,7 @@ papers:
     of online patient information: ENT UK patient information eleaflets vs responses
     by a generative artificial intelligence. Facial P'
   venue: Facial Plastic Surgery
+  url: https://doi.org/10.1055/s-0044-1791697
 - title: 'AI versus human-generated multiple-choice questions for medical education:
     a cohort study in a high-stakes examination'
   date: 2025-02
@@ -146917,6 +146923,7 @@ papers:
     including education, finance, and workplace productivity. However, the factors
     that prompt the use of new AI technology hav
   venue: Journal of Student Research
+  url: https://doi.org/10.47611/jsrhs.v13i4.7977
 - title: 'Are AI Coaching Agents Learning Friend or Foe?: A Qualitative Study of Learning
     and Development Leaders'' Perceptions of AI Coaching Agents Using Unified Theory
     of Acceptance and Use of Technology 2'
@@ -156924,6 +156931,7 @@ papers:
     gains against psychological safety risks. It synthesizes evidence on how AI-driven
     surveillance, algorithmic bias, and p
   venue: Digital Education Review
+  url: https://doi.org/10.1344/der.2026.49.208-221
 - title: 'Designing the Future Workplace: Integrating Human–Machine Collaboration,
     AI Skill Development, Hybrid Work Models, and Emotionally Intelligent Leadership'
   date: 2026-04
@@ -169046,6 +169054,7 @@ papers:
     to help with teaching, learning, assessment, and curriculum development. In Malaysia,
     interest in AI has grown as part of the co
   venue: Muallim Journal of Social Science and Humanities
+  url: https://doi.org/10.33306/mjssh/442
 - title: 'Repositioning indigenous knowledge in digitally-enhanced global classrooms:
     A South African perspective on epistemic justice and curriculum innovation'
   date: 2026-02
@@ -169189,6 +169198,7 @@ papers:
     industry necessitates a fundamental transformation of higher education curricula.
     Moving beyond purely technical proficiency, th
   venue: International Journal of Multilingualism and Languages for Specific purposes
+  url: https://doi.org/10.52919/ijmlsp.v8i01.146
 - title: Digital Literacy in the Age of AI
   date: 2026-07
   url: https://doi.org/10.70917/ijcisim-2026-2710
@@ -170278,6 +170288,7 @@ papers:
     in endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement
     Endoscopy 2026; 58(02): 202-210 DOI: '
   venue: Endoscopy
+  url: https://doi.org/10.1055/a-2776-5205
 - title: 'Artificial Intelligence in Hospitality and Tourism Training: Opportunities
     and Challenges in Arusha’s Vocational Training Colleges'
   date: 2026-03
@@ -170867,17 +170878,6 @@ papers:
     for personalized, curriculum-grounded, multilingual AI tutoring that runs entirely
     on a Raspberry Pi 5 with 8 GB of RAM. It
   venue: Zenodo (CERN European Organization for Nuclear Research)
-- title: 'Banya AI 4: World-First Developmental Curriculum Learning and the Emergence
-    of Axis Structure'
-  date: 2026-07
-  category: learning-design
-  subcategory: method
-  authors:
-  - Hyukjin Han
-  abstract: Humans develop a sense of perception, space, and logic before they learn
-    language. This paper trains a language model with a developmental curriculum,
-    a training order that proceeds from easy stages t
-  venue: Figshare
 - title: Efficient multi-agent deep reinforcement learning algorithm for multi UAV
     collision avoidance
   date: 2026-03
@@ -171918,19 +171918,6 @@ papers:
   abstract: Trained model weights and teacher logits accompanying AIMSDistill (Expert
     Systems with Applications 332:133691), which distils four specialised teacher
     models into a single lightweight ModernBERT stud
-  venue: Figshare
-- title: 'The Auburn Governance Stack (AGS-1): A Layered Architecture Specification
-    for Verifiable AI Compliance — Cryptographic Model Attestation Infrastructure
-    Mapping EU AI Act, NIST AI RMF, IETF RATS, DORA, and Cross-Jurisdictional Regulatory
-    Requirements'
-  date: 2026-03
-  category: compliance
-  subcategory: theory
-  authors:
-  - Ryan Fields
-  abstract: This specification defines the Auburn Governance Stack (AGS-1), the first
-    published layered architecture for verifiable AI compliance. The architecture
-    follows an hourglass model — analogous to TCP/IP
   venue: Figshare
 - title: 'ChatGPT as a Training Coach: Pattern-Specific Outcomes in Build America
     Buy America Act Training'
@@ -179449,6 +179436,7 @@ papers:
     current educational scenario, the academic sepa
   venue: Indian journal of radiology and imaging - new series/Indian journal of radiology
     and imaging/Indian Journal of Radiology & Imaging
+  url: https://doi.org/10.1055/s-0046-1819653
 - title: 'Digital Transformation in Employee Training: Trends and Effectiveness'
   date: 2026-05
   url: https://doi.org/10.65579/sijri.2026.v2i5.04
@@ -182063,6 +182051,7 @@ papers:
     (AI) and digital tools in healthcare, thereby revolutionizing clinical practice.
     As health systems are increasingly utilizin
   venue: Applied Clinical Informatics
+  url: https://doi.org/10.1055/a-2828-0479
 - title: Be an Edgewalker in an AI world
   date: 2026-04
   url: https://doi.org/10.1097/nmg.0000000000000365
@@ -183481,6 +183470,7 @@ papers:
     become a key driver of industrial modernization, improving efficiency, sustainability,
     and competitiveness. This study evaluates
   venue: Neliti
+  url: https://doi.org/10.31150/ajta.v2i3.1280
 - title: 'Modern C as a Strategic System Language: A Global Systematic Review of Industrial
     Evolution, Architectural Innovation, and Pedagogical Disruption in IT Engineering
     (20202026)'

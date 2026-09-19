@@ -60,7 +60,7 @@
       "term": "Learning Design",
       "kind": "taxonomy",
       "seed": true,
-      "df": 947,
+      "df": 946,
       "match": {
         "type": "field",
         "field": "category",
@@ -72,7 +72,7 @@
         "learning-design/theory",
         "learning-design/systems"
       ],
-      "papers": 947
+      "papers": 946
     },
     {
       "term": "Assessment",
@@ -96,7 +96,7 @@
       "term": "Compliance",
       "kind": "taxonomy",
       "seed": true,
-      "df": 910,
+      "df": 909,
       "match": {
         "type": "field",
         "field": "category",
@@ -108,7 +108,7 @@
         "compliance/method",
         "compliance/mechanism"
       ],
-      "papers": 910
+      "papers": 909
     },
     {
       "term": "Generative Ai Skills",

@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 42 concepts, 335 relationships from 13152 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 335 relationships from 13150 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -9,9 +9,9 @@
 | framework | curated | 1984 |
 | Ai Literacy Construct | taxonomy | 1146 |
 | Ai Literacy Pedagogy | taxonomy | 1139 |
-| Learning Design | taxonomy | 947 |
+| Learning Design | taxonomy | 946 |
 | Assessment | taxonomy | 942 |
-| Compliance | taxonomy | 910 |
+| Compliance | taxonomy | 909 |
 | Generative Ai Skills | taxonomy | 734 |
 | Attitudes Trust | taxonomy | 730 |
 | Workforce Upskilling | taxonomy | 700 |

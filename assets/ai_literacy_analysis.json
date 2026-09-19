@@ -141,7 +141,7 @@
    "id": "learning-design",
    "name": "Learning Design & Curriculum",
    "color": "#d29922",
-   "count": 947,
+   "count": 946,
    "subcategories": [
     {
      "id": "theory",
@@ -156,7 +156,7 @@
     {
      "id": "method",
      "name": "Method",
-     "count": 304
+     "count": 303
     },
     {
      "id": "application",
@@ -190,18 +190,18 @@
     "2023": 33,
     "2024": 162,
     "2025": 310,
-    "2026": 419
+    "2026": 418
    },
    "momentum": {
     "id": "learning-design",
     "name": "Learning Design & Curriculum",
-    "total": 947,
-    "recent": 538,
+    "total": 946,
+    "recent": 537,
     "prior": 271,
-    "growth_pct": 98.5,
+    "growth_pct": 98.2,
     "recent_share": 0.568,
     "papers_per_month": 44.8,
-    "score": 155.3
+    "score": 155.0
    }
   },
   {
@@ -478,12 +478,12 @@
    "id": "compliance",
    "name": "Compliance & AI Act",
    "color": "#79c0ff",
-   "count": 910,
+   "count": 909,
    "subcategories": [
     {
      "id": "theory",
      "name": "Theory",
-     "count": 87
+     "count": 86
     },
     {
      "id": "mechanism",
@@ -527,18 +527,18 @@
     "2023": 6,
     "2024": 78,
     "2025": 304,
-    "2026": 515
+    "2026": 514
    },
    "momentum": {
     "id": "compliance",
     "name": "Compliance & AI Act",
-    "total": 910,
-    "recent": 653,
+    "total": 909,
+    "recent": 652,
     "prior": 214,
-    "growth_pct": 205.1,
-    "recent_share": 0.718,
-    "papers_per_month": 54.4,
-    "score": 276.9
+    "growth_pct": 204.7,
+    "recent_share": 0.717,
+    "papers_per_month": 54.3,
+    "score": 276.4
    }
   },
   {
@@ -1357,7 +1357,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 1622
+   "count": 1621
   },
   {
    "id": "mechanism",
@@ -1367,7 +1367,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 3356
+   "count": 3355
   },
   {
    "id": "application",
@@ -48883,11 +48883,6 @@
   ],
   [
    "2026-03",
-   "compliance",
-   "theory"
-  ],
-  [
-   "2026-03",
    "critical-ai-literacy",
    "application"
   ],
@@ -63690,11 +63685,6 @@
    "2026-07",
    "learning-design",
    "mechanism"
-  ],
-  [
-   "2026-07",
-   "learning-design",
-   "method"
   ],
   [
    "2026-07",
@@ -67221,8 +67211,8 @@
  ],
  "source_breakdown": {
   "arxiv": 2681,
-  "doi": 10151,
-  "other": 320
+  "doi": 10165,
+  "other": 304
  },
  "keyword_bursts": [
   {
@@ -67283,17 +67273,17 @@
   },
   {
    "keyword": "eu ai act",
-   "recent": 158,
-   "total": 211,
+   "recent": 157,
+   "total": 210,
    "burst_score": 1.4,
-   "recent_share": 0.0224
+   "recent_share": 0.0223
   },
   {
    "keyword": "compliance",
-   "recent": 199,
-   "total": 273,
+   "recent": 198,
+   "total": 272,
    "burst_score": 1.36,
-   "recent_share": 0.0283
+   "recent_share": 0.0281
   },
   {
    "keyword": "readiness",
@@ -67314,7 +67304,7 @@
    "recent": 737,
    "total": 1054,
    "burst_score": 1.31,
-   "recent_share": 0.1046
+   "recent_share": 0.1047
   },
   {
    "keyword": "article 4",

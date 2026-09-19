@@ -15,7 +15,7 @@ Evidence-based topic: 1139 curated papers, 726 in the last 12 months. Bridge sig
 
 ## Learning Design
 
-Evidence-based topic: 947 curated papers, 729 in the last 12 months. Bridge signal: 0.00; opportunity: 947.72.
+Evidence-based topic: 946 curated papers, 728 in the last 12 months. Bridge signal: 0.00; opportunity: 946.72.
 
 
 ## Assessment
@@ -25,12 +25,12 @@ Evidence-based topic: 942 curated papers, 811 in the last 12 months. Bridge sign
 
 ## Compliance
 
-Evidence-based topic: 910 curated papers, 819 in the last 12 months. Bridge signal: 0.00; opportunity: 910.81.
+Evidence-based topic: 909 curated papers, 818 in the last 12 months. Bridge signal: 0.00; opportunity: 909.8.
 
 
 ## Generative Ai Skills
 
-Evidence-based topic: 734 curated papers, 554 in the last 12 months. Bridge signal: 0.00; opportunity: 734.54.
+Evidence-based topic: 734 curated papers, 554 in the last 12 months. Bridge signal: 0.00; opportunity: 734.55.
 
 
 ## Attitudes Trust

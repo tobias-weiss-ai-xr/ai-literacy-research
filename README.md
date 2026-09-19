@@ -233,8 +233,8 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 📊 Corpus Statistics
 
-**13,152 papers** across **20 categories**.  
-Sources: **arXiv** 2,681 (20%) · **DOI** 10,151 (77%) · **Other** 320 (2%).  
+**13,150 papers** across **20 categories**.  
+Sources: **arXiv** 2,681 (20%) · **DOI** 10,165 (77%) · **Other** 304 (2%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
 
 ### Top categories
@@ -243,9 +243,9 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-lit
 |----------|--------|--------|-|
 | ai-literacy-construct | **1,146** | 0 | ████████████ |
 | ai-literacy-pedagogy | **1,139** | 0 | ███████████░ |
-| learning-design | **947** | 0 | █████████░░░ |
+| learning-design | **946** | 0 | █████████░░░ |
 | assessment | **942** | 0 | █████████░░░ |
-| compliance | **910** | 0 | █████████░░░ |
+| compliance | **909** | 0 | █████████░░░ |
 | generative-ai-skills | **734** | 0 | ███████░░░░░ |
 | attitudes-trust | **730** | 0 | ███████░░░░░ |
 | workforce-upskilling | **700** | 0 | ███████░░░░░ |
@@ -260,14 +260,14 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-lit
 |------|--------|-|
 | 2024 | 2,250 | █████░░░░░░░ |
 | 2025 | 4,918 | ███████████░ |
-| 2026 | 5,249 | ████████████ |
+| 2026 | 5,247 | ████████████ |
 
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Compliance & AI Act | 910 | 54.4/mo | 72% | 277 |
+| Compliance & AI Act | 909 | 54.3/mo | 72% | 276 |
 | Adoption Behavior & Engagement | 677 | 37.8/mo | 67% | 246 |
 | Assessment & Measurement | 942 | 52.0/mo | 66% | 221 |
 | Teacher AI Literacy | 597 | 32.8/mo | 66% | 211 |

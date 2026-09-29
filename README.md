@@ -8,10 +8,6 @@
 - **GitHub**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research
 - **License**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research/blob/main/LICENSE
 - **CI**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research/actions/workflows/validate.yml
-- **Business Dev**: https://github.com/tobias-weiss-ai-xr/business-development-research
-- **Learning**: https://github.com/tobias-weiss-ai-xr/learning-research
-- **Marketing**: https://github.com/tobias-weiss-ai-xr/marketing-research
-
 
 > 📚 **AI literacy research corpus:** implementation and evaluation of AI-literacy
 > programs in organizations. Part of the family of consistent `*-research` corpora.

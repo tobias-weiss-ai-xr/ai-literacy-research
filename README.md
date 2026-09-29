@@ -21,10 +21,7 @@
 ## 🎯 Overview
 
 This repository is the evidence base for the AI-literacy research program:
-a corpus of 9,653 papers across 20 AI-literacy disciplines, analyzed with
-the same taxonomy → momentum → burst → gap pipeline as
-[business-development-research](https://github.com/tobias-weiss-ai-xr/business-development-research)
-and [graph-research](https://github.com/tobias-weiss-ai-xr/graph-research).
+a corpus of 9,653 papers across 20 AI-literacy disciplines.
 
 **Research target:** the definitive, corpus-grounded guides on
 (1) **implementing** AI-literacy programs (development gap) and

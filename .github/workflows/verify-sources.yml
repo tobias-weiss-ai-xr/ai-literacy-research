@@ -27,7 +27,7 @@ concurrency:
 
 jobs:
   verify:
-    runs-on: [self-hosted, ci-host]
+    runs-on: [self-hosted, linux, ai-literacy]
     steps:
       - uses: actions/checkout@v4
 

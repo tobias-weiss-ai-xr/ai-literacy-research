@@ -39,16 +39,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies (cached)
-        run: pip install pyyaml requests --quiet
+      # ponytail: no setup-python on self-hosted Arch (no prebuilt 3.11 toolchain);
+      # system python3 + job-local venv. Revisit when a ci-host runner serves this repo.
+      - name: Set up Python venv
+        run: rm -rf .venv && python3 -m venv .venv && .venv/bin/pip install --quiet pyyaml requests
 
       - name: Verify paper links (fail on definitively-dead links)
-        run: python scripts/verify_sources.py verify-sources.yaml --fail --no-fail-early
+        run: .venv/bin/python3 scripts/verify_sources.py verify-sources.yaml --fail --no-fail-early
 
       - name: Upload report
         if: always()

@@ -74,6 +74,14 @@ def clean_latex_artifacts(text):
     text = re.sub(r"\$\{([^}]+)\}\$", r"\1", text)
     # Remove \textit{...}, \textbf{...}, \emph{...} etc.
     text = re.sub(r"\\(?:textit|textbf|emph|text|mathrm|mathbf)\{([^}]+)\}", r"\1", text)
+    text = re.sub(r"\\[()\[\]]", "", text)
+    text = re.sub(r"\$", " ", text)
+    # Generic \cmd{...} / \cmd[opt]{...} (possibly nested): keep arg content
+    for _ in range(8):
+        text = re.sub(r"\\[a-zA-Z]+(?:\[[^\]]*\])?\{", "{", text)
+    text = re.sub(r"\\[a-zA-Z]+", "", text)
+    text = re.sub(r"\^\s*\d+", " ", text)
+    text = re.sub(r"[${\[\]}]", " ", text)
     # Clean up double spaces
     text = re.sub(r"\s+", " ", text).strip()
     return text

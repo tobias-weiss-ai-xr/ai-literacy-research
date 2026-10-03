@@ -5,44 +5,26 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 1984,
+      "df": 3045,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 1984,
+      "papers": 3045,
       "top_cells": [
         "ai-literacy-construct/method",
-        "compliance/application",
         "ai-literacy-construct/theory",
+        "ai-literacy-pedagogy/method",
         "assessment/method"
       ]
-    },
-    {
-      "term": "Ai Literacy Construct",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 1146,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "ai-literacy-construct"
-      },
-      "top_cells": [
-        "ai-literacy-construct/method",
-        "ai-literacy-construct/theory",
-        "ai-literacy-construct/systems",
-        "ai-literacy-construct/application"
-      ],
-      "papers": 1146
     },
     {
       "term": "Ai Literacy Pedagogy",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1139,
+      "df": 1883,
       "match": {
         "type": "field",
         "field": "category",
@@ -54,31 +36,31 @@
         "ai-literacy-pedagogy/application",
         "ai-literacy-pedagogy/systems"
       ],
-      "papers": 1139
+      "papers": 1883
     },
     {
-      "term": "Learning Design",
+      "term": "Ai Literacy Construct",
       "kind": "taxonomy",
       "seed": true,
-      "df": 946,
+      "df": 1522,
       "match": {
         "type": "field",
         "field": "category",
-        "value": "learning-design"
+        "value": "ai-literacy-construct"
       },
       "top_cells": [
-        "learning-design/method",
-        "learning-design/application",
-        "learning-design/theory",
-        "learning-design/systems"
+        "ai-literacy-construct/method",
+        "ai-literacy-construct/theory",
+        "ai-literacy-construct/systems",
+        "ai-literacy-construct/application"
       ],
-      "papers": 946
+      "papers": 1522
     },
     {
       "term": "Assessment",
       "kind": "taxonomy",
       "seed": true,
-      "df": 942,
+      "df": 1196,
       "match": {
         "type": "field",
         "field": "category",
@@ -86,17 +68,53 @@
       },
       "top_cells": [
         "assessment/method",
-        "assessment/application",
         "assessment/theory",
+        "assessment/application",
         "assessment/systems"
       ],
-      "papers": 942
+      "papers": 1196
+    },
+    {
+      "term": "Program Evaluation",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1167,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "program-evaluation"
+      },
+      "top_cells": [
+        "program-evaluation/method",
+        "program-evaluation/application",
+        "program-evaluation/theory",
+        "program-evaluation/systems"
+      ],
+      "papers": 1167
+    },
+    {
+      "term": "Learning Design",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1128,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "learning-design"
+      },
+      "top_cells": [
+        "learning-design/method",
+        "learning-design/theory",
+        "learning-design/application",
+        "learning-design/systems"
+      ],
+      "papers": 1128
     },
     {
       "term": "Compliance",
       "kind": "taxonomy",
       "seed": true,
-      "df": 909,
+      "df": 1001,
       "match": {
         "type": "field",
         "field": "category",
@@ -104,17 +122,36 @@
       },
       "top_cells": [
         "compliance/application",
-        "compliance/systems",
         "compliance/method",
-        "compliance/mechanism"
+        "compliance/systems",
+        "compliance/theory"
       ],
-      "papers": 909
+      "papers": 1001
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 976,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 976,
+      "top_cells": [
+        "ai-literacy-pedagogy/method",
+        "ai-literacy-pedagogy/theory",
+        "learning-design/method",
+        "program-evaluation/method"
+      ]
     },
     {
       "term": "Generative Ai Skills",
       "kind": "taxonomy",
       "seed": true,
-      "df": 734,
+      "df": 967,
       "match": {
         "type": "field",
         "field": "category",
@@ -122,71 +159,54 @@
       },
       "top_cells": [
         "generative-ai-skills/systems",
-        "generative-ai-skills/application",
         "generative-ai-skills/method",
-        "generative-ai-skills/mechanism"
+        "generative-ai-skills/application",
+        "generative-ai-skills/theory"
       ],
-      "papers": 734
+      "papers": 967
     },
     {
-      "term": "Attitudes Trust",
-      "kind": "taxonomy",
+      "term": "survey",
+      "kind": "curated",
       "seed": true,
-      "df": 730,
+      "df": 859,
       "match": {
-        "type": "field",
-        "field": "category",
-        "value": "attitudes-trust"
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
       },
+      "papers": 859,
       "top_cells": [
-        "attitudes-trust/method",
-        "attitudes-trust/systems",
-        "attitudes-trust/application",
-        "attitudes-trust/mechanism"
-      ],
-      "papers": 730
+        "ai-literacy-pedagogy/method",
+        "assessment/method",
+        "learning-design/method",
+        "ai-literacy-pedagogy/theory"
+      ]
     },
     {
       "term": "Workforce Upskilling",
       "kind": "taxonomy",
       "seed": true,
-      "df": 700,
+      "df": 783,
       "match": {
         "type": "field",
         "field": "category",
         "value": "workforce-upskilling"
       },
       "top_cells": [
-        "workforce-upskilling/application",
         "workforce-upskilling/method",
+        "workforce-upskilling/application",
         "workforce-upskilling/systems",
         "workforce-upskilling/review"
       ],
-      "papers": 700
-    },
-    {
-      "term": "Adoption Behavior",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 677,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "adoption-behavior"
-      },
-      "top_cells": [
-        "adoption-behavior/method",
-        "adoption-behavior/application",
-        "adoption-behavior/systems",
-        "adoption-behavior/theory"
-      ],
-      "papers": 677
+      "papers": 783
     },
     {
       "term": "Org Implementation",
       "kind": "taxonomy",
       "seed": true,
-      "df": 630,
+      "df": 776,
       "match": {
         "type": "field",
         "field": "category",
@@ -194,35 +214,17 @@
       },
       "top_cells": [
         "org-implementation/application",
-        "org-implementation/systems",
+        "org-implementation/method",
         "org-implementation/theory",
-        "org-implementation/method"
+        "org-implementation/systems"
       ],
-      "papers": 630
-    },
-    {
-      "term": "Program Evaluation",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 625,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "program-evaluation"
-      },
-      "top_cells": [
-        "program-evaluation/application",
-        "program-evaluation/method",
-        "program-evaluation/systems",
-        "program-evaluation/review"
-      ],
-      "papers": 625
+      "papers": 776
     },
     {
       "term": "Teacher Ai Literacy",
       "kind": "taxonomy",
       "seed": true,
-      "df": 597,
+      "df": 752,
       "match": {
         "type": "field",
         "field": "category",
@@ -234,7 +236,80 @@
         "teacher-ai-literacy/application",
         "teacher-ai-literacy/theory"
       ],
-      "papers": 597
+      "papers": 752
+    },
+    {
+      "term": "Attitudes Trust",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 734,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "attitudes-trust"
+      },
+      "top_cells": [
+        "attitudes-trust/method",
+        "attitudes-trust/systems",
+        "attitudes-trust/application",
+        "attitudes-trust/mechanism"
+      ],
+      "papers": 734
+    },
+    {
+      "term": "Higher Education",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 695,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "higher-education"
+      },
+      "top_cells": [
+        "higher-education/method",
+        "higher-education/theory",
+        "higher-education/application",
+        "higher-education/systems"
+      ],
+      "papers": 695
+    },
+    {
+      "term": "Adoption Behavior",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 679,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "adoption-behavior"
+      },
+      "top_cells": [
+        "adoption-behavior/method",
+        "adoption-behavior/application",
+        "adoption-behavior/systems",
+        "adoption-behavior/theory"
+      ],
+      "papers": 679
+    },
+    {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 656,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 656,
+      "top_cells": [
+        "ai-literacy-pedagogy/method",
+        "assessment/method",
+        "learning-design/method",
+        "ai-literacy-pedagogy/theory"
+      ]
     },
     {
       "term": "Tooling",
@@ -255,29 +330,10 @@
       "papers": 579
     },
     {
-      "term": "qualitative",
-      "kind": "curated",
-      "seed": true,
-      "df": 465,
-      "match": {
-        "type": "text",
-        "forms": [
-          "qualitative"
-        ]
-      },
-      "papers": 465,
-      "top_cells": [
-        "ai-literacy-pedagogy/method",
-        "learning-design/method",
-        "assessment/method",
-        "ai-literacy-pedagogy/theory"
-      ]
-    },
-    {
       "term": "Professional Education",
       "kind": "taxonomy",
       "seed": true,
-      "df": 464,
+      "df": 537,
       "match": {
         "type": "field",
         "field": "category",
@@ -286,71 +342,54 @@
       "top_cells": [
         "professional-education/application",
         "professional-education/method",
-        "professional-education/systems",
-        "professional-education/theory"
+        "professional-education/theory",
+        "professional-education/systems"
       ],
-      "papers": 464
+      "papers": 537
     },
     {
-      "term": "survey",
+      "term": "systematic review",
       "kind": "curated",
       "seed": true,
-      "df": 456,
+      "df": 487,
       "match": {
         "type": "text",
         "forms": [
-          "survey"
+          "systematic review"
         ]
       },
-      "papers": 456,
+      "papers": 487,
       "top_cells": [
+        "ai-literacy-construct/review",
         "ai-literacy-pedagogy/method",
-        "assessment/method",
         "program-evaluation/review",
-        "attitudes-trust/review"
+        "ai-literacy-pedagogy/review"
       ]
     },
     {
-      "term": "Higher Education",
-      "kind": "taxonomy",
+      "term": "literature review",
+      "kind": "curated",
       "seed": true,
-      "df": 443,
+      "df": 465,
       "match": {
-        "type": "field",
-        "field": "category",
-        "value": "higher-education"
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
       },
+      "papers": 465,
       "top_cells": [
-        "higher-education/method",
-        "higher-education/application",
-        "higher-education/systems",
-        "higher-education/mechanism"
-      ],
-      "papers": 443
-    },
-    {
-      "term": "Roi Measurement",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 419,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "roi-measurement"
-      },
-      "top_cells": [
-        "roi-measurement/application",
-        "roi-measurement/method",
-        "roi-measurement/systems",
-        "roi-measurement/theory"
-      ],
-      "papers": 419
+        "ai-literacy-pedagogy/method",
+        "ai-literacy-construct/method",
+        "ai-literacy-pedagogy/theory",
+        "learning-design/method"
+      ]
     },
     {
       "term": "Lifelong Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 384,
+      "df": 452,
       "match": {
         "type": "field",
         "field": "category",
@@ -362,13 +401,68 @@
         "lifelong-learning/systems",
         "lifelong-learning/theory"
       ],
-      "papers": 384
+      "papers": 452
+    },
+    {
+      "term": "Roi Measurement",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 447,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "roi-measurement"
+      },
+      "top_cells": [
+        "roi-measurement/application",
+        "roi-measurement/method",
+        "roi-measurement/systems",
+        "roi-measurement/theory"
+      ],
+      "papers": 447
+    },
+    {
+      "term": "Sme Training",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 436,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "sme-training"
+      },
+      "top_cells": [
+        "sme-training/application",
+        "sme-training/method",
+        "sme-training/systems",
+        "sme-training/theory"
+      ],
+      "papers": 436
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 408,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 408,
+      "top_cells": [
+        "ai-literacy-pedagogy/method",
+        "generative-ai-skills/application",
+        "higher-education/application",
+        "ai-literacy-pedagogy/application"
+      ]
     },
     {
       "term": "Critical Ai Literacy",
       "kind": "taxonomy",
       "seed": true,
-      "df": 375,
+      "df": 377,
       "match": {
         "type": "field",
         "field": "category",
@@ -380,50 +474,13 @@
         "critical-ai-literacy/systems",
         "critical-ai-literacy/theory"
       ],
-      "papers": 375
-    },
-    {
-      "term": "Sme Training",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 374,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "sme-training"
-      },
-      "top_cells": [
-        "sme-training/application",
-        "sme-training/systems",
-        "sme-training/method",
-        "sme-training/review"
-      ],
-      "papers": 374
-    },
-    {
-      "term": "systematic review",
-      "kind": "curated",
-      "seed": true,
-      "df": 347,
-      "match": {
-        "type": "text",
-        "forms": [
-          "systematic review"
-        ]
-      },
-      "papers": 347,
-      "top_cells": [
-        "ai-literacy-construct/review",
-        "program-evaluation/review",
-        "ai-literacy-pedagogy/review",
-        "workforce-upskilling/review"
-      ]
+      "papers": 377
     },
     {
       "term": "K12 Education",
       "kind": "taxonomy",
       "seed": true,
-      "df": 337,
+      "df": 348,
       "match": {
         "type": "field",
         "field": "category",
@@ -435,96 +492,39 @@
         "k12-education/application",
         "k12-education/theory"
       ],
-      "papers": 337
-    },
-    {
-      "term": "case study",
-      "kind": "curated",
-      "seed": true,
-      "df": 293,
-      "match": {
-        "type": "text",
-        "forms": [
-          "case study"
-        ]
-      },
-      "papers": 293,
-      "top_cells": [
-        "learning-design/application",
-        "higher-education/application",
-        "generative-ai-skills/application",
-        "ai-literacy-construct/application"
-      ]
-    },
-    {
-      "term": "quantitative",
-      "kind": "curated",
-      "seed": true,
-      "df": 273,
-      "match": {
-        "type": "text",
-        "forms": [
-          "quantitative"
-        ]
-      },
-      "papers": 273,
-      "top_cells": [
-        "learning-design/method",
-        "assessment/method",
-        "ai-literacy-pedagogy/method",
-        "ai-literacy-pedagogy/theory"
-      ]
+      "papers": 348
     },
     {
       "term": "dataset",
       "kind": "curated",
       "seed": true,
-      "df": 264,
+      "df": 338,
       "match": {
         "type": "text",
         "forms": [
           "dataset"
         ]
       },
-      "papers": 264,
+      "papers": 338,
       "top_cells": [
         "generative-ai-skills/systems",
-        "compliance/application",
         "generative-ai-skills/application",
-        "adoption-behavior/application"
-      ]
-    },
-    {
-      "term": "literature review",
-      "kind": "curated",
-      "seed": true,
-      "df": 245,
-      "match": {
-        "type": "text",
-        "forms": [
-          "literature review"
-        ]
-      },
-      "papers": 245,
-      "top_cells": [
-        "ai-literacy-pedagogy/method",
-        "learning-design/method",
-        "ai-literacy-construct/method",
-        "ai-literacy-pedagogy/review"
+        "compliance/application",
+        "assessment/method"
       ]
     },
     {
       "term": "benchmark",
       "kind": "curated",
       "seed": true,
-      "df": 233,
+      "df": 267,
       "match": {
         "type": "text",
         "forms": [
           "benchmark"
         ]
       },
-      "papers": 233,
+      "papers": 267,
       "top_cells": [
         "generative-ai-skills/application",
         "generative-ai-skills/systems",
@@ -536,113 +536,132 @@
       "term": "taxonomy",
       "kind": "curated",
       "seed": true,
-      "df": 139,
+      "df": 193,
       "match": {
         "type": "text",
         "forms": [
           "taxonomy"
         ]
       },
-      "papers": 139,
+      "papers": 193,
       "top_cells": [
         "generative-ai-skills/systems",
-        "generative-ai-skills/application",
-        "generative-ai-skills/review",
-        "program-evaluation/review"
+        "ai-literacy-construct/method",
+        "ai-literacy-pedagogy/method",
+        "generative-ai-skills/application"
       ]
     },
     {
       "term": "experiment",
       "kind": "curated",
       "seed": true,
-      "df": 129,
+      "df": 163,
       "match": {
         "type": "text",
         "forms": [
           "experiment"
         ]
       },
-      "papers": 129,
+      "papers": 163,
       "top_cells": [
         "attitudes-trust/systems",
+        "ai-literacy-pedagogy/method",
         "generative-ai-skills/systems",
-        "attitudes-trust/mechanism",
-        "attitudes-trust/method"
+        "attitudes-trust/mechanism"
       ]
     },
     {
       "term": "interview",
       "kind": "curated",
       "seed": true,
-      "df": 59,
+      "df": 97,
       "match": {
         "type": "text",
         "forms": [
           "interview"
         ]
       },
-      "papers": 59,
+      "papers": 97,
       "top_cells": [
-        "generative-ai-skills/systems",
+        "ai-literacy-pedagogy/theory",
         "learning-design/method",
-        "ai-literacy-construct/theory",
-        "org-implementation/theory"
+        "professional-education/theory",
+        "ai-literacy-construct/theory"
       ]
     },
     {
       "term": "mixed methods",
       "kind": "curated",
       "seed": true,
-      "df": 47,
+      "df": 66,
       "match": {
         "type": "text",
         "forms": [
           "mixed methods"
         ]
       },
-      "papers": 47,
+      "papers": 66,
       "top_cells": [
         "ai-literacy-pedagogy/method",
+        "program-evaluation/method",
         "learning-design/method",
-        "assessment/theory",
-        "ai-literacy-pedagogy/application"
+        "ai-literacy-construct/method"
       ]
     },
     {
       "term": "reproducibility",
       "kind": "curated",
       "seed": true,
-      "df": 26,
+      "df": 47,
       "match": {
         "type": "text",
         "forms": [
           "reproducibility"
         ]
       },
-      "papers": 26,
+      "papers": 47,
       "top_cells": [
+        "ai-literacy-pedagogy/method",
         "higher-education/systems",
-        "generative-ai-skills/systems",
-        "program-evaluation/application",
-        "ai-literacy-construct/review"
+        "ai-literacy-construct/method",
+        "generative-ai-skills/systems"
       ]
     },
     {
       "term": "peer review",
       "kind": "curated",
       "seed": true,
-      "df": 25,
+      "df": 45,
       "match": {
         "type": "text",
         "forms": [
           "peer review"
         ]
       },
-      "papers": 25,
+      "papers": 45,
       "top_cells": [
+        "ai-literacy-pedagogy/method",
         "higher-education/systems",
         "higher-education/development",
-        "professional-education/systems",
+        "professional-education/systems"
+      ]
+    },
+    {
+      "term": "triangulation",
+      "kind": "curated",
+      "seed": true,
+      "df": 34,
+      "match": {
+        "type": "text",
+        "forms": [
+          "triangulation"
+        ]
+      },
+      "papers": 34,
+      "top_cells": [
+        "learning-design/method",
+        "program-evaluation/method",
+        "teacher-ai-literacy/method",
         "ai-literacy-pedagogy/method"
       ]
     },
@@ -650,76 +669,57 @@
       "term": "research gap",
       "kind": "curated",
       "seed": true,
-      "df": 14,
+      "df": 29,
       "match": {
         "type": "text",
         "forms": [
           "research gap"
         ]
       },
-      "papers": 14,
+      "papers": 29,
       "top_cells": [
-        "attitudes-trust/mechanism",
-        "generative-ai-skills/development",
-        "generative-ai-skills/application",
-        "critical-ai-literacy/review"
+        "ai-literacy-construct/method",
+        "ai-literacy-pedagogy/theory",
+        "ai-literacy-construct/theory",
+        "ai-literacy-pedagogy/method"
       ]
     },
     {
       "term": "grounded theory",
       "kind": "curated",
       "seed": true,
-      "df": 12,
+      "df": 16,
       "match": {
         "type": "text",
         "forms": [
           "grounded theory"
         ]
       },
-      "papers": 12,
+      "papers": 16,
       "top_cells": [
         "learning-design/theory",
         "ai-literacy-construct/method",
         "assessment/theory",
-        "learning-design/systems"
+        "generative-ai-skills/theory"
       ]
     },
     {
       "term": "open access",
       "kind": "curated",
       "seed": true,
-      "df": 7,
+      "df": 15,
       "match": {
         "type": "text",
         "forms": [
           "open access"
         ]
       },
-      "papers": 7,
+      "papers": 15,
       "top_cells": [
+        "ai-literacy-pedagogy/method",
+        "ai-literacy-pedagogy/theory",
         "ai-literacy-pedagogy/mechanism",
-        "learning-design/systems",
-        "higher-education/development",
-        "assessment/systems"
-      ]
-    },
-    {
-      "term": "triangulation",
-      "kind": "curated",
-      "seed": true,
-      "df": 6,
-      "match": {
-        "type": "text",
-        "forms": [
-          "triangulation"
-        ]
-      },
-      "papers": 6,
-      "top_cells": [
-        "learning-design/method",
-        "attitudes-trust/systems",
-        "adoption-behavior/systems",
-        "sme-training/systems"
+        "learning-design/systems"
       ]
     },
     {

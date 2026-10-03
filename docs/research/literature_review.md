@@ -1,7 +1,7 @@
 # AI-Literacy Research — Literature Review
 
-**Generated:** 2026-08-15  
-**Corpus:** 9,653 papers across 20 categories
+**Generated:** 2026-10-03  
+**Corpus:** 16,459 papers across 20 categories
 
 > Synthesis of the AI-literacy research corpus. Category insights are drawn from title/abstract analysis of the papers themselves.
 
@@ -11,14 +11,14 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Compliance & AI Act | 755 |
-| 2 | Generative AI Skills | 734 |
-| 3 | Attitudes, Trust & Acceptance | 731 |
-| 4 | Tools, Platforms & AI Tutors | 581 |
-| 5 | AI Literacy Constructs & Models | 567 |
+| 1 | AI Literacy Pedagogy | 1883 |
+| 2 | AI Literacy Constructs & Models | 1522 |
+| 3 | Assessment & Measurement | 1196 |
+| 4 | Program Evaluation & Outcomes | 1167 |
+| 5 | Learning Design & Curriculum | 1128 |
 
 **Time span:** 1984–2026 (median year 2013)
-**Dominant aspects:** Application (2382), Method (2164), Systems & Technology (1940)
+**Dominant aspects:** Method (5089), Application (3146), Theory (2705)
 
 ---
 
@@ -28,26 +28,26 @@ Categories ranked by a momentum score combining recent output density with year-
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Compliance & AI Act | 755 | 518 | 201 | +157.7% | 69% | 43.2 |
-| Generative AI Skills | 734 | 431 | 181 | +138.1% | 59% | 35.9 |
-| Adoption Behavior & Engagement | 521 | 315 | 143 | +120.3% | 60% | 26.2 |
-| Attitudes, Trust & Acceptance | 731 | 385 | 249 | +54.6% | 53% | 32.1 |
-| Org Implementation & Change | 443 | 239 | 159 | +50.3% | 54% | 19.9 |
-| Higher Education | 437 | 240 | 167 | +43.7% | 55% | 20.0 |
-| Teacher AI Literacy | 397 | 205 | 154 | +33.1% | 52% | 17.1 |
-| Assessment & Measurement | 409 | 191 | 165 | +15.8% | 47% | 15.9 |
-| Lifelong & Self-Directed Learning | 385 | 168 | 148 | +13.5% | 44% | 14.0 |
-| Critical & Ethical AI Literacy | 372 | 175 | 162 | +8.0% | 47% | 14.6 |
-| ROI & Business Impact | 423 | 194 | 193 | +0.5% | 46% | 16.2 |
-| AI Literacy Constructs & Models | 567 | 243 | 235 | +3.4% | 43% | 20.2 |
-| SME Training & Adoption | 375 | 166 | 164 | +1.2% | 44% | 13.8 |
-| Professional & Executive Ed | 461 | 188 | 186 | +1.1% | 41% | 15.7 |
-| Tools, Platforms & AI Tutors | 581 | 239 | 255 | -6.3% | 41% | 19.9 |
-| Learning Design & Curriculum | 466 | 171 | 195 | -12.3% | 37% | 14.2 |
-| Workforce Upskilling | 455 | 170 | 213 | -20.2% | 37% | 14.2 |
-| Program Evaluation & Outcomes | 409 | 132 | 170 | -22.4% | 32% | 11.0 |
-| AI Literacy Pedagogy | 392 | 127 | 176 | -27.8% | 32% | 10.6 |
-| K-12 Education | 340 | 113 | 165 | -31.5% | 33% | 9.4 |
+| Program Evaluation & Outcomes | 1167 | 853 | 192 | +344.3% | 73% | 71.1 |
+| Assessment & Measurement | 1196 | 847 | 261 | +224.5% | 71% | 70.6 |
+| Compliance & AI Act | 1001 | 721 | 229 | +214.8% | 72% | 60.1 |
+| Teacher AI Literacy | 752 | 527 | 176 | +199.4% | 70% | 43.9 |
+| Org Implementation & Change | 776 | 540 | 181 | +198.3% | 70% | 45.0 |
+| AI Literacy Constructs & Models | 1522 | 1005 | 353 | +184.7% | 66% | 83.8 |
+| Generative AI Skills | 967 | 610 | 217 | +181.1% | 63% | 50.8 |
+| Adoption Behavior & Engagement | 679 | 431 | 175 | +146.3% | 64% | 35.9 |
+| Higher Education | 695 | 456 | 195 | +133.8% | 66% | 38.0 |
+| AI Literacy Pedagogy | 1883 | 1106 | 461 | +139.9% | 59% | 92.2 |
+| Learning Design & Curriculum | 1128 | 686 | 291 | +135.7% | 61% | 57.2 |
+| Workforce Upskilling | 783 | 469 | 225 | +108.4% | 60% | 39.1 |
+| Lifelong & Self-Directed Learning | 452 | 208 | 167 | +24.6% | 46% | 17.3 |
+| Attitudes, Trust & Acceptance | 734 | 334 | 273 | +22.3% | 46% | 27.8 |
+| Professional & Executive Ed | 537 | 235 | 190 | +23.7% | 44% | 19.6 |
+| SME Training & Adoption | 436 | 203 | 175 | +16.0% | 47% | 16.9 |
+| ROI & Business Impact | 447 | 188 | 203 | -7.4% | 42% | 15.7 |
+| Critical & Ethical AI Literacy | 377 | 149 | 180 | -17.2% | 40% | 12.4 |
+| Tools, Platforms & AI Tutors | 579 | 200 | 272 | -26.5% | 34% | 16.7 |
+| K-12 Education | 348 | 105 | 161 | -34.8% | 30% | 8.8 |
 
 ---
 
@@ -57,27 +57,27 @@ Categories ranked by a momentum score combining recent output density with year-
 
 | Cell | Papers |
 |------|--------|
-| `org-implementation/evaluation` | 2 |
-| `sme-training/evaluation` | 2 |
-| `k12-education/evaluation` | 4 |
-| `workforce-upskilling/evaluation` | 5 |
-| `compliance/evaluation` | 5 |
-| `lifelong-learning/evaluation` | 5 |
-| `ai-literacy-construct/evaluation` | 6 |
-| `critical-ai-literacy/evaluation` | 6 |
+| `assessment/experiment` | 1 |
+| `program-evaluation/experiment` | 2 |
+| `workforce-upskilling/survey` | 2 |
+| `org-implementation/survey` | 2 |
+| `generative-ai-skills/survey` | 2 |
+| `ai-literacy-construct/survey` | 3 |
+| `higher-education/experiment` | 3 |
+| `teacher-ai-literacy/survey` | 3 |
 
 **White-space cells** (low total but fast-growing):
 
 | Cell | Total | Last-12m | 12-m share |
 |------|-------:|---------:|-----------:|
-| `attitudes-trust/evaluation` | 16 | 14 | 88% |
-| `ai-literacy-construct/evaluation` | 6 | 5 | 83% |
+| `higher-education/survey` | 10 | 10 | 100% |
+| `org-implementation/evaluation` | 6 | 6 | 100% |
+| `program-evaluation/survey` | 4 | 4 | 100% |
+| `higher-education/experiment` | 3 | 3 | 100% |
+| `teacher-ai-literacy/survey` | 3 | 3 | 100% |
+| `ai-literacy-construct/evaluation` | 18 | 16 | 89% |
+| `assessment/survey` | 11 | 9 | 82% |
 | `compliance/evaluation` | 5 | 4 | 80% |
-| `higher-education/review` | 17 | 13 | 76% |
-| `tooling/evaluation` | 16 | 12 | 75% |
-| `org-implementation/mechanism` | 25 | 17 | 68% |
-| `compliance/development` | 19 | 13 | 68% |
-| `teacher-ai-literacy/evaluation` | 11 | 7 | 64% |
 
 ---
 
@@ -87,75 +87,33 @@ Top venues by paper count (where present in the metadata):
 
 | Venue | Papers |
 |-------|--------|
-| SSRN Electronic Journal | 183 |
-| Zenodo (CERN European Organization for Nuclear Research) | 183 |
-| Education and Information Technologies | 112 |
-| Frontiers in Education | 84 |
-| Education Sciences | 75 |
-| Lecture notes in computer science | 65 |
-| Advances in computational intelligence and robotics book series | 60 |
-| arXiv | 49 |
-| Frontiers in Psychology | 48 |
-| BMC Medical Education | 46 |
+| Zenodo (CERN European Organization for Nuclear Research) | 918 |
+| SSRN Electronic Journal | 214 |
+| Frontiers in Education | 175 |
+| Education and Information Technologies | 148 |
+| Advances in computational intelligence and robotics book series | 148 |
+| Education Sciences | 132 |
+| Lecture notes in computer science | 114 |
+| arXiv | 110 |
+| Research Square | 110 |
+| Frontiers in Psychology | 106 |
 
 ---
 
 
 ## Category Insights
 
-### Compliance & AI Act (`compliance`)
+### AI Literacy Pedagogy (`ai-literacy-pedagogy`)
 
-Compliance research is driven by the EU AI Act, including Article 4 literacy obligations. Papers document regulatory complexity and compliance cost for SMEs — ALaaS as 'practical interpreter' is well positioned against this evidence.
+Pedagogy papers test teaching methods for AI literacy across settings; the evidence favors hands-on, task-based and critical-reflection approaches over tool-centric instruction.
 
-**Corpus size:** 755 papers
-
-**Recent papers:**
-
-- [2026-08] From data literacy to AI-integrated Laboratory 4.0 — https://doi.org/10.1515/labmed-2026-0098
-- [2026-08] KI-Didaktik: A Terminological Framework for the Systematic Vocabulary of AI-Integrated Teaching, AI  — https://doi.org/10.5281/zenodo.21748742
-- [2026-08] <b>Three Frameworks, One </b><b>System: The AI Governance </b><b>Convergence Playbook, </b><b>Guidan — https://doi.org/10.6084/m9.figshare.33137024.v2
-
----
-
-### Generative AI Skills (`generative-ai-skills`)
-
-Generative-AI skills research covers prompting, LLM reliance and tool-task fit. Reliance patterns (over-trust vs avoidance) are the most actionable findings for curriculum design.
-
-**Corpus size:** 734 papers
+**Corpus size:** 1883 papers
 
 **Recent papers:**
 
-- [2026-08] What Keeps Agent Skills from Being Reusable? Evidence from 138K SKILL.md Files — https://arxiv.org/abs/2608.08453v1
-- [2026-08] Unaccountable Delegation, Fading Skills: Mapping the Risks of Workplace AI Agents — https://arxiv.org/abs/2608.08601v1
-- [2026-08] DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution — https://arxiv.org/abs/2608.12486v1
-
----
-
-### Attitudes, Trust & Acceptance (`attitudes-trust`)
-
-Attitudes and trust research (TAM, self-efficacy, AI anxiety) explains who engages with training and who resists. Expectation recalibration appears as a success factor across adoption studies.
-
-**Corpus size:** 731 papers
-
-**Recent papers:**
-
-- [2026-08] Analyzing academic acceptance of artificial intelligence using extended technology acceptance model — https://doi.org/10.11591/ijai.v15.i4.pp3090-3102
-- [2026-08] Toward Resilient Human-AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading  — https://arxiv.org/abs/2608.05614v1
-- [2026-08] Gradient Under Microscope: Benchmarking Resource Utilization of Memory-Efficient Gradient Computatio — https://arxiv.org/abs/2608.08961v1
-
----
-
-### Tools, Platforms & AI Tutors (`tooling`)
-
-Tooling research covers AI tutors, chatbots and learning platforms. AI-assisted instruction shows promise for scaling literacy programs; evidence on long-term learning is still emerging.
-
-**Corpus size:** 581 papers
-
-**Recent papers:**
-
-- [2026-08] A bottom-up taxonomy of student discourse with a Socratic AI physics tutor — https://arxiv.org/abs/2608.07373v1
-- [2026-08] Towards Sustainable Learning in Online Education: A Reinforcement Learning Approach — https://arxiv.org/abs/2608.11245v1
-- [2026-08] Methodologies for Improving the Quality of AI Tutoring in K-12 Education — https://arxiv.org/abs/2608.11259v1
+- [2026-10] Unsettling AI literacies: ethics, power and the pedagogies of critical research — https://doi.org/10.36556/eol.v21i1.2151
+- [2026-10] METHODS FOR ENHANCING TEACHERS' MEDIA LITERACY: PEDAGOGICAL APPROACHES AND A METHODOLOGICAL MODEL IN — https://doi.org/10.5281/zenodo.23082795
+- [2026-10] Reconfiguring faculty agency in the age of generative AI: Authorship, pedagogical judgement, and aut — https://doi.org/10.1080/14703297.2026.2742477
 
 ---
 
@@ -163,111 +121,13 @@ Tooling research covers AI tutors, chatbots and learning platforms. AI-assisted 
 
 AI-literacy construct research is consolidating frameworks and taxonomies: definitions, dimensions and stage models (e.g. avoidance versus uncritical reliance as extremes) dominate recent output. A consensus definition is still missing — white space for synthesis.
 
-**Corpus size:** 567 papers
+**Corpus size:** 1522 papers
 
 **Recent papers:**
 
-- [2026-08] AI Literacy for Legal Translation: Developing Digital Resilience — https://arxiv.org/abs/2608.04641v1
-- [2026-08] Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 — https://arxiv.org/abs/2608.01705v1
-- [2026-07] AI Literacy: An Exercise in Power-Knowledge — https://arxiv.org/abs/2607.27547v1
-
----
-
-### Adoption Behavior & Engagement (`adoption-behavior`)
-
-Adoption-behavior papers study usage patterns, personas and engagement after training. Persona migration and expectation recalibration are the emergent themes — inputs for onboarding design.
-
-**Corpus size:** 521 papers
-
-**Recent papers:**
-
-- [2026-08] The Fallback as Signal: Preserved Human Skill, Liability, and Competence Signaling in Credence-Good  — https://arxiv.org/abs/2608.04276v2
-- [2026-08] Do Employees Double-Check AI? Verification Behavior of GenAI Outputs in The Workplace — https://aisel.aisnet.org/treos_amcis2026/148
-- [2026-08] Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems — https://arxiv.org/abs/2608.10218v1
-
----
-
-### Learning Design & Curriculum (`learning-design`)
-
-Learning-design research covers curriculum, workshops and courses. Adult-learning design principles (spacing, active learning, micro-learning) are imported from the learning sciences — cross-corpus evidence from learning-research applies directly.
-
-**Corpus size:** 466 papers
-
-**Recent papers:**
-
-- [2026-08] How Far Do Simple Transformations Translate Across Text Embedding Models? — https://arxiv.org/abs/2608.05980v1
-- [2026-08] Structured Local Differential Modeling for AI-Generated Image Detection — https://arxiv.org/abs/2608.12811v1
-- [2026-08] Generalizable and Computational Efficient Channel Extrapolation for 6G: A Configurable AI-Driven Fra — https://arxiv.org/abs/2608.04630v1
-
----
-
-### Professional & Executive Ed (`professional-education`)
-
-Professional and executive education research covers corporate training, micro-credentials and certification — directly relevant to ALaaS tier and certificate design.
-
-**Corpus size:** 461 papers
-
-**Recent papers:**
-
-- [2026-08] A Study of Cursorrules Files in GitHub Open Source Projects — https://arxiv.org/abs/2608.10622v1
-- [2026-08] The Ground Is Shifting: A Reflection on the Foundations of Software Measurement — https://arxiv.org/abs/2608.03007v1
-- [2026-08] Rethinking Higher Education: From Fixed Curricula to Learnity Graphs — https://arxiv.org/abs/2608.08543v1
-
----
-
-### Workforce Upskilling (`workforce-upskilling`)
-
-Workforce upskilling papers connect AI training to firm outcomes; panel studies (e.g. German establishment data) show training mediates adoption ROI — the empirical backbone of the ALaaS offer.
-
-**Corpus size:** 455 papers
-
-**Recent papers:**
-
-- [2026-08] Pathways to Quantum Science for High-School and Incoming College Students — https://arxiv.org/abs/2608.12437v1
-- [2026-08] Sovereign by necessity? Frontier AI export controls, cyber security, and the limits of national AI c — https://arxiv.org/abs/2608.13272v1
-- [2026-08] The Capability Ladder: A Curriculum-Modernization Framework for Workforce Readiness in the AI Era — https://arxiv.org/abs/2608.07779v1
-
----
-
-### Org Implementation & Change (`org-implementation`)
-
-Org implementation research covers change management, readiness and capability building. The evidence stresses organizational factors (management support, processes) over tool access — adoption failures are mostly organizational.
-
-**Corpus size:** 443 papers
-
-**Recent papers:**
-
-- [2026-08] Adoption of Artificial Intelligence in Accounting Practices: A Study of Moroccan Accounting Firms — https://doi.org/10.1108/978-1-80592-941-320261002
-- [2026-08] AI-ASSISTED DATA-DRIVEN DECISION-MAKING IN SCHOOL MANAGEMENT: A MODEL FOR DEVELOPING SCHOOL LEADERS' — https://doi.org/10.5281/zenodo.21906762
-- [2026-08] Enterprise AI Economics: A Framework for Measuring, Evaluating, and Optimizing Enterprise AI Investm — https://doi.org/10.5281/zenodo.21854311
-
----
-
-### Higher Education (`higher-education`)
-
-Higher education is the most active application cell: generative-AI integration, academic integrity and mandatory literacy courses proliferate. Transferable to workplace training via course design.
-
-**Corpus size:** 437 papers
-
-**Recent papers:**
-
-- [2026-08] Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis — https://arxiv.org/abs/2608.05898v1
-- [2026-08] DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text — https://arxiv.org/abs/2608.01046v1
-- [2026-08] Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagia — https://arxiv.org/abs/2608.03859v2
-
----
-
-### ROI & Business Impact (`roi-measurement`)
-
-ROI measurement connects training to productivity and firm performance. Econometric studies exist at firm level; training-specific ROI evidence is sparse — white space for the definitive measurement framework.
-
-**Corpus size:** 423 papers
-
-**Recent papers:**
-
-- [2026-08] Application Failures and Machine Computational Efficiency — https://arxiv.org/abs/2608.05408v1
-- [2026-08] Corporate AI Safety Governance and Firm Productivity — https://doi.org/10.17632/t5f2ft6jhd.2
-- [2026-08] PREreview of "AI-Ready Regional Innovation Governance in Kazakhstan: Spatial Econometric and Explain — https://doi.org/10.5281/zenodo.21796275
+- [2026-10] THE AI LITERACY DIVIDE: ACCESS, CAPABILITY, AND INEQUALITY IN THE AGE OF GENERATIVE AI — https://doi.org/10.5281/zenodo.23103700
+- [2026-10] Rethinking the Structure of AI Literacy in Generative AI Educational Systems: Descriptive Patterns o — https://doi.org/10.3390/systems14101231
+- [2026-10] Data Governance and Auditor Readiness for Generative AI-Based Audits: A Survey Study of Indonesian E — https://doi.org/10.61194/ijtc.v7i4.2497
 
 ---
 
@@ -275,13 +135,13 @@ ROI measurement connects training to productivity and firm performance. Economet
 
 Assessment research is fast-moving but fragmented: many self-report scales, few task-based or performance measures, limited psychometric validation. A validated, occupation-aligned assessment is a clear gap.
 
-**Corpus size:** 409 papers
+**Corpus size:** 1196 papers
 
 **Recent papers:**
 
-- [2026-08] Generative AI Literacy Scale — https://doi.org/10.1037/t9999-99155-000
-- [2026-08] Nine in Ten Firms Report No Productivity Effect From AI — and Use It 1.5 Hours a Week: The Argument  — https://frits.ai/research/bimodal-ai-outcomes-and-the-operator-skill-gap/
-- [2026-08] Beyond Prompt Engineering: Instructional Compression, Methodological Displacement, and the Emergence — https://doi.org/10.5281/zenodo.21867177
+- [2026-10] AI-Assisted Instructional Design Studios for Literacy and UDL in School-University Partnerships — https://doi.org/10.4018/979-8-3373-9519-7.ch001
+- [2026-10] MIT: AI & pendidikan — https://doi.org/10.5281/zenodo.23071886
+- [2026-10] Generative-AI/LLM-Enabled E-Assessment in Higher Education: A Bibliometric Analysis of Research Tren — https://doi.org/10.3390/computers15100665
 
 ---
 
@@ -289,13 +149,83 @@ Assessment research is fast-moving but fragmented: many self-report scales, few 
 
 Program evaluation applies Kirkpatrick-style outcome models to AI training. Few studies reach levels 3–4 (behavior, business results) — the evaluation gap this research program targets.
 
-**Corpus size:** 409 papers
+**Corpus size:** 1167 papers
 
 **Recent papers:**
 
-- [2026-08] Nuclear fusion for AI: A pathway to power data centers sustainably — https://arxiv.org/abs/2608.10454v1
-- [2026-08] Causal Inference with Unstructured Outcomes — https://arxiv.org/abs/2608.03085v1
-- [2026-08] Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep — https://arxiv.org/abs/2608.09998v1
+- [2026-10] Designing for implementation: development, delivery, and multi-method evaluation of a clinician trai — https://doi.org/10.3389/frhs.2026.1937910
+- [2026-10] Advancements in Orthopedic Training: A Scoping Review of AR and VR Technologies for Resident Educati — https://doi.org/10.17605/osf.io/xrvun
+- [2026-10] Design, implementation, and evaluation of a comprehensive educational program for microbiology labor — https://doi.org/10.1038/s41598-026-74563-8
+
+---
+
+### Learning Design & Curriculum (`learning-design`)
+
+Learning-design research covers curriculum, workshops and courses. Adult-learning design principles (spacing, active learning, micro-learning) are imported from the learning sciences — cross-corpus evidence from learning-research applies directly.
+
+**Corpus size:** 1128 papers
+
+**Recent papers:**
+
+- [2026-10] Exploring the Integration of Emerging Technologies in Promoting Inclusive Learning Environments in A — https://doi.org/10.56201/wjimt.v9.no10.2025.pg163.173
+- [2026-09] Enhancing the Accessibility of Instructional Content in Higher Education Through AI — https://oasis.library.unlv.edu/aiclassroom/2026/full_schedule/9
+- [2026-09] Editorial: Generative artificial intelligence and writing instruction in K–12 and college education — https://doi.org/10.3389/feduc.2026.1984450
+
+---
+
+### Compliance & AI Act (`compliance`)
+
+Compliance research is driven by the EU AI Act, including Article 4 literacy obligations. Papers document regulatory complexity and compliance cost for SMEs — ALaaS as 'practical interpreter' is well positioned against this evidence.
+
+**Corpus size:** 1001 papers
+
+**Recent papers:**
+
+- [2026-10] The Data Protection Regime in India: Constitutional Privacy to Statutory Compliances — https://doi.org/10.63108/vab.ldd.1.17
+- [2026-09] Workplace AI ethics through a multi-stakeholder lens: a qualitative inquiry into responsibility, tru — https://doi.org/10.1007/s43681-026-01344-4
+- [2026-09] Translating deep learning innovations into clinical medical imaging practice — https://doi.org/10.1007/s10462-026-11714-3
+
+---
+
+### Generative AI Skills (`generative-ai-skills`)
+
+Generative-AI skills research covers prompting, LLM reliance and tool-task fit. Reliance patterns (over-trust vs avoidance) are the most actionable findings for curriculum design.
+
+**Corpus size:** 967 papers
+
+**Recent papers:**
+
+- [2026-10] Prompt engineering for academic and clinical writing: A practical guide for clinicians — https://doi.org/10.4103/sja.sja_501_26
+- [2026-10] Understanding Student Use of Large Language Models Across Computer Science Subfields — https://arxiv.org/abs/2610.01158
+- [2026-10] Assessment of biosecurity practices in wildlife rehabilitation facilities in the United States: impl — https://doi.org/10.53607/wrb.v44.318
+
+---
+
+### Workforce Upskilling (`workforce-upskilling`)
+
+Workforce upskilling papers connect AI training to firm outcomes; panel studies (e.g. German establishment data) show training mediates adoption ROI — the empirical backbone of the ALaaS offer.
+
+**Corpus size:** 783 papers
+
+**Recent papers:**
+
+- [2026-10] Closing the Cybersecurity Talent Gap: A Strategic Workforce Readiness Framework — https://doi.org/10.56201/wjimt.v9.no6.2025.pg230.241
+- [2026-10] Navigating the AI Revolution: A Critical Framework for Organizational Transformation — https://doi.org/10.70175/aistrategy.2026.1.1.3
+- [2026-10] Responsible AI Governance and Talent Development — https://doi.org/10.46787/ijaipil.v1i2.8040
+
+---
+
+### Org Implementation & Change (`org-implementation`)
+
+Org implementation research covers change management, readiness and capability building. The evidence stresses organizational factors (management support, processes) over tool access — adoption failures are mostly organizational.
+
+**Corpus size:** 776 papers
+
+**Recent papers:**
+
+- [2026-09] From uniqueness to necessity: do academic institutions in developing countries want to adopt artific — https://doi.org/10.1108/msar-01-2026-0039
+- [2026-09] Enterprise AI Adoption: Why 96% of Users Never Engage — https://doi.org/10.5281/zenodo.22827422
+- [2026-09] Ensemble of Artificial Neural Network and Deep Learning for the Prevention of Real-Time Phishing of  — https://doi.org/10.56201/ijcsmt.vol.12.no2.2026.pg82.120
 
 ---
 
@@ -303,27 +233,83 @@ Program evaluation applies Kirkpatrick-style outcome models to AI training. Few 
 
 Teacher AI literacy is a multiplier: teachers' own literacy and attitudes predict student outcomes. Teacher training studies offer transferable train-the-trainer evidence for ALaaS coaches.
 
-**Corpus size:** 397 papers
+**Corpus size:** 752 papers
 
 **Recent papers:**
 
-- [2026-08] When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education — https://arxiv.org/abs/2608.03973v1
-- [2026-08] Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment — https://arxiv.org/abs/2608.04198v1
-- [2026-08] From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preve — https://arxiv.org/abs/2608.06322v2
+- [2026-10] Antecedents, Impacts and Coping Strategies for Technostress Among Teachers and Learners in Nigeria:  — https://doi.org/10.17605/osf.io/b8q4z
+- [2026-09] AI, Collaboration, and Problem-Based Learning — https://doi.org/10.4018/979-8-2600-0383-1.ch004
+- [2026-09] Supplemental Material for:A Single-Center Retrospective Analysis of Artificial Intelligence-Based Em — https://doi.org/10.6084/m9.figshare.33922147.v1
 
 ---
 
-### AI Literacy Pedagogy (`ai-literacy-pedagogy`)
+### Attitudes, Trust & Acceptance (`attitudes-trust`)
 
-Pedagogy papers test teaching methods for AI literacy across settings; the evidence favors hands-on, task-based and critical-reflection approaches over tool-centric instruction.
+Attitudes and trust research (TAM, self-efficacy, AI anxiety) explains who engages with training and who resists. Expectation recalibration appears as a success factor across adoption studies.
 
-**Corpus size:** 392 papers
+**Corpus size:** 734 papers
 
 **Recent papers:**
 
-- [2026-08] The Order Is the Guarantee: Verifier-Budgeted Code Deletion with Static-First Learned Proposals — https://arxiv.org/abs/2608.04611v1
-- [2026-08] A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era — https://arxiv.org/abs/2608.11540v1
-- [2026-07] Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Educ — https://arxiv.org/abs/2607.06721v1
+- [2026-09] Reflective AI use and student engagement in AI-supported programming: technology acceptance, program — https://doi.org/10.3389/fpsyg.2026.1929887
+- [2026-08] Analyzing academic acceptance of artificial intelligence using extended technology acceptance model — https://doi.org/10.11591/ijai.v15.i4.pp3090-3102
+- [2026-08] Toward Resilient Human-AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading  — https://arxiv.org/abs/2608.05614
+
+---
+
+### Higher Education (`higher-education`)
+
+Higher education is the most active application cell: generative-AI integration, academic integrity and mandatory literacy courses proliferate. Transferable to workplace training via course design.
+
+**Corpus size:** 695 papers
+
+**Recent papers:**
+
+- [2026-10] AI Across the Curriculum: Early Insights from UNR Students and Faculty — https://oasis.library.unlv.edu/aiclassroom/2026/full_schedule/4
+- [2026-10] Knowledge, attitudes, perceptions, and utilization of artificial intelligence in higher education am — https://doi.org/10.1007/s44217-026-02213-2
+- [2026-10] Associations of metacognition, self-directed learning ability, and AI literacy with academic achieve — https://doi.org/10.3389/feduc.2026.1902381
+
+---
+
+### Adoption Behavior & Engagement (`adoption-behavior`)
+
+Adoption-behavior papers study usage patterns, personas and engagement after training. Persona migration and expectation recalibration are the emergent themes — inputs for onboarding design.
+
+**Corpus size:** 679 papers
+
+**Recent papers:**
+
+- [2026-09] From AI Adoption to AI-Augmented Work: How AI-Enabled HRM Shapes Hospitality Employee Well-Being thr — https://doi.org/10.21275/sr26922155006
+- [2026-09] AI Adoption and its Role in Enhancing Employee Psychological Safety and Innovative Behavior — https://doi.org/10.1201/9781042037759-52
+- [2026-08] The Fallback as Signal: Preserved Human Skill, Liability, and Competence Signaling in Credence-Good  — https://arxiv.org/abs/2608.04276
+
+---
+
+### Tools, Platforms & AI Tutors (`tooling`)
+
+Tooling research covers AI tutors, chatbots and learning platforms. AI-assisted instruction shows promise for scaling literacy programs; evidence on long-term learning is still emerging.
+
+**Corpus size:** 579 papers
+
+**Recent papers:**
+
+- [2026-08] A bottom-up taxonomy of student discourse with a Socratic AI physics tutor — https://arxiv.org/abs/2608.07373
+- [2026-08] Towards Sustainable Learning in Online Education: A Reinforcement Learning Approach — https://arxiv.org/abs/2608.11245
+- [2026-08] Methodologies for Improving the Quality of AI Tutoring in K-12 Education — https://arxiv.org/abs/2608.11259
+
+---
+
+### Professional & Executive Ed (`professional-education`)
+
+Professional and executive education research covers corporate training, micro-credentials and certification — directly relevant to ALaaS tier and certificate design.
+
+**Corpus size:** 537 papers
+
+**Recent papers:**
+
+- [2026-10] Educación aumentada — https://doi.org/10.63816/hm0cw931
+- [2026-10] Serious-Play Cards for Teaching AI Applications in Manufacturing — https://doi.org/10.1287/ited.2025.0179
+- [2026-09] Using generative AI to support students’ interpretation of kinematics graphs: a classroom-based appr — https://doi.org/10.1088/1361-6552/aea261
 
 ---
 
@@ -331,13 +317,27 @@ Pedagogy papers test teaching methods for AI literacy across settings; the evide
 
 Lifelong-learning research frames AI literacy as continuous capability: self-directed learning, learning agility and learning culture. The meta-skill argument (learning to learn with AI) is the strongest theoretical anchor for curriculum design.
 
-**Corpus size:** 385 papers
+**Corpus size:** 452 papers
 
 **Recent papers:**
 
-- [2026-08] AI-Supported Literacy Ecosystems in Elementary Education: Preparing Future Skills for Lifelong Learn — https://doi.org/10.12688/f1000research.187792.1
-- [2026-08] When Agentic AI Meets Integrated Sensing and Communication — https://arxiv.org/abs/2608.05792v1
-- [2026-08] From Scaffolding to Sustainability The Role of Higher Education Leadership in Building Digital Liter — https://doi.org/10.5281/zenodo.21861106
+- [2026-10] A Peer-to-Peer Platform for Lifelong Learning in Dynamic Human-AI Agent Communities — https://doi.org/10.1007/978-3-032-40774-0_31
+- [2026-09] Rethinking AI-supported Skilling Strategies in Companies — https://doi.org/10.14738/ejas.1405.12180
+- [2026-09] Artificial Intelligence for Personalized and Lifelong Science Learning: Cognitive and Pedagogical Im — https://doi.org/10.5281/zenodo.22371237
+
+---
+
+### ROI & Business Impact (`roi-measurement`)
+
+ROI measurement connects training to productivity and firm performance. Econometric studies exist at firm level; training-specific ROI evidence is sparse — white space for the definitive measurement framework.
+
+**Corpus size:** 447 papers
+
+**Recent papers:**
+
+- [2026-10] Creative Practice Challenging Dominant Generative AI Discourses — https://ualresearchonline.arts.ac.uk/view/creators/Bryan-Kinns=3ANick=3A=3A.html>
+- [2026-10] DATA-DRIVEN DECISIONS: HOW ANALYTICS IS RESHAPING MARKETING STRATEGY — https://doi.org/10.5281/zenodo.18139045
+- [2026-09] Economic Factors Associated with AI Adoption in Oncology: Cost-Effectiveness Perceptions, Reimbursem — https://doi.org/10.3390/healthcare14172820
 
 ---
 
@@ -345,13 +345,13 @@ Lifelong-learning research frames AI literacy as continuous capability: self-dir
 
 SME training research is dominated by survey studies (TOE/DOI frameworks); barriers rank skills first. Large-scale panel evidence for SME training ROI is scarce — a genuine gap.
 
-**Corpus size:** 375 papers
+**Corpus size:** 436 papers
 
 **Recent papers:**
 
-- [2026-08] AI ethics practices in Swiss health organisations — https://doi.org/10.1007/s43681-026-01286-x
-- [2026-08] Divergent Managerial Logics of AI-CRM Adoption in New Zealand SMEs — https://aisel.aisnet.org/amcis2026/sigadit/sigadit/3
-- [2026-08] Employer perspectives on AI in SMEs: policy insights for productivity and sustainable careers — https://doi.org/10.1108/cdi-01-2026-0068
+- [2026-10] AI Adoption in Supply Chain Management among Lebanese Food and Beverage SMEs: Drivers, Barriers, and — https://doi.org/10.33168/jliss.2026.1011
+- [2026-09] Barriers to Artificial Intelligence Adoption for Cybersecurity in Small and Medium Scale Enterprises — https://doi.org/10.5281/zenodo.22657141
+- [2026-09] Strategic Adoption of Artificial Intelligence for Cybersecurity in Small and Medium-Sized Enterprise — https://doi.org/10.5281/zenodo.22691406
 
 ---
 
@@ -359,13 +359,13 @@ SME training research is dominated by survey studies (TOE/DOI frameworks); barri
 
 Critical AI literacy covers ethics, bias, misinformation and deepfakes. It is the differentiated layer of literacy programs — and the weakest in most commercial offerings.
 
-**Corpus size:** 372 papers
+**Corpus size:** 377 papers
 
 **Recent papers:**
 
-- [2026-08] The ethics of algorithmic management: critical AI literacy and the obligations owed to workers — https://doi.org/10.1007/s43681-026-01131-1
-- [2026-08] Where Does AI Innovation Go? Measuring Research Attention Imbalance in AI Music — https://arxiv.org/abs/2608.06903v1
-- [2026-07] AI and Critical Thinking — https://doi.org/10.1093/hebz/9780197925683.003.0004
+- [2026-10] The Emergence of Critical AI Literacy — https://doi.org/10.1007/978-3-032-12201-8_1
+- [2026-09] REVOLUTION OR RISK? ASSESSING CHATGPT'S INFLUENCE ON UNDERGRADUATE STUDENTS — https://doi.org/10.5281/zenodo.18139738
+- [2026-09] Evaluating Critical Thinking in AI-Enhanced STEM Learning Environments — https://doi.org/10.4018/979-8-2600-0383-1.ch009
 
 ---
 
@@ -373,13 +373,13 @@ Critical AI literacy covers ethics, bias, misinformation and deepfakes. It is th
 
 K-12 research pilots AI-literacy curricula in schools; design-based interventions and teacher-mediated delivery dominate. Evidence on long-term outcomes is still thin.
 
-**Corpus size:** 340 papers
+**Corpus size:** 348 papers
 
 **Recent papers:**
 
-- [2026-08] TRUST, PRIVACY CONCERNS, DIGITAL LITERACY AND ADOPTION OF AI-BASED COUNSELLING TOOLS FOR MANAGING SC — https://doi.org/10.61955/rhyojj
-- [2026-08] Assessing Machine Learning understanding in High School Healthcare AI curriculum — https://doi.org/10.3389/fcomp.2026.1868904
-- [2026-08] A Review of Artificial Intelligence in Education: What is Ahead, What is Left Behind at Global Scale — https://doi.org/10.53478/tuba.978-625-6110-86-1.ch08
+- [2026-09] Multi-omics and machine learning reveal the mechanisms underlying cultivar-driven flavor differentia — https://doi.org/10.1016/j.fochx.2026.104449
+- [2026-09] Data for "A Substantive Model Based on the Dental Faculty’s Readiness for Integrating Artificial Int — https://doi.org/10.17632/yz6wxg9yh7
+- [2026-09] Empowering educators: A pilot study on AI literacy in K–12 professional development — https://doi.org/10.24059/olj.v30i3.5251
 
 ---
 

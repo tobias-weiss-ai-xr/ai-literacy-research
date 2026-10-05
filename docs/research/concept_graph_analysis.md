@@ -1,47 +1,47 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 335 edges, 1 components, 1 communities (modularity -264.438). Edges = co-occurrence.
+**Generated:** 42 nodes, 388 edges, 1 components, 1 communities (modularity -636.46). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1882, degree 37, df 1984
-- **qualitative** — PR 0.0627, degree 36, df 465
-- **survey** — PR 0.0535, degree 33, df 456
-- **quantitative** — PR 0.0435, degree 30, df 273
-- **Ai Literacy Construct** — PR 0.0430, degree 17, df 1146
-- **Learning Design** — PR 0.0369, degree 17, df 946
-- **Ai Literacy Pedagogy** — PR 0.0365, degree 14, df 1139
-- **systematic review** — PR 0.0356, degree 28, df 347
-- **dataset** — PR 0.0347, degree 30, df 264
-- **case study** — PR 0.0343, degree 32, df 293
-- **Assessment** — PR 0.0327, degree 16, df 942
-- **Generative Ai Skills** — PR 0.0317, degree 15, df 734
+- **framework** — PR 0.1808, degree 38, df 3045
+- **qualitative** — PR 0.0791, degree 38, df 976
+- **survey** — PR 0.0606, degree 36, df 859
+- **quantitative** — PR 0.0590, degree 36, df 656
+- **Ai Literacy Pedagogy** — PR 0.0492, degree 18, df 1883
+- **Ai Literacy Construct** — PR 0.0448, degree 18, df 1522
+- **literature review** — PR 0.0362, degree 37, df 465
+- **systematic review** — PR 0.0343, degree 32, df 487
+- **case study** — PR 0.0316, degree 34, df 408
+- **Learning Design** — PR 0.0299, degree 18, df 1128
+- **Assessment** — PR 0.0288, degree 17, df 1196
+- **dataset** — PR 0.0287, degree 32, df 338
 
 ## Bridge nodes (high betweenness — connect clusters)
 
 - framework
 - qualitative
-- survey
-- case study
-- Learning Design
 - literature review
-- dataset
 - quantitative
+- survey
 - systematic review
-- Assessment
+- case study
+- dataset
+- benchmark
+- taxonomy
 
 ## Bridge edges (high edge-betweenness)
 
-- Learning Design ↔ open access (weight 2, EB 19.6052)
-- Assessment ↔ open access (weight 2, EB 18.5281)
-- framework ↔ triangulation (weight 2, EB 14.0)
-- qualitative ↔ triangulation (weight 2, EB 13.5)
-- framework ↔ grounded theory (weight 4, EB 10.0833)
-- qualitative ↔ grounded theory (weight 3, EB 9.75)
-- framework ↔ research gap (weight 2, EB 9.6667)
-- qualitative ↔ research gap (weight 2, EB 9.3333)
-- framework ↔ K12 Education (weight 22, EB 8.4333)
-- framework ↔ reproducibility (weight 10, EB 8.3323)
+- framework ↔ grounded theory (weight 6, EB 7.2595)
+- qualitative ↔ grounded theory (weight 5, EB 7.2595)
+- framework ↔ open access (weight 4, EB 7.1286)
+- qualitative ↔ open access (weight 2, EB 7.1286)
+- literature review ↔ open access (weight 2, EB 6.8786)
+- quantitative ↔ grounded theory (weight 2, EB 6.6762)
+- systematic review ↔ open access (weight 2, EB 6.0)
+- framework ↔ K12 Education (weight 23, EB 5.9357)
+- qualitative ↔ K12 Education (weight 7, EB 5.9357)
+- dataset ↔ grounded theory (weight 2, EB 5.8333)
 
 ## Communities (clusters of related concepts)
 

@@ -7,41 +7,67 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
 | Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Bridge | Score |
 |-----:|------|-------:|--------:|--------:|-----------:|-------:|------:|
 | 1 | `assessment/experiment` | 1 | 119.6 | 1 | +100% | 0.80 | 100.0 |
-| 2 | `generative-ai-skills/survey` | 2 | 107.4 | 2 | +100% | 0.14 | 100.0 |
-| 3 | `org-implementation/survey` | 2 | 86.2 | 2 | +100% | 0.01 | 100.0 |
-| 4 | `program-evaluation/experiment` | 2 | 116.7 | 2 | +100% | 0.07 | 100.0 |
-| 5 | `workforce-upskilling/survey` | 2 | 87.0 | 2 | +100% | 0.01 | 100.0 |
-| 6 | `ai-literacy-construct/survey` | 3 | 169.1 | 2 | +100% | 0.28 | 100.0 |
-| 7 | `higher-education/experiment` | 3 | 69.5 | 3 | +100% | 0.08 | 100.0 |
-| 8 | `teacher-ai-literacy/survey` | 3 | 83.6 | 3 | +100% | 0.02 | 100.0 |
-| 9 | `program-evaluation/survey` | 4 | 116.7 | 4 | +100% | 0.07 | 100.0 |
-| 10 | `sme-training/evaluation` | 4 | 54.5 | 2 | +0% | 0.01 | 100.0 |
-| 11 | `compliance/evaluation` | 5 | 125.1 | 4 | +300% | 0.05 | 100.0 |
+| 2 | `generative-ai-skills/survey` | 2 | 107.4 | 2 | +100% | 0.86 | 100.0 |
+| 3 | `org-implementation/survey` | 2 | 86.2 | 2 | +100% | 0.03 | 100.0 |
+| 4 | `program-evaluation/experiment` | 2 | 116.7 | 2 | +100% | 0.50 | 100.0 |
+| 5 | `workforce-upskilling/survey` | 2 | 87.0 | 2 | +100% | 0.03 | 100.0 |
+| 6 | `ai-literacy-construct/survey` | 3 | 169.1 | 2 | +100% | 0.86 | 100.0 |
+| 7 | `higher-education/experiment` | 3 | 69.5 | 3 | +100% | 0.47 | 100.0 |
+| 8 | `teacher-ai-literacy/survey` | 3 | 83.6 | 3 | +100% | 0.16 | 100.0 |
+| 9 | `program-evaluation/survey` | 4 | 116.7 | 4 | +100% | 0.50 | 100.0 |
+| 10 | `sme-training/evaluation` | 4 | 54.5 | 2 | +0% | 0.10 | 100.0 |
+| 11 | `compliance/evaluation` | 5 | 125.1 | 4 | +300% | 0.06 | 100.0 |
 | 12 | `learning-design/survey` | 8 | 125.3 | 4 | +0% | 1.00 | 100.0 |
 | 13 | `assessment/survey` | 11 | 119.6 | 9 | +350% | 0.80 | 100.0 |
 | 14 | `learning-design/evaluation` | 16 | 125.3 | 9 | +29% | 1.00 | 100.0 |
-| 15 | `ai-literacy-construct/evaluation` | 18 | 169.1 | 16 | +700% | 0.28 | 97.8 |
-| 16 | `assessment/development` | 29 | 119.6 | 21 | +162% | 0.80 | 97.5 |
-| 17 | `org-implementation/evaluation` | 6 | 86.2 | 6 | +100% | 0.01 | 96.0 |
-| 18 | `learning-design/development` | 41 | 125.3 | 21 | +5% | 1.00 | 95.4 |
-| 19 | `workforce-upskilling/evaluation` | 8 | 87.0 | 5 | +67% | 0.01 | 94.6 |
-| 20 | `higher-education/survey` | 10 | 69.5 | 10 | +100% | 0.08 | 92.6 |
+| 15 | `ai-literacy-construct/evaluation` | 18 | 169.1 | 16 | +700% | 0.86 | 100.0 |
+| 16 | `ai-literacy-pedagogy/evaluation` | 30 | 188.3 | 19 | +73% | 0.88 | 100.0 |
+| 17 | `ai-literacy-construct/development` | 35 | 169.1 | 22 | +69% | 0.86 | 100.0 |
+| 18 | `ai-literacy-pedagogy/survey` | 39 | 188.3 | 24 | +60% | 0.88 | 100.0 |
+| 19 | `ai-literacy-pedagogy/development` | 41 | 188.3 | 22 | +16% | 0.88 | 100.0 |
+| 20 | `higher-education/survey` | 10 | 69.5 | 10 | +100% | 0.47 | 98.4 |
 
 ## Bridge Gap Cells (thin cells on cross-cutting categories)
 
 Under-saturated cells whose category is a high-betweenness bridge in the concept graph — the integrative white spaces where separate research strands connect. Prioritised by the bridge term.
 
 - `assessment/experiment` — bridge 0.80, 1 papers (category cell avg 119.6)
+- `generative-ai-skills/survey` — bridge 0.86, 2 papers (category cell avg 107.4)
+- `program-evaluation/experiment` — bridge 0.50, 2 papers (category cell avg 116.7)
+- `ai-literacy-construct/survey` — bridge 0.86, 3 papers (category cell avg 169.1)
+- `program-evaluation/survey` — bridge 0.50, 4 papers (category cell avg 116.7)
 - `learning-design/survey` — bridge 1.00, 8 papers (category cell avg 125.3)
 - `assessment/survey` — bridge 0.80, 11 papers (category cell avg 119.6)
 - `learning-design/evaluation` — bridge 1.00, 16 papers (category cell avg 125.3)
+- `ai-literacy-construct/evaluation` — bridge 0.86, 18 papers (category cell avg 169.1)
+- `ai-literacy-pedagogy/evaluation` — bridge 0.88, 30 papers (category cell avg 188.3)
+- `ai-literacy-construct/development` — bridge 0.86, 35 papers (category cell avg 169.1)
+- `ai-literacy-pedagogy/survey` — bridge 0.88, 39 papers (category cell avg 188.3)
+- `ai-literacy-pedagogy/development` — bridge 0.88, 41 papers (category cell avg 188.3)
 - `assessment/development` — bridge 0.80, 29 papers (category cell avg 119.6)
+- `program-evaluation/development` — bridge 0.50, 21 papers (category cell avg 116.7)
 - `learning-design/development` — bridge 1.00, 41 papers (category cell avg 125.3)
+- `ai-literacy-pedagogy/mechanism` — bridge 0.88, 47 papers (category cell avg 188.3)
+- `generative-ai-skills/development` — bridge 0.86, 35 papers (category cell avg 107.4)
+- `ai-literacy-pedagogy/review` — bridge 0.88, 49 papers (category cell avg 188.3)
+- `generative-ai-skills/review` — bridge 0.86, 33 papers (category cell avg 107.4)
 - `assessment/evaluation` — bridge 0.80, 44 papers (category cell avg 119.6)
 - `learning-design/review` — bridge 1.00, 56 papers (category cell avg 125.3)
 - `assessment/mechanism` — bridge 0.80, 50 papers (category cell avg 119.6)
 - `learning-design/mechanism` — bridge 1.00, 59 papers (category cell avg 125.3)
+- `generative-ai-skills/evaluation` — bridge 0.86, 48 papers (category cell avg 107.4)
+- `ai-literacy-pedagogy/experiment` — bridge 0.88, 11 papers (category cell avg 188.3)
 - `assessment/review` — bridge 0.80, 56 papers (category cell avg 119.6)
+- `program-evaluation/mechanism` — bridge 0.50, 51 papers (category cell avg 116.7)
+- `ai-literacy-construct/mechanism` — bridge 0.86, 91 papers (category cell avg 169.1)
+- `ai-literacy-construct/review` — bridge 0.86, 100 papers (category cell avg 169.1)
+- `generative-ai-skills/mechanism` — bridge 0.86, 70 papers (category cell avg 107.4)
+- `program-evaluation/evaluation` — bridge 0.50, 71 papers (category cell avg 116.7)
+- `program-evaluation/review` — bridge 0.50, 77 papers (category cell avg 116.7)
+- `ai-literacy-pedagogy/systems` — bridge 0.88, 158 papers (category cell avg 188.3)
+- `ai-literacy-construct/application` — bridge 0.86, 152 papers (category cell avg 169.1)
+- `ai-literacy-construct/systems` — bridge 0.86, 156 papers (category cell avg 169.1)
+- `program-evaluation/systems` — bridge 0.50, 101 papers (category cell avg 116.7)
 
 ## Detailed Cells (top 20)
 
@@ -186,49 +212,49 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
   - **The Six-Facet Artificial Intelligence Literacy Questionnaire (SFAILQ): Assessing AI Literacy in Adolescents, Young Adults, and Midlife Adults** (2026-07) — <https://doi.org/10.3390/bs16071110>
   - **IEEC: A Framework for AI Literacy in Programming** (2026-06) — <https://doi.org/10.21315/apjee2026.41.1.15>
 
-### Assessment / Development (`assessment/development`)
+### Ai Literacy Pedagogy / Evaluation (`ai-literacy-pedagogy/evaluation`)
 
-- **Papers:** 29 (category cell avg 119.6) — 21 published in the last 12 months (+162%).
-- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
-- **Representative papers (newest first):**
-  - **AI-Assisted Instructional Design Studios for Literacy and UDL in School-University Partnerships** (2026-10) — <https://doi.org/10.4018/979-8-3373-9519-7.ch001>
-  - **Teachers' Competences for Digital Sustainability in Spain. A survey amongst (future) teachers** (2026-09) — <https://doi.org/10.5281/zenodo.22799965>
-  - **Impact of AI-Enabled Features in Faculty Teaching Effectiveness in Google Classroom** (2026-09) — <https://doi.org/10.5281/zenodo.23037901>
-  - **Applying Artificial Intelligence to Childhood Obesity: T2DM and MASLD Risk Predictive Models** (2026-08) — <https://doi.org/10.3390/diagnostics16162533>
-  - **Trends in the use of AI-based learning platforms and implications for secondary English education: A narrative review of international research** (2026-08) — <https://doi.org/10.20487/kasee.19.4.202608.139>
-
-### Org Implementation / Evaluation (`org-implementation/evaluation`)
-
-- **Papers:** 6 (category cell avg 86.2) — 6 published in the last 12 months (+100%).
+- **Papers:** 30 (category cell avg 188.3) — 19 published in the last 12 months (+73%).
 - **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
-  - **Whose AI problem? Critical narratives and practitioner problematizations** (2026-09) — <https://doi.org/10.1016/j.techsoc.2026.103552>
-  - **The AIconomics Maturity Model: A Sector-Agnostic Diagnostic Framework for Enterprise AI Transformation** (2026-08) — <https://doi.org/10.17605/osf.io/d2a3j>
-  - **STUDY REPORT Project Business in the Age of AI: Future Competences, Changing Roles and Development Needs** (2026-07) — <https://doi.org/10.33700/wb6tac34>
-  - **AI Adoption Under Constraint: A Process Model from Malaysian Printing Industry** (2026-06) — <https://doi.org/10.55057/ijbtm.2026.8.3.5>
-  - **"AAB AI Education Case Registry Dataset v1.0"** (2026-05) — <https://doi.org/10.21227/z095-8k08>
+  - **AI Literacy Is Not Enough: Faculty Strategies for Teaching Students to Evaluate AI-Supported Information** (2026-10) — <https://doi.org/10.54093/jept.v2i2.2339>
+  - **AI Literacy and Intercultural Competence among English Majors: Current Levels, Possible Pathways and Pedagogical Implications** (2026-09) — <https://doi.org/10.54097/yvwak285>
+  - **Content, implementation, and evaluation of artificial intelligence literacy education for nursing students : A scoping review** (2026-09) — <https://doi.org/10.21203/rs.3.rs-11042340/v1>
+  - **Exploring the practice of teacher-AI collaboration among language teachers: a current state of practice** (2026-09) — <https://doi.org/10.29140/tltl.2026.104235>
+  - **A Generative AI-Based Learning and Teaching Model for Sustainable Higher Education: Rethinking the Teaching Role in the AI Era** (2026-09) — <https://doi.org/10.55845/q9qraj03>
 
-### Learning Design / Development (`learning-design/development`)
+### Ai Literacy Construct / Development (`ai-literacy-construct/development`)
 
-- **Papers:** 41 (category cell avg 125.3) — 21 published in the last 12 months (+5%).
+- **Papers:** 35 (category cell avg 169.1) — 22 published in the last 12 months (+69%).
 - **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
-  - **Improving Creativity and Innovation in Early Childhood Education: The Role of Leveraging Artificial Intelligence** (2026-09) — <https://doi.org/10.56201/ijee.v12.no.1.2026.pg351.359>
-  - **Exploring AI-Educator Co-Creation in Curriculum Design: Effects on Time Efficiency and Learning Outcomes** (2026-08) — <https://doi.org/10.70232/jrep.v3i3.193>
-  - **THE TRANSFORMATIVE ROLE OF ARTIFICIAL INTELLIGENCE IN ENGLISH LANGUAGE TEACHING** (2026-07) — <https://doi.org/10.5281/zenodo.21499003>
-  - **SOSIOLOGI PENDIDIKAN DI ERA KECERDASAN BUATAN: ANTARA INOVASI PEMBELAJARAN DAN KETIMPANGAN DIGITAL DI TINGKAT SEKOLAH DASAR** (2026-07) — <https://journal.unpas.ac.id/index.php/pendas/article/view/56492>
-  - **Virtual Exchange in Higher Education: Emerging Discussions and Recommended Practices** (2026-07) — <https://doi.org/10.30564/jiep.v9i2.13299>
+  - **Implementation of Artificial Intelligence in engineering teaching and learning** (2026-09) — <https://doi.org/10.56958/jesi.2026.11.1.113>
+  - **Teaching Craft Intelligence: Sovereignty Protocols for AI‐Mediated Student Leadership** (2026-09) — <https://doi.org/10.1002/yd.70070>
+  - **STRATEGI LITERASI HOTS DI UNIVERSITAS PESANTREN: USAHA UNTUK MEREDUKSI KETERGANTUNGAN KOGNITIF MAHASISWA TERHADAP ARTIFICIAL INTELLIGENCE** (2026-09) — <https://doi.org/10.51878/edutech.v6i4.14251>
+  - **Transforming Academic Library Collections Through Artificial Intelligence** (2026-08) — <https://doi.org/10.5281/zenodo.21912832>
+  - **Feedback in EFL Classrooms: A Narrative Review of Definitions, Characteristics, Functions, Types, and Challenges** (2026-08) — <https://doi.org/10.59653/jimat.v4i03.2772>
 
-### Workforce Upskilling / Evaluation (`workforce-upskilling/evaluation`)
+### Ai Literacy Pedagogy / Survey (`ai-literacy-pedagogy/survey`)
 
-- **Papers:** 8 (category cell avg 87.0) — 5 published in the last 12 months (+67%).
-- **Why a gap:** Evaluation evidence — a core target of this program's research plan.
+- **Papers:** 39 (category cell avg 188.3) — 24 published in the last 12 months (+60%).
+- **Why a gap:** Thin for its category (below the category cell average).
 - **Representative papers (newest first):**
-  - **The double-edged sword of automation and the risks of AI's uneven impact on healthcare professions: a comment on the OECD artificial intelligence papers report. Commentary.** (2026-07) — <https://pubmed.ncbi.nlm.nih.gov/41867151>
-  - **IMPACT OF SKILL DEVELOPMENT PROGRAMS ON EMPLOYMENT OPPORTUNITIES AND LIVELIHOOD OF PERSONS WITH DISABILITIES: AN EMPIRICAL STUDY WITH REFERENCE TO AI-SUPPORTED LEARNING ENVIRONMENTS IN CHINTAMANI TALUK, KARNATAKA** (2026-06) — <https://doi.org/10.5281/zenodo.21529844>
-  - **Automated detection of primary soft tissue sarcomas of the extremities using artificial intelligence and ChatGPT** (2026-03) — <https://doi.org/10.3389/fonc.2026.1674509>
-  - **Evaluating AI competency in project management: benefits and challenges** (2025-12) — <https://doi.org/10.1007/s00146-025-02730-y>
-  - **Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?** (2025-11) — <https://arxiv.org/abs/2511.16028>
+  - **Can You Even Read? Examining Literacy and AI Through Gameplay** (2026-09) — <https://doi.org/10.34190/ecgbl.20.2.5217>
+  - **Knowing what AI literacy is, but not yet how to teach it: A rapid review of teachers’ professional development needs and effective principles in higher education** (2026-09) — <https://doi.org/10.21203/rs.3.rs-10880401/v1>
+  - **Sustainable Career Readiness in the GenAI Era: Student Perceptions of Automation, Entry-Level Employment, and Pedagogical Support** (2026-09) — <https://doi.org/10.3390/su18189379>
+  - **Exploring Students’ Critical Awareness of AI-Assisted Writing in EFL Contexts: A Literature Review** (2026-09) — <https://doi.org/10.24114/tj.v15i3.74926>
+  - **Language Transfer in EFL Academic Writing: A Critical Review of Linguistic, Rhetorical, and Pedagogical Aspects** (2026-09) — <https://doi.org/10.54720/bajhss/2026.080323>
+
+### Ai Literacy Pedagogy / Development (`ai-literacy-pedagogy/development`)
+
+- **Papers:** 41 (category cell avg 188.3) — 22 published in the last 12 months (+16%).
+- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **ChatGPT as a Tool in Contemporary Teaching Practice** (2026-10) — <https://doi.org/10.16926/eat.2026.15.13.en>
+  - **From access to engagement: AI literacy, technological play and academic libraries as sociotechnical learning environments** (2026-09) — <https://doi.org/10.1108/lht-05-2026-0146>
+  - **Digital health literacy in Somali higher education: a public health agenda for navigating health misinformation and generative AI** (2026-09) — <https://doi.org/10.3389/fpubh.2026.1962463>
+  - **Beyond AI Literacy and Adoption: AI-Integrative Capability and Responsible Implementation Conditions among Indian Educators** (2026-09) — <https://doi.org/10.55248/gengpi.06.1226.2810>
+  - **DIGITAL PEDAGOGY IN ODISHA: OPPORTUNITIES AND CHALLENGES** (2026-09) — <https://doi.org/10.56975/ijnrd.v11i9.328647>
 
 ### Higher Education / Survey (`higher-education/survey`)
 

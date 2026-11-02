@@ -260,25 +260,25 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-lit
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Program Evaluation & Outcomes | 1,167 | 71.1/mo | 73% | 417 |
-| Assessment & Measurement | 1,196 | 70.6/mo | 71% | 295 |
-| Compliance & AI Act | 1,001 | 60.1/mo | 72% | 287 |
-| Teacher AI Literacy | 752 | 43.9/mo | 70% | 270 |
-| Org Implementation & Change | 776 | 45.0/mo | 70% | 268 |
+| Program Evaluation & Outcomes | 1,167 | 69.7/mo | 72% | 407 |
+| Assessment & Measurement | 1,196 | 68.8/mo | 69% | 276 |
+| Org Implementation & Change | 776 | 43.5/mo | 67% | 239 |
+| Compliance & AI Act | 1,001 | 56.9/mo | 68% | 233 |
+| AI Literacy Constructs & Models | 1,522 | 81.3/mo | 64% | 232 |
 
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| continuum | 30 | 1.67 |
-| micro-learning | 3 | 1.67 |
-| agentic | 250 | 1.49 |
-| transfer | 290 | 1.45 |
-| measurement | 279 | 1.41 |
-| readiness | 848 | 1.38 |
-| evaluation | 1,966 | 1.36 |
-| workshop | 232 | 1.36 |
+| continuum | 30 | 1.75 |
+| micro-learning | 3 | 1.75 |
+| agentic | 250 | 1.50 |
+| transfer | 290 | 1.48 |
+| measurement | 279 | 1.45 |
+| avoidance | 32 | 1.42 |
+| readiness | 848 | 1.40 |
+| workshop | 232 | 1.39 |
 
 
 ### Top venues

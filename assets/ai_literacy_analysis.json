@@ -60,12 +60,12 @@
     "id": "ai-literacy-construct",
     "name": "AI Literacy Constructs & Models",
     "total": 1522,
-    "recent": 1005,
-    "prior": 353,
-    "growth_pct": 184.7,
-    "recent_share": 0.66,
-    "papers_per_month": 83.8,
-    "score": 250.7
+    "recent": 976,
+    "prior": 364,
+    "growth_pct": 168.1,
+    "recent_share": 0.641,
+    "papers_per_month": 81.3,
+    "score": 232.2
    }
   },
   {
@@ -129,12 +129,12 @@
     "id": "ai-literacy-pedagogy",
     "name": "AI Literacy Pedagogy",
     "total": 1883,
-    "recent": 1106,
-    "prior": 461,
-    "growth_pct": 139.9,
-    "recent_share": 0.587,
-    "papers_per_month": 92.2,
-    "score": 198.6
+    "recent": 1079,
+    "prior": 462,
+    "growth_pct": 133.5,
+    "recent_share": 0.573,
+    "papers_per_month": 89.9,
+    "score": 190.8
    }
   },
   {
@@ -196,12 +196,12 @@
     "id": "learning-design",
     "name": "Learning Design & Curriculum",
     "total": 1128,
-    "recent": 686,
-    "prior": 291,
-    "growth_pct": 135.7,
-    "recent_share": 0.608,
-    "papers_per_month": 57.2,
-    "score": 196.5
+    "recent": 661,
+    "prior": 296,
+    "growth_pct": 123.3,
+    "recent_share": 0.586,
+    "papers_per_month": 55.1,
+    "score": 181.9
    }
   },
   {
@@ -266,12 +266,12 @@
     "id": "assessment",
     "name": "Assessment & Measurement",
     "total": 1196,
-    "recent": 847,
-    "prior": 261,
-    "growth_pct": 224.5,
-    "recent_share": 0.708,
-    "papers_per_month": 70.6,
-    "score": 295.3
+    "recent": 825,
+    "prior": 269,
+    "growth_pct": 206.7,
+    "recent_share": 0.69,
+    "papers_per_month": 68.8,
+    "score": 275.7
    }
   },
   {
@@ -332,12 +332,12 @@
     "id": "workforce-upskilling",
     "name": "Workforce Upskilling",
     "total": 783,
-    "recent": 469,
-    "prior": 225,
-    "growth_pct": 108.4,
-    "recent_share": 0.599,
-    "papers_per_month": 39.1,
-    "score": 168.3
+    "recent": 452,
+    "prior": 222,
+    "growth_pct": 103.6,
+    "recent_share": 0.577,
+    "papers_per_month": 37.7,
+    "score": 161.3
    }
   },
   {
@@ -399,12 +399,12 @@
     "id": "org-implementation",
     "name": "Org Implementation & Change",
     "total": 776,
-    "recent": 540,
-    "prior": 181,
-    "growth_pct": 198.3,
-    "recent_share": 0.696,
-    "papers_per_month": 45.0,
-    "score": 267.9
+    "recent": 522,
+    "prior": 192,
+    "growth_pct": 171.9,
+    "recent_share": 0.673,
+    "papers_per_month": 43.5,
+    "score": 239.2
    }
   },
   {
@@ -466,12 +466,12 @@
     "id": "sme-training",
     "name": "SME Training & Adoption",
     "total": 436,
-    "recent": 203,
-    "prior": 175,
-    "growth_pct": 16.0,
-    "recent_share": 0.466,
-    "papers_per_month": 16.9,
-    "score": 62.6
+    "recent": 187,
+    "prior": 180,
+    "growth_pct": 3.9,
+    "recent_share": 0.429,
+    "papers_per_month": 15.6,
+    "score": 46.8
    }
   },
   {
@@ -534,12 +534,12 @@
     "id": "compliance",
     "name": "Compliance & AI Act",
     "total": 1001,
-    "recent": 721,
-    "prior": 229,
-    "growth_pct": 214.8,
-    "recent_share": 0.72,
-    "papers_per_month": 60.1,
-    "score": 286.8
+    "recent": 683,
+    "prior": 258,
+    "growth_pct": 164.7,
+    "recent_share": 0.682,
+    "papers_per_month": 56.9,
+    "score": 232.9
    }
   },
   {
@@ -602,12 +602,12 @@
     "id": "k12-education",
     "name": "K-12 Education",
     "total": 348,
-    "recent": 105,
-    "prior": 161,
-    "growth_pct": -34.8,
-    "recent_share": 0.302,
-    "papers_per_month": 8.8,
-    "score": -4.6
+    "recent": 98,
+    "prior": 159,
+    "growth_pct": -38.4,
+    "recent_share": 0.282,
+    "papers_per_month": 8.2,
+    "score": -10.2
    }
   },
   {
@@ -668,12 +668,12 @@
     "id": "higher-education",
     "name": "Higher Education",
     "total": 695,
-    "recent": 456,
-    "prior": 195,
-    "growth_pct": 133.8,
-    "recent_share": 0.656,
-    "papers_per_month": 38.0,
-    "score": 199.4
+    "recent": 430,
+    "prior": 213,
+    "growth_pct": 101.9,
+    "recent_share": 0.619,
+    "papers_per_month": 35.8,
+    "score": 163.8
    }
   },
   {
@@ -736,12 +736,12 @@
     "id": "professional-education",
     "name": "Professional & Executive Ed",
     "total": 537,
-    "recent": 235,
-    "prior": 190,
-    "growth_pct": 23.7,
-    "recent_share": 0.438,
-    "papers_per_month": 19.6,
-    "score": 67.5
+    "recent": 225,
+    "prior": 170,
+    "growth_pct": 32.4,
+    "recent_share": 0.419,
+    "papers_per_month": 18.8,
+    "score": 74.3
    }
   },
   {
@@ -802,12 +802,12 @@
     "id": "teacher-ai-literacy",
     "name": "Teacher AI Literacy",
     "total": 752,
-    "recent": 527,
-    "prior": 176,
-    "growth_pct": 199.4,
-    "recent_share": 0.701,
-    "papers_per_month": 43.9,
-    "score": 269.5
+    "recent": 487,
+    "prior": 204,
+    "growth_pct": 138.7,
+    "recent_share": 0.648,
+    "papers_per_month": 40.6,
+    "score": 203.5
    }
   },
   {
@@ -868,12 +868,12 @@
     "id": "critical-ai-literacy",
     "name": "Critical & Ethical AI Literacy",
     "total": 377,
-    "recent": 149,
-    "prior": 180,
-    "growth_pct": -17.2,
-    "recent_share": 0.395,
-    "papers_per_month": 12.4,
-    "score": 22.3
+    "recent": 124,
+    "prior": 197,
+    "growth_pct": -37.1,
+    "recent_share": 0.329,
+    "papers_per_month": 10.3,
+    "score": -4.2
    }
   },
   {
@@ -934,12 +934,12 @@
     "id": "generative-ai-skills",
     "name": "Generative AI Skills",
     "total": 967,
-    "recent": 610,
-    "prior": 217,
-    "growth_pct": 181.1,
-    "recent_share": 0.631,
-    "papers_per_month": 50.8,
-    "score": 244.2
+    "recent": 576,
+    "prior": 242,
+    "growth_pct": 138.0,
+    "recent_share": 0.596,
+    "papers_per_month": 48.0,
+    "score": 197.6
    }
   },
   {
@@ -1000,12 +1000,12 @@
     "id": "attitudes-trust",
     "name": "Attitudes, Trust & Acceptance",
     "total": 734,
-    "recent": 334,
-    "prior": 273,
-    "growth_pct": 22.3,
-    "recent_share": 0.455,
-    "papers_per_month": 27.8,
-    "score": 67.8
+    "recent": 298,
+    "prior": 295,
+    "growth_pct": 1.0,
+    "recent_share": 0.406,
+    "papers_per_month": 24.8,
+    "score": 41.6
    }
   },
   {
@@ -1067,12 +1067,12 @@
     "id": "adoption-behavior",
     "name": "Adoption Behavior & Engagement",
     "total": 679,
-    "recent": 431,
-    "prior": 175,
-    "growth_pct": 146.3,
-    "recent_share": 0.635,
-    "papers_per_month": 35.9,
-    "score": 209.8
+    "recent": 407,
+    "prior": 189,
+    "growth_pct": 115.3,
+    "recent_share": 0.599,
+    "papers_per_month": 33.9,
+    "score": 175.2
    }
   },
   {
@@ -1144,12 +1144,12 @@
     "id": "program-evaluation",
     "name": "Program Evaluation & Outcomes",
     "total": 1167,
-    "recent": 853,
+    "recent": 836,
     "prior": 192,
-    "growth_pct": 344.3,
-    "recent_share": 0.731,
-    "papers_per_month": 71.1,
-    "score": 417.4
+    "growth_pct": 335.4,
+    "recent_share": 0.716,
+    "papers_per_month": 69.7,
+    "score": 407.0
    }
   },
   {
@@ -1212,12 +1212,12 @@
     "id": "roi-measurement",
     "name": "ROI & Business Impact",
     "total": 447,
-    "recent": 188,
-    "prior": 203,
-    "growth_pct": -7.4,
-    "recent_share": 0.421,
-    "papers_per_month": 15.7,
-    "score": 34.7
+    "recent": 175,
+    "prior": 206,
+    "growth_pct": -15.0,
+    "recent_share": 0.391,
+    "papers_per_month": 14.6,
+    "score": 24.1
    }
   },
   {
@@ -1279,12 +1279,12 @@
     "id": "tooling",
     "name": "Tools, Platforms & AI Tutors",
     "total": 579,
-    "recent": 200,
-    "prior": 272,
-    "growth_pct": -26.5,
-    "recent_share": 0.345,
-    "papers_per_month": 16.7,
-    "score": 8.0
+    "recent": 178,
+    "prior": 267,
+    "growth_pct": -33.3,
+    "recent_share": 0.307,
+    "papers_per_month": 14.8,
+    "score": -2.6
    }
   },
   {
@@ -1348,12 +1348,12 @@
     "id": "lifelong-learning",
     "name": "Lifelong & Self-Directed Learning",
     "total": 452,
-    "recent": 208,
-    "prior": 167,
-    "growth_pct": 24.6,
-    "recent_share": 0.46,
-    "papers_per_month": 17.3,
-    "score": 70.6
+    "recent": 193,
+    "prior": 175,
+    "growth_pct": 10.3,
+    "recent_share": 0.427,
+    "papers_per_month": 16.1,
+    "score": 53.0
    }
   }
  ],
@@ -83768,106 +83768,106 @@
    "keyword": "continuum",
    "recent": 30,
    "total": 30,
-   "burst_score": 1.67,
-   "recent_share": 0.003
+   "burst_score": 1.75,
+   "recent_share": 0.0032
   },
   {
    "keyword": "micro-learning",
    "recent": 3,
    "total": 3,
-   "burst_score": 1.67,
+   "burst_score": 1.75,
    "recent_share": 0.0003
   },
   {
    "keyword": "agentic",
-   "recent": 223,
+   "recent": 214,
    "total": 250,
-   "burst_score": 1.49,
-   "recent_share": 0.0226
+   "burst_score": 1.5,
+   "recent_share": 0.0227
   },
   {
    "keyword": "transfer",
-   "recent": 252,
+   "recent": 245,
    "total": 290,
-   "burst_score": 1.45,
-   "recent_share": 0.0255
+   "burst_score": 1.48,
+   "recent_share": 0.026
   },
   {
    "keyword": "measurement",
-   "recent": 236,
+   "recent": 232,
    "total": 279,
-   "burst_score": 1.41,
-   "recent_share": 0.0239
-  },
-  {
-   "keyword": "readiness",
-   "recent": 700,
-   "total": 848,
-   "burst_score": 1.38,
-   "recent_share": 0.0709
-  },
-  {
-   "keyword": "evaluation",
-   "recent": 1607,
-   "total": 1966,
-   "burst_score": 1.36,
-   "recent_share": 0.1628
-  },
-  {
-   "keyword": "workshop",
-   "recent": 189,
-   "total": 232,
-   "burst_score": 1.36,
-   "recent_share": 0.0191
+   "burst_score": 1.45,
+   "recent_share": 0.0246
   },
   {
    "keyword": "avoidance",
    "recent": 26,
    "total": 32,
-   "burst_score": 1.35,
-   "recent_share": 0.0026
+   "burst_score": 1.42,
+   "recent_share": 0.0028
   },
   {
-   "keyword": "article 4",
-   "recent": 13,
-   "total": 16,
-   "burst_score": 1.35,
-   "recent_share": 0.0013
+   "keyword": "readiness",
+   "recent": 678,
+   "total": 848,
+   "burst_score": 1.4,
+   "recent_share": 0.072
   },
   {
-   "keyword": "agent",
-   "recent": 702,
-   "total": 874,
-   "burst_score": 1.34,
-   "recent_share": 0.0711
+   "keyword": "workshop",
+   "recent": 185,
+   "total": 232,
+   "burst_score": 1.39,
+   "recent_share": 0.0197
+  },
+  {
+   "keyword": "evaluation",
+   "recent": 1550,
+   "total": 1966,
+   "burst_score": 1.38,
+   "recent_share": 0.1647
   },
   {
    "keyword": "compliance",
-   "recent": 348,
+   "recent": 336,
    "total": 434,
+   "burst_score": 1.35,
+   "recent_share": 0.0357
+  },
+  {
+   "keyword": "agent",
+   "recent": 671,
+   "total": 874,
    "burst_score": 1.34,
-   "recent_share": 0.0352
+   "recent_share": 0.0713
+  },
+  {
+   "keyword": "productivity",
+   "recent": 321,
+   "total": 421,
+   "burst_score": 1.33,
+   "recent_share": 0.0341
   },
   {
    "keyword": "taxonomy",
-   "recent": 156,
+   "recent": 149,
    "total": 196,
    "burst_score": 1.33,
    "recent_share": 0.0158
   },
   {
-   "keyword": "productivity",
-   "recent": 333,
-   "total": 421,
+   "keyword": "assessment",
+   "recent": 1710,
+   "total": 2267,
    "burst_score": 1.32,
-   "recent_share": 0.0337
+   "recent_share": 0.1817
   },
   {
-   "keyword": "assessment",
-   "recent": 1759,
-   "total": 2267,
-   "burst_score": 1.29,
-   "recent_share": 0.1782
+   "keyword": "reliance",
+   "recent": 346,
+   "total": 460,
+   "burst_score": 1.32,
+   "recent_share": 0.0368
   }
  ]
 }

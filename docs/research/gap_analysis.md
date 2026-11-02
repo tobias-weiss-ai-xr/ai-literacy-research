@@ -6,32 +6,31 @@ Ranked under-saturated taxonomy cells by opportunity score = thinness × 0.6 + 1
 
 | Rank | Cell | Papers | Cat Avg | 12m New | 12m Growth | Bridge | Score |
 |-----:|------|-------:|--------:|--------:|-----------:|-------:|------:|
-| 1 | `assessment/experiment` | 1 | 119.6 | 1 | +100% | 0.80 | 100.0 |
-| 2 | `generative-ai-skills/survey` | 2 | 107.4 | 2 | +100% | 0.86 | 100.0 |
-| 3 | `org-implementation/survey` | 2 | 86.2 | 2 | +100% | 0.03 | 100.0 |
-| 4 | `program-evaluation/experiment` | 2 | 116.7 | 2 | +100% | 0.50 | 100.0 |
-| 5 | `workforce-upskilling/survey` | 2 | 87.0 | 2 | +100% | 0.03 | 100.0 |
-| 6 | `ai-literacy-construct/survey` | 3 | 169.1 | 2 | +100% | 0.86 | 100.0 |
-| 7 | `higher-education/experiment` | 3 | 69.5 | 3 | +100% | 0.47 | 100.0 |
-| 8 | `teacher-ai-literacy/survey` | 3 | 83.6 | 3 | +100% | 0.16 | 100.0 |
-| 9 | `program-evaluation/survey` | 4 | 116.7 | 4 | +100% | 0.50 | 100.0 |
-| 10 | `sme-training/evaluation` | 4 | 54.5 | 2 | +0% | 0.10 | 100.0 |
-| 11 | `compliance/evaluation` | 5 | 125.1 | 4 | +300% | 0.06 | 100.0 |
-| 12 | `learning-design/survey` | 8 | 125.3 | 4 | +0% | 1.00 | 100.0 |
-| 13 | `assessment/survey` | 11 | 119.6 | 9 | +350% | 0.80 | 100.0 |
-| 14 | `learning-design/evaluation` | 16 | 125.3 | 9 | +29% | 1.00 | 100.0 |
-| 15 | `ai-literacy-construct/evaluation` | 18 | 169.1 | 16 | +700% | 0.86 | 100.0 |
-| 16 | `ai-literacy-pedagogy/evaluation` | 30 | 188.3 | 19 | +73% | 0.88 | 100.0 |
-| 17 | `ai-literacy-construct/development` | 35 | 169.1 | 22 | +69% | 0.86 | 100.0 |
-| 18 | `ai-literacy-pedagogy/survey` | 39 | 188.3 | 24 | +60% | 0.88 | 100.0 |
-| 19 | `ai-literacy-pedagogy/development` | 41 | 188.3 | 22 | +16% | 0.88 | 100.0 |
-| 20 | `higher-education/survey` | 10 | 69.5 | 10 | +100% | 0.47 | 98.4 |
+| 1 | `generative-ai-skills/survey` | 2 | 107.4 | 2 | +100% | 0.86 | 100.0 |
+| 2 | `org-implementation/survey` | 2 | 86.2 | 2 | +100% | 0.03 | 100.0 |
+| 3 | `program-evaluation/experiment` | 2 | 116.7 | 2 | +100% | 0.50 | 100.0 |
+| 4 | `workforce-upskilling/survey` | 2 | 87.0 | 2 | +100% | 0.03 | 100.0 |
+| 5 | `ai-literacy-construct/survey` | 3 | 169.1 | 2 | +100% | 0.86 | 100.0 |
+| 6 | `higher-education/experiment` | 3 | 69.5 | 3 | +100% | 0.47 | 100.0 |
+| 7 | `teacher-ai-literacy/survey` | 3 | 83.6 | 3 | +100% | 0.16 | 100.0 |
+| 8 | `program-evaluation/survey` | 4 | 116.7 | 4 | +100% | 0.50 | 100.0 |
+| 9 | `sme-training/evaluation` | 4 | 54.5 | 2 | +0% | 0.10 | 100.0 |
+| 10 | `compliance/evaluation` | 5 | 125.1 | 4 | +300% | 0.06 | 100.0 |
+| 11 | `learning-design/survey` | 8 | 125.3 | 4 | +0% | 1.00 | 100.0 |
+| 12 | `assessment/survey` | 11 | 119.6 | 9 | +350% | 0.80 | 100.0 |
+| 13 | `learning-design/evaluation` | 16 | 125.3 | 9 | +29% | 1.00 | 100.0 |
+| 14 | `ai-literacy-construct/evaluation` | 18 | 169.1 | 14 | +250% | 0.86 | 100.0 |
+| 15 | `ai-literacy-pedagogy/evaluation` | 30 | 188.3 | 19 | +73% | 0.88 | 100.0 |
+| 16 | `ai-literacy-construct/development` | 35 | 169.1 | 21 | +50% | 0.86 | 100.0 |
+| 17 | `ai-literacy-pedagogy/survey` | 39 | 188.3 | 24 | +60% | 0.88 | 100.0 |
+| 18 | `ai-literacy-pedagogy/development` | 41 | 188.3 | 22 | +16% | 0.88 | 100.0 |
+| 19 | `higher-education/survey` | 10 | 69.5 | 10 | +100% | 0.47 | 98.4 |
+| 20 | `assessment/development` | 29 | 119.6 | 21 | +162% | 0.80 | 97.5 |
 
 ## Bridge Gap Cells (thin cells on cross-cutting categories)
 
 Under-saturated cells whose category is a high-betweenness bridge in the concept graph — the integrative white spaces where separate research strands connect. Prioritised by the bridge term.
 
-- `assessment/experiment` — bridge 0.80, 1 papers (category cell avg 119.6)
 - `generative-ai-skills/survey` — bridge 0.86, 2 papers (category cell avg 107.4)
 - `program-evaluation/experiment` — bridge 0.50, 2 papers (category cell avg 116.7)
 - `ai-literacy-construct/survey` — bridge 0.86, 3 papers (category cell avg 169.1)
@@ -47,15 +46,16 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 - `assessment/development` — bridge 0.80, 29 papers (category cell avg 119.6)
 - `program-evaluation/development` — bridge 0.50, 21 papers (category cell avg 116.7)
 - `learning-design/development` — bridge 1.00, 41 papers (category cell avg 125.3)
-- `ai-literacy-pedagogy/mechanism` — bridge 0.88, 47 papers (category cell avg 188.3)
 - `generative-ai-skills/development` — bridge 0.86, 35 papers (category cell avg 107.4)
-- `ai-literacy-pedagogy/review` — bridge 0.88, 49 papers (category cell avg 188.3)
-- `generative-ai-skills/review` — bridge 0.86, 33 papers (category cell avg 107.4)
+- `ai-literacy-pedagogy/mechanism` — bridge 0.88, 47 papers (category cell avg 188.3)
 - `assessment/evaluation` — bridge 0.80, 44 papers (category cell avg 119.6)
 - `learning-design/review` — bridge 1.00, 56 papers (category cell avg 125.3)
+- `generative-ai-skills/review` — bridge 0.86, 33 papers (category cell avg 107.4)
 - `assessment/mechanism` — bridge 0.80, 50 papers (category cell avg 119.6)
 - `learning-design/mechanism` — bridge 1.00, 59 papers (category cell avg 125.3)
+- `assessment/experiment` — bridge 0.80, 1 papers (category cell avg 119.6)
 - `generative-ai-skills/evaluation` — bridge 0.86, 48 papers (category cell avg 107.4)
+- `ai-literacy-pedagogy/review` — bridge 0.88, 49 papers (category cell avg 188.3)
 - `ai-literacy-pedagogy/experiment` — bridge 0.88, 11 papers (category cell avg 188.3)
 - `assessment/review` — bridge 0.80, 56 papers (category cell avg 119.6)
 - `program-evaluation/mechanism` — bridge 0.50, 51 papers (category cell avg 116.7)
@@ -70,13 +70,6 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 - `program-evaluation/systems` — bridge 0.50, 101 papers (category cell avg 116.7)
 
 ## Detailed Cells (top 20)
-
-### Assessment / Experiment (`assessment/experiment`)
-
-- **Papers:** 1 (category cell avg 119.6) — 1 published in the last 12 months (+100%).
-- **Why a gap:** Thin for its category yet surging in the last 12 months.
-- **Representative papers (newest first):**
-  - **Developing Artificial Intelligence Literacy Through Mixed Unplugged and Plugged-in Activities in Primary Education** (2025-10) — <https://doi.org/10.1177/21582440251336708>
 
 ### Generative Ai Skills / Survey (`generative-ai-skills/survey`)
 
@@ -203,7 +196,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Ai Literacy Construct / Evaluation (`ai-literacy-construct/evaluation`)
 
-- **Papers:** 18 (category cell avg 169.1) — 16 published in the last 12 months (+700%).
+- **Papers:** 18 (category cell avg 169.1) — 14 published in the last 12 months (+250%).
 - **Why a gap:** Evaluation evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **ChatGPT as a self-regulated learning support tool in thesis writing: a mixed-methods study** (2026-09) — <https://doi.org/10.3389/fpsyg.2026.1871579>
@@ -225,7 +218,7 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
 
 ### Ai Literacy Construct / Development (`ai-literacy-construct/development`)
 
-- **Papers:** 35 (category cell avg 169.1) — 22 published in the last 12 months (+69%).
+- **Papers:** 35 (category cell avg 169.1) — 21 published in the last 12 months (+50%).
 - **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
 - **Representative papers (newest first):**
   - **Implementation of Artificial Intelligence in engineering teaching and learning** (2026-09) — <https://doi.org/10.56958/jesi.2026.11.1.113>
@@ -266,6 +259,17 @@ Under-saturated cells whose category is a high-betweenness bridge in the concept
   - **Digital Literacy for Lifelong Learning** (2026-09) — <https://doi.org/10.5281/zenodo.22858739>
   - **Perceptions of physical education and classroom teaching department students regarding artificial intelligence** (2026-09) — <https://doi.org/10.70736/ijoess.2459>
   - **Survey Data: Differentiated AI Self-Efficacy and AI Literacy in European Higher Education Students (N = 484)** (2026-08) — <https://doi.org/10.5281/zenodo.21860154>
+
+### Assessment / Development (`assessment/development`)
+
+- **Papers:** 29 (category cell avg 119.6) — 21 published in the last 12 months (+162%).
+- **Why a gap:** Implementation/development evidence — a core target of this program's research plan.
+- **Representative papers (newest first):**
+  - **AI-Assisted Instructional Design Studios for Literacy and UDL in School-University Partnerships** (2026-10) — <https://doi.org/10.4018/979-8-3373-9519-7.ch001>
+  - **Teachers' Competences for Digital Sustainability in Spain. A survey amongst (future) teachers** (2026-09) — <https://doi.org/10.5281/zenodo.22799965>
+  - **Impact of AI-Enabled Features in Faculty Teaching Effectiveness in Google Classroom** (2026-09) — <https://doi.org/10.5281/zenodo.23037901>
+  - **Applying Artificial Intelligence to Childhood Obesity: T2DM and MASLD Risk Predictive Models** (2026-08) — <https://doi.org/10.3390/diagnostics16162533>
+  - **Trends in the use of AI-based learning platforms and implications for secondary English education: A narrative review of international research** (2026-08) — <https://doi.org/10.20487/kasee.19.4.202608.139>
 
 ---
 

@@ -226,88 +226,19 @@ a weekly scheduled job opens a PR with newly discovered papers.
 
 ## 📊 Corpus Statistics
 
-**16,459 papers** across **20 categories**.  
-Sources: **arXiv** 2,712 (16%) · **DOI** 13,096 (79%) · **Other** 651 (3%).  
+**0 papers** across **0 categories**.  
+Sources: No source breakdown.  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/ai-literacy-research).
-
-### Top categories
-
-| Category | Papers | Recent | |
-|----------|--------|--------|-|
-| ai-literacy-pedagogy | **1,883** | 0 | ████████████ |
-| ai-literacy-construct | **1,522** | 0 | █████████░░░ |
-| assessment | **1,196** | 0 | ███████░░░░░ |
-| program-evaluation | **1,167** | 0 | ███████░░░░░ |
-| learning-design | **1,128** | 0 | ███████░░░░░ |
-| compliance | **1,001** | 0 | ██████░░░░░░ |
-| generative-ai-skills | **967** | 0 | ██████░░░░░░ |
-| workforce-upskilling | **783** | 0 | ████░░░░░░░░ |
-| org-implementation | **776** | 0 | ████░░░░░░░░ |
-| teacher-ai-literacy | **752** | 0 | ████░░░░░░░░ |
-| *other* | **5,284** | | |
-
 
 ### By year
 
 | Year | Papers | |
 |------|--------|-|
-| 2024 | 2,251 | ███░░░░░░░░░ |
-| 2025 | 4,925 | ██████░░░░░░ |
-| 2026 | 8,539 | ████████████ |
+| 2025 | 4,979 | ██████░░░░░░ |
+| 2026 | 8,678 | ████████████ |
+| unknown | 4 | ░░░░░░░░░░░░ |
 
 
-### Momentum (hottest categories)
-
-| Category | Total | Rate | Recent | Score |
-|----------|-------|------|--------|-------|
-| Program Evaluation & Outcomes | 1,167 | 69.7/mo | 72% | 407 |
-| Assessment & Measurement | 1,196 | 68.8/mo | 69% | 276 |
-| Org Implementation & Change | 776 | 43.5/mo | 67% | 239 |
-| Compliance & AI Act | 1,001 | 56.9/mo | 68% | 233 |
-| AI Literacy Constructs & Models | 1,522 | 81.3/mo | 64% | 232 |
-
-
-### Trending keywords
-
-| Keyword | Papers | Burst |
-|---------|--------|-------|
-| continuum | 30 | 1.75 |
-| micro-learning | 3 | 1.75 |
-| agentic | 250 | 1.50 |
-| transfer | 290 | 1.48 |
-| measurement | 279 | 1.45 |
-| avoidance | 32 | 1.42 |
-| readiness | 848 | 1.40 |
-| workshop | 232 | 1.39 |
-
-
-### Top venues
-
-| Venue | Papers |
-|-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 918 |
-| SSRN Electronic Journal | 214 |
-| Frontiers in Education | 175 |
-| Education and Information Technologies | 148 |
-| Advances in computational intelligence and robotics book series | 148 |
-| Education Sciences | 132 |
-| Lecture notes in computer science | 114 |
-| arXiv | 110 |
-
-
-### Research gaps (thinnest cells)
-
-| Cell | Papers |
-|------|--------|
-| `assessment/experiment` | 1 |
-| `program-evaluation/experiment` | 2 |
-| `workforce-upskilling/survey` | 2 |
-| `org-implementation/survey` | 2 |
-| `generative-ai-skills/survey` | 2 |
-
-
-
-*Generated 2026-10 by `scripts/standard_stats.py`.*
 
 
 ## 📄 License

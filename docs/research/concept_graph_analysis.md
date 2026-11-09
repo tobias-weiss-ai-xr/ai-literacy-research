@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 388 edges, 1 components, 1 communities (modularity -636.46). Edges = co-occurrence.
+**Generated:** 42 nodes, 387 edges, 1 components, 1 communities (modularity -661.753). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1808, degree 38, df 3045
-- **qualitative** — PR 0.0791, degree 38, df 976
-- **survey** — PR 0.0606, degree 36, df 859
-- **quantitative** — PR 0.0590, degree 36, df 656
-- **Ai Literacy Pedagogy** — PR 0.0492, degree 18, df 1883
-- **Ai Literacy Construct** — PR 0.0448, degree 18, df 1522
-- **literature review** — PR 0.0362, degree 37, df 465
-- **systematic review** — PR 0.0343, degree 32, df 487
-- **case study** — PR 0.0316, degree 34, df 408
-- **Learning Design** — PR 0.0299, degree 18, df 1128
-- **Assessment** — PR 0.0288, degree 17, df 1196
-- **dataset** — PR 0.0287, degree 32, df 338
+- **framework** — PR 0.1823, degree 38, df 3125
+- **qualitative** — PR 0.0791, degree 38, df 991
+- **survey** — PR 0.0604, degree 35, df 872
+- **quantitative** — PR 0.0585, degree 36, df 661
+- **Ai Literacy Pedagogy** — PR 0.0521, degree 18, df 2049
+- **Ai Literacy Construct** — PR 0.0453, degree 18, df 1546
+- **literature review** — PR 0.0365, degree 37, df 479
+- **systematic review** — PR 0.0339, degree 32, df 489
+- **case study** — PR 0.0317, degree 34, df 415
+- **Learning Design** — PR 0.0299, degree 18, df 1139
+- **dataset** — PR 0.0286, degree 32, df 341
+- **Assessment** — PR 0.0282, degree 17, df 1186
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -39,9 +39,9 @@
 - literature review ↔ open access (weight 2, EB 6.8786)
 - quantitative ↔ grounded theory (weight 2, EB 6.6762)
 - systematic review ↔ open access (weight 2, EB 6.0)
-- framework ↔ K12 Education (weight 23, EB 5.9357)
-- qualitative ↔ K12 Education (weight 7, EB 5.9357)
-- dataset ↔ grounded theory (weight 2, EB 5.8333)
+- framework ↔ K12 Education (weight 23, EB 5.9857)
+- qualitative ↔ K12 Education (weight 7, EB 5.9857)
+- framework ↔ research gap (weight 11, EB 5.8697)
 
 ## Communities (clusters of related concepts)
 

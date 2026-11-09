@@ -1,105 +1,105 @@
 {
   "stats": {
     "nodes": 42,
-    "edges": 388,
+    "edges": 387,
     "components": 1,
     "communities": 1,
-    "modularity": -636.4601
+    "modularity": -661.7534
   },
   "nodes": [
     {
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3045,
+      "df": 3125,
       "degree": 38,
-      "weighted_degree": 4543,
+      "weighted_degree": 4658,
       "degree_centrality": 0.9268,
-      "pagerank": 0.18084,
-      "betweenness": 41.8662,
-      "clustering": 0.4979
+      "pagerank": 0.182312,
+      "betweenness": 42.7041,
+      "clustering": 0.4964
     },
     {
       "id": 7,
       "term": "qualitative",
       "kind": "curated",
-      "df": 976,
+      "df": 991,
       "degree": 38,
-      "weighted_degree": 1968,
+      "weighted_degree": 2001,
       "degree_centrality": 0.9268,
-      "pagerank": 0.079138,
-      "betweenness": 41.8662,
-      "clustering": 0.4979
+      "pagerank": 0.079087,
+      "betweenness": 42.7041,
+      "clustering": 0.4964
     },
     {
       "id": 9,
       "term": "survey",
       "kind": "curated",
-      "df": 859,
-      "degree": 36,
-      "weighted_degree": 1495,
-      "degree_centrality": 0.878,
-      "pagerank": 0.060565,
-      "betweenness": 29.7281,
-      "clustering": 0.5333
+      "df": 872,
+      "degree": 35,
+      "weighted_degree": 1518,
+      "degree_centrality": 0.8537,
+      "pagerank": 0.060358,
+      "betweenness": 26.1463,
+      "clustering": 0.5462
     },
     {
       "id": 16,
       "term": "quantitative",
       "kind": "curated",
-      "df": 656,
+      "df": 661,
       "degree": 36,
-      "weighted_degree": 1480,
+      "weighted_degree": 1490,
       "degree_centrality": 0.878,
-      "pagerank": 0.059044,
-      "betweenness": 33.1306,
-      "clustering": 0.5254
+      "pagerank": 0.058451,
+      "betweenness": 33.9685,
+      "clustering": 0.5238
     },
     {
       "id": 1,
       "term": "Ai Literacy Pedagogy",
       "kind": "taxonomy",
-      "df": 1883,
+      "df": 2049,
       "degree": 18,
-      "weighted_degree": 1231,
+      "weighted_degree": 1333,
       "degree_centrality": 0.439,
-      "pagerank": 0.049243,
-      "betweenness": 4.3598,
-      "clustering": 0.6863
+      "pagerank": 0.052083,
+      "betweenness": 4.5477,
+      "clustering": 0.6797
     },
     {
       "id": 2,
       "term": "Ai Literacy Construct",
       "kind": "taxonomy",
-      "df": 1522,
+      "df": 1546,
       "degree": 18,
-      "weighted_degree": 1139,
+      "weighted_degree": 1171,
       "degree_centrality": 0.439,
-      "pagerank": 0.044829,
-      "betweenness": 4.2407,
-      "clustering": 0.6863
+      "pagerank": 0.045253,
+      "betweenness": 4.4286,
+      "clustering": 0.6797
     },
     {
       "id": 20,
       "term": "literature review",
       "kind": "curated",
-      "df": 465,
+      "df": 479,
       "degree": 37,
-      "weighted_degree": 836,
+      "weighted_degree": 860,
       "degree_centrality": 0.9024,
-      "pagerank": 0.036193,
-      "betweenness": 35.6067,
-      "clustering": 0.515
+      "pagerank": 0.036507,
+      "betweenness": 36.4446,
+      "clustering": 0.5135
     },
     {
       "id": 19,
       "term": "systematic review",
       "kind": "curated",
-      "df": 487,
+      "df": 489,
       "degree": 32,
-      "weighted_degree": 786,
+      "weighted_degree": 789,
       "degree_centrality": 0.7805,
-      "pagerank": 0.034264,
+      "pagerank": 0.033901,
       "betweenness": 25.6235,
       "clustering": 0.504
     },
@@ -107,11 +107,11 @@
       "id": 24,
       "term": "case study",
       "kind": "curated",
-      "df": 408,
+      "df": 415,
       "degree": 34,
-      "weighted_degree": 714,
+      "weighted_degree": 729,
       "degree_centrality": 0.8293,
-      "pagerank": 0.031588,
+      "pagerank": 0.031664,
       "betweenness": 24.3595,
       "clustering": 0.5472
     },
@@ -119,59 +119,59 @@
       "id": 5,
       "term": "Learning Design",
       "kind": "taxonomy",
-      "df": 1128,
+      "df": 1139,
       "degree": 18,
-      "weighted_degree": 699,
+      "weighted_degree": 712,
       "degree_centrality": 0.439,
-      "pagerank": 0.029876,
+      "pagerank": 0.029906,
       "betweenness": 4.9375,
       "clustering": 0.6797
-    },
-    {
-      "id": 3,
-      "term": "Assessment",
-      "kind": "taxonomy",
-      "df": 1196,
-      "degree": 17,
-      "weighted_degree": 682,
-      "degree_centrality": 0.4146,
-      "pagerank": 0.028793,
-      "betweenness": 3.9618,
-      "clustering": 0.7132
     },
     {
       "id": 27,
       "term": "dataset",
       "kind": "curated",
-      "df": 338,
+      "df": 341,
       "degree": 32,
-      "weighted_degree": 635,
+      "weighted_degree": 642,
       "degree_centrality": 0.7805,
-      "pagerank": 0.028698,
+      "pagerank": 0.0286,
       "betweenness": 20.5756,
       "clustering": 0.5766
+    },
+    {
+      "id": 3,
+      "term": "Assessment",
+      "kind": "taxonomy",
+      "df": 1186,
+      "degree": 17,
+      "weighted_degree": 678,
+      "degree_centrality": 0.4146,
+      "pagerank": 0.028223,
+      "betweenness": 3.9618,
+      "clustering": 0.7132
     },
     {
       "id": 8,
       "term": "Generative Ai Skills",
       "kind": "taxonomy",
-      "df": 967,
+      "df": 965,
       "degree": 18,
       "weighted_degree": 638,
       "degree_centrality": 0.439,
-      "pagerank": 0.02786,
-      "betweenness": 4.2407,
-      "clustering": 0.6863
+      "pagerank": 0.027519,
+      "betweenness": 4.4286,
+      "clustering": 0.6797
     },
     {
       "id": 28,
       "term": "benchmark",
       "kind": "curated",
-      "df": 267,
+      "df": 268,
       "degree": 29,
-      "weighted_degree": 498,
+      "weighted_degree": 500,
       "degree_centrality": 0.7073,
-      "pagerank": 0.023063,
+      "pagerank": 0.022871,
       "betweenness": 14.8725,
       "clustering": 0.569
     },
@@ -179,13 +179,13 @@
       "id": 4,
       "term": "Program Evaluation",
       "kind": "taxonomy",
-      "df": 1167,
+      "df": 1168,
       "degree": 17,
       "weighted_degree": 473,
       "degree_centrality": 0.4146,
-      "pagerank": 0.021391,
-      "betweenness": 2.4812,
-      "clustering": 0.7426
+      "pagerank": 0.021113,
+      "betweenness": 2.6691,
+      "clustering": 0.7353
     },
     {
       "id": 14,
@@ -195,7 +195,7 @@
       "degree": 16,
       "weighted_degree": 463,
       "degree_centrality": 0.3902,
-      "pagerank": 0.02091,
+      "pagerank": 0.02064,
       "betweenness": 2.3189,
       "clustering": 0.775
     },
@@ -207,7 +207,7 @@
       "degree": 13,
       "weighted_degree": 439,
       "degree_centrality": 0.3171,
-      "pagerank": 0.019525,
+      "pagerank": 0.019276,
       "betweenness": 0.3059,
       "clustering": 0.9231
     },
@@ -215,11 +215,11 @@
       "id": 29,
       "term": "taxonomy",
       "kind": "curated",
-      "df": 193,
+      "df": 195,
       "degree": 29,
-      "weighted_degree": 397,
+      "weighted_degree": 400,
       "degree_centrality": 0.7073,
-      "pagerank": 0.018643,
+      "pagerank": 0.018517,
       "betweenness": 14.0695,
       "clustering": 0.5837
     },
@@ -231,7 +231,7 @@
       "degree": 14,
       "weighted_degree": 336,
       "degree_centrality": 0.3415,
-      "pagerank": 0.015887,
+      "pagerank": 0.01568,
       "betweenness": 0.7747,
       "clustering": 0.8571
     },
@@ -239,11 +239,11 @@
       "id": 11,
       "term": "Org Implementation",
       "kind": "taxonomy",
-      "df": 776,
+      "df": 778,
       "degree": 12,
       "weighted_degree": 335,
       "degree_centrality": 0.2927,
-      "pagerank": 0.015627,
+      "pagerank": 0.015428,
       "betweenness": 0.1663,
       "clustering": 0.9394
     },
@@ -251,13 +251,13 @@
       "id": 13,
       "term": "Attitudes Trust",
       "kind": "taxonomy",
-      "df": 734,
+      "df": 735,
       "degree": 14,
       "weighted_degree": 300,
       "degree_centrality": 0.3415,
-      "pagerank": 0.014946,
-      "betweenness": 1.0308,
-      "clustering": 0.8352
+      "pagerank": 0.014788,
+      "betweenness": 1.1874,
+      "clustering": 0.8242
     },
     {
       "id": 30,
@@ -265,9 +265,9 @@
       "kind": "curated",
       "df": 163,
       "degree": 29,
-      "weighted_degree": 273,
+      "weighted_degree": 272,
       "degree_centrality": 0.7073,
-      "pagerank": 0.014293,
+      "pagerank": 0.014109,
       "betweenness": 12.5293,
       "clustering": 0.6207
     },
@@ -275,13 +275,25 @@
       "id": 18,
       "term": "Professional Education",
       "kind": "taxonomy",
-      "df": 537,
+      "df": 538,
       "degree": 15,
       "weighted_degree": 235,
       "degree_centrality": 0.3659,
-      "pagerank": 0.012647,
-      "betweenness": 1.3438,
-      "clustering": 0.8095
+      "pagerank": 0.01253,
+      "betweenness": 1.5095,
+      "clustering": 0.8
+    },
+    {
+      "id": 10,
+      "term": "Workforce Upskilling",
+      "kind": "taxonomy",
+      "df": 784,
+      "degree": 11,
+      "weighted_degree": 230,
+      "degree_centrality": 0.2683,
+      "pagerank": 0.011791,
+      "betweenness": 0.1663,
+      "clustering": 0.9273
     },
     {
       "id": 17,
@@ -291,21 +303,9 @@
       "degree": 13,
       "weighted_degree": 219,
       "degree_centrality": 0.3171,
-      "pagerank": 0.011908,
+      "pagerank": 0.011784,
       "betweenness": 0.2728,
       "clustering": 0.9231
-    },
-    {
-      "id": 10,
-      "term": "Workforce Upskilling",
-      "kind": "taxonomy",
-      "df": 783,
-      "degree": 11,
-      "weighted_degree": 229,
-      "degree_centrality": 0.2683,
-      "pagerank": 0.011893,
-      "betweenness": 0.1663,
-      "clustering": 0.9273
     },
     {
       "id": 31,
@@ -315,7 +315,7 @@
       "degree": 24,
       "weighted_degree": 205,
       "degree_centrality": 0.5854,
-      "pagerank": 0.011485,
+      "pagerank": 0.011366,
       "betweenness": 9.3052,
       "clustering": 0.5833
     },
@@ -323,11 +323,11 @@
       "id": 15,
       "term": "Adoption Behavior",
       "kind": "taxonomy",
-      "df": 679,
+      "df": 680,
       "degree": 12,
       "weighted_degree": 205,
       "degree_centrality": 0.2927,
-      "pagerank": 0.011233,
+      "pagerank": 0.011116,
       "betweenness": 0.1663,
       "clustering": 0.9394
     },
@@ -335,11 +335,11 @@
       "id": 32,
       "term": "mixed methods",
       "kind": "curated",
-      "df": 66,
+      "df": 68,
       "degree": 19,
-      "weighted_degree": 151,
+      "weighted_degree": 157,
       "degree_centrality": 0.4634,
-      "pagerank": 0.009309,
+      "pagerank": 0.00942,
       "betweenness": 3.1168,
       "clustering": 0.7427
     },
@@ -351,7 +351,7 @@
       "degree": 11,
       "weighted_degree": 131,
       "degree_centrality": 0.2683,
-      "pagerank": 0.00862,
+      "pagerank": 0.00854,
       "betweenness": 0.5094,
       "clustering": 0.8545
     },
@@ -363,7 +363,7 @@
       "degree": 10,
       "weighted_degree": 125,
       "degree_centrality": 0.2439,
-      "pagerank": 0.008288,
+      "pagerank": 0.008215,
       "betweenness": 0.0357,
       "clustering": 0.9778
     },
@@ -371,13 +371,13 @@
       "id": 21,
       "term": "Lifelong Learning",
       "kind": "taxonomy",
-      "df": 452,
+      "df": 453,
       "degree": 13,
       "weighted_degree": 115,
       "degree_centrality": 0.3171,
-      "pagerank": 0.008176,
-      "betweenness": 1.3959,
-      "clustering": 0.7564
+      "pagerank": 0.00812,
+      "betweenness": 1.5525,
+      "clustering": 0.7436
     },
     {
       "id": 22,
@@ -387,7 +387,7 @@
       "degree": 12,
       "weighted_degree": 114,
       "degree_centrality": 0.2927,
-      "pagerank": 0.007994,
+      "pagerank": 0.007928,
       "betweenness": 0.0833,
       "clustering": 0.9697
     },
@@ -399,7 +399,7 @@
       "degree": 22,
       "weighted_degree": 99,
       "degree_centrality": 0.5366,
-      "pagerank": 0.007589,
+      "pagerank": 0.007537,
       "betweenness": 4.367,
       "clustering": 0.7359
     },
@@ -407,11 +407,11 @@
       "id": 34,
       "term": "peer review",
       "kind": "curated",
-      "df": 45,
+      "df": 44,
       "degree": 19,
-      "weighted_degree": 93,
+      "weighted_degree": 91,
       "degree_centrality": 0.4634,
-      "pagerank": 0.007375,
+      "pagerank": 0.00725,
       "betweenness": 4.5224,
       "clustering": 0.655
     },
@@ -419,11 +419,11 @@
       "id": 35,
       "term": "triangulation",
       "kind": "curated",
-      "df": 34,
+      "df": 36,
       "degree": 15,
-      "weighted_degree": 90,
+      "weighted_degree": 94,
       "degree_centrality": 0.3659,
-      "pagerank": 0.00715,
+      "pagerank": 0.007228,
       "betweenness": 2.4064,
       "clustering": 0.7048
     },
@@ -431,11 +431,11 @@
       "id": 26,
       "term": "K12 Education",
       "kind": "taxonomy",
-      "df": 348,
+      "df": 349,
       "degree": 7,
       "weighted_degree": 66,
       "degree_centrality": 0.1707,
-      "pagerank": 0.006175,
+      "pagerank": 0.006135,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -443,13 +443,13 @@
       "id": 36,
       "term": "research gap",
       "kind": "curated",
-      "df": 29,
-      "degree": 12,
-      "weighted_degree": 46,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.005528,
+      "df": 28,
+      "degree": 11,
+      "weighted_degree": 42,
+      "degree_centrality": 0.2683,
+      "pagerank": 0.005367,
       "betweenness": 1.5378,
-      "clustering": 0.6667
+      "clustering": 0.6
     },
     {
       "id": 37,
@@ -459,7 +459,7 @@
       "degree": 8,
       "weighted_degree": 27,
       "degree_centrality": 0.1951,
-      "pagerank": 0.004793,
+      "pagerank": 0.004777,
       "betweenness": 0.357,
       "clustering": 0.7857
     },
@@ -471,7 +471,7 @@
       "degree": 8,
       "weighted_degree": 22,
       "degree_centrality": 0.1951,
-      "pagerank": 0.004623,
+      "pagerank": 0.004609,
       "betweenness": 0.3676,
       "clustering": 0.7857
     },
@@ -629,13 +629,25 @@
       "source": "framework",
       "target": "K12 Education",
       "weight": 23,
-      "edge_betweenness": 5.9357
+      "edge_betweenness": 5.9857
     },
     {
       "source": "qualitative",
       "target": "K12 Education",
       "weight": 7,
-      "edge_betweenness": 5.9357
+      "edge_betweenness": 5.9857
+    },
+    {
+      "source": "framework",
+      "target": "research gap",
+      "weight": 11,
+      "edge_betweenness": 5.8697
+    },
+    {
+      "source": "qualitative",
+      "target": "research gap",
+      "weight": 3,
+      "edge_betweenness": 5.8697
     },
     {
       "source": "dataset",
@@ -644,34 +656,22 @@
       "edge_betweenness": 5.8333
     },
     {
+      "source": "quantitative",
+      "target": "research gap",
+      "weight": 2,
+      "edge_betweenness": 5.6966
+    },
+    {
+      "source": "literature review",
+      "target": "research gap",
+      "weight": 4,
+      "edge_betweenness": 5.6697
+    },
+    {
       "source": "literature review",
       "target": "K12 Education",
       "weight": 5,
-      "edge_betweenness": 5.6024
-    },
-    {
-      "source": "quantitative",
-      "target": "K12 Education",
-      "weight": 3,
-      "edge_betweenness": 5.519
-    },
-    {
-      "source": "survey",
-      "target": "K12 Education",
-      "weight": 7,
-      "edge_betweenness": 5.3524
-    },
-    {
-      "source": "framework",
-      "target": "research gap",
-      "weight": 11,
-      "edge_betweenness": 5.0318
-    },
-    {
-      "source": "qualitative",
-      "target": "research gap",
-      "weight": 3,
-      "edge_betweenness": 5.0318
+      "edge_betweenness": 5.6524
     }
   ]
 }

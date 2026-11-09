@@ -7,64 +7,64 @@ Ranked by content opportunity = evidence (paper count + recent activity) + the c
 
 High-betweenness categories — cross-cutting content angles that connect separate strands:
 
-- **Ai Literacy Pedagogy** — bridge 0.88 (1883 papers)
+- **Ai Literacy Pedagogy** — bridge 0.92 (2049 papers)
 
-- **Ai Literacy Construct** — bridge 0.86 (1522 papers)
+- **Ai Literacy Construct** — bridge 0.90 (1546 papers)
 
-- **Assessment** — bridge 0.80 (1196 papers)
+- **Assessment** — bridge 0.80 (1186 papers)
 
-- **Program Evaluation** — bridge 0.50 (1167 papers)
+- **Program Evaluation** — bridge 0.54 (1168 papers)
 
-- **Learning Design** — bridge 1.00 (1128 papers)
+- **Learning Design** — bridge 1.00 (1139 papers)
 
-- **Generative Ai Skills** — bridge 0.86 (967 papers)
+- **Generative Ai Skills** — bridge 0.90 (965 papers)
 
 
 ## Ai Literacy Pedagogy
 
-Evidence-based topic: 1883 curated papers, 1470 in the last 12 months. Bridge signal: 0.88; opportunity: 1910.58.
+Evidence-based topic: 2049 curated papers, 1629 in the last 12 months. Bridge signal: 0.92; opportunity: 2077.82.
 
 
 ## Ai Literacy Construct
 
-Evidence-based topic: 1522 curated papers, 1294 in the last 12 months. Bridge signal: 0.86; opportunity: 1548.73.
+Evidence-based topic: 1546 curated papers, 1319 in the last 12 months. Bridge signal: 0.90; opportunity: 1573.87.
 
 
 ## Assessment
 
-Evidence-based topic: 1196 curated papers, 1064 in the last 12 months. Bridge signal: 0.80; opportunity: 1220.86.
+Evidence-based topic: 1186 curated papers, 1056 in the last 12 months. Bridge signal: 0.80; opportunity: 1210.84.
 
 
 ## Program Evaluation
 
-Evidence-based topic: 1167 curated papers, 996 in the last 12 months. Bridge signal: 0.50; opportunity: 1182.82.
+Evidence-based topic: 1168 curated papers, 997 in the last 12 months. Bridge signal: 0.54; opportunity: 1184.95.
 
 
 ## Learning Design
 
-Evidence-based topic: 1128 curated papers, 910 in the last 12 months. Bridge signal: 1.00; opportunity: 1158.68.
+Evidence-based topic: 1139 curated papers, 922 in the last 12 months. Bridge signal: 1.00; opportunity: 1169.68.
 
 
 ## Compliance
 
-Evidence-based topic: 1001 curated papers, 909 in the last 12 months. Bridge signal: 0.06; opportunity: 1003.53.
+Evidence-based topic: 1001 curated papers, 909 in the last 12 months. Bridge signal: 0.06; opportunity: 1003.52.
 
 
 ## Generative Ai Skills
 
-Evidence-based topic: 967 curated papers, 787 in the last 12 months. Bridge signal: 0.86; opportunity: 993.35.
+Evidence-based topic: 965 curated papers, 785 in the last 12 months. Bridge signal: 0.90; opportunity: 992.48.
 
 
 ## Workforce Upskilling
 
-Evidence-based topic: 783 curated papers, 632 in the last 12 months. Bridge signal: 0.03; opportunity: 784.48.
+Evidence-based topic: 784 curated papers, 633 in the last 12 months. Bridge signal: 0.03; opportunity: 785.47.
 
 
 ## Org Implementation
 
-Evidence-based topic: 776 curated papers, 695 in the last 12 months. Bridge signal: 0.03; opportunity: 777.53.
+Evidence-based topic: 778 curated papers, 696 in the last 12 months. Bridge signal: 0.03; opportunity: 779.52.
 
 
 ## Teacher Ai Literacy
 
-Evidence-based topic: 752 curated papers, 665 in the last 12 months. Bridge signal: 0.16; opportunity: 757.2.
+Evidence-based topic: 752 curated papers, 665 in the last 12 months. Bridge signal: 0.16; opportunity: 757.19.

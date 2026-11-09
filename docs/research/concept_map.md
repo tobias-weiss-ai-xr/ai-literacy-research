@@ -1,48 +1,48 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 42 concepts, 388 relationships from 16459 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 387 relationships from 16657 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 3045 |
-| Ai Literacy Pedagogy | taxonomy | 1883 |
-| Ai Literacy Construct | taxonomy | 1522 |
-| Assessment | taxonomy | 1196 |
-| Program Evaluation | taxonomy | 1167 |
-| Learning Design | taxonomy | 1128 |
+| framework | curated | 3125 |
+| Ai Literacy Pedagogy | taxonomy | 2049 |
+| Ai Literacy Construct | taxonomy | 1546 |
+| Assessment | taxonomy | 1186 |
+| Program Evaluation | taxonomy | 1168 |
+| Learning Design | taxonomy | 1139 |
 | Compliance | taxonomy | 1001 |
-| qualitative | curated | 976 |
-| Generative Ai Skills | taxonomy | 967 |
-| survey | curated | 859 |
-| Workforce Upskilling | taxonomy | 783 |
-| Org Implementation | taxonomy | 776 |
+| qualitative | curated | 991 |
+| Generative Ai Skills | taxonomy | 965 |
+| survey | curated | 872 |
+| Workforce Upskilling | taxonomy | 784 |
+| Org Implementation | taxonomy | 778 |
 | Teacher Ai Literacy | taxonomy | 752 |
-| Attitudes Trust | taxonomy | 734 |
+| Attitudes Trust | taxonomy | 735 |
 | Higher Education | taxonomy | 695 |
-| Adoption Behavior | taxonomy | 679 |
-| quantitative | curated | 656 |
+| Adoption Behavior | taxonomy | 680 |
+| quantitative | curated | 661 |
 | Tooling | taxonomy | 579 |
-| Professional Education | taxonomy | 537 |
-| systematic review | curated | 487 |
-| literature review | curated | 465 |
-| Lifelong Learning | taxonomy | 452 |
+| Professional Education | taxonomy | 538 |
+| systematic review | curated | 489 |
+| literature review | curated | 479 |
+| Lifelong Learning | taxonomy | 453 |
 | Roi Measurement | taxonomy | 447 |
 | Sme Training | taxonomy | 436 |
-| case study | curated | 408 |
+| case study | curated | 415 |
 | Critical Ai Literacy | taxonomy | 377 |
-| K12 Education | taxonomy | 348 |
-| dataset | curated | 338 |
-| benchmark | curated | 267 |
-| taxonomy | curated | 193 |
+| K12 Education | taxonomy | 349 |
+| dataset | curated | 341 |
+| benchmark | curated | 268 |
+| taxonomy | curated | 195 |
 | experiment | curated | 163 |
 | interview | curated | 97 |
-| mixed methods | curated | 66 |
+| mixed methods | curated | 68 |
 | reproducibility | curated | 47 |
-| peer review | curated | 45 |
-| triangulation | curated | 34 |
-| research gap | curated | 29 |
+| peer review | curated | 44 |
+| triangulation | curated | 36 |
+| research gap | curated | 28 |
 | grounded theory | curated | 16 |
 | open access | curated | 15 |
 | Survey | taxonomy | 0 |
@@ -51,45 +51,45 @@
 
 ### framework
 
-- Ai Literacy Construct — 685 shared paper(s)
-- Ai Literacy Pedagogy — 329 shared paper(s)
-- qualitative — 276 shared paper(s)
+- Ai Literacy Construct — 713 shared paper(s)
+- Ai Literacy Pedagogy — 375 shared paper(s)
+- qualitative — 284 shared paper(s)
+- Learning Design — 254 shared paper(s)
 - Compliance — 252 shared paper(s)
-- Learning Design — 248 shared paper(s)
-- Assessment — 232 shared paper(s)
+- Assessment — 231 shared paper(s)
 - Generative Ai Skills — 218 shared paper(s)
-- quantitative — 196 shared paper(s)
+- quantitative — 197 shared paper(s)
 
 ### Ai Literacy Pedagogy
 
-- framework — 329 shared paper(s)
-- qualitative — 240 shared paper(s)
-- survey — 138 shared paper(s)
-- quantitative — 128 shared paper(s)
-- literature review — 115 shared paper(s)
-- systematic review — 95 shared paper(s)
-- case study — 68 shared paper(s)
+- framework — 375 shared paper(s)
+- qualitative — 254 shared paper(s)
+- survey — 148 shared paper(s)
+- quantitative — 135 shared paper(s)
+- literature review — 125 shared paper(s)
+- systematic review — 97 shared paper(s)
+- case study — 74 shared paper(s)
 - experiment — 26 shared paper(s)
 
 ### Ai Literacy Construct
 
-- framework — 685 shared paper(s)
-- qualitative — 86 shared paper(s)
-- survey — 70 shared paper(s)
-- systematic review — 68 shared paper(s)
-- literature review — 53 shared paper(s)
-- quantitative — 46 shared paper(s)
-- case study — 29 shared paper(s)
-- taxonomy — 28 shared paper(s)
+- framework — 713 shared paper(s)
+- qualitative — 87 shared paper(s)
+- survey — 69 shared paper(s)
+- systematic review — 69 shared paper(s)
+- literature review — 56 shared paper(s)
+- quantitative — 44 shared paper(s)
+- case study — 30 shared paper(s)
+- taxonomy — 29 shared paper(s)
 
 ### Assessment
 
-- framework — 232 shared paper(s)
-- survey — 96 shared paper(s)
-- quantitative — 87 shared paper(s)
-- qualitative — 77 shared paper(s)
+- framework — 231 shared paper(s)
+- survey — 97 shared paper(s)
+- quantitative — 86 shared paper(s)
+- qualitative — 76 shared paper(s)
 - systematic review — 49 shared paper(s)
-- literature review — 28 shared paper(s)
+- literature review — 27 shared paper(s)
 - case study — 25 shared paper(s)
 - dataset — 25 shared paper(s)
 
@@ -106,21 +106,21 @@
 
 ### Learning Design
 
-- framework — 248 shared paper(s)
-- qualitative — 108 shared paper(s)
-- quantitative — 71 shared paper(s)
-- survey — 66 shared paper(s)
+- framework — 254 shared paper(s)
+- qualitative — 109 shared paper(s)
+- quantitative — 72 shared paper(s)
+- survey — 69 shared paper(s)
 - case study — 49 shared paper(s)
-- systematic review — 32 shared paper(s)
-- literature review — 29 shared paper(s)
+- systematic review — 31 shared paper(s)
+- literature review — 31 shared paper(s)
 - dataset — 25 shared paper(s)
 
 ### Compliance
 
 - framework — 252 shared paper(s)
 - benchmark — 29 shared paper(s)
-- survey — 25 shared paper(s)
 - dataset — 25 shared paper(s)
+- survey — 25 shared paper(s)
 - qualitative — 23 shared paper(s)
 - taxonomy — 18 shared paper(s)
 - case study — 15 shared paper(s)
@@ -128,14 +128,14 @@
 
 ### qualitative
 
-- framework — 276 shared paper(s)
-- quantitative — 263 shared paper(s)
-- Ai Literacy Pedagogy — 240 shared paper(s)
-- Learning Design — 108 shared paper(s)
-- survey — 105 shared paper(s)
-- case study — 93 shared paper(s)
-- Ai Literacy Construct — 86 shared paper(s)
-- Assessment — 77 shared paper(s)
+- framework — 284 shared paper(s)
+- quantitative — 266 shared paper(s)
+- Ai Literacy Pedagogy — 254 shared paper(s)
+- Learning Design — 109 shared paper(s)
+- survey — 108 shared paper(s)
+- case study — 95 shared paper(s)
+- Ai Literacy Construct — 87 shared paper(s)
+- Assessment — 76 shared paper(s)
 
 ### Generative Ai Skills
 
@@ -150,18 +150,18 @@
 
 ### survey
 
-- framework — 192 shared paper(s)
-- quantitative — 179 shared paper(s)
-- Ai Literacy Pedagogy — 138 shared paper(s)
+- framework — 197 shared paper(s)
+- quantitative — 181 shared paper(s)
+- Ai Literacy Pedagogy — 148 shared paper(s)
+- qualitative — 108 shared paper(s)
 - Higher Education — 106 shared paper(s)
-- qualitative — 105 shared paper(s)
-- Assessment — 96 shared paper(s)
-- Ai Literacy Construct — 70 shared paper(s)
-- Learning Design — 66 shared paper(s)
+- Assessment — 97 shared paper(s)
+- Ai Literacy Construct — 69 shared paper(s)
+- Learning Design — 69 shared paper(s)
 
 ### Workforce Upskilling
 
-- framework — 105 shared paper(s)
+- framework — 106 shared paper(s)
 - qualitative — 23 shared paper(s)
 - systematic review — 23 shared paper(s)
 - literature review — 22 shared paper(s)
@@ -227,13 +227,13 @@
 
 ### quantitative
 
-- qualitative — 263 shared paper(s)
-- framework — 196 shared paper(s)
-- survey — 179 shared paper(s)
-- Ai Literacy Pedagogy — 128 shared paper(s)
-- Assessment — 87 shared paper(s)
+- qualitative — 266 shared paper(s)
+- framework — 197 shared paper(s)
+- survey — 181 shared paper(s)
+- Ai Literacy Pedagogy — 135 shared paper(s)
+- Assessment — 86 shared paper(s)
 - Higher Education — 74 shared paper(s)
-- Learning Design — 71 shared paper(s)
+- Learning Design — 72 shared paper(s)
 - Program Evaluation — 50 shared paper(s)
 
 ### Tooling
@@ -244,7 +244,7 @@
 - case study — 15 shared paper(s)
 - systematic review — 15 shared paper(s)
 - qualitative — 13 shared paper(s)
-- survey — 11 shared paper(s)
+- taxonomy — 11 shared paper(s)
 - literature review — 11 shared paper(s)
 
 ### Professional Education
@@ -253,32 +253,32 @@
 - qualitative — 23 shared paper(s)
 - survey — 22 shared paper(s)
 - quantitative — 15 shared paper(s)
-- case study — 12 shared paper(s)
 - literature review — 12 shared paper(s)
-- interview — 11 shared paper(s)
+- case study — 12 shared paper(s)
 - systematic review — 11 shared paper(s)
+- interview — 11 shared paper(s)
 
 ### systematic review
 
-- framework — 108 shared paper(s)
-- Ai Literacy Pedagogy — 95 shared paper(s)
-- literature review — 72 shared paper(s)
-- Ai Literacy Construct — 68 shared paper(s)
+- framework — 107 shared paper(s)
+- Ai Literacy Pedagogy — 97 shared paper(s)
+- literature review — 73 shared paper(s)
+- Ai Literacy Construct — 69 shared paper(s)
 - Assessment — 49 shared paper(s)
 - Program Evaluation — 40 shared paper(s)
 - qualitative — 36 shared paper(s)
-- Learning Design — 32 shared paper(s)
+- Learning Design — 31 shared paper(s)
 
 ### literature review
 
-- framework — 160 shared paper(s)
-- Ai Literacy Pedagogy — 115 shared paper(s)
-- systematic review — 72 shared paper(s)
-- Ai Literacy Construct — 53 shared paper(s)
+- framework — 169 shared paper(s)
+- Ai Literacy Pedagogy — 125 shared paper(s)
+- systematic review — 73 shared paper(s)
+- Ai Literacy Construct — 56 shared paper(s)
 - qualitative — 52 shared paper(s)
 - Org Implementation — 36 shared paper(s)
-- Learning Design — 29 shared paper(s)
-- Assessment — 28 shared paper(s)
+- Learning Design — 31 shared paper(s)
+- Assessment — 27 shared paper(s)
 
 ### Lifelong Learning
 
@@ -297,8 +297,8 @@
 - dataset — 14 shared paper(s)
 - systematic review — 12 shared paper(s)
 - survey — 11 shared paper(s)
-- quantitative — 7 shared paper(s)
 - case study — 7 shared paper(s)
+- quantitative — 7 shared paper(s)
 - benchmark — 6 shared paper(s)
 - qualitative — 6 shared paper(s)
 
@@ -311,16 +311,16 @@
 - survey — 12 shared paper(s)
 - systematic review — 9 shared paper(s)
 - quantitative — 7 shared paper(s)
-- dataset — 4 shared paper(s)
+- interview — 4 shared paper(s)
 
 ### case study
 
-- framework — 107 shared paper(s)
-- qualitative — 93 shared paper(s)
-- Ai Literacy Pedagogy — 68 shared paper(s)
+- framework — 112 shared paper(s)
+- qualitative — 95 shared paper(s)
+- Ai Literacy Pedagogy — 74 shared paper(s)
 - Learning Design — 49 shared paper(s)
 - Generative Ai Skills — 31 shared paper(s)
-- Ai Literacy Construct — 29 shared paper(s)
+- Ai Literacy Construct — 30 shared paper(s)
 - Program Evaluation — 26 shared paper(s)
 - Assessment — 25 shared paper(s)
 
